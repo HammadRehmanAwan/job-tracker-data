@@ -1,0 +1,5509 @@
+{
+ "total": 638,
+ "portal": 280,
+ "email": 350,
+ "linkedin": 8,
+ "bounced_emails": 23,
+ "confirmations": 260,
+ "rejections": 52,
+ "positives": [
+  {
+   "company": "Curation",
+   "note": "Catch-up with their Head of Product, Fri 6 Nov"
+  },
+  {
+   "company": "SalesApe",
+   "note": "Aptitude test and video interview completed"
+  },
+  {
+   "company": "City of York Council",
+   "note": "Informal call, Mon 9 Nov 12:30"
+  },
+  {
+   "company": "Sheffield City Council",
+   "note": "Rachel Labas offered an informal call about the Performance Analyst role on 6 Nov"
+  }
+ ],
+ "positive_count": 4,
+ "by_day": [
+  {
+   "date": "earlier",
+   "portal": 0,
+   "email": 17,
+   "linkedin": 0
+  },
+  {
+   "date": "2026-11-01",
+   "portal": 1,
+   "email": 0,
+   "linkedin": 0
+  },
+  {
+   "date": "2026-11-02",
+   "portal": 82,
+   "email": 79,
+   "linkedin": 0
+  },
+  {
+   "date": "2026-11-03",
+   "portal": 52,
+   "email": 85,
+   "linkedin": 0
+  },
+  {
+   "date": "2026-11-04",
+   "portal": 54,
+   "email": 51,
+   "linkedin": 0
+  },
+  {
+   "date": "2026-11-05",
+   "portal": 9,
+   "email": 70,
+   "linkedin": 0
+  },
+  {
+   "date": "2026-11-06",
+   "portal": 11,
+   "email": 48,
+   "linkedin": 0
+  },
+  {
+   "date": "2026-11-07",
+   "portal": 71,
+   "email": 0,
+   "linkedin": 8
+  }
+ ],
+ "recent": [
+  {
+   "company": "Menlo Security",
+   "role": "AI Security Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Infinity Constellation",
+   "role": "Full Stack AI Engineer (Contract-to-Hire)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fifty-Five",
+   "role": "Data Engineer (Data and AI)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "CloudFactory",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ripjar",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "MAGIC AI",
+   "role": "AI/Data Scientist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Greenvolt",
+   "role": "AI & Automation Developer (Lisbon)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "ASOS",
+   "role": "Associate Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Entain",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Version 1",
+   "role": "AI Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "RightShip",
+   "role": "AI Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "PostHog",
+   "role": "AI Research Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Cognition",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "GitLab",
+   "role": "Forward Deployed Engineer EMEA",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "IMC",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Medical University of Innsbruck",
+   "role": "PhD AI for Biomedicine MEDI-21223",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nottingham Trent University (TeamKinetic KTP)",
+   "role": "Volunteer Management Data Scientist & Software Engineer - KTP Associate",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Anaplan",
+   "role": "Data Scientist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Accurx",
+   "role": "Product Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Metaview",
+   "role": "Implementation Specialist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Affirm",
+   "role": "Software Engineer I, Early Career (London)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Genomics England",
+   "role": "Software Engineer - Python & AWS",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Validus Risk Management",
+   "role": "Python Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Castle Trust Bank",
+   "role": "Business Intelligence Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Quantcast",
+   "role": "Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Jack & Jill",
+   "role": "GTM Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Taptap Send",
+   "role": "Analytics Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Infopro Digital (Barbour ABI)",
+   "role": "Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Experian",
+   "role": "Business Intelligence & Data Engineering Analyst - FTC",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "MSX International",
+   "role": "Associate Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "TradingHub",
+   "role": "Software Engineer (Structured Data)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Mollie",
+   "role": "Analytics Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nous",
+   "role": "Operations & Automation Associate",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nous",
+   "role": "Product Builder",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "incident.io",
+   "role": "Product Operations Associate",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Primark",
+   "role": "Procurement Data & Digital Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Polar",
+   "role": "Platform Engineering",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Liberis",
+   "role": "Data Analyst - Credit Risk",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Isembard",
+   "role": "Computer Vision / ML Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Checkout.com",
+   "role": "Data Scientist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  }
+ ],
+ "applications": [
+  {
+   "company": "ComplyAdvantage",
+   "role": "Founding GTM Engineer",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Enablis",
+   "role": "Consultant Deployed AI Engineer",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cledara",
+   "role": "GTM Engineer",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Distyl AI",
+   "role": "AI Strategist",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Deliveroo",
+   "role": "Software Engineer, New Grad",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Profound",
+   "role": "Support Engineer",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "CodeRabbit",
+   "role": "Commercial Field Engineer \u2013 Pre-sales (London)",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Omnea",
+   "role": "AI Solutions Associate",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Xapien",
+   "role": "Graduate Applied Research Engineer",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Snyk",
+   "role": "Associate Implementation Consultant",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Homey",
+   "role": "Junior Software Engineer (AI-Native)",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Faculty",
+   "role": "Machine Learning Engineer",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Juro",
+   "role": "AI Engineer (Agentic)",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ankar",
+   "role": "GTM, Strategy & Delivery",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Artefact",
+   "role": "Junior Engineer",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Zego",
+   "role": "Data Scientist",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Fospha",
+   "role": "Junior Data Scientist",
+   "date": "earlier",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Menlo Security",
+   "role": "AI Security Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Infinity Constellation",
+   "role": "Full Stack AI Engineer (Contract-to-Hire)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fifty-Five",
+   "role": "Data Engineer (Data and AI)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "CloudFactory",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ripjar",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "MAGIC AI",
+   "role": "AI/Data Scientist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Greenvolt",
+   "role": "AI & Automation Developer (Lisbon)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "ASOS",
+   "role": "Associate Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Entain",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Version 1",
+   "role": "AI Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "RightShip",
+   "role": "AI Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "PostHog",
+   "role": "AI Research Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Cognition",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "GitLab",
+   "role": "Forward Deployed Engineer EMEA",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "IMC",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Medical University of Innsbruck",
+   "role": "PhD AI for Biomedicine MEDI-21223",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nottingham Trent University (TeamKinetic KTP)",
+   "role": "Volunteer Management Data Scientist & Software Engineer - KTP Associate",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Anaplan",
+   "role": "Data Scientist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Accurx",
+   "role": "Product Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Metaview",
+   "role": "Implementation Specialist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Affirm",
+   "role": "Software Engineer I, Early Career (London)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Genomics England",
+   "role": "Software Engineer - Python & AWS",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Validus Risk Management",
+   "role": "Python Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Castle Trust Bank",
+   "role": "Business Intelligence Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Quantcast",
+   "role": "Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Jack & Jill",
+   "role": "GTM Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Taptap Send",
+   "role": "Analytics Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Infopro Digital (Barbour ABI)",
+   "role": "Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Experian",
+   "role": "Business Intelligence & Data Engineering Analyst - FTC",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "MSX International",
+   "role": "Associate Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "TradingHub",
+   "role": "Software Engineer (Structured Data)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Mollie",
+   "role": "Analytics Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nous",
+   "role": "Operations & Automation Associate",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nous",
+   "role": "Product Builder",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "incident.io",
+   "role": "Product Operations Associate",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Primark",
+   "role": "Procurement Data & Digital Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Polar",
+   "role": "Platform Engineering",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Liberis",
+   "role": "Data Analyst - Credit Risk",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Isembard",
+   "role": "Computer Vision / ML Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Checkout.com",
+   "role": "Data Scientist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Celonis",
+   "role": "Applied Value Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Abound",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "encord",
+   "role": "Quant Developer in AI ",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "encord",
+   "role": "Forward Deployed Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "arq",
+   "role": "Finance Analytics Engineer | FP&A",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "isembard",
+   "role": "Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "QuantumBlack, AI by McKinsey",
+   "role": "Data Engineer - QuantumBlack, AI by McKinsey",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Telford & Wrekin Council",
+   "role": "Insight Support Officer (Technical) TW/TP/6015/3587",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nexcade",
+   "role": "Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Zego",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ultralytics",
+   "role": "Partner Solutions Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "UFORCE",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "UFORCE",
+   "role": "GTM AI Builder",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "monday.com",
+   "role": "Forward Deployed Consultant",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Gigaton",
+   "role": "Solutions Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Edra",
+   "role": "Software Engineer - Full Stack (London)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Edra",
+   "role": "AI Research Engineer (London)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Checkout.com",
+   "role": "Associate, Strategic Finance Analytics",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Granola",
+   "role": "Product Engineer (Backend)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Cognition",
+   "role": "Forward Deployed Engineer - Europe",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "CircuitHub",
+   "role": "Software Engineer, Computer Vision",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "persona",
+   "role": "Forward Deployed Engineer, UK",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "trainline",
+   "role": "Data Scientist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "trainline",
+   "role": "Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "seamflow",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "humaans",
+   "role": "Forward Deployed Engineer, Athena",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "euphoric",
+   "role": "Software Engineer (Applied AI)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "brainco",
+   "role": "AI Product Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "quantcast",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "scaleai",
+   "role": "AI Safety Residency - SLPreP",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "snowflake",
+   "role": "Commercial Solutions Engineer - Expansion",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Elio.",
+   "role": "Associate Data & Analytics Engineer",
+   "date": "2026-11-07",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4486446054"
+  },
+  {
+   "company": "Eutopia Solutions",
+   "role": "AI Systems Engineer",
+   "date": "2026-11-07",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4479413872"
+  },
+  {
+   "company": "Tata Consultancy Services",
+   "role": "Google AI FDE",
+   "date": "2026-11-07",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4486035476"
+  },
+  {
+   "company": "Coforge",
+   "role": "AI Agentic Engineer",
+   "date": "2026-11-07",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4486520415"
+  },
+  {
+   "company": "Valarian",
+   "role": "Solutions Engineer",
+   "date": "2026-11-07",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4486174392"
+  },
+  {
+   "company": "Leena AI",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-07",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487055111"
+  },
+  {
+   "company": "Cognizant",
+   "role": "AI Agentic Engineer/ Forward Deployment Engineer",
+   "date": "2026-11-07",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487287689"
+  },
+  {
+   "company": "WeArisma",
+   "role": "AI Deployment Engineer (Solutions Engineer)",
+   "date": "2026-11-07",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4486374438"
+  },
+  {
+   "company": "Our Future Health",
+   "role": "Data Engineer (NHS Data)",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Wexler",
+   "role": "AI Engineer",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nexcade",
+   "role": "AI Engineer",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "FanDuel",
+   "role": "Data Engineer",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Beauhurst",
+   "role": "Junior Web Developer",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Newcastle upon Tyne Hospitals NHS FT",
+   "role": "Business Analyst (C9317-26-0911)",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Prolific",
+   "role": "Data Engineer",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Engelhart",
+   "role": "Data Engineer, Finance",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Genomics England",
+   "role": "Data Engineer",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "CommonAI C.I.C.",
+   "role": "ML Systems Engineer, Inference Benchmarking",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "CommonAI C.I.C.",
+   "role": "Technical Analyst, AI Infrastructure and Investment",
+   "date": "2026-11-06",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Linford",
+   "role": "AI & Automation Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Sentry",
+   "role": "Software Engineer, New Grad (2027)",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Conduct",
+   "role": "Graduate Deployment Strategist",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Anaplan",
+   "role": "Data Scientist",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Beauhurst",
+   "role": "Junior Web Developer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cambridge Consultants",
+   "role": "Graduate AI Engineer (2027 start)",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "enfinium",
+   "role": "Junior AI Builder",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Humaans",
+   "role": "GTM Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Addepar",
+   "role": "Software Engineer - Customer Facing Applied AI",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Moneybox",
+   "role": "Forward Deployed Engineer (Senior AI Deployment Engineer)",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "PostHog",
+   "role": "AI Research Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ema",
+   "role": "AI Resident UK/EMEA",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Menlo Security",
+   "role": "AI Security Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Granola",
+   "role": "AI Engineer (Core Harness)",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "SalesAPE.ai",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Jack & Jill",
+   "role": "GTM Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Nance",
+   "role": "Junior AI Product Developer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Writer",
+   "role": "Software engineer, agents (UK)",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Speechmatics",
+   "role": "ML Data & Platform Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Taktile",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "9fin",
+   "role": "AI Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Celonis",
+   "role": "Deployment Engineer - London",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "G-P",
+   "role": "AI Engineer I",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Calibre",
+   "role": "Product Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "ClaimSorted",
+   "role": "Product Engineer // AI",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Travtus",
+   "role": "AI Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Seamflow",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Multiverse",
+   "role": "GTM Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Permutable AI",
+   "role": "Machine Learning Engineer - Python & LLM Systems",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Isembard",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "V7",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "CloudFactory",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Our Future Health",
+   "role": "Data Engineer (NHS Data)",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Version 1",
+   "role": "AI Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Oxa",
+   "role": "Solutions Engineer (Autonomous Vehicles)",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Lendable",
+   "role": "AI Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "EDITED",
+   "role": "Junior Data Scientist",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Edra",
+   "role": "Forward Deployed AI Engineer (London)",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "CommonAI C.I.C.",
+   "role": "ML Systems Engineer, Inference Benchmarking",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "MAGIC AI",
+   "role": "AI/Data Scientist",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Valsoft Corporation (T-Innova)",
+   "role": "Agentic Software Developer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Genomics England",
+   "role": "Software Engineer - Python & AWS",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Moneyfarm",
+   "role": "Junior Middle Office Analyst",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Infinity Constellation",
+   "role": "Full Stack AI Engineer (Contract-to-Hire)",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "DF Capital",
+   "role": "Data Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "The Voleon Group",
+   "role": "Data Scientist (London)",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ripjar",
+   "role": "Data Engineer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Greenvolt",
+   "role": "AI & Automation Developer",
+   "date": "2026-11-06",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "UK Health Security Agency (UKHSA)",
+   "role": "Data Analyst (SEO)",
+   "date": "2026-11-05",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Homes England",
+   "role": "Research Analyst",
+   "date": "2026-11-05",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2018649"
+  },
+  {
+   "company": "NHS Central East ICB",
+   "role": "Automation Developer",
+   "date": "2026-11-05",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/D9644-26-0094"
+  },
+  {
+   "company": "Public Health Wales",
+   "role": "Public Health Intelligence Analyst",
+   "date": "2026-11-05",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9028-26-0217"
+  },
+  {
+   "company": "UK Health Security Agency",
+   "role": "Data Surveillance Information Officer",
+   "date": "2026-11-05",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Rotherham Doncaster and South Humber NHS Foundation Trust",
+   "role": "Delivery Analyst",
+   "date": "2026-11-05",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nexcade",
+   "role": "AI Platform Engineer",
+   "date": "2026-11-05",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/nexcade/3495bf9f-088f-4968-ac1d-ad1975a53b76"
+  },
+  {
+   "company": "Moss",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-05",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "DeepL",
+   "role": "Software Engineer - IAM (Full-Stack)",
+   "date": "2026-11-05",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Opus Recruitment Solutions",
+   "role": "Data Scientist",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Searchability",
+   "role": "Artificial Intelligence Engineer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Recann",
+   "role": "Data Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "London School of Economics (LSE Careers)",
+   "role": "Data and Insight Assistant",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Recruit with Purpose",
+   "role": "Data Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "One Big Circle",
+   "role": "Junior Platform Software Developer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Tenth Revolution Group",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Spring Capital Partners",
+   "role": "Junior Developer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "European Tech Recruit",
+   "role": "Research Engineer - AI / ML / LLM",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cancer Research UK",
+   "role": "Power BI Reporting Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "NHS Ayrshire & Arran",
+   "role": "Information Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Babergh and Mid Suffolk District Councils",
+   "role": "Housing Business Intelligence Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "believe housing",
+   "role": "Data Engineer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "MCS Group",
+   "role": "Junior Reporting Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Fund Boards Council",
+   "role": "AI Data Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Spectrum Offshore",
+   "role": "Graduate Hydrographic Data Processor",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "International Financial Group (IFG Pensions)",
+   "role": "Citizen IT Developer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Awaze",
+   "role": "Data Scientist (Marketing)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Hawksworth",
+   "role": "AI Software Engineer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "VirtueTech Recruitment Group",
+   "role": "Python Developer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "The University of Sheffield",
+   "role": "Data and Reporting Officer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Infinigate Group",
+   "role": "Platform Data & Assurance Specialist",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "South Warwickshire University NHS Foundation Trust",
+   "role": "EMIS Data Quality Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Telford & Wrekin Council",
+   "role": "Insight Support Officer - Technical",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ofsted",
+   "role": "Higher Data Development Officer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "University of Cambridge (Public Health and Primary Care)",
+   "role": "Software Developer (Fixed Term)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Accord Healthcare",
+   "role": "Business Insights Analyst (Speciality Brands)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Birmingham City University",
+   "role": "AI Software Engineer KTP Associate",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Yorkshire Building Society",
+   "role": "AI Product Developer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Sheffield City Council",
+   "role": "Performance Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Forward Role Recruitment",
+   "role": "Marketing Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "City of York Council",
+   "role": "Project Officer / Business Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "University of Leeds",
+   "role": "Student Experience Data, Insights and Systems Officer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Gravitas Recruitment Group",
+   "role": "Energy Flexibility & Asset Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Crowder Consulting",
+   "role": "Junior DevOps Engineer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "UK Health Security Agency",
+   "role": "Data Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Future Electronics",
+   "role": "Business Report Writer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Brio Digital",
+   "role": "Python Developer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Environment Agency",
+   "role": "Estates Data & Information Officer (36460)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Water Industry Commission for Scotland",
+   "role": "Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "South London and Maudsley NHS Foundation Trust",
+   "role": "Applied Clinical Data Linkage Programme Officer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Tarmac",
+   "role": "Master Data Steward",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Asda",
+   "role": "Experimentation & Optimisation Coordinator",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Arriva Group",
+   "role": "Digital & Innovation Graduate - Rail Services",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "MRG (for London South Bank University)",
+   "role": "Estates Data Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Public Health Wales",
+   "role": "Advanced Data Scientist",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "NHS Central East ICB",
+   "role": "Automation Developer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "NHS Blood and Transplant",
+   "role": "Digital Developer - Azure",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "InHealth Group",
+   "role": "Data Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "The Mid Yorkshire Teaching NHS Trust",
+   "role": "Robotic Process Automation (RPA) Developer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "NHS Bristol, North Somerset and South Gloucestershire ICB",
+   "role": "Data Scientist",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Velindre University NHS Trust",
+   "role": "Advanced Data Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Nottinghamshire Healthcare NHS Foundation Trust",
+   "role": "IMPACT Performance Officer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Royal Devon University Healthcare NHS Foundation Trust",
+   "role": "Application Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Leeds Teaching Hospitals NHS Trust",
+   "role": "Test Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "East Coast Community Healthcare CIC",
+   "role": "Business Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Albert",
+   "role": "New Grad Engineer (AI)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Bottle (Digital PR Agency)",
+   "role": "Data & Insights Executive",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "FIND | Creating Futures",
+   "role": "AI Automation Coach",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Amtis - Digital, Technology, Transformation",
+   "role": "Business Analyst (Chester)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "University College London Hospitals NHS Foundation Trust",
+   "role": "Electronic Health Records (EHR) System Analyst / Designer",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Central and North West London NHS Foundation Trust",
+   "role": "Digital Business Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Kite Packaging",
+   "role": "Graduate PPC Data Analyst",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Roc Search",
+   "role": "Full Stack Developer - AI & Software Architecture (Bristol)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Investigo",
+   "role": "Data Scientist (Derby)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cortech Talent Solutions Ltd",
+   "role": "Full Stack Engineer (Glasgow)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "MBN Solutions",
+   "role": "Forward Deployed Engineer - AI Agents",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Spectrum IT Recruitment",
+   "role": "Quantitative Analyst (City of London)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Earl",
+   "role": "AI product engineer (fixed term, London)",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Kinxshn",
+   "role": "Forward Deployed Engineer (backend, Python), Remote Europe",
+   "date": "2026-11-05",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "EDITED",
+   "role": "Junior Data Scientist",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/edited/0c669cd9-57fb-4021-bb86-628b04ab4da7"
+  },
+  {
+   "company": "Harvey",
+   "role": "Research Engineer / Scientist, Data & Evals",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/harvey/6708bb0c-e466-44e4-a992-486ad3300fd6"
+  },
+  {
+   "company": "Wordsmith",
+   "role": "Deployed Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/wordsmith/a464d9b5-438e-457b-be29-2f2cd1c0999c"
+  },
+  {
+   "company": "ClaimSorted",
+   "role": "Product Engineer // AI",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/claimsorted/4534e326-06b7-4cc7-8385-cce56e6113f2"
+  },
+  {
+   "company": "Liberis",
+   "role": "Forward Deployed Software Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/liberis/jobs/8331071"
+  },
+  {
+   "company": "DV Trading LLC",
+   "role": "Graduate Software Engineer (DV Commodities)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4742955005"
+  },
+  {
+   "company": "Hilbert",
+   "role": "Delivery Engineer, ML, EMEA",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4485750884"
+  },
+  {
+   "company": "Hilbert",
+   "role": "Delivery Engineer, Data, EMEA",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4485774102"
+  },
+  {
+   "company": "V7",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4486841927"
+  },
+  {
+   "company": "SalesAPE.ai",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4485311637"
+  },
+  {
+   "company": "Faversham House",
+   "role": "Data & AI Automation Trainee",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4486196752"
+  },
+  {
+   "company": "WPP",
+   "role": "Forward Deployed Engineer (Agentic & Eco-System)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/wpp/jobs/8788672002"
+  },
+  {
+   "company": "Aries Global",
+   "role": "Data Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ariesglobal/24e4c2e6-da89-4f00-9be9-19fccb06e84c"
+  },
+  {
+   "company": "Aries Global",
+   "role": "Software Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ariesglobal/d22272f0-9868-4b11-84c2-e1138f6e3f34"
+  },
+  {
+   "company": "ARQ",
+   "role": "Platform Analytics Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/arq/0e1b37cb-7344-42c2-b655-5dacc55e1560"
+  },
+  {
+   "company": "fonio",
+   "role": "Forward Deployed Engineer UK",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ultralytics",
+   "role": "Solutions Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ultralytics/79bdeccf-b246-4c21-a893-7e0f4f8d7b20"
+  },
+  {
+   "company": "LMAX",
+   "role": "Junior Software Developer (Java)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/lmax/j/572A2F5CB1/"
+  },
+  {
+   "company": "Signal AI",
+   "role": "Analytics Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/signal-ai/d3e4b7ec-2e6e-4b85-82e6-84bdc731b340"
+  },
+  {
+   "company": "CUBE",
+   "role": "Data Analyst",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cube/b2136230-576d-4b8c-967c-a9f71f04a86f"
+  },
+  {
+   "company": "Pleo",
+   "role": "Analytics Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/pleo/6896e33f-b8ee-420d-b321-67df9219b9a1"
+  },
+  {
+   "company": "Kaluza",
+   "role": "Software Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/kaluza/5ef79ceb-c6eb-4d46-abca-ddb532cf8739"
+  },
+  {
+   "company": "Landbay",
+   "role": "Junior BI Analyst / Data Analytics Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.landbay.co.uk/careers/jobs?gh_jid=8005116003"
+  },
+  {
+   "company": "Optima Partners",
+   "role": "Data Engineer (early career)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.optimapartners.co.uk/jobs/8631853-data-engineer-early-career"
+  },
+  {
+   "company": "Iconic Interactive",
+   "role": "Software Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://ats.rippling.com/iconic/jobs/995b8ef4-0b6e-4883-a791-39bd03e5dcd6"
+  },
+  {
+   "company": "Neo4j",
+   "role": "Software Engineer - Graph Analytics",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://boards.greenhouse.io/neo4j/jobs/4721378006"
+  },
+  {
+   "company": "Form3",
+   "role": "Reporting & Data Analyst (6-Month FTC)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/form3/jobs/8885575002"
+  },
+  {
+   "company": "Thought Machine",
+   "role": "Forward Deployed Engineer - Infrastructure",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/thought-machine/92f38da6-3192-4cef-b88c-f05e9dcd752d"
+  },
+  {
+   "company": "Gigaton",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/gigaton/53ce7fe3-b521-4ba0-ab1a-927525345754"
+  },
+  {
+   "company": "Xelix",
+   "role": "AI Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.xelix.com/jobs/8474592-ai-engineer"
+  },
+  {
+   "company": "Dynamo AI",
+   "role": "Forward Deployed Strategist",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://ats.rippling.com/dynamo-ai/jobs/679068bb-005f-4bf6-9fed-8bfb68b9e157"
+  },
+  {
+   "company": "Huawei R&D UK",
+   "role": "Agent Data Management Researcher (PAYE Contractor)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://huaweiuk.teamtailor.com/jobs/8585834-agent-data-management-researcher-paye-contractor"
+  },
+  {
+   "company": "Qureight",
+   "role": "AI Integration Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/1CB3B5FA60"
+  },
+  {
+   "company": "Navan",
+   "role": "Junior Backend Software Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4486423129"
+  },
+  {
+   "company": "WRITER",
+   "role": "AI engineer (UK)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Distyl AI",
+   "role": "AI Engineer, UK",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Lovable",
+   "role": "Analytics Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Anthropic",
+   "role": "Applied AI Engineer, Beneficial Deployments (Lab Automation)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Anthropic",
+   "role": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fin (Intercom)",
+   "role": "Forward Deployed Data Scientist",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/intercom/jobs/8245700"
+  },
+  {
+   "company": "Deliveroo",
+   "role": "Software Engineer, Operational Excellence",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Deliveroo",
+   "role": "Operations Planning & Insights Associate",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Snowflake",
+   "role": "Associate Solution Engineer (London)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Supabase",
+   "role": "FinOps Data Engineer (Remote Global)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Resonance",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Motorway",
+   "role": "Business Operations Associate (London)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fospha",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fospha",
+   "role": "Graduate Data Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "n8n",
+   "role": "Forward Deployed Engineer - EMEA",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Kong",
+   "role": "Forward Deployed Engineer AI Gateway EMEA (UK)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Snowflake",
+   "role": "Commercial Solution Engineer - Acquisition (London)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "GoCardless",
+   "role": "Solution Engineer II (Leeds)",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Cambridge University Hospitals NHS FT",
+   "role": "Digital Systems Analyst",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "East London NHS FT",
+   "role": "Trainee Data Engineer",
+   "date": "2026-11-04",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Liberis",
+   "role": "Forward Deployed Software Engineer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Mind Foundry",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Condukt",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Quantum",
+   "role": "Junior Commercial Insights Analyst",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Durlston Partners",
+   "role": "AI Engineer, Agentic Systems",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "University of Bath",
+   "role": "KTP Associate: Machine Learning/Computational Modelling Engineer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Aon",
+   "role": "Graduate Programme 2027 - Catastrophe Modelling",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "WANO",
+   "role": "Junior Developer/Junior Data Scientist",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "NES Fircroft",
+   "role": "Junior AI Engineer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Dark Cloud Games",
+   "role": "Vibe Coder - AI Developer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Deloitte Switzerland",
+   "role": "AI Agent Builder - Graduate Opportunity",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cambi",
+   "role": "Business AI Engineer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Kleboe Jardine",
+   "role": "Junior Data Analyst (Entry level)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Nottingham Trent University",
+   "role": "KTP Associate: Volunteer Management Data Scientist & Software Engineer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Oxford University Hospitals",
+   "role": "Data and Systems Analyst",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "East London NHS Foundation Trust",
+   "role": "Trainee Data Engineer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cambridge University Hospitals",
+   "role": "Data and AI Research Governance Coordinator",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Norfolk and Suffolk NHS Foundation Trust",
+   "role": "Business Intelligence Analyst",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Birmingham and Solihull Mental Health NHS Foundation Trust",
+   "role": "Reporting Analyst",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Dorset HealthCare",
+   "role": "Business Analyst",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Rotherham Doncaster and South Humber NHS FT",
+   "role": "Delivery Analyst",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "NHS Business Services Authority",
+   "role": "Portfolio Performance and Insight Specialist",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Dirac Trading Group",
+   "role": "GTM Engineer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Acorn Group",
+   "role": "AI Engineer - Fraud",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "hyperexponential",
+   "role": "People Operations Associate (AI and Automation)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Neural Concept",
+   "role": "AI Workflows Engineer - UK",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Weframe",
+   "role": "Junior Forward Deployed Engineer",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Fractal",
+   "role": "AI engineer / analytics (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Sensat",
+   "role": "AI/data engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Graphcore",
+   "role": "AI/ML engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Adarga",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Mesh-AI",
+   "role": "AI/data engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Mindtrace",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Luminance",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Quantexa",
+   "role": "AI/data engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Secondmind",
+   "role": "ML engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Intellegens",
+   "role": "ML engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Oxford Semantic Technologies",
+   "role": "Software/AI engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Vortexa",
+   "role": "Data/AI engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Codat",
+   "role": "AI/software engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "The Data Lab",
+   "role": "Data/AI role (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Vespertec",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Data Science Talent",
+   "role": "AI/data candidate introduction",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Softwire",
+   "role": "Graduate/junior software or AI engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Healx",
+   "role": "ML/data engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Accurx",
+   "role": "AI/data engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ocado Retail",
+   "role": "Data/AI role (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Tokamak Energy",
+   "role": "Data/AI engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Weaviate",
+   "role": "Applied AI / solutions engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Tata Consultancy Services",
+   "role": "Google AI FDE",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Spaceforge",
+   "role": "Data/AI engineer (speculative)",
+   "date": "2026-11-04",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Permutable AI",
+   "role": "Machine Learning Engineer - Python & LLM Systems",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/permutable/j/4DDD931881/apply/"
+  },
+  {
+   "company": "Sierra",
+   "role": "Strategist, Agent Development",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sierra/548eccd8-85c7-4cfa-a145-1c6ba5c17dc2/application"
+  },
+  {
+   "company": "Fireworks AI",
+   "role": "AI Deployment Strategist (EMEA)",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/fireworks/ee05e8a5-a7b8-41bf-9e7b-fdb1dc6e6bcb/application"
+  },
+  {
+   "company": "Wayve",
+   "role": "Software Engineer, AI Libraries",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/wayve/82f389e1-b856-4157-ab24-f83f467329e5"
+  },
+  {
+   "company": "Plaid",
+   "role": "Implementation Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/plaid/85cb9977-7c85-4ce7-b3ba-383ecf37d09a/application"
+  },
+  {
+   "company": "Cinder",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cinder/6f396cdb-f89b-4f41-a0c2-8b316a3509ef/application"
+  },
+  {
+   "company": "OpenAI",
+   "role": "Applied AI Engineer, Digital Natives (Paris)",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/openai/112e34f2-45da-4a08-adf4-cc29398938df"
+  },
+  {
+   "company": "Dojo",
+   "role": "Data Scientist",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.dojo.careers/jobs/4942361101/?gh_jid=4942361101"
+  },
+  {
+   "company": "Oxa",
+   "role": "Solutions Engineer (Autonomous Vehicles)",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/oxa/a704780e-569c-4d45-8942-1691e2674947"
+  },
+  {
+   "company": "Marshmallow",
+   "role": "Junior Pricing Data Scientist",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/marshmallow/99c302d4-2772-4e23-bc03-55bfea905f66/application"
+  },
+  {
+   "company": "Marshmallow",
+   "role": "Data Scientist (Credit) - Car Finance",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/marshmallow/c316bf98-6f62-43be-914b-b96f486e08ce/application"
+  },
+  {
+   "company": "Lovable",
+   "role": "Data Scientist, Growth",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lovable/f7ffd722-a5bc-4229-9a9f-1d2c952dd7ba/application"
+  },
+  {
+   "company": "Celonis",
+   "role": "Applied Value Engineer - AI and Value Transformation Consultant",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/celonis/jobs/8067893003"
+  },
+  {
+   "company": "Fifty One Degrees (51D)",
+   "role": "AI Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/51d/99363fb1-e6f9-4328-8f70-6ae1bddbfd45/application"
+  },
+  {
+   "company": "Rig",
+   "role": "Founding Forward-Deployed Engineer (Junior / Mid-level)",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://rig.so/careers/founding-fde"
+  },
+  {
+   "company": "Taktile",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/taktile/594e7ab1-3c77-43b5-be3f-bc30d513c14c/application"
+  },
+  {
+   "company": "Celonis",
+   "role": "AI and Value Transformation Consultant",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/celonis/jobs/7742474003"
+  },
+  {
+   "company": "Solve Intelligence",
+   "role": "AI Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/solveintelligence/972bab7a-a285-4d22-af00-9ff9d3e41776/application"
+  },
+  {
+   "company": "Searchability",
+   "role": "Product / AI Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://searchability.co.uk/job/product-ai-engineer/"
+  },
+  {
+   "company": "Exa",
+   "role": "Forward Deployed Engineer, EMEA",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/exa/234bf118-672a-45d1-a4a2-02065d1c02f0/application"
+  },
+  {
+   "company": "Mistral AI",
+   "role": "Applied AI, Forward Deployed Machine Learning Engineer - London",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/mistral.ai/4c57adc5-5beb-49d2-9202-1db0807b9cb7/application"
+  },
+  {
+   "company": "Moneybox",
+   "role": "Forward Deployed Engineer (Senior AI Deployment Engineer)",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/moneybox/a0e507ff-aad1-4308-9e8b-df8ba8747469/application"
+  },
+  {
+   "company": "OpenAI",
+   "role": "Forward Deployed Engineer, London",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283"
+  },
+  {
+   "company": "OpenAI",
+   "role": "Applied AI Engineer, Startups (Codex), London",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/openai/840963bb-7b1a-4021-91a0-40baf71b7e20"
+  },
+  {
+   "company": "Anthropic",
+   "role": "Applied AI Engineer, Startups, London",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/anthropic/jobs/5432575008"
+  },
+  {
+   "company": "Databricks",
+   "role": "Forward Deployed Engineer, London",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8921476002"
+  },
+  {
+   "company": "Goji",
+   "role": "Solutions Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/goji-investments-1/j/6CE66ACD7F/"
+  },
+  {
+   "company": "Square Enix",
+   "role": "AI Integrations & Automation Specialist",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/square-enix/j/2B547C6C9A/"
+  },
+  {
+   "company": "Seamflow",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/seamflow/072e72dc-09ac-4823-a20c-717f0651fab7"
+  },
+  {
+   "company": "The Voleon Group",
+   "role": "Data Scientist (London)",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/voleon/5c966855-af8b-4bf5-9f58-6701e1cc2238"
+  },
+  {
+   "company": "forgd",
+   "role": "Forward Deployed Engineer (FDE): United Kingdom",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/forgd-ai/8486279f-7447-47c1-9045-9ed23b041362"
+  },
+  {
+   "company": "Travtus",
+   "role": "AI Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://travtus.teamtailor.com/jobs/7777110-ai-engineer"
+  },
+  {
+   "company": "Geomiq",
+   "role": "AI Automation Engineer (Senior)",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://geomiq.teamtailor.com/jobs/8167531-ai-automation-engineer"
+  },
+  {
+   "company": "Runpod",
+   "role": "Forward Deployed Engineer EMEA",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/runpod/d9eca07a-a35b-4c31-8d8f-a243f05014ad"
+  },
+  {
+   "company": "IFS Nexus Black",
+   "role": "AI Engineer (UK)",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ifsnexusblack/6598027e-e3db-4f75-be62-65341a27aa17"
+  },
+  {
+   "company": "loveholidays",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/loveholidays/10ba54b7-8c04-455b-b7e9-287202e448e9"
+  },
+  {
+   "company": "Orbital Industries",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/orbitalindustries/f61de282-ee9a-4849-a0de-6c9f13328bf7"
+  },
+  {
+   "company": "Teya",
+   "role": "Data Scientist",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/teya/ee402538-d23e-47b8-8da8-69e6b1d35e1a"
+  },
+  {
+   "company": "Calibre",
+   "role": "Product Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/calibre/9aeec43d-920b-41d5-a70c-fccfa1f4a839"
+  },
+  {
+   "company": "Brain Co.",
+   "role": "Machine Learning Engineer, Applied AI",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/brainco/6bf3cc51-2715-439a-b4b5-7533fe5d6569"
+  },
+  {
+   "company": "CircuitHub",
+   "role": "Software Engineer, Applied AI",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/circuithub/52a918be-07d1-4211-89ca-ed2d4b7a61c5"
+  },
+  {
+   "company": "Founders Factory",
+   "role": "AI Software Engineer - Project Tricorder",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/founders-factory/a0fd9952-003e-494e-b88e-d91bf05e8c6b"
+  },
+  {
+   "company": "iwoca",
+   "role": "Applied AI Engineer - Direct Acquisition",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/iwoca.co.uk/ef47521d-08d9-40a1-9b2f-dde50c6b0344"
+  },
+  {
+   "company": "Ably",
+   "role": "GTM Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/ably30/jobs/4958779101"
+  },
+  {
+   "company": "G-P",
+   "role": "AI Engineer I",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/globalizationpartners/jobs/8034413003"
+  },
+  {
+   "company": "Murphy",
+   "role": "Forward Deployed Engineer, Mid-Market - London",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.getmurphy.ai/jobs/8646813-forward-deployed-engineer-mid-market-london"
+  },
+  {
+   "company": "Runware",
+   "role": "GTM Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/runware/j/875170E9F0/"
+  },
+  {
+   "company": "Snowplow",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://snowplow.careers.hibob.com/jobs/bed846f2-3702-4117-b35d-c77c3177897e"
+  },
+  {
+   "company": "Kroo",
+   "role": "Data Scientist",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/697C1D0A62/apply"
+  },
+  {
+   "company": "Cambridge Consultants",
+   "role": "Graduate AI Engineer (2027 start)",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995814101"
+  },
+  {
+   "company": "Neural Concept",
+   "role": "AI Workflows Engineer - UK",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/neuralconcept/542981f4-1c6b-4e03-bfb9-cea8f0d74485"
+  },
+  {
+   "company": "Graphcore",
+   "role": "Graduate Machine Learning Engineer 2027",
+   "date": "2026-11-03",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/graphcore/jobs/8894041002"
+  },
+  {
+   "company": "NP Tech Solutions",
+   "role": "Junior AI Engineer (London, hybrid)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Wave Talent",
+   "role": "Candidate (Applied / Forward Deployed AI Engineer)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Fred & Co Recruitment",
+   "role": "AI Engineers (London)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Revive Recruitment",
+   "role": "Candidate (AI / Forward Deployed engineering)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Seed63",
+   "role": "Candidate registration (Tech)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Quantis Talent",
+   "role": "Candidate enquiry (AI & Machine Learning)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "RedTech Recruitment",
+   "role": "Candidate (AI & Machine Learning / Software)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Pearson Carter",
+   "role": "Candidate registration (Technology)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Stott and May",
+   "role": "Candidate registration (AI & Machine Learning)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "OHO Group",
+   "role": "Candidate registration (Technology / AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Montash",
+   "role": "Candidate registration (Technology / AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Client Server",
+   "role": "Candidate registration (Software / AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "WORK-SELF",
+   "role": "Founding Engineer (Implementation Specialist)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Elite X Recruit",
+   "role": "Candidate registration (AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "3R Global Talent",
+   "role": "Candidate registration (AI & ML)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "ARC IT Recruitment",
+   "role": "AI Professionals - All Levels (Graduate to Director)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Hexwired",
+   "role": "Candidate registration (Machine Learning & AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Langley James",
+   "role": "Candidate registration (AI Engineer / Automation)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Nova Hunte",
+   "role": "Candidate registration (Tech / AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Xpertise Recruitment",
+   "role": "Candidate registration (Analytics, Data, AI & ML)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Prompt Recruiting",
+   "role": "Candidate registration (ML / AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Interface Recruitment",
+   "role": "Candidate registration (Technology)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Technology Boutique",
+   "role": "Candidate registration (AI / ML)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Eastnets",
+   "role": "Junior Data Scientist (UK)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Voxly Digital",
+   "role": "Full Stack AI Software Engineer (Junior / Mid)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cassette",
+   "role": "AI Developer (Remote)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "RPO Consulting",
+   "role": "Candidate registration (AI / Technology)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "InfraView",
+   "role": "Candidate registration (AI / Data)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Obengs",
+   "role": "Speculative application (AI engineering)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Complia",
+   "role": "Speculative application (ML / Systems Engineer)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Curation Connect",
+   "role": "AI Engineer (London)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Talent Locker",
+   "role": "Candidate registration (AI / Tech)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Harrington Starr",
+   "role": "Candidate registration (FinTech data & AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Softweb Resourcing",
+   "role": "Candidate registration (AI / ML)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Agix Technologies",
+   "role": "Workflow Automation Engineer (AI + n8n / Make / Zapier)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Matta",
+   "role": "Speculative application (AI engineering, London)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Oliver Bernard",
+   "role": "AI Engineer (London, remote-first SaaS)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Frontera Search",
+   "role": "Candidate registration (Deep Tech / AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Robert Half",
+   "role": "Full Stack Engineer - AI/RAG (City of London)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Electric Twin",
+   "role": "Speculative application (AI engineering)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "AgileRL",
+   "role": "Speculative application (engineering)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Swiftra",
+   "role": "AI/ML Engineer (candidate CV)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "AND Technology Research",
+   "role": "Speculative application (software / AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Brightstem Graduates",
+   "role": "Graduate candidate registration (AI / software)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "HaloNinjas",
+   "role": "Speculative application (AI engineer)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Xist4",
+   "role": "Candidate registration (AI / ML)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Acclero",
+   "role": "Forward Deployed Engineer talent application",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ensemble Partners",
+   "role": "Candidate introduction (AI engineering)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "flowio",
+   "role": "Speculative application (automation / AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Velansys",
+   "role": "Junior AI Engineer (UK, remote)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Mayfair Studio",
+   "role": "Speculative application (AI engineering)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Re:course",
+   "role": "Speculative application (AI / software)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Curvo",
+   "role": "Speculative application (AI engineering)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "SENQIVO",
+   "role": "Candidate introduction (Applied AI / FDE)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "DeepRec.ai",
+   "role": "Candidate registration (AI / ML)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Plexe",
+   "role": "Speculative application (forward deployed AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "OpenKit",
+   "role": "Forward Deployed Engineer (Applied AI)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "AutoThink Group",
+   "role": "AI Automation Engineer",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Enigma",
+   "role": "Candidate introduction (AI engineering / FDE)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Transparent Tech",
+   "role": "Candidate registration (AI engineer)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "ADEL",
+   "role": "Forward Deployed Engineer (London)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Precica",
+   "role": "Machine Learning Engineer (Manchester)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "EntroMetrix",
+   "role": "Machine Learning Engineer (London)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Continuous Intelligence",
+   "role": "Speculative application (ML engineering)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Coforge",
+   "role": "Forward Deployed Graduate Engineer (Momentuum)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Chelsea AI Ventures",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Fuzzy Labs",
+   "role": "AI/MLOps engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Datasparq",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "AIM Talent",
+   "role": "AI candidate registration",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Initialize IT",
+   "role": "IT/AI candidate registration",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "ARM",
+   "role": "AI candidate registration",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Rule Recruitment",
+   "role": "tech candidate registration",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Black Swan Data",
+   "role": "AI/data engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "AI Build Group",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Achiral AI",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Satalia",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Norven",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "HyperNym",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Aiimi",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Rockborne",
+   "role": "Data & AI consultant programme",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ocho People",
+   "role": "AI engineer (speculative)",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "myDataValue",
+   "role": "Founding Product Engineer",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "CircuitHub",
+   "role": "Software Engineer, Applied AI",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Applied AI Engineer - Direct Acquisition",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ably",
+   "role": "GTM Engineer",
+   "date": "2026-11-03",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Linford",
+   "role": "AI & Automation Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://linford.io/careers/ai-automation-engineer"
+  },
+  {
+   "company": "ElevenLabs",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ElevenLabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef"
+  },
+  {
+   "company": "ComplyAdvantage",
+   "role": "Founding GTM Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://complyadvantage.com/careers/jobs/8902109002?gh_jid=8902109002"
+  },
+  {
+   "company": "Enablis",
+   "role": "Consultant Deployed AI Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://enablis.co/careers/consultant-deployed-ai-engineer#apply"
+  },
+  {
+   "company": "Ema",
+   "role": "AI Resident UK/EMEA",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ema/c6ec72b0-dce1-422c-895f-9f22c4762a76/application"
+  },
+  {
+   "company": "Ema",
+   "role": "Forward Deployed Builder",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ema/b6114740-f6a9-4d98-8d2c-6c6017ba9417"
+  },
+  {
+   "company": "hyperexponential",
+   "role": "People Operations Associate (AI and Automation)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hyperexponential/69e76c43-b953-4037-bd71-2946e873f0f4"
+  },
+  {
+   "company": "Cogna",
+   "role": "Deployment Strategist",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/cogna/j/EF96E88B95/apply/"
+  },
+  {
+   "company": "Humaans",
+   "role": "GTM Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/humaans/68c20a52-7825-4866-bf8d-480c9b468b15/application"
+  },
+  {
+   "company": "Cognition",
+   "role": "Forward Deployed Engineer \u2013 Europe",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cognition/818e3c35-d25b-4aec-a9e1-23cc8328d19c/application"
+  },
+  {
+   "company": "Fuse Energy",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/fuseenergy/j/64F3A20A10/apply/"
+  },
+  {
+   "company": "Eloquent AI",
+   "role": "AI Engineer, London",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/eloquentai/b636810c-e01b-4f9b-8aed-9a0856fee42e/application"
+  },
+  {
+   "company": "GitLab",
+   "role": "Backend Engineer (Python), AI Engineering: Agent Foundations",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002"
+  },
+  {
+   "company": "Distyl AI",
+   "role": "AI Strategist",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/distyl/d6703c85-b399-475b-8bf7-d40c7b50ad39/application"
+  },
+  {
+   "company": "Wayflyer",
+   "role": "GTM Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/wayflyer/37f76daf-0f83-4ec8-be9f-3ddd833458e3/application"
+  },
+  {
+   "company": "Plain",
+   "role": "Product Engineer (Full Stack)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/plain/11251278-77a8-475a-afa6-aa62e0a2a1df/application"
+  },
+  {
+   "company": "Scale AI",
+   "role": "GTM Business Operations Associate",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/scaleai/jobs/4717574005"
+  },
+  {
+   "company": "Deliveroo",
+   "role": "Software Engineer, New Grad",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8202627"
+  },
+  {
+   "company": "Profound",
+   "role": "Support Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/profound/66ff240e-3133-4020-9b2e-ece06a3a94b1/application"
+  },
+  {
+   "company": "CodeRabbit",
+   "role": "Commercial Field Engineer \u2013 Pre-sales (London)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/coderabbit/3d3ad9d4-c348-46dd-8081-79f3d705b7d4/application"
+  },
+  {
+   "company": "Drata",
+   "role": "Sales Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/drata/c5d24acf-cdd4-424f-833c-6903e7610938/application"
+  },
+  {
+   "company": "Cledara",
+   "role": "GTM Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/cledara/j/A367E62D76/apply/"
+  },
+  {
+   "company": "Omnea",
+   "role": "AI Solutions Associate",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/omnea/d32cb49c-6dfe-4d61-992e-c6304a3e9750/application"
+  },
+  {
+   "company": "Lovable",
+   "role": "Data Scientist, Agent",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lovable/a1e49a18-7533-450f-b760-cef337f2f9e3"
+  },
+  {
+   "company": "Encord",
+   "role": "Solutions Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/encord/ee007dcc-6ef6-4f4b-b247-cd1762e5d355/application"
+  },
+  {
+   "company": "Xapien",
+   "role": "Graduate Applied Research Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/xapien/e26295dd-2401-4497-af02-ea30c173f0eb/application"
+  },
+  {
+   "company": "Euphoric",
+   "role": "Forward-Deployed AI Product Associate",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/euphoric/183a3d36-f4b8-49da-91e2-c17a621ad287/application"
+  },
+  {
+   "company": "Isembard",
+   "role": "Forward Deployed Engineer (page showed Dallas TX - check)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Snyk",
+   "role": "Associate Implementation Consultant",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Snyk/852c2e7e-e28b-4ed2-86c5-698bc5829e15"
+  },
+  {
+   "company": "Homey",
+   "role": "Junior Software Engineer (AI-Native)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/50DF9B3D53/apply/"
+  },
+  {
+   "company": "Helsing",
+   "role": "Deployed AI Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/helsing/jobs/4516967101"
+  },
+  {
+   "company": "Abound",
+   "role": "Product Associate",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/abound/dfe15080-f428-4053-ac93-0a1a769634a1/application"
+  },
+  {
+   "company": "Conduct",
+   "role": "Graduate Deployment Strategist",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/conduct/aa467be6-6e59-45f9-93dc-13bfc003aa02/application"
+  },
+  {
+   "company": "Persona",
+   "role": "Field Product Engineer, UK",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Persona/ab1ab71f-1793-4b36-aeab-4bccb7fa8fcd/application"
+  },
+  {
+   "company": "Frontier Health",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/frontier-health/665f23d1-ae6e-4695-b989-3b59fed88903/application"
+  },
+  {
+   "company": "Delfa",
+   "role": "Founding Deployed Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/delfa/60136600-fb64-4a30-8632-c80304b139b5/application"
+  },
+  {
+   "company": "Edra",
+   "role": "Forward Deployed AI Engineer (London)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/edra/0fef2ffb-398b-4e95-b4fc-1150d9affbc0/application"
+  },
+  {
+   "company": "Multiverse",
+   "role": "GTM Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/multiverse/9aef77c9-0b58-4947-8004-fc9ce809c70a"
+  },
+  {
+   "company": "Juro",
+   "role": "AI Engineer (Agentic)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/juro/572a6fb9-7a31-455f-a701-ab6dd8598f66/application"
+  },
+  {
+   "company": "Ankar",
+   "role": "GTM, Strategy & Delivery",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ankar/b9452b71-d754-4c1c-938e-461340736b02/application"
+  },
+  {
+   "company": "Artefact",
+   "role": "Junior Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/artefact/jobs/8421835002"
+  },
+  {
+   "company": "Lendable",
+   "role": "AI Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lendable/a89f244b-b8de-4dbd-9d58-0dcc8e80aa2f/application"
+  },
+  {
+   "company": "Permutable AI",
+   "role": "ML Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Trainline",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/trainline/7c9c4568-4b40-4f55-b4f4-d186d9053203/application"
+  },
+  {
+   "company": "Stripe",
+   "role": "Software Engineer, New Grad",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://stripe.com/careers/listing/software-engineer-new-grad/8130930?gh_jid=8130930"
+  },
+  {
+   "company": "Lindus Health",
+   "role": "Clinical Systems Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lindus/0deeb4b4-c8ce-48bf-95b0-a09585ddf808/application"
+  },
+  {
+   "company": "Zego",
+   "role": "Data Scientist",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/zego/aea14f06-fe74-46c8-aa0f-1827f762412c"
+  },
+  {
+   "company": "Faculty",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/faculty/ddaee792-5e2b-4f87-aa60-761798762de5"
+  },
+  {
+   "company": "Fospha",
+   "role": "Junior Data Scientist",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8143897"
+  },
+  {
+   "company": "Atominvest",
+   "role": "Graduate Technical Product Analyst (form requires permanent RTW)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "enfinium",
+   "role": "Junior AI Builder",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nance",
+   "role": "Junior AI Product Developer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Sentry",
+   "role": "Software Engineer, New Grad (2027)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Brainbase Labs",
+   "role": "Forward Deployed Engineer, EMEA",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "OpenAI",
+   "role": "Applied AI Engineer, Codex (Paris)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/openai/21ee6dd3-dcd0-425a-91e9-34a23ab3e434"
+  },
+  {
+   "company": "Smartcat",
+   "role": "Forward Deployed Engineer (EMEA)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.smartcat.com/career/?gh_jid=5998470004"
+  },
+  {
+   "company": "Mastra",
+   "role": "AI Engineer (Remote)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/mastra/531a3fe8-556f-4b83-bee7-20374f67f980"
+  },
+  {
+   "company": "ClickHouse",
+   "role": "Machine Learning Engineer (UK)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/clickhouse/fe8430ad-2150-4838-ae36-535aa659b389"
+  },
+  {
+   "company": "Clera",
+   "role": "Forward Deployed Engineer (Berlin)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/clera/d68a52d1-3c6c-4752-86ea-05c72985145b"
+  },
+  {
+   "company": "Speechify",
+   "role": "Software Engineer, AI Data - London (Remote)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/speechify/jobs/6229028004"
+  },
+  {
+   "company": "Redpanda Data",
+   "role": "Forward Deployed Engineer - EMEA (UK - Remote)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/redpanda-data/4278ebff-90e1-440e-b11b-c194de284640"
+  },
+  {
+   "company": "Anthropic",
+   "role": "Applied AI Engineer, Enterprise (Paris)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008"
+  },
+  {
+   "company": "Anthropic",
+   "role": "Applied AI Engineer, Enterprise (Munich)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008"
+  },
+  {
+   "company": "Limbic",
+   "role": "AI/ML Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/limbic/ad4119e3-9b3b-468f-bb3b-0b7712fb77b4/application"
+  },
+  {
+   "company": "Granola",
+   "role": "AI Engineer (Core Harness)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/granola/ed52eb55-cb81-4ed8-b97b-92b477876f9e"
+  },
+  {
+   "company": "9fin",
+   "role": "AI Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/9fin/72764c55-33d0-4f03-bb39-f8ca8af5eb16/application"
+  },
+  {
+   "company": "Sequence",
+   "role": "AI Engineer - London",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sequence/2b03f289-263b-4f2d-92b2-bed646e0bc25/application"
+  },
+  {
+   "company": "Cohere",
+   "role": "Forward Deployed Engineer, Agentic Platform (Europe)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0"
+  },
+  {
+   "company": "Hyde",
+   "role": "AI Builder (London)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hyde/c62abd66-86b3-4ec5-a9cd-a6133b61fe5e/application"
+  },
+  {
+   "company": "Addepar",
+   "role": "Software Engineer - Customer Facing Applied AI",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/addepar1/jobs/8891897002"
+  },
+  {
+   "company": "UFORCE",
+   "role": "AI Specialist",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/uforce/aaeb3d97-0c99-48ec-b1b5-ef3cdbf63e8f/application"
+  },
+  {
+   "company": "Capital on Tap",
+   "role": "AI Specialist",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/capitalontap/jobs/8895613002"
+  },
+  {
+   "company": "Writer",
+   "role": "Software engineer, agents (UK)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/WRITER/19ebb038-e398-4a45-b40b-53333d534777"
+  },
+  {
+   "company": "Writer",
+   "role": "Software engineer, generative AI (UK)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/writer/6dc00567-153d-4b42-821c-412569c2c04e/application"
+  },
+  {
+   "company": "Fireworks AI",
+   "role": "Applied Machine Learning Engineer, EMEA",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/fireworks/e5a9746e-49ac-407f-b953-5cf3c08a7802/application"
+  },
+  {
+   "company": "Sardine",
+   "role": "Forward Deployed Engineer, Integrations - EU/UK",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sardine/ae38f6b8-91c6-4914-9113-e146813e2b28/application"
+  },
+  {
+   "company": "Figma",
+   "role": "Software Engineer - AI Product (London, United Kingdom)",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004"
+  },
+  {
+   "company": "Celonis",
+   "role": "Deployment Engineer - London",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/celonis/jobs/8037503003?gh_jid=8037503003"
+  },
+  {
+   "company": "Sierra",
+   "role": "Software Engineer, Agent",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0/application"
+  },
+  {
+   "company": "Hebbia",
+   "role": "AI Strategist",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hebbia-ai/ea83a15b-0559-45a0-a192-cac36f823ac1/application"
+  },
+  {
+   "company": "Speechmatics",
+   "role": "ML Data & Platform Engineer",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/speechmatics/87c90c0e-5767-4bbb-b815-3a55146c7887"
+  },
+  {
+   "company": "Wayve",
+   "role": "Platform Engineer, AI Enablement",
+   "date": "2026-11-02",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/wayve/40ecaa24-bc9e-4daf-bb06-5007346f7eb4"
+  },
+  {
+   "company": "AssumeAI",
+   "role": "AI Engineer (contract)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "SA Media",
+   "role": "AI Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ada Mode",
+   "role": "Graduate Consultant / Data Scientist",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Vsim",
+   "role": "Junior ML Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Marker",
+   "role": "AI Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Deep.Meta",
+   "role": "Full-Stack Developer & Data Scientist",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Scispot",
+   "role": "Junior AI Automation Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "SmartSearch",
+   "role": "Junior AI Developer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Uncountable",
+   "role": "Full-Stack Engineer (London)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Democrance",
+   "role": "Python / Pydantic AI Engineer (Remote)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Housekeep",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Vortex IQ",
+   "role": "Forward-deployed Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "ATB. (At The Beyond)",
+   "role": "Applied AI Solution Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "ScrapChef",
+   "role": "Deployment Strategist",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Pangaea Data",
+   "role": "AI Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Chattermill",
+   "role": "AI / ML engineering roles (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Recorder",
+   "role": "Technical Business Analyst",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "InfoHawk",
+   "role": "Software Engineer (London)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cortile",
+   "role": "Junior Product Engineer (Full Stack)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "AutomateX",
+   "role": "Applied AI Engineer (upcoming)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Capital on Tap",
+   "role": "AI Specialist",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Datatonic",
+   "role": "Junior ML / AI Engineer (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Advancing Analytics",
+   "role": "Junior AI / Data Science (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cambridge Spark",
+   "role": "AI / data roles (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Huma",
+   "role": "Junior AI / ML Engineer (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Riverlane",
+   "role": "Engineering Graduate Scheme 2027",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Dufrain",
+   "role": "Data / AI consultant (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Lifelight",
+   "role": "Junior AI / ML Engineer (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Hadean",
+   "role": "Register interest: software/AI engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Global App Testing",
+   "role": "AI / engineering (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "digiLab",
+   "role": "Junior ML Engineer / Data Scientist (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "General Reasoning",
+   "role": "Open application",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Recycleye",
+   "role": "Junior Software / ML Engineer (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "OPEX Group",
+   "role": "Graduate Data Scientist / AI Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cogear",
+   "role": "AI engineering / internship (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "EngineVult AI",
+   "role": "Junior AI Engineer (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Optalysys",
+   "role": "Junior Software / ML Engineer (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Softblues",
+   "role": "Senior AI Engineer / general application",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Doubleword",
+   "role": "Speculative application",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "G-Research",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "GoZupees",
+   "role": "Junior AI Implementation Specialist",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Tracelight",
+   "role": "AI Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Zenrox Healthcare",
+   "role": "AI/ML Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Struvo Digital",
+   "role": "AI Solutions Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Lenses.io",
+   "role": "ML & AI Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Agents Chef",
+   "role": "Automation Engineer (Junior-Mid)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Fifty One Degrees",
+   "role": "Graduate Programme / speculative",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "QuantumLoopAI",
+   "role": "Speculative (AI/LLM engineering)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Infinity Fiction",
+   "role": "AI Developer (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Derisk360",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Kubrick Group",
+   "role": "Graduate / early-career AI & data consultant",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Scott Logic",
+   "role": "Developer / AI engineer (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Acora",
+   "role": "Data & AI roles (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Genie AI",
+   "role": "AI engineering roles",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Holistic AI",
+   "role": "Talent network",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Harnham",
+   "role": "Candidate registration (AI / data)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Understanding Recruitment",
+   "role": "Candidate registration (Machine Learning & AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "NALITS",
+   "role": "AI Solution Engineer",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Polaron",
+   "role": "Software / ML engineer (speculative)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Florela Talent",
+   "role": "Candidate registration (AI / ML)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Digital Waffle",
+   "role": "Candidate registration (AI jobs)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Aevita",
+   "role": "Automation Engineer (Remote, Global)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Code-Search AI",
+   "role": "Candidate registration (AI / ML)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Xcede",
+   "role": "Candidate registration (Data & AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Primus Connect",
+   "role": "Candidate registration (Data & AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Nicholson Glover",
+   "role": "Candidate registration (Data, Analytics & AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Peaple Talent",
+   "role": "Candidate registration (Data & AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Datasource Recruitment",
+   "role": "Candidate registration (Data & AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Hunter Bond",
+   "role": "Candidate registration (Technology / AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "McGregor Boyall",
+   "role": "Candidate registration (Technology / AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Trust In SODA",
+   "role": "Candidate registration (Technology / AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "La Fosse",
+   "role": "Candidate registration (Technology / AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Paritas Recruitment",
+   "role": "Candidate registration (Data, Technology & Transformation)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Taymerc Recruitment",
+   "role": "Candidate registration (Data, ML & AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Seer",
+   "role": "Candidate (Forward Deployed / AI engineering)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Quantum Recruitment",
+   "role": "Candidate registration (AI, Data & Analytics)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Pure Developers",
+   "role": "Candidate registration (AI / ML engineering)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Generative",
+   "role": "Candidate (AI & ML engineering, London startups)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "bounced",
+   "link": ""
+  },
+  {
+   "company": "Lawrence Harvey",
+   "role": "Candidate registration (Technology / AI)",
+   "date": "2026-11-02",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Brown & Brown",
+   "role": "AI Engineer",
+   "date": "2026-11-01",
+   "type": "portal",
+   "status": "applied",
+   "link": ""
+  }
+ ],
+ "email_stats_updated": "2026-11-07T04:39:24+00:00",
+ "updated": "2026-11-07T05:25:43+00:00",
+ "updated_at": "2026-11-07T05:25:43+00:00"
+}
