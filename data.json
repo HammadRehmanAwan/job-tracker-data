@@ -1,10 +1,10 @@
 {
- "total": 712,
- "portal": 327,
+ "total": 727,
+ "portal": 342,
  "email": 350,
  "linkedin": 35,
  "bounced_emails": 23,
- "confirmations": 329,
+ "confirmations": 315,
  "rejections": 53,
  "positives": [
   {
@@ -74,7 +74,7 @@
   },
   {
    "date": "2026-11-07",
-   "portal": 118,
+   "portal": 133,
    "email": 0,
    "linkedin": 35
   }
@@ -1757,6 +1757,126 @@
   {
    "company": "deliveroo",
    "role": "Software Engineer II - New Verticals",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "wayve",
+   "role": "Software Engineer - Drive-by-Wire, Robot Software",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Abound",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Blenheim Chalcot",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Talan",
+   "role": "AI Engineer (LLMs, Agents & Applied Data Science)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Uncountable",
+   "role": "LLM Applications Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Abound",
+   "role": "Python Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "GetGround",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ki Insurance",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Dataiku",
+   "role": "Fullstack Software Engineer - Core",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Uncountable",
+   "role": "Software Engineer, Implementations",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Lyst",
+   "role": "Software Engineer - Affiliate Operations",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ki Insurance",
+   "role": "Actuarial Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Uncountable",
+   "role": "ML Solution Consultant",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Talan",
+   "role": "Python Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Talan",
+   "role": "Full Stack Developer Python-React",
    "date": "2026-11-07",
    "type": "portal",
    "status": "submitted",
@@ -6099,7 +6219,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-07T09:38:30+00:00",
- "updated": "2026-11-07T09:38:30+00:00",
- "updated_at": "2026-11-07T09:38:30+00:00"
+ "email_stats_updated": "2026-11-07T10:40:17+00:00",
+ "updated": "2026-11-07T10:40:17+00:00",
+ "updated_at": "2026-11-07T10:40:18+00:00"
 }
