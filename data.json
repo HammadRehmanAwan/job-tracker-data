@@ -1,10 +1,10 @@
 {
- "total": 665,
- "portal": 280,
+ "total": 702,
+ "portal": 317,
  "email": 350,
  "linkedin": 35,
  "bounced_emails": 23,
- "confirmations": 308,
+ "confirmations": 329,
  "rejections": 52,
  "positives": [
   {
@@ -74,7 +74,7 @@
   },
   {
    "date": "2026-11-07",
-   "portal": 71,
+   "portal": 108,
    "email": 0,
    "linkedin": 35
   }
@@ -1383,6 +1383,302 @@
    "role": "Software Engineer",
    "date": "2026-11-07",
    "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "9Falcons",
+   "role": "AI Automation Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Reedsy",
+   "role": "AI Engineer - Remote Europe",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fintricity",
+   "role": "AI Engineer (for UK Onsite only) - PLEASE ONLY APPLY IF YOU LIVE IN THE UK",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "AiCore",
+   "role": "Forward Deployed AI Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Orom AI",
+   "role": "Computer Vision Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Orom AI",
+   "role": "MLOps Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "SoundSenseAI",
+   "role": "Graduate AI Product Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Amplemarket",
+   "role": "Fullstack Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "VECTRA International",
+   "role": "AI Intern",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iDelsoft",
+   "role": "Full-Stack Product Engineer \u2014 React & Node.js (Remote Europe)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Bulbthings",
+   "role": "Full stack software developer/engineer (Mid-level)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "WordLift",
+   "role": "Full Stack Software Engineer (Java/Spring Boot & React)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Constructor.io",
+   "role": "Integration Engineer (EMEA)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Clovislabs.com",
+   "role": "Founding Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Sittsy",
+   "role": "Founding Engineer \u2014 Full Stack TypeScript (Remote)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Specsight",
+   "role": "Founding Product Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Loop Machines",
+   "role": "Founding Full Stack Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Harmonica Labs",
+   "role": "Founding Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Mubit",
+   "role": "Founding Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "langchain",
+   "role": "Deployed Engineer (UK)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "kaluza",
+   "role": "QA Software Engineer (C2)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "wordsmith",
+   "role": "Legal Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "kaluza",
+   "role": "Platform Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "kaluza",
+   "role": "Pre-Sales Engineer - Energy Retail",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "orbital",
+   "role": "Product Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "kaluza",
+   "role": "Release, Environments, and Change Engineer (C2)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "beamery",
+   "role": "Product BI & Ops Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "hyperexponential",
+   "role": "hx Model Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "faculty",
+   "role": "Platform Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "langchain",
+   "role": "EMEA Technical Support Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "wordsmith",
+   "role": "Product Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "faculty",
+   "role": "Software Engineer (Safety)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "oxa",
+   "role": "Robotics Integration Engineer (Launchpad)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "quantexa",
+   "role": "DevOps Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "harvey",
+   "role": "Legal Engineer, Custom Solutions",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "watershed",
+   "role": "Data specialist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "incident",
+   "role": "Cloud Security Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
    "status": "submitted",
    "link": ""
   },
@@ -5723,7 +6019,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-07T07:32:53+00:00",
- "updated": "2026-11-07T07:32:53+00:00",
- "updated_at": "2026-11-07T07:32:53+00:00"
+ "email_stats_updated": "2026-11-07T08:34:20+00:00",
+ "updated": "2026-11-07T08:34:21+00:00",
+ "updated_at": "2026-11-07T08:34:21+00:00"
 }
