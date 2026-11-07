@@ -1,6 +1,6 @@
 {
- "total": 727,
- "portal": 342,
+ "total": 735,
+ "portal": 350,
  "email": 350,
  "linkedin": 35,
  "bounced_emails": 23,
@@ -74,7 +74,7 @@
   },
   {
    "date": "2026-11-07",
-   "portal": 133,
+   "portal": 141,
    "email": 0,
    "linkedin": 35
   }
@@ -1877,6 +1877,70 @@
   {
    "company": "Talan",
    "role": "Full Stack Developer Python-React",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ofqual",
+   "role": "Senior Statistical Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ofsted",
+   "role": "Higher Data Development Officer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "CreateFuture",
+   "role": "Data Engineer - iGaming",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "SteelEye",
+   "role": "Financial Implementation Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Delta Capita",
+   "role": "SQL Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Mistral AI",
+   "role": "AI Deployment Strategist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fasanara",
+   "role": "Junior Java Software Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Delta Capita",
+   "role": "Back End Developer (Java)",
    "date": "2026-11-07",
    "type": "portal",
    "status": "submitted",
@@ -6220,6 +6284,6 @@
   }
  ],
  "email_stats_updated": "2026-11-07T12:36:45+00:00",
- "updated": "2026-11-07T12:36:45+00:00",
- "updated_at": "2026-11-07T12:36:45+00:00"
+ "updated": "2026-11-07T13:29:19+00:00",
+ "updated_at": "2026-11-07T13:29:19+00:00"
 }
