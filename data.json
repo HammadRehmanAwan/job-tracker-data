@@ -4,7 +4,7 @@
  "email": 350,
  "linkedin": 35,
  "bounced_emails": 23,
- "confirmations": 296,
+ "confirmations": 308,
  "rejections": 52,
  "positives": [
   {
@@ -22,9 +22,13 @@
   {
    "company": "Sheffield City Council",
    "note": "the hiring team offered an informal call about the Performance Analyst role on 6 Nov"
+  },
+  {
+   "company": "Civil Service (Higher Statistical Officer, 487028)",
+   "note": "Invited to the Civil Service Numerical Test, due by 11:55pm 14 Nov"
   }
  ],
- "positive_count": 4,
+ "positive_count": 5,
  "by_day": [
   {
    "date": "earlier",
@@ -5719,7 +5723,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-07T06:39:58+00:00",
- "updated": "2026-11-07T06:40:03+00:00",
- "updated_at": "2026-11-07T06:40:03+00:00"
+ "email_stats_updated": "2026-11-07T07:32:53+00:00",
+ "updated": "2026-11-07T07:32:53+00:00",
+ "updated_at": "2026-11-07T07:32:53+00:00"
 }
