@@ -1,8 +1,8 @@
 {
- "total": 1284,
- "portal": 869,
+ "total": 1310,
+ "portal": 893,
  "email": 350,
- "linkedin": 65,
+ "linkedin": 67,
  "bounced_emails": 23,
  "confirmations": 857,
  "rejections": 74,
@@ -80,9 +80,9 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 311,
+   "portal": 335,
    "email": 0,
-   "linkedin": 30
+   "linkedin": 32
   }
  ],
  "recent": [
@@ -3267,6 +3267,214 @@
   {
    "company": "crewai",
    "role": "Forward Deployed Engineer - (East coast based)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "bitpanda",
+   "role": "Business Intelligence Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "tibber",
+   "role": "Fullstack Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "tibber",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "tibber",
+   "role": "Backend Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "nooks",
+   "role": "Solutions Engineer, EMEA",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "matter-labs",
+   "role": "Product Engineer, Forward Deployed",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "confido",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "confido",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "confido",
+   "role": "Applied AI/ML Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "nooks",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "nooks",
+   "role": "Software Engineer, New Grad",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Situ",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "fscom",
+   "role": "Product Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "AppLovin",
+   "role": "Data Scientist \u2013 Analytics",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "AppLovin",
+   "role": "Measurement Data Scientist",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "AppLovin",
+   "role": "Partner Solutions Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Kalshi",
+   "role": "Software Engineer, Growth",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Verkada",
+   "role": "Software Engineer - Imaging Systems",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Chime",
+   "role": "AI/ML Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Chime",
+   "role": "Software Engineer, Growth",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Torc Robotics",
+   "role": "Application Integration Engineer 1",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Torc Robotics",
+   "role": "Software Engineer, I - Data Engineering",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Chime",
+   "role": "Software Engineer, Jade Awareness - AI Financial Partner",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Affirm",
+   "role": "Software Engineer II, Backend (Payments)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Hudl",
+   "role": "Software Engineer II - Athlete Performance",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "PlanetScale",
+   "role": "AI Developer Experience Engineer",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -10682,6 +10890,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T19:33:37+00:00",
- "updated": "2026-11-08T19:33:40+00:00",
- "updated_at": "2026-11-08T19:33:40+00:00"
+ "updated": "2026-11-08T20:14:32+00:00",
+ "updated_at": "2026-11-08T20:14:32+00:00"
 }
