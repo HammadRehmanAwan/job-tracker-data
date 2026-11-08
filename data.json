@@ -1,6 +1,6 @@
 {
- "total": 1137,
- "portal": 743,
+ "total": 1156,
+ "portal": 762,
  "email": 350,
  "linkedin": 44,
  "bounced_emails": 23,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 185,
+   "portal": 204,
    "email": 0,
    "linkedin": 9
   }
@@ -2091,6 +2091,158 @@
   {
    "company": "One Big Circle",
    "role": "Junior Application Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Reed",
+   "role": "Junior Software Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Spectrum IT Recruitment",
+   "role": "AI Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Michael Page Technology",
+   "role": "AI Developer/Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Just IT",
+   "role": "AI & Automation Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Harnham - Data & Analytics Recruitment",
+   "role": "Data Scientist",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Noir",
+   "role": "Graduate / Junior Developer, Python, JavaScript, PHP - London",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Noir",
+   "role": "Graduate / Junior Developer, Python, Linux, C#, Java - London",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Noir",
+   "role": ".NET Developer, Graduate / Junior",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Candour Solutions",
+   "role": "Data Scientist - London",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Recruitment Revolution",
+   "role": "Process Intelligence Scientist",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Netteam tX Ltd",
+   "role": "AI & Automation Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Involved Solutions",
+   "role": "Software Engineer - Python & AI (Ipswich)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Advanced Resource Managers Limited",
+   "role": "Junior Data Scientist",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Noir",
+   "role": "Junior .NET Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Noir",
+   "role": ".NET Developer, Graduate / Junior (Manchester)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Morgan Law",
+   "role": "Data Analyst (Royal Albert Hall, 12m FTC)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Reed",
+   "role": "Software Developer (Antrim area, hybrid)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Jump IT Recruitment Solutions",
+   "role": "Graduate Cloud Engineers x2 - Azure",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "INTEC SELECT",
+   "role": "AI Engineer - LLM & Agentic Systems (contract)",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -9506,6 +9658,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T12:41:46+00:00",
- "updated": "2026-11-08T13:14:12+00:00",
- "updated_at": "2026-11-08T13:14:12+00:00"
+ "updated": "2026-11-08T13:29:20+00:00",
+ "updated_at": "2026-11-08T13:29:20+00:00"
 }
