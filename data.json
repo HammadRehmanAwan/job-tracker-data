@@ -1,6 +1,6 @@
 {
- "total": 1334,
- "portal": 917,
+ "total": 1349,
+ "portal": 932,
  "email": 350,
  "linkedin": 67,
  "bounced_emails": 23,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 359,
+   "portal": 374,
    "email": 0,
    "linkedin": 32
   }
@@ -3667,6 +3667,126 @@
   {
    "company": "SingleStore",
    "role": "Support Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Samsara",
+   "role": "Enterprise Implementation Consultant",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Vena Solutions",
+   "role": "Solutions Consultant, Customer & Partner Success",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Modal",
+   "role": "Developer Relations Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Black Forest Labs",
+   "role": "Developer Experience Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Top Hat",
+   "role": "Software Engineer - Data Insights",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Sona",
+   "role": "Solutions Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Scale AI",
+   "role": "ML Research Engineer, ML Systems",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Starburst",
+   "role": "Applied AI Research Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Datadog",
+   "role": "AI Research Engineer (DAIR, Paris)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mthree",
+   "role": "Daft US Software Engineer Interest Form",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Agile Robots",
+   "role": "Robotics Solutions Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Hozah",
+   "role": "Junior TechOps Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Solve Intelligence",
+   "role": "Full Stack (Back-End Leaning)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Funding Circle",
+   "role": "Credit Strategy Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Universal Quantum",
+   "role": "Systems Engineer",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -11082,6 +11202,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T21:37:37+00:00",
- "updated": "2026-11-08T22:15:54+00:00",
- "updated_at": "2026-11-08T22:15:54+00:00"
+ "updated": "2026-11-08T22:16:03+00:00",
+ "updated_at": "2026-11-08T22:16:03+00:00"
 }
