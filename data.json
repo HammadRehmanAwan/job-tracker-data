@@ -1,10 +1,10 @@
 {
- "total": 1156,
+ "total": 1174,
  "portal": 762,
  "email": 350,
- "linkedin": 44,
+ "linkedin": 62,
  "bounced_emails": 23,
- "confirmations": 728,
+ "confirmations": 756,
  "rejections": 69,
  "positives": [
   {
@@ -82,7 +82,7 @@
    "date": "2026-11-08",
    "portal": 204,
    "email": 0,
-   "linkedin": 9
+   "linkedin": 27
   }
  ],
  "recent": [
@@ -2245,6 +2245,150 @@
    "role": "AI Engineer - LLM & Agentic Systems (contract)",
    "date": "2026-11-08",
    "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Acceler8 Talent",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "develop",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Tenth Revolution Group",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "TechNET",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Gazelle Global",
+   "role": "AI Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Xcede",
+   "role": "Analytics Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Pinpoint Partners",
+   "role": "Chief AI Tech Officer (Graduate)",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "RedRock Resourcing",
+   "role": "Python Developer - Up to \u00a370k - New!",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "VirtueTech Recruitment Group",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Humand Talent",
+   "role": "Software Engineer - up to \u00a355k - ID52314",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Saragossa",
+   "role": "Junior AI Engineer - Hedge Fund - up to \u00a375,000",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Volition",
+   "role": "Junior Software Engineer - Algo Trading Systems",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "EVera Recruitment",
+   "role": "Data Scientist",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Highbury Consulting",
+   "role": "AI Engineer \u2013 London",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "DGH Recruitment",
+   "role": "Artificial Intelligence Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "DwyerOmega EMEA",
+   "role": "Graduate Data AI Analyst",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "VirtueTech Recruitment Group",
+   "role": "Research Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Hunter Bond",
+   "role": "Graduate Software Engineer / Quant Developer / Quant Researcher - Up to \u00a3150,000 + Bonus + Package",
+   "date": "2026-11-08",
+   "type": "linkedin",
    "status": "submitted",
    "link": ""
   },
@@ -9657,7 +9801,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-08T13:30:40+00:00",
- "updated": "2026-11-08T13:30:41+00:00",
- "updated_at": "2026-11-08T13:30:41+00:00"
+ "email_stats_updated": "2026-11-08T14:35:35+00:00",
+ "updated": "2026-11-08T14:35:35+00:00",
+ "updated_at": "2026-11-08T14:35:36+00:00"
 }
