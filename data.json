@@ -1,6 +1,6 @@
 {
- "total": 1088,
- "portal": 703,
+ "total": 1087,
+ "portal": 702,
  "email": 350,
  "linkedin": 35,
  "bounced_emails": 23,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 145,
+   "portal": 144,
    "email": 0,
    "linkedin": 0
   }
@@ -1403,14 +1403,6 @@
   {
    "company": "airbnb",
    "role": "Machine Learning Engineer, Assistance Engineering",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Gatekeeper",
-   "role": "Implementation Consultant (REMOTE (UK))",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -9114,6 +9106,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T08:32:43+00:00",
- "updated": "2026-11-08T09:27:11+00:00",
- "updated_at": "2026-11-08T09:27:11+00:00"
+ "updated": "2026-11-08T09:30:19+00:00",
+ "updated_at": "2026-11-08T09:30:19+00:00"
 }
