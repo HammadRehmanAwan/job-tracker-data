@@ -1,6 +1,6 @@
 {
- "total": 1214,
- "portal": 799,
+ "total": 1238,
+ "portal": 823,
  "email": 350,
  "linkedin": 65,
  "bounced_emails": 23,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 241,
+   "portal": 265,
    "email": 0,
    "linkedin": 30
   }
@@ -2709,6 +2709,198 @@
    "role": "Junior Digital Analytics Implementation Consultant",
    "date": "2026-11-08",
    "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Plus One Recruitment",
+   "role": "Trainee Web Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "backmarket",
+   "role": "Experienced Software Engineer - Code Foundations (Frontend major)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "backmarket",
+   "role": "Experienced Software Engineer - Seller Care",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "satispay",
+   "role": "Software Engineer III, Backend - Business Domain",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "facilityos",
+   "role": "AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ebury",
+   "role": "Product Graduate - Money Flows",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Hudl",
+   "role": "Software Engineer II - Global Football & Rugby",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Scopely",
+   "role": "Analytics Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Scopely",
+   "role": "Client Engineer (Unity, Real User Monitoring)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Scopely",
+   "role": "Playable Ads Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "WPP",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "WPP",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "toast",
+   "role": "Software Engineer II, Earnings",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "helsing",
+   "role": "AI Research Engineer - 3D Computer Vision",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "holded",
+   "role": "Product Data Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "imc",
+   "role": "Software Engineer \u2013 AI Powered Engineering",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "imc",
+   "role": "Software Engineer - AI Tooling",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "snorkelai",
+   "role": "Forward Deployed Researcher - Data as a Service",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Engine",
+   "role": "Software Engineer - GTM Engineering",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "a16z",
+   "role": "Software Engineer, Backend (Partner 16, Partner 18)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "a16z",
+   "role": "Software Engineer, Systems (Partner 16, Partner 18)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Commure",
+   "role": "Software Engineer, AI Integrations",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Commure",
+   "role": "Software Engineer, AI Billing",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Telnyx",
+   "role": "Forward Deployed Engineer (Remote)",
+   "date": "2026-11-08",
+   "type": "portal",
    "status": "submitted",
    "link": ""
   },
@@ -10122,6 +10314,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T16:42:43+00:00",
- "updated": "2026-11-08T16:42:46+00:00",
- "updated_at": "2026-11-08T16:42:46+00:00"
+ "updated": "2026-11-08T17:16:33+00:00",
+ "updated_at": "2026-11-08T17:16:33+00:00"
 }
