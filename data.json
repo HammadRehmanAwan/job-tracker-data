@@ -1,6 +1,6 @@
 {
- "total": 862,
- "portal": 477,
+ "total": 954,
+ "portal": 569,
  "email": 350,
  "linkedin": 35,
  "bounced_emails": 23,
@@ -74,12 +74,106 @@
   },
   {
    "date": "2026-11-07",
-   "portal": 268,
+   "portal": 349,
    "email": 0,
    "linkedin": 35
+  },
+  {
+   "date": "2026-11-08",
+   "portal": 11,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "Livestock Information",
+   "role": "Azure Integration Engineer - Fixed Term Contract",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Neo4j",
+   "role": "Software Engineer - Platform Security",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fonoa",
+   "role": "Solution Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Kraken Technologies",
+   "role": "Data Platform Engineer I",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Capco",
+   "role": "Knowledge Graph & Semantics Consultant",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Kinship",
+   "role": "Product Engineer, Backend",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Livestock Information",
+   "role": "Azure Data Engineer - Fixed Term Contract",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Runware",
+   "role": "Creative Engineer / AI Creative Technologist",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Incommunities",
+   "role": "Sustainability Data & Carbon Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Snyk",
+   "role": "AI Systems Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "PagerDuty",
+   "role": "Forward Deployed Engineer (SDEV)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
   {
    "company": "Menlo Security",
    "role": "AI Security Engineer",
@@ -311,94 +405,6 @@
    "type": "portal",
    "status": "submitted",
    "link": ""
-  },
-  {
-   "company": "MSX International",
-   "role": "Associate Software Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "TradingHub",
-   "role": "Software Engineer (Structured Data)",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Mollie",
-   "role": "Analytics Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Nous",
-   "role": "Operations & Automation Associate",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Nous",
-   "role": "Product Builder",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "incident.io",
-   "role": "Product Operations Associate",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Primark",
-   "role": "Procurement Data & Digital Analyst",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Polar",
-   "role": "Platform Engineering",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Liberis",
-   "role": "Data Analyst - Credit Risk",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Isembard",
-   "role": "Computer Vision / ML Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Checkout.com",
-   "role": "Data Scientist",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
   }
  ],
  "applications": [
@@ -536,6 +542,94 @@
    "date": "earlier",
    "type": "email",
    "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Livestock Information",
+   "role": "Azure Integration Engineer - Fixed Term Contract",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Neo4j",
+   "role": "Software Engineer - Platform Security",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fonoa",
+   "role": "Solution Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Kraken Technologies",
+   "role": "Data Platform Engineer I",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Capco",
+   "role": "Knowledge Graph & Semantics Consultant",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Kinship",
+   "role": "Product Engineer, Backend",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Livestock Information",
+   "role": "Azure Data Engineer - Fixed Term Contract",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Runware",
+   "role": "Creative Engineer / AI Creative Technologist",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Incommunities",
+   "role": "Sustainability Data & Carbon Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Snyk",
+   "role": "AI Systems Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "PagerDuty",
+   "role": "Forward Deployed Engineer (SDEV)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
    "link": ""
   },
   {
@@ -2957,6 +3051,654 @@
   {
    "company": "Granola",
    "role": "Design Engineer (Web & Brand)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "intercom",
+   "role": "Forward Deployed Data Scientist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "51d",
+   "role": "AI Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "UCLH",
+   "role": "Neonatal Data Manager",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "CNWL",
+   "role": "Data And Performance Lead",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Oxford University Hospitals",
+   "role": "Data and Systems Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "QuantumLoopAI",
+   "role": "AI/ML & Prompt Engineer LLM, RAG & Voice Agent",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "QuantumLoopAI",
+   "role": "Junior Business Analyst / Project Coordinator",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Bionic Services Ltd",
+   "role": "AI Operations Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Oxford Quantum Circuits",
+   "role": "Software Engineer - Compiler & Runtime",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Sword Group",
+   "role": "Business Analyst (Edinburgh)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Tyk Technologies",
+   "role": "Junior Agile Delivery Coordinator",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Steamship Insurance Management Services Ltd",
+   "role": "IT Business Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Callsign",
+   "role": "Experience Engineer (FTC)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Lendable",
+   "role": "Junior Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Lyst",
+   "role": "Python Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Constructor",
+   "role": "Technical Integration Specialist (EMEA)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Lendable",
+   "role": "Growth Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Lendable",
+   "role": "Data Platform Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ebury",
+   "role": "Commercial Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Blockchain.com",
+   "role": "Business Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Beamery",
+   "role": "Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Gousto",
+   "role": "Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Mixpanel",
+   "role": "Delivery Engineer, EMEA",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Blockchain.com",
+   "role": "Front-End Engineer, Institutional",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Lyst",
+   "role": "Front End Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Funding Circle",
+   "role": "Loan Operations Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Sword Group",
+   "role": "Technical Business Analyst (Maximo)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Sword Group",
+   "role": "SharePoint & Information Management Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "New Route Recruitment",
+   "role": "Full Stack/Backend Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "New Route Recruitment",
+   "role": "Software Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "New Route Recruitment",
+   "role": "PHP Developer with Laravel",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "New Route Recruitment",
+   "role": "Junior Backend Engineer with DevOps",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "New Route Recruitment",
+   "role": "Front End Angular Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "New Route Recruitment",
+   "role": "Front End Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "New Route Recruitment",
+   "role": "Backend Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "New Route Recruitment",
+   "role": "Front End Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "New Route Recruitment",
+   "role": "Javascript / API Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Axle Energy",
+   "role": "Solutions Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Axle Energy",
+   "role": "Data Science",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Axle Energy",
+   "role": "Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Axle Energy",
+   "role": "Analytics Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Edra",
+   "role": "Software Engineer - Back End (London)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Edra",
+   "role": "Software Engineer - Front End (London)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nexcade",
+   "role": "Product Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Swap",
+   "role": "Analytics Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Liberis",
+   "role": "Risk Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Aries Global",
+   "role": "Software Engineer Intern",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Aries Global",
+   "role": "Data Intern",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Form3",
+   "role": "Reporting & Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Murphy AI",
+   "role": "Product Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Blenheim Chalcot (Fospha)",
+   "role": "Graduate Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "DEPT",
+   "role": "Data Scientist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "BigHand",
+   "role": "Software Engineer - Agentic AI",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "BigHand",
+   "role": "Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Murphy AI",
+   "role": "Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Murphy AI",
+   "role": "Data Scientist",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "White Swan Data",
+   "role": "Junior Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "White Swan Data",
+   "role": "AI Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "White Swan Data",
+   "role": "Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "White Swan Data",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Neat",
+   "role": "Graduate Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Pear VC portfolio (Wexler/Phaselaw)",
+   "role": "Software Engineer - Wexler",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Meticulous",
+   "role": "Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Meticulous",
+   "role": "Forward Deployed Engineer, London",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "incident.io",
+   "role": "Product Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Seamflow",
+   "role": "Product Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Tecknuovo",
+   "role": "Full Stack Software Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "THG Ingenuity",
+   "role": "Junior People Data Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Tecknuovo",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Atominvest",
+   "role": "Implementation Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "TNG Technology Consulting",
+   "role": "Software Developer / Consultant (m/w/d)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fractile",
+   "role": "Product & Yield Engineer (Data-focused)",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Answer Digital",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Charlie Oscar",
+   "role": "Junior Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Datatonic",
+   "role": "Data Engineer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "InPost UK",
+   "role": "Merchant Quality Analyst",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Wheely",
+   "role": "Associate Data Scientist - Operations Research",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Answer Digital",
+   "role": "Integration Engineer - Leeds/Hybrid/Flexible",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Seri\u00f6s Group",
+   "role": "Product Engineer - Future Opportunities",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Central East Integrated Care Board",
+   "role": "Automation Developer",
+   "date": "2026-11-07",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Luma",
+   "role": "Software Engineer, Inference",
    "date": "2026-11-07",
    "type": "portal",
    "status": "submitted",
@@ -7300,6 +8042,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T01:31:01+00:00",
- "updated": "2026-11-08T01:48:33+00:00",
- "updated_at": "2026-11-08T01:48:33+00:00"
+ "updated": "2026-11-08T01:48:50+00:00",
+ "updated_at": "2026-11-08T01:48:50+00:00"
 }
