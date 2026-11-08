@@ -1,6 +1,6 @@
 {
- "total": 1174,
- "portal": 762,
+ "total": 1211,
+ "portal": 799,
  "email": 350,
  "linkedin": 62,
  "bounced_emails": 23,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 204,
+   "portal": 241,
    "email": 0,
    "linkedin": 27
   }
@@ -2389,6 +2389,302 @@
    "role": "Graduate Software Engineer / Quant Developer / Quant Researcher - Up to \u00a3150,000 + Bonus + Package",
    "date": "2026-11-08",
    "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Page 1 Recruitment",
+   "role": "Python Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Matrix",
+   "role": "Junior Business Intelligence Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487237551"
+  },
+  {
+   "company": "client server",
+   "role": "Backend Software Engineer Python R&D",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Creditsafe Business Solutions",
+   "role": "Data Scientist",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "client server",
+   "role": "Founding Software Engineer Python - Start-up",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "VITEC",
+   "role": "Software Test Engineer (Applications)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Acorn Recruitment",
+   "role": "AI Agent Builder / Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Urban Empire Recruitment",
+   "role": "Data Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Crowder Consulting",
+   "role": "Junior DevOps Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Urban Empire Recruitment",
+   "role": "IT Analyst Graduate",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Royal Kennel Club",
+   "role": "Business Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "AMORE MEDIA SYSTEMS LTD",
+   "role": "Business Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "humanoid",
+   "role": "Deep Learning Engineer - World Models",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "humanoid",
+   "role": "Reinforcement Learning Engineer - Manipulation",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "humanoid",
+   "role": "Reinforcement Learning Engineer - Locomanipulation",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "lumaai",
+   "role": "Research Scientist / Engineer \u2013 Performance Optimization",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "edra",
+   "role": "AI Strategist (London)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/edra/af19c842-f0e8-4947-89dd-1db21fae7b1a"
+  },
+  {
+   "company": "Fractile",
+   "role": "Modelling Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Solirius Reply",
+   "role": "Junior Solution Architect",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "CommonAI C.I.C.",
+   "role": "Simulation Validation and Uncertainty Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "The Money and Pensions Service",
+   "role": "HR Data and Reporting Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Celonis",
+   "role": "Associate (AI) Solution Consultant (Nordics) - Orbit Program",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Celonis",
+   "role": "Associate (AI) Solution Consultant (UK) - Orbit Program",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Flix",
+   "role": "AI Agent Builder - Customer Service (m/f/d)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Flix",
+   "role": "Automation Solutions Engineer (Celonis) (m/f/d)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Iterable",
+   "role": "Software Engineer II",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Iterable",
+   "role": "Data Engineer II",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Legora",
+   "role": "Software Engineer - Internal Tooling",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Aberdeen City Council",
+   "role": "Business Analyst - ABC13881",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Artefact",
+   "role": "Junior Data Consultant",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Capco",
+   "role": "Generative AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Kong",
+   "role": "Software Engineer AI Gateway",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "brex",
+   "role": "Software Engineer II, Backend",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "braze",
+   "role": "Software Engineer II",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "braze",
+   "role": "Software Engineer II, Data Lakehouse",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "braze",
+   "role": "Software Engineer II, User Targeting",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Sony Interactive Entertainment",
+   "role": "Software Engineer II/ Software Developer (Backend)",
+   "date": "2026-11-08",
+   "type": "portal",
    "status": "submitted",
    "link": ""
   },
@@ -9802,6 +10098,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T15:40:16+00:00",
- "updated": "2026-11-08T15:40:19+00:00",
- "updated_at": "2026-11-08T15:40:19+00:00"
+ "updated": "2026-11-08T16:05:38+00:00",
+ "updated_at": "2026-11-08T16:05:38+00:00"
 }
