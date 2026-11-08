@@ -1,10 +1,10 @@
 {
- "total": 1115,
+ "total": 1117,
  "portal": 730,
  "email": 350,
- "linkedin": 35,
+ "linkedin": 37,
  "bounced_emails": 23,
- "confirmations": 728,
+ "confirmations": 694,
  "rejections": 66,
  "positives": [
   {
@@ -82,7 +82,7 @@
    "date": "2026-11-08",
    "portal": 172,
    "email": 0,
-   "linkedin": 0
+   "linkedin": 2
   }
  ],
  "recent": [
@@ -1917,6 +1917,22 @@
    "role": "Software Engineer, Full-Stack",
    "date": "2026-11-08",
    "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Oho Group",
+   "role": "AI Product Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Jobgether",
+   "role": "AI Engineer (Agentic Systems)",
+   "date": "2026-11-08",
+   "type": "linkedin",
    "status": "submitted",
    "link": ""
   },
@@ -9329,7 +9345,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-08T10:35:29+00:00",
- "updated": "2026-11-08T10:49:29+00:00",
- "updated_at": "2026-11-08T10:49:29+00:00"
+ "email_stats_updated": "2026-11-08T11:34:37+00:00",
+ "updated": "2026-11-08T11:34:43+00:00",
+ "updated_at": "2026-11-08T11:34:43+00:00"
 }
