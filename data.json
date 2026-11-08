@@ -1,6 +1,6 @@
 {
- "total": 1276,
- "portal": 861,
+ "total": 1284,
+ "portal": 869,
  "email": 350,
  "linkedin": 65,
  "bounced_emails": 23,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 303,
+   "portal": 311,
    "email": 0,
    "linkedin": 30
   }
@@ -3203,6 +3203,70 @@
   {
    "company": "Amtis professional Ltd",
    "role": "Application Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "doppel",
+   "role": "Software Engineer, Detection",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "outset",
+   "role": "IT Automation Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "vapi",
+   "role": "Solutions Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "decagon",
+   "role": "GTM Analytics Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "synthesia",
+   "role": "Solutions Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "handshake",
+   "role": "Software Engineer I, Promotions",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "geotab",
+   "role": "Solutions Engineering",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "crewai",
+   "role": "Forward Deployed Engineer - (East coast based)",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -10618,6 +10682,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T18:42:08+00:00",
- "updated": "2026-11-08T19:11:28+00:00",
- "updated_at": "2026-11-08T19:11:28+00:00"
+ "updated": "2026-11-08T19:11:52+00:00",
+ "updated_at": "2026-11-08T19:11:52+00:00"
 }
