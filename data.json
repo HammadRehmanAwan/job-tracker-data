@@ -1,6 +1,6 @@
 {
- "total": 989,
- "portal": 604,
+ "total": 1051,
+ "portal": 666,
  "email": 350,
  "linkedin": 35,
  "bounced_emails": 23,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 46,
+   "portal": 108,
    "email": 0,
    "linkedin": 0
   }
@@ -907,6 +907,502 @@
   {
    "company": "Veriff",
    "role": "Solutions Engineer - EMEA",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "hyperexponential",
+   "role": "Associate Delivery Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "faculty",
+   "role": "Associate (Safety)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Implementation Consultant",
+   "role": "REMOTE (UK)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Engelhart",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Okta",
+   "role": "Associate Solutions Engineer, Auth0",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "WPP Media",
+   "role": "Analytics Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "WPP Media",
+   "role": "Data Analyst H/F - CDI (Lille)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "WPP Media",
+   "role": "Junior Digital Measurement & Analytics",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "PlayStation Global (Sony Interactive Entertainment)",
+   "role": "AI Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Thought Machine",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "LEGALFLY",
+   "role": "AI Product Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "PayFit",
+   "role": "AI Workflow Builder",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Capco",
+   "role": "AI Integration Engineer \u2013 Market Data & Entitlements",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Capco",
+   "role": "Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Snowflake",
+   "role": "Software Engineer, AI Native Authoring",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Raydar",
+   "role": "Research Engineer, CAD",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Float",
+   "role": "Full Stack Development (Remote - Canada)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Tiny Health",
+   "role": "Microbiome Data Scientist",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Tiny Health",
+   "role": "AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "humanoid",
+   "role": "Software Engineer - Data & Sensors",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "humanoid",
+   "role": "Software Engineer - Workflow Authoring & Deployment",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "cerebras",
+   "role": "Full Stack LLM Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "cerebras",
+   "role": "Software Engineer - New Grad 2026",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mthree Recruiting Portal",
+   "role": "Junior Data Scientist",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mthree Recruiting Portal",
+   "role": "Power BI Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "cerebras",
+   "role": "AI Inference Core - Software Integration Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "cerebras",
+   "role": "Software Engineer - Host and Network IO",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "cerebras",
+   "role": "ML Runtime and Kernel Engineer - Core ML",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "wayve",
+   "role": "Software Engineer, Fleet Management",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "wayve",
+   "role": "Machine Learning Scientist/Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "wayve",
+   "role": "Machine Learning Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "wayve",
+   "role": "Full Stack Software Engineer, Evaluation Tools",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mercor",
+   "role": "Software Engineer, Applied AI - Frontier Engineering (NYC)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "baseten",
+   "role": "Software Engineer - GPU Kernels",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "baseten",
+   "role": "Software Engineer - GPU Networking & Distributed Systems",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "baseten",
+   "role": "Post-Training Research Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "baseten",
+   "role": "Software Engineer - Voice AI (Inference Runtime)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "baseten",
+   "role": "Software Engineer - Observability",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "baseten",
+   "role": "Software Engineer - Continuous Delivery",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "baseten",
+   "role": "Software Engineer - Compute & Isolation",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Known (Pear VC)",
+   "role": "AI / ML Engineer - Known",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "TrueMeter (Pear VC)",
+   "role": "Software Engineer, AI Applications - TrueMeter",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "TrueMeter (Pear VC)",
+   "role": "AI-Native Data Engineer - TrueMeter",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Hex",
+   "role": "Software Engineer, Fullstack",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "LangChain",
+   "role": "Analytics Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "LangChain",
+   "role": "Developer Productivity",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mercor",
+   "role": "Research Engineer - Environments, Data and Post-Training",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mercor",
+   "role": "Software Engineer, Automation",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mercor",
+   "role": "Software Engineer, Applied AI - Frontier Engineering",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mercor",
+   "role": "Enterprise AI Associate",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mercor",
+   "role": "Research Engineer \u2013 Benchmarking",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mercor",
+   "role": "Software Engineer, Discovery",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "klaviyo",
+   "role": "Software Engineer I",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "klaviyo",
+   "role": "AI Engineer I",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "klaviyo",
+   "role": "Software Engineer, Conversational Products & Agent Workflows",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "notion",
+   "role": "Software Engineer, Early Career (AI)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "notion",
+   "role": "Software Engineer, New Grad (Dec 2026)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "cleo",
+   "role": "Implementation Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mixpanel",
+   "role": "Software Engineer, Distributed Systems",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "intercom",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "fivetran",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "airbnb",
+   "role": "Machine Learning Engineer, Assistance Engineering",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -8322,6 +8818,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T06:33:48+00:00",
- "updated": "2026-11-08T06:33:48+00:00",
- "updated_at": "2026-11-08T06:33:48+00:00"
+ "updated": "2026-11-08T07:37:33+00:00",
+ "updated_at": "2026-11-08T07:37:33+00:00"
 }
