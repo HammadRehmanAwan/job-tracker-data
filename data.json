@@ -1,6 +1,6 @@
 {
- "total": 954,
- "portal": 569,
+ "total": 989,
+ "portal": 604,
  "email": 350,
  "linkedin": 35,
  "bounced_emails": 23,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 11,
+   "portal": 46,
    "email": 0,
    "linkedin": 0
   }
@@ -175,233 +175,233 @@
    "link": ""
   },
   {
-   "company": "Menlo Security",
-   "role": "AI Security Engineer",
-   "date": "2026-11-07",
+   "company": "Sony Interactive Entertainment",
+   "role": "Software Engineer, Quality Engineering",
+   "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
    "link": ""
   },
   {
-   "company": "Infinity Constellation",
-   "role": "Full Stack AI Engineer (Contract-to-Hire)",
-   "date": "2026-11-07",
+   "company": "Butternut Box",
+   "role": "Analytics Engineer II",
+   "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
    "link": ""
   },
   {
-   "company": "Fifty-Five",
-   "role": "Data Engineer (Data and AI)",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "CloudFactory",
-   "role": "Forward Deployed Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Ripjar",
-   "role": "Data Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "MAGIC AI",
-   "role": "AI/Data Scientist",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Greenvolt",
-   "role": "AI & Automation Developer (Lisbon)",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "ASOS",
-   "role": "Associate Data Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Entain",
-   "role": "Data Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Version 1",
-   "role": "AI Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "RightShip",
-   "role": "AI Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "PostHog",
-   "role": "AI Research Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Cognition",
-   "role": "Applied AI Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "GitLab",
-   "role": "Forward Deployed Engineer EMEA",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "IMC",
-   "role": "Machine Learning Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Medical University of Innsbruck",
-   "role": "PhD AI for Biomedicine MEDI-21223",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Nottingham Trent University (TeamKinetic KTP)",
-   "role": "Volunteer Management Data Scientist & Software Engineer - KTP Associate",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Anaplan",
-   "role": "Data Scientist",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Accurx",
-   "role": "Product Analyst",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Metaview",
-   "role": "Implementation Specialist",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Affirm",
-   "role": "Software Engineer I, Early Career (London)",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Genomics England",
-   "role": "Software Engineer - Python & AWS",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Validus Risk Management",
-   "role": "Python Developer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Castle Trust Bank",
-   "role": "Business Intelligence Analyst",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Quantcast",
+   "company": "Spire Global",
    "role": "Software Engineer",
-   "date": "2026-11-07",
+   "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
    "link": ""
   },
   {
-   "company": "Jack & Jill",
-   "role": "GTM Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Taptap Send",
-   "role": "Analytics Engineer",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Infopro Digital (Barbour ABI)",
+   "company": "EveryMatrix",
    "role": "Data Analyst",
-   "date": "2026-11-07",
+   "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
    "link": ""
   },
   {
-   "company": "Experian",
-   "role": "Business Intelligence & Data Engineering Analyst - FTC",
-   "date": "2026-11-07",
+   "company": "Aberdeenshire Council",
+   "role": "IT Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Peterborough City Council",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "GetGround",
+   "role": "Product Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Encord",
+   "role": "Product Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Foundational",
+   "role": "Full Stack Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nevis Wealth",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nevis Wealth",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Data Scientist - Broker Flow",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Software Engineer - BYG",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Data Scientist - iwocaPay",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Data Scientist - Third-Party Acquisition",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Data Scientist - Broker Terms",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Omnea",
+   "role": "Product Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "BCN Group",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Benefex",
+   "role": "Frontend Engineer (Brain team)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Optima Partners",
+   "role": "Core Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "FundApps",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Pexip",
+   "role": "Software Engineer - Backend",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Gophr",
+   "role": "PHP Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Voy",
+   "role": "Backend Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Helical",
+   "role": "Research Engineer - Post-Training",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "H Company",
+   "role": "Research Engineer, Model Inference & Serving - London",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Wayflyer",
+   "role": "Backend Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Capco",
+   "role": "Data analyst",
+   "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
    "link": ""
@@ -627,6 +627,286 @@
   {
    "company": "PagerDuty",
    "role": "Forward Deployed Engineer (SDEV)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Sony Interactive Entertainment",
+   "role": "Software Engineer, Quality Engineering",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Butternut Box",
+   "role": "Analytics Engineer II",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Spire Global",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "EveryMatrix",
+   "role": "Data Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Aberdeenshire Council",
+   "role": "IT Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Peterborough City Council",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "GetGround",
+   "role": "Product Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Encord",
+   "role": "Product Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Foundational",
+   "role": "Full Stack Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nevis Wealth",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Nevis Wealth",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Data Scientist - Broker Flow",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Software Engineer - BYG",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Data Scientist - iwocaPay",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Data Scientist - Third-Party Acquisition",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "iwoca",
+   "role": "Data Scientist - Broker Terms",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Omnea",
+   "role": "Product Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "BCN Group",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Benefex",
+   "role": "Frontend Engineer (Brain team)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Optima Partners",
+   "role": "Core Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "FundApps",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Pexip",
+   "role": "Software Engineer - Backend",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Gophr",
+   "role": "PHP Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Voy",
+   "role": "Backend Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Helical",
+   "role": "Research Engineer - Post-Training",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "H Company",
+   "role": "Research Engineer, Model Inference & Serving - London",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Wayflyer",
+   "role": "Backend Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Capco",
+   "role": "Data analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Valtech",
+   "role": "Data Engineer - Snowflake",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "GoCardless",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ebury",
+   "role": "Data Analyst - Fincrime Reporting",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ebury",
+   "role": "Data Analyst - Regulatory Reporting",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fin (Intercom)",
+   "role": "Product Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Veriff",
+   "role": "Solutions Engineer - EMEA",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -8042,6 +8322,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T04:34:18+00:00",
- "updated": "2026-11-08T04:34:18+00:00",
- "updated_at": "2026-11-08T04:34:18+00:00"
+ "updated": "2026-11-08T05:03:20+00:00",
+ "updated_at": "2026-11-08T05:03:20+00:00"
 }
