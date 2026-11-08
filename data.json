@@ -1,11 +1,11 @@
 {
- "total": 1117,
+ "total": 1122,
  "portal": 730,
  "email": 350,
- "linkedin": 37,
+ "linkedin": 42,
  "bounced_emails": 23,
- "confirmations": 694,
- "rejections": 66,
+ "confirmations": 703,
+ "rejections": 69,
  "positives": [
   {
    "company": "Curation",
@@ -82,7 +82,7 @@
    "date": "2026-11-08",
    "portal": 172,
    "email": 0,
-   "linkedin": 2
+   "linkedin": 7
   }
  ],
  "recent": [
@@ -1931,6 +1931,46 @@
   {
    "company": "Jobgether",
    "role": "AI Engineer (Agentic Systems)",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Jobgether",
+   "role": "AI Forward Deployed Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Wyndham Hotels & Resorts",
+   "role": "Agentic AI Engineer",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Harnham",
+   "role": "Data Analyst/Scientist",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "MacGregor Black",
+   "role": "Junior Data Analyst",
+   "date": "2026-11-08",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Searchability\u00ae",
+   "role": "Artificial Intelligence Engineer",
    "date": "2026-11-08",
    "type": "linkedin",
    "status": "submitted",
@@ -9345,7 +9385,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-08T11:34:37+00:00",
- "updated": "2026-11-08T11:34:43+00:00",
- "updated_at": "2026-11-08T11:34:43+00:00"
+ "email_stats_updated": "2026-11-08T12:41:46+00:00",
+ "updated": "2026-11-08T12:41:49+00:00",
+ "updated_at": "2026-11-08T12:41:49+00:00"
 }
