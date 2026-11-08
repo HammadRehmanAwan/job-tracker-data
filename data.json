@@ -1,6 +1,6 @@
 {
- "total": 1310,
- "portal": 893,
+ "total": 1334,
+ "portal": 917,
  "email": 350,
  "linkedin": 67,
  "bounced_emails": 23,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 335,
+   "portal": 359,
    "email": 0,
    "linkedin": 32
   }
@@ -3475,6 +3475,198 @@
   {
    "company": "PlanetScale",
    "role": "AI Developer Experience Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Seven Logistics",
+   "role": "Junior IT Systems Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Wise",
+   "role": "API Integration Support Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Fullstory",
+   "role": "Solutions Consultant",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Hex",
+   "role": "Customer Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Midjourney",
+   "role": "QA Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Procurify",
+   "role": "Solutions Consultant",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "WorkOS",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Glia",
+   "role": "Associate, Client Engineer (Vancouver)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Secureframe",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Merge",
+   "role": "Technical Support Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Legora",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/legora/94ba8580-636d-4fe7-becd-fbfe44bb367d"
+  },
+  {
+   "company": "Vanta",
+   "role": "Technical Support Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Airbyte",
+   "role": "Technical Support Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Sigma Computing",
+   "role": "Technical Support Engineer - EMEA",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Pendo",
+   "role": "Software Engineer (AI)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Pendo",
+   "role": "Software Engineer, Full Stack",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "LearnUpon",
+   "role": "Associate Solutions Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Hootsuite",
+   "role": "Software Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Parallel",
+   "role": "Backend Software Engineer II",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Parallel",
+   "role": "Software Engineer II \u2013 Test (Software)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Experian",
+   "role": "Integration Engineer- FHIR API",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Adform",
+   "role": "Solutions Consultant",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Brex",
+   "role": "Data Analyst II",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "SingleStore",
+   "role": "Support Engineer",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -10890,6 +11082,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T21:37:37+00:00",
- "updated": "2026-11-08T21:37:41+00:00",
- "updated_at": "2026-11-08T21:37:41+00:00"
+ "updated": "2026-11-08T21:44:41+00:00",
+ "updated_at": "2026-11-08T21:44:41+00:00"
 }
