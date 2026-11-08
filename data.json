@@ -1,6 +1,6 @@
 {
- "total": 1238,
- "portal": 823,
+ "total": 1276,
+ "portal": 861,
  "email": 350,
  "linkedin": 65,
  "bounced_emails": 23,
@@ -80,7 +80,7 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 265,
+   "portal": 303,
    "email": 0,
    "linkedin": 30
   }
@@ -2899,6 +2899,310 @@
   {
    "company": "Telnyx",
    "role": "Forward Deployed Engineer (Remote)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "retell-ai",
+   "role": "Founders Initiatives, AI Agents",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "cerebras",
+   "role": "Software Engineer, Cluster Deployment",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "commure",
+   "role": "Fullstack Engineer, Ambient AI",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "handshake",
+   "role": "Forward Deployed Engineer, Enterprise AI",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "middesk",
+   "role": "Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "middesk",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "benchling",
+   "role": "Software Engineer, Agents",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "browserbase",
+   "role": "Software Engineer (Dashboard) - San Francisco",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "browserbase",
+   "role": "Software Engineer (Dashboard) - New York",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "doppel",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "doppel",
+   "role": "Software Engineer, Forge",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "kalshi",
+   "role": "Data Scientist (Product)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "ollama",
+   "role": "Software Engineer, Apps & Agents",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "ollama",
+   "role": "Software Engineer, Runtime",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "ollama",
+   "role": "Software Engineer, Cloud",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "outset",
+   "role": "Backend Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "outset",
+   "role": "Data Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "physicalintelligence",
+   "role": "Robotics Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "physicalintelligence",
+   "role": "Forward Deployed Robotics Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "roboflow",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "roboflow",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "skydio",
+   "role": "Autonomy Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "skydio",
+   "role": "Software Engineer - Cloud Simulation & Full-Stack",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "skydio",
+   "role": "Software Engineer - Simulation & Robotics",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "speak",
+   "role": "Machine Learning Engineer, Voice",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "tavus",
+   "role": "AI Researcher (Multimodal Audio/Video Generation)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "unify",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "engineersgate",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "telnyx54",
+   "role": "Forward Deployed Engineer, UKI",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "doordashusa",
+   "role": "Software Engineer, Data Engineering",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "nuro",
+   "role": "Software Engineer, Autonomy Visualization",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "nuro",
+   "role": "Software Engineer, Routing",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "valtech",
+   "role": "Jr. AI Native Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/valtech/jobs/5020030101"
+  },
+  {
+   "company": "handshake",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "modal",
+   "role": "Forward Deployed Engineer - Systems",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "etched",
+   "role": "Inference Software Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "lassie",
+   "role": "Software Engineer, Growth",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Amtis professional Ltd",
+   "role": "Application Engineer",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -10314,6 +10618,6 @@
   }
  ],
  "email_stats_updated": "2026-11-08T18:42:08+00:00",
- "updated": "2026-11-08T18:42:08+00:00",
- "updated_at": "2026-11-08T18:42:08+00:00"
+ "updated": "2026-11-08T19:11:28+00:00",
+ "updated_at": "2026-11-08T19:11:28+00:00"
 }
