@@ -1,11 +1,11 @@
 {
- "total": 1349,
+ "total": 1355,
  "portal": 932,
  "email": 350,
- "linkedin": 67,
+ "linkedin": 73,
  "bounced_emails": 23,
  "confirmations": 969,
- "rejections": 75,
+ "rejections": 77,
  "positives": [
   {
    "company": "Curation",
@@ -25,7 +25,7 @@
   },
   {
    "company": "Civil Service (Higher Statistical Officer, 487028)",
-   "note": "Invited to the Civil Service Numerical Test, due by 11:55pm 14 Nov"
+   "note": "Completed the online tests; still needs to submit the second part of the application by 11:55pm 15 Nov"
   },
   {
    "company": "Rokt",
@@ -91,9 +91,63 @@
    "portal": 374,
    "email": 0,
    "linkedin": 32
+  },
+  {
+   "date": "2026-11-09",
+   "portal": 0,
+   "email": 0,
+   "linkedin": 6
   }
  ],
  "recent": [
+  {
+   "company": "i23 Group",
+   "role": "Full Stack Engineer (AI and agentic workflows)",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Gravitas Recruitment Group (Global) Ltd",
+   "role": "Forward Deployed AI Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Wave Talent",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Harvey Nash",
+   "role": "Solution Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Syrenis",
+   "role": "Solutions Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Estuary",
+   "role": "Solutions Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
   {
    "company": "Livestock Information",
    "role": "Azure Integration Engineer - Fixed Term Contract",
@@ -365,54 +419,6 @@
    "type": "portal",
    "status": "submitted",
    "link": ""
-  },
-  {
-   "company": "Gophr",
-   "role": "PHP Developer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Voy",
-   "role": "Backend Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Helical",
-   "role": "Research Engineer - Post-Training",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "H Company",
-   "role": "Research Engineer, Model Inference & Serving - London",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Wayflyer",
-   "role": "Backend Software Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Capco",
-   "role": "Data analyst",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
   }
  ],
  "applications": [
@@ -550,6 +556,54 @@
    "date": "earlier",
    "type": "email",
    "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "i23 Group",
+   "role": "Full Stack Engineer (AI and agentic workflows)",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Gravitas Recruitment Group (Global) Ltd",
+   "role": "Forward Deployed AI Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Wave Talent",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Harvey Nash",
+   "role": "Solution Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Syrenis",
+   "role": "Solutions Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Estuary",
+   "role": "Solutions Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
    "link": ""
   },
   {
@@ -11209,7 +11263,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-09T02:37:16+00:00",
- "updated": "2026-11-09T02:37:19+00:00",
- "updated_at": "2026-11-09T02:37:19+00:00"
+ "email_stats_updated": "2026-11-09T03:41:08+00:00",
+ "updated": "2026-11-09T03:41:10+00:00",
+ "updated_at": "2026-11-09T03:41:10+00:00"
 }
