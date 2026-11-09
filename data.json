@@ -1,8 +1,8 @@
 {
- "total": 1540,
- "portal": 1102,
+ "total": 1561,
+ "portal": 1122,
  "email": 350,
- "linkedin": 88,
+ "linkedin": 89,
  "bounced_emails": 23,
  "confirmations": 1104,
  "rejections": 120,
@@ -110,9 +110,9 @@
   },
   {
    "date": "2026-11-09",
-   "portal": 133,
+   "portal": 153,
    "email": 0,
-   "linkedin": 22
+   "linkedin": 23
   }
  ],
  "recent": [
@@ -1813,6 +1813,174 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/quantexa/323d5662-e3ea-4b6e-8b3c-5d81a850f86f"
+  },
+  {
+   "company": "the-very-group",
+   "role": "Business Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/the-very-group/j/FA690541BF/"
+  },
+  {
+   "company": "validus-risk-management",
+   "role": "Python Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/validus-risk-management/j/FED5BD6280/"
+  },
+  {
+   "company": "addepar1",
+   "role": "Solutions Consultant",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/addepar1/jobs/8725303002"
+  },
+  {
+   "company": "affirm",
+   "role": "Software Engineer II, Fullstack (International)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/affirm/jobs/7854835003"
+  },
+  {
+   "company": "alphafmc",
+   "role": "UK - BusOps - Junior IT Support Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/alphafmc/jobs/7859436002"
+  },
+  {
+   "company": "artefactlinkedin",
+   "role": "Junior Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8421834002"
+  },
+  {
+   "company": "coreview",
+   "role": "Data Engineer- UK",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/coreview/jobs/4399717009"
+  },
+  {
+   "company": "engineersgate",
+   "role": "Quantitative Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/engineersgate/jobs/8233715"
+  },
+  {
+   "company": "dojo",
+   "role": "Salesforce DevOps Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/dojo/jobs/4940058101"
+  },
+  {
+   "company": "winton",
+   "role": "Quantitative Developer/Researcher, Graduate",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/winton/jobs/4986765101"
+  },
+  {
+   "company": "541",
+   "role": "Reporting & Data Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/541/jobs/8885630002"
+  },
+  {
+   "company": "Entain",
+   "role": "Data Scientist",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Entain/744000159850459"
+  },
+  {
+   "company": "Experian",
+   "role": "Data Scientist \u2013 GenAI & AI Engineering-4 month secondment",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Experian/744000160591425"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "C++ Software Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352586"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Backend Software Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352544"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Junior Backend Engineer with DevOps",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999679075976"
+  },
+  {
+   "company": "nexthink",
+   "role": "Solution Consultant (Pre-sales)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/nexthink/744000139952751"
+  },
+  {
+   "company": "Playtech",
+   "role": "AI Solution Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Playtech/744000152358859"
+  },
+  {
+   "company": "Shawbrook",
+   "role": "Application Support Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/shawbrook/744000156563957"
+  },
+  {
+   "company": "thought-machine",
+   "role": "Cloud Support Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/thought-machine/ef8fa6ff-fa9b-44db-9f31-b644a3ad2cf7"
+  },
+  {
+   "company": "thought-machine",
+   "role": "Software Engineer (Infrastructure)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/thought-machine/8a5af367-976d-40a7-aa27-ea5e6cae3136"
   },
   {
    "company": "Livestock Information",
@@ -12760,6 +12928,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T16:34:53+00:00",
- "updated": "2026-11-09T16:34:57+00:00",
- "updated_at": "2026-11-09T16:34:57+00:00"
+ "updated": "2026-11-09T17:33:58+00:00",
+ "updated_at": "2026-11-09T17:33:58+00:00"
 }
