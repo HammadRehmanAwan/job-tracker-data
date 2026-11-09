@@ -1,6 +1,6 @@
 {
- "total": 1483,
- "portal": 1045,
+ "total": 1516,
+ "portal": 1078,
  "email": 350,
  "linkedin": 88,
  "bounced_emails": 23,
@@ -106,7 +106,7 @@
   },
   {
    "date": "2026-11-09",
-   "portal": 76,
+   "portal": 109,
    "email": 0,
    "linkedin": 22
   }
@@ -1353,6 +1353,270 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/filtronic/j/56DC886639/"
+  },
+  {
+   "company": "capitex",
+   "role": "Junior Fraud Analyst (Night Shift)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/capitex/j/7E9E3DCB7C/"
+  },
+  {
+   "company": "commify",
+   "role": "Software Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/commify/j/00FA9CD965/"
+  },
+  {
+   "company": "eventogy",
+   "role": "Client Services & Technical Support Specialist - Days",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/eventogy/j/9EF3582CCC/"
+  },
+  {
+   "company": "fuseenergy",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/fuseenergy/j/905963A1DE/"
+  },
+  {
+   "company": "g-mass",
+   "role": "SFTR Business Analyst / Subject Matter Expert",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/g-mass/j/DAAE2B294B/"
+  },
+  {
+   "company": "g-mass",
+   "role": "eFX Business Analyst (Front Office) - Liquidity Aggregation Platform Migration",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/g-mass/j/60AB588023/"
+  },
+  {
+   "company": "habitat-energy",
+   "role": "Software Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/habitat-energy/j/B65B584D3B/"
+  },
+  {
+   "company": "huble",
+   "role": "Solutions Consultant (UK)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/huble/j/9D9B5D1894/"
+  },
+  {
+   "company": "samsara",
+   "role": "Implementation Consultant",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/samsara/jobs/8359108"
+  },
+  {
+   "company": "ripjar",
+   "role": "DevOps Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/ripjar/j/F3990011C2/"
+  },
+  {
+   "company": "NHS",
+   "role": "Healthset Analyst \u2013 My Chart (Patient Portal)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9153-26-0988"
+  },
+  {
+   "company": "NHS",
+   "role": "Healthset Analyst \u2013 Beacon (Oncology)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9153-26-0987"
+  },
+  {
+   "company": "NHS / University Hospitals Dorset NHS",
+   "role": "Healthset Analyst \u2013 Ambulatory (Outpatients)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9153-26-0986"
+  },
+  {
+   "company": "NHS / University Hospitals Dorset NHS",
+   "role": "Healthset Analyst \u2013 Inpatient Documentation and Stork (Maternity)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9153-26-0985"
+  },
+  {
+   "company": "NHS / University Hospitals Dorset NHS",
+   "role": "Healthset Analyst \u2013 Optime & Anaesthesia (Theatres)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9153-26-0982"
+  },
+  {
+   "company": "NHS / Calderdale and Huddersfield NHS Foundation Trust",
+   "role": "Cyber Security Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9372-26-0538"
+  },
+  {
+   "company": "NHS / Cambridge University Hospitals NHS Foundation Trust",
+   "role": "Data and AI Research Governance Coordinator",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9180-26-1376"
+  },
+  {
+   "company": "NHS / Velindre University NHS Trust Ad",
+   "role": "Advanced Data Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C8120-26-0103"
+  },
+  {
+   "company": "bvnk",
+   "role": "Financial Crime Intelligence Analyst - Fiat",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/bvnk/jobs/4986330101"
+  },
+  {
+   "company": "envalior",
+   "role": "Front End Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/envalior/j/8B339CBF7E/"
+  },
+  {
+   "company": "greenvolt",
+   "role": "Performance Monitoring & Optimization Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/greenvolt/j/0510DF84E0/"
+  },
+  {
+   "company": "hudl",
+   "role": "Software Engineer II - Embedded Platform",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hudl/jobs/8325583"
+  },
+  {
+   "company": "modulrfinance",
+   "role": "KYC Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/modulrfinance/jobs/8783624002"
+  },
+  {
+   "company": "sumup",
+   "role": "Data Platform Engineer (Mid-Level)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/sumup/jobs/8364212002"
+  },
+  {
+   "company": "alchemy",
+   "role": "Customer Product Engineer, EMEA",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/alchemy/219eea0d-a9f4-4ad4-93b5-8e9fce60275f"
+  },
+  {
+   "company": "alma",
+   "role": "Business Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/alma/de629b5a-4379-42c6-a7b5-bdefe6de2f2e"
+  },
+  {
+   "company": "applied",
+   "role": "Solution Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/applied/ea3df406-c58b-4f8a-80e0-5fb293e7a306"
+  },
+  {
+   "company": "applied",
+   "role": "Solution Engineer - Tooling (Vehicle Intelligence)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/applied/317c9f7b-9ecf-4a56-a712-fb596a872e78"
+  },
+  {
+   "company": "clera",
+   "role": "Product Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Clera/8a5658ad-a625-4d7e-b91f-e996a09c1f63"
+  },
+  {
+   "company": "docplanner",
+   "role": "Junior Software Engineer \u2013 Early Career (Strong Problem solving & Coding Focus) - 100% Remote within Spain",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/docplanner/7b4577e9-a005-4a0a-bd2d-8213042380b2"
+  },
+  {
+   "company": "brex",
+   "role": "Implementation Consultant, Commercial",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/brex/jobs/8536988002"
+  },
+  {
+   "company": "City of York Council",
+   "role": "Project Officer / Business Analyst (Adult Social Care Improvement Programme)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "i23 Group",
+   "role": "Full Stack Agentic Engineer \u2013 additional details form",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://forms.gle/VBoRqtF4ghGZ6A1Q6"
   },
   {
    "company": "Livestock Information",
@@ -12300,6 +12564,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T14:36:47+00:00",
- "updated": "2026-11-09T14:36:48+00:00",
- "updated_at": "2026-11-09T14:36:48+00:00"
+ "updated": "2026-11-09T15:04:44+00:00",
+ "updated_at": "2026-11-09T15:04:44+00:00"
 }
