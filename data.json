@@ -1,6 +1,6 @@
 {
- "total": 1573,
- "portal": 1134,
+ "total": 1598,
+ "portal": 1159,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -110,7 +110,7 @@
   },
   {
    "date": "2026-11-09",
-   "portal": 165,
+   "portal": 190,
    "email": 0,
    "linkedin": 23
   }
@@ -2077,6 +2077,206 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/xdesign/jobs/4921664101"
+  },
+  {
+   "company": "clearroute",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://clearroute.teamtailor.com/jobs/8430251-full-stack-engineer"
+  },
+  {
+   "company": "murphy",
+   "role": "Product Data Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.getmurphy.ai/jobs/8528513-product-data-analyst"
+  },
+  {
+   "company": "murphy",
+   "role": "Data Scientist",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.getmurphy.ai/jobs/8147783-data-scientist"
+  },
+  {
+   "company": "nimbleapproach",
+   "role": "Databricks Data Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.nimbleapproach.com/jobs/7938883-databricks-data-engineer"
+  },
+  {
+   "company": "orderyoyo",
+   "role": "Commercial Data Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://orderyoyo.teamtailor.com/jobs/8539714-commercial-data-analyst"
+  },
+  {
+   "company": "savills",
+   "role": "Full Stack Application Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.savills.com/jobs/8645737-full-stack-application-developer"
+  },
+  {
+   "company": "waterstons-1741268672",
+   "role": "Infrastructure and Network Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.waterstons.com/jobs/8001101-infrastructure-and-network-engineer"
+  },
+  {
+   "company": "BoschGroup",
+   "role": "Application Engineer Graduate",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159435464"
+  },
+  {
+   "company": "BoschGroup",
+   "role": "Graduate AI & Automation Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159172560"
+  },
+  {
+   "company": "BoschGroup",
+   "role": "Technical Support Engineer ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158757120"
+  },
+  {
+   "company": "Version1",
+   "role": "QA/Test Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Version1/744000154026761"
+  },
+  {
+   "company": "evervault",
+   "role": "Security Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/evervault/42d4a356-e125-40fe-898c-9dfec198f007"
+  },
+  {
+   "company": "arcanaanalytics",
+   "role": "Data Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/arcanaanalytics/jobs/4110676009"
+  },
+  {
+   "company": "blockchain",
+   "role": "Infrastructure Security Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/blockchain/jobs/7792540"
+  },
+  {
+   "company": "coreview",
+   "role": "Cloud Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/coreview/jobs/4439375009"
+  },
+  {
+   "company": "dept",
+   "role": "AI Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/dept/jobs/8232711"
+  },
+  {
+   "company": "dvtrading",
+   "role": "C++ Software Developer (DV Equities)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4695141005"
+  },
+  {
+   "company": "dvtrading",
+   "role": "C++ Software Engineer (DV Commodities - London)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4721260005"
+  },
+  {
+   "company": "dvtrading",
+   "role": "Quantitative Software Engineer (DV Commodities)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4744284005"
+  },
+  {
+   "company": "gitlab",
+   "role": "Backend Engineer, Source Code: Repository Services (Ruby)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/gitlab/jobs/8912709002"
+  },
+  {
+   "company": "mangroup",
+   "role": "Python Software Engineer - Data Infrastructure",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mangroup/jobs/4989672101"
+  },
+  {
+   "company": "mangroup",
+   "role": "Security Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mangroup/jobs/4997726101"
+  },
+  {
+   "company": "mangroup",
+   "role": "Technical Support Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mangroup/jobs/5008805101"
+  },
+  {
+   "company": "ohme",
+   "role": "Software Engineer ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/ohme/jobs/5007813101"
+  },
+  {
+   "company": "goodlord",
+   "role": "IT Support & Security Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/goodlord/c5a55540-7922-42c2-a9ac-3b42cf50baec"
   },
   {
    "company": "Livestock Information",
@@ -13024,6 +13224,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T18:32:47+00:00",
- "updated": "2026-11-09T18:32:47+00:00",
- "updated_at": "2026-11-09T18:32:47+00:00"
+ "updated": "2026-11-09T19:38:21+00:00",
+ "updated_at": "2026-11-09T19:38:21+00:00"
 }
