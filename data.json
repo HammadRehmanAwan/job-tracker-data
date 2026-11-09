@@ -4,8 +4,8 @@
  "email": 350,
  "linkedin": 88,
  "bounced_emails": 23,
- "confirmations": 1059,
- "rejections": 110,
+ "confirmations": 1071,
+ "rejections": 113,
  "positives": [
   {
    "company": "Curation",
@@ -42,9 +42,13 @@
   {
    "company": "ITC",
    "note": "Sourcing specialist Krishama Panchamiya asked for visa status, location, notice period, expected compensation, an updated CV, and a time slot to speak today or tomorrow about the Python Developer role"
+  },
+  {
+   "company": "i23",
+   "note": "Dr Salman Valibeik, Chief Science Officer, asked him to complete a short form on salary expectations, notice period, right to work in the UK, and availability for the Full Stack Agentic Engineer role"
   }
  ],
- "positive_count": 9,
+ "positive_count": 10,
  "by_day": [
   {
    "date": "earlier",
@@ -12295,7 +12299,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-09T13:34:27+00:00",
- "updated": "2026-11-09T13:34:27+00:00",
- "updated_at": "2026-11-09T13:34:27+00:00"
+ "email_stats_updated": "2026-11-09T14:36:47+00:00",
+ "updated": "2026-11-09T14:36:48+00:00",
+ "updated_at": "2026-11-09T14:36:48+00:00"
 }
