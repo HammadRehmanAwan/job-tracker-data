@@ -1,6 +1,6 @@
 {
- "total": 1598,
- "portal": 1159,
+ "total": 1621,
+ "portal": 1182,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -110,7 +110,7 @@
   },
   {
    "date": "2026-11-09",
-   "portal": 190,
+   "portal": 213,
    "email": 0,
    "linkedin": 23
   }
@@ -2277,6 +2277,190 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/goodlord/c5a55540-7922-42c2-a9ac-3b42cf50baec"
+  },
+  {
+   "company": "Fospha",
+   "role": "Graduate Customer Intelligence Executive",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "informed-solutions",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/informed-solutions/j/3CE91E9192/"
+  },
+  {
+   "company": "ki-insurance",
+   "role": "Associate Modern Workplace Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/ki-insurance/j/593005748A/"
+  },
+  {
+   "company": "leena-ai",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/leena-ai/j/44B50CE019/"
+  },
+  {
+   "company": "lmax",
+   "role": "Software Developer (Java)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/lmax/j/266F653A92/"
+  },
+  {
+   "company": "our-future-health",
+   "role": "Data Engineer (NHS Data)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/our-future-health/j/4872AAC242/"
+  },
+  {
+   "company": "solirius-consulting-1",
+   "role": "Automation Engineer (SDET)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/solirius-consulting-1/j/7531BBB945/"
+  },
+  {
+   "company": "solirius-consulting-1",
+   "role": "AI Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/solirius-consulting-1/j/B7C9084A83/"
+  },
+  {
+   "company": "validus-risk-management",
+   "role": "User Experience Engineer (React / TypeScript)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/validus-risk-management/j/F1BBA29D56/"
+  },
+  {
+   "company": "anaplan",
+   "role": "Security Engineer III",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/anaplan/jobs/8881890002"
+  },
+  {
+   "company": "arcanaanalytics",
+   "role": "Portfolio Analytics Specialist",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/arcanaanalytics/jobs/4407977009"
+  },
+  {
+   "company": "brainlabs",
+   "role": "Security Operations, Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/brainlabs/jobs/4965817101"
+  },
+  {
+   "company": "butternutbox",
+   "role": "Analytics Engineer II",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/butternutbox/jobs/8911439002"
+  },
+  {
+   "company": "gocardless",
+   "role": "Site Reliability Engineer II",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/gocardless/jobs/7996584"
+  },
+  {
+   "company": "jumptrading",
+   "role": "DevOps/High Performance Trading System Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/jumptrading/jobs/6004172"
+  },
+  {
+   "company": "ocadogroup",
+   "role": "Amazon Customer Connect & Service Platform Specialist",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/ocadogroup/jobs/4973939101"
+  },
+  {
+   "company": "sonyinteractiveentertainmentglobal",
+   "role": "Network Engineer (Game Support)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6206009004"
+  },
+  {
+   "company": "wppmedia",
+   "role": "Business Analyst - 12 Month FTC",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/wppmedia/jobs/5181217008"
+  },
+  {
+   "company": "asos",
+   "role": "iOS Engineer (Customer & Marketing)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/ASOS/744000124904201"
+  },
+  {
+   "company": "ogury",
+   "role": "Technical Operations Engineer - Android",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/ogury/743999668695932"
+  },
+  {
+   "company": "shawbrook",
+   "role": "TM1 Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/shawbrook/744000145467398"
+  },
+  {
+   "company": "griffin",
+   "role": "Security and Compliance Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/griffin/944d2ddc-8980-4aef-813e-afcb7efa13c0"
+  },
+  {
+   "company": "Monday.com",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/monday.com/296e8f84-0b6e-4a05-b74b-25126d2c3d0c"
   },
   {
    "company": "Livestock Information",
@@ -13224,6 +13408,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T20:37:28+00:00",
- "updated": "2026-11-09T20:37:32+00:00",
- "updated_at": "2026-11-09T20:37:32+00:00"
+ "updated": "2026-11-09T21:18:37+00:00",
+ "updated_at": "2026-11-09T21:18:37+00:00"
 }
