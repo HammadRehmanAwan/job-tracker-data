@@ -1,11 +1,11 @@
 {
- "total": 1408,
+ "total": 1418,
  "portal": 985,
  "email": 350,
- "linkedin": 73,
+ "linkedin": 83,
  "bounced_emails": 23,
- "confirmations": 969,
- "rejections": 77,
+ "confirmations": 984,
+ "rejections": 78,
  "positives": [
   {
    "company": "Curation",
@@ -96,7 +96,7 @@
    "date": "2026-11-09",
    "portal": 15,
    "email": 0,
-   "linkedin": 8
+   "linkedin": 18
   }
  ],
  "recent": [
@@ -285,6 +285,86 @@
    "link": ""
   },
   {
+   "company": "Techaxis, Inc",
+   "role": "Python Developer with AI exp",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Referment",
+   "role": "Software Engineer (BE208A6)",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "RedRock Resourcing",
+   "role": "Python Developer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "VirtueTech Recruitment Group",
+   "role": "Python Developer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Spectrum IT Recruitment",
+   "role": "Graduate Software Developer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Advanced Resource Managers",
+   "role": "Junior Data Scientist",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Gravitas Recruitment Group (Global) Ltd",
+   "role": "Data Scientist",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Finatal",
+   "role": "AI / Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "INFINIT",
+   "role": "Full Stack Software Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ryan",
+   "role": "Full Stack AI Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
    "company": "Livestock Information",
    "role": "Azure Integration Engineer - Fixed Term Contract",
    "date": "2026-11-08",
@@ -335,86 +415,6 @@
   {
    "company": "Livestock Information",
    "role": "Azure Data Engineer - Fixed Term Contract",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Runware",
-   "role": "Creative Engineer / AI Creative Technologist",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Incommunities",
-   "role": "Sustainability Data & Carbon Analyst",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Snyk",
-   "role": "AI Systems Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "PagerDuty",
-   "role": "Forward Deployed Engineer (SDEV)",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Sony Interactive Entertainment",
-   "role": "Software Engineer, Quality Engineering",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Butternut Box",
-   "role": "Analytics Engineer II",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Spire Global",
-   "role": "Software Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "EveryMatrix",
-   "role": "Data Analyst",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Aberdeenshire Council",
-   "role": "IT Analyst",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Peterborough City Council",
-   "role": "Data Engineer",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -739,6 +739,86 @@
    "role": "Customer Support Engineer",
    "date": "2026-11-09",
    "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Techaxis, Inc",
+   "role": "Python Developer with AI exp",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Referment",
+   "role": "Software Engineer (BE208A6)",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "RedRock Resourcing",
+   "role": "Python Developer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "VirtueTech Recruitment Group",
+   "role": "Python Developer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Spectrum IT Recruitment",
+   "role": "Graduate Software Developer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Advanced Resource Managers",
+   "role": "Junior Data Scientist",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Gravitas Recruitment Group (Global) Ltd",
+   "role": "Data Scientist",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Finatal",
+   "role": "AI / Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "INFINIT",
+   "role": "Full Stack Software Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ryan",
+   "role": "Full Stack AI Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
    "status": "submitted",
    "link": ""
   },
@@ -11687,7 +11767,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-09T03:41:08+00:00",
- "updated": "2026-11-09T04:07:07+00:00",
- "updated_at": "2026-11-09T04:07:07+00:00"
+ "email_stats_updated": "2026-11-09T04:35:03+00:00",
+ "updated": "2026-11-09T04:35:06+00:00",
+ "updated_at": "2026-11-09T04:35:06+00:00"
 }
