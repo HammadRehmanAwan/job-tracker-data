@@ -4,8 +4,8 @@
  "email": 350,
  "linkedin": 88,
  "bounced_emails": 23,
- "confirmations": 1085,
- "rejections": 117,
+ "confirmations": 1104,
+ "rejections": 120,
  "positives": [
   {
    "company": "Curation",
@@ -46,9 +46,13 @@
   {
    "company": "i23",
    "note": "Dr Salman Valibeik, Chief Science Officer, asked him to complete a short form on salary expectations, notice period, right to work in the UK, and availability for the Full Stack Agentic Engineer role"
+  },
+  {
+   "company": "Leep Group",
+   "note": "Sonia Bhambra, Recruitment Manager, spoke with him today and asked for his CV in Word format; he sent it"
   }
  ],
- "positive_count": 10,
+ "positive_count": 11,
  "by_day": [
   {
    "date": "earlier",
@@ -12755,7 +12759,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-09T15:32:17+00:00",
- "updated": "2026-11-09T16:30:18+00:00",
- "updated_at": "2026-11-09T16:30:18+00:00"
+ "email_stats_updated": "2026-11-09T16:34:53+00:00",
+ "updated": "2026-11-09T16:34:57+00:00",
+ "updated_at": "2026-11-09T16:34:57+00:00"
 }
