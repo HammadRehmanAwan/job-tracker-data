@@ -1,8 +1,8 @@
 {
- "total": 1423,
- "portal": 988,
+ "total": 1454,
+ "portal": 1016,
  "email": 350,
- "linkedin": 85,
+ "linkedin": 88,
  "bounced_emails": 23,
  "confirmations": 997,
  "rejections": 78,
@@ -88,15 +88,15 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 412,
+   "portal": 411,
    "email": 0,
-   "linkedin": 30
+   "linkedin": 31
   },
   {
    "date": "2026-11-09",
-   "portal": 18,
+   "portal": 47,
    "email": 0,
-   "linkedin": 20
+   "linkedin": 22
   }
  ],
  "recent": [
@@ -405,20 +405,20 @@
    "link": ""
   },
   {
-   "company": "Livestock Information",
-   "role": "Azure Integration Engineer - Fixed Term Contract",
-   "date": "2026-11-08",
+   "company": "bcbgroup",
+   "role": "Analytics Engineer",
+   "date": "2026-11-09",
    "type": "portal",
    "status": "submitted",
-   "link": ""
+   "link": "https://job-boards.greenhouse.io/bcbgroup/jobs/5001599101"
   },
   {
-   "company": "Neo4j",
-   "role": "Software Engineer - Platform Security",
-   "date": "2026-11-08",
+   "company": "clickhouse",
+   "role": "Technical Customer Support Engineer - EMEA",
+   "date": "2026-11-09",
    "type": "portal",
    "status": "submitted",
-   "link": ""
+   "link": "https://jobs.ashbyhq.com/clickhouse/fd8daa96-8c56-4f15-9817-ce55e97a8964"
   }
  ],
  "applications": [
@@ -861,6 +861,254 @@
    "type": "linkedin",
    "status": "submitted",
    "link": ""
+  },
+  {
+   "company": "bcbgroup",
+   "role": "Analytics Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/bcbgroup/jobs/5001599101"
+  },
+  {
+   "company": "clickhouse",
+   "role": "Technical Customer Support Engineer - EMEA",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/clickhouse/fd8daa96-8c56-4f15-9817-ce55e97a8964"
+  },
+  {
+   "company": "eloquentai",
+   "role": "AI Engineer, London",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/eloquentai/b636810c-e01b-4f9b-8aed-9a0856fee42e"
+  },
+  {
+   "company": "f40d14d9-07f4-403d-802b-37453deccf0a",
+   "role": "Software Engineer II - SMS International (Klaviyo)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/4a03a034-4fd9-493e-9574-2614b788288f"
+  },
+  {
+   "company": "olympus",
+   "role": "Founding Product Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/olympus/90538cde-aa0b-48d7-8fea-bb5af1b08fa8"
+  },
+  {
+   "company": "neat",
+   "role": "Graduate Software Engineer Product Design & Engineering",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.neat.no/jobs/5168435-graduate-software-engineer"
+  },
+  {
+   "company": "neat",
+   "role": "Graduate / Junior Dev Ops / Platform Engineer Product Design & Engineering",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.neat.no/jobs/7808040-graduate-junior-dev-ops-platform-engineer"
+  },
+  {
+   "company": "seriosgroup",
+   "role": "Product Engineer - Future Opportunities Data Solutions",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.seriosgroup.com/jobs/8548027-product-engineer-future-opportunities"
+  },
+  {
+   "company": "seriosgroup",
+   "role": "Data Solutions Engineer - Future Opportunities Data Engineering",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.seriosgroup.com/jobs/8548012-data-solutions-engineer-future-opportunities"
+  },
+  {
+   "company": "deltacapita",
+   "role": "Business Analyst - Customer Complaints Transformation",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careersdeltacapita.recruitee.com/o/business-analyst-customer-complaints-transformation-1"
+  },
+  {
+   "company": "dash0",
+   "role": "Commercial Solutions Engineer - EMEA",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/dash0/88dc8222-497c-4d58-ad5b-e862a6602c51"
+  },
+  {
+   "company": "dash0",
+   "role": "Enterprise Solutions Engineer - EMEA",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/dash0/d7fa3468-1e5c-4109-bdcf-0fa0f2f9c15b"
+  },
+  {
+   "company": "dash0",
+   "role": "Commercial Solutions Engineer - DACH",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/dash0/8a81c108-22ff-44b5-995e-e1806aad4fde"
+  },
+  {
+   "company": "doctolib",
+   "role": "Workday Integration & Analytics Engineer - Paris (x/f/m)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/doctolib/d90b8bf9-584c-49e9-988d-068971f44922"
+  },
+  {
+   "company": "mollie",
+   "role": "Workforce & Business Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/mollie/f7d6cb62-a540-4cd7-b916-624e77740bba"
+  },
+  {
+   "company": "notion",
+   "role": "Solutions Consultant, Mid Market, MEA (Middle East Africa)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/notion/499cda6b-522b-4596-8a4c-30efbb1e6b2a"
+  },
+  {
+   "company": "almedia",
+   "role": "Junior Engineer (Typescript / Python / DevOps / AI)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/almedia/ad0fe4c3-0440-4a09-b78b-6f739c3d917d"
+  },
+  {
+   "company": "duna",
+   "role": "(Founding) Solutions Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/duna/f26348e8-624d-488f-bbe5-c8e973a403f0"
+  },
+  {
+   "company": "cohere",
+   "role": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a"
+  },
+  {
+   "company": "constructor",
+   "role": "Integration Engineer (AMER)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/constructor/90541a3e-415e-4661-a0e0-96d450d46368"
+  },
+  {
+   "company": "Gumloop",
+   "role": "Solutions Engineer (Pre-Sales)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Gumloop/94b10dd5-8498-4339-8b23-01bed81b2fc2"
+  },
+  {
+   "company": "bland",
+   "role": "Agent Solutions Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/bland/824f7ebb-6d71-4484-bc7d-a2bcd4441a70"
+  },
+  {
+   "company": "brainbaselabs",
+   "role": "Forward Deployed Engineer, Brainbase Embed",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/brainbaselabs/fb10369f-84a1-481a-872f-bbcfe9f075a0"
+  },
+  {
+   "company": "claimsorted",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/claimsorted/d74c2989-364b-464e-b748-2270c61d72d4"
+  },
+  {
+   "company": "brainco",
+   "role": "AI/ML Engineer, 2027 New Grad",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd"
+  },
+  {
+   "company": "brainco",
+   "role": "AI Security Engineer, 2027 New Grad",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030"
+  },
+  {
+   "company": "Braintrust",
+   "role": "Platform Support Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Braintrust/15f6868c-4172-4568-b39f-d9047c092ca8"
+  },
+  {
+   "company": "cohere",
+   "role": "Forward Deployed Engineer, Inference",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09"
+  },
+  {
+   "company": "Crusoe",
+   "role": "Engineer, Load Integration & Model Development",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Crusoe/9e569e68-2026-4c5d-98d3-2b7579182299"
+  },
+  {
+   "company": "Noir",
+   "role": ".NET Developer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4484691327/"
+  },
+  {
+   "company": "AiCore",
+   "role": "Associate AI Consultant",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4486183892/"
   },
   {
    "company": "Livestock Information",
@@ -2426,7 +2674,7 @@
    "company": "Spectrum IT Recruitment",
    "role": "AI Software Engineer",
    "date": "2026-11-08",
-   "type": "portal",
+   "type": "linkedin",
    "status": "submitted",
    "link": ""
   },
@@ -11808,6 +12056,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T05:40:21+00:00",
- "updated": "2026-11-09T05:40:21+00:00",
- "updated_at": "2026-11-09T05:40:21+00:00"
+ "updated": "2026-11-09T06:08:54+00:00",
+ "updated_at": "2026-11-09T06:08:55+00:00"
 }
