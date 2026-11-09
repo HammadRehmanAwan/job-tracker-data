@@ -1,6 +1,6 @@
 {
- "total": 1561,
- "portal": 1122,
+ "total": 1573,
+ "portal": 1134,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -110,7 +110,7 @@
   },
   {
    "date": "2026-11-09",
-   "portal": 153,
+   "portal": 165,
    "email": 0,
    "linkedin": 23
   }
@@ -1981,6 +1981,102 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/thought-machine/8a5af367-976d-40a7-aa27-ea5e6cae3136"
+  },
+  {
+   "company": "and-digital",
+   "role": "Site Reliability Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/and-digital/j/0505958F36/"
+  },
+  {
+   "company": "fuseenergy",
+   "role": "HPC Network Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/fuseenergy/j/315DB9F750/"
+  },
+  {
+   "company": "ki-insurance",
+   "role": "Actuarial Data Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/ki-insurance/j/61CC72E60F/"
+  },
+  {
+   "company": "lmax",
+   "role": "Security Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/lmax/j/67BB68A660/"
+  },
+  {
+   "company": "fanaticsfbg",
+   "role": "Software Engineer III - Data - FMX",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/fanaticsfbg/jobs/4397142009"
+  },
+  {
+   "company": "nebius",
+   "role": "ML Infrastructure Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/nebius/jobs/4864833101"
+  },
+  {
+   "company": "thehutgroup",
+   "role": "Multi-Skilled Maintenance Engineer (Electrical)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/thehutgroup/jobs/4917926101"
+  },
+  {
+   "company": "valtech",
+   "role": "Platform Database Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/valtech/jobs/4831263101"
+  },
+  {
+   "company": "via",
+   "role": "Algorithm Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/via/jobs/8781275002"
+  },
+  {
+   "company": "watershed",
+   "role": "Customer Success Engineer, Bioinformatics",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/watershed/jobs/6216631003"
+  },
+  {
+   "company": "winton",
+   "role": "Quantitative Developer/Researcher, Commodities",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/winton/jobs/4875778101"
+  },
+  {
+   "company": "xdesign",
+   "role": "Cloud Engineer - iGaming",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/xdesign/jobs/4921664101"
   },
   {
    "company": "Livestock Information",
@@ -12928,6 +13024,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T17:35:44+00:00",
- "updated": "2026-11-09T17:35:45+00:00",
- "updated_at": "2026-11-09T17:35:45+00:00"
+ "updated": "2026-11-09T18:02:31+00:00",
+ "updated_at": "2026-11-09T18:02:31+00:00"
 }
