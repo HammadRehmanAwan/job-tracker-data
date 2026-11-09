@@ -1,6 +1,6 @@
 {
- "total": 1621,
- "portal": 1182,
+ "total": 1649,
+ "portal": 1210,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -110,7 +110,7 @@
   },
   {
    "date": "2026-11-09",
-   "portal": 213,
+   "portal": 241,
    "email": 0,
    "linkedin": 23
   }
@@ -2461,6 +2461,230 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/monday.com/296e8f84-0b6e-4a05-b74b-25126d2c3d0c"
+  },
+  {
+   "company": "blockchain",
+   "role": "Back-End Engineer, Trading",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/blockchain/jobs/8066832"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Software Engineer II - Android",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8202481"
+  },
+  {
+   "company": "fanduel",
+   "role": "Data API Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/fanduel/jobs/7300157"
+  },
+  {
+   "company": "fanduel",
+   "role": "Software Engineer - Core Marketing Platforms",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/fanduel/jobs/8112084"
+  },
+  {
+   "company": "insight",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/insight/jobs/4965743101"
+  },
+  {
+   "company": "mangroup",
+   "role": "Quantitative Developer - Systematic ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mangroup/jobs/4844843101"
+  },
+  {
+   "company": "mangroup",
+   "role": "SailPoint Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mangroup/jobs/4997703101"
+  },
+  {
+   "company": "wpp",
+   "role": "IAM Engineer - SSO",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/wpp/jobs/8583528002"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "PHP Developer with Laravel",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999680002323"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Android Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678938607"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Full Stack/Backend Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678463891"
+  },
+  {
+   "company": "Talan",
+   "role": "Murex Workflows Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Talan/744000154387109"
+  },
+  {
+   "company": "Talan",
+   "role": "C# Developer - Redis",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Talan/744000153223709"
+  },
+  {
+   "company": "Talan",
+   "role": "Front End developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Talan/744000151325130"
+  },
+  {
+   "company": "fractile",
+   "role": "Infrastructure Software Engineering \u2013 Platform & Build",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/fractile/d819ea24-caf4-4b42-a2c3-0efde6a540af"
+  },
+  {
+   "company": "harmonic",
+   "role": "Software Engineer, Infrastructure",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Harmonic/bd097815-97f5-49ec-aacc-2f62b637bc1d"
+  },
+  {
+   "company": "nevis",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/nevis/e1c7732f-5d15-4c68-888d-fe223188c786"
+  },
+  {
+   "company": "nevis",
+   "role": "iOS Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/nevis/2af5014e-31c6-4d5b-ac8b-449e4436186f"
+  },
+  {
+   "company": "relay",
+   "role": "Optimisation Engineer, Routing & Scheduling",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/relay/5b2712d1-89ea-4fad-8498-d0ac1dc3a8ed"
+  },
+  {
+   "company": "solve.ai",
+   "role": "Software Engineer ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/solve.ai/db9aa95b-d1cd-4d2f-80f9-6a13bc0ca87e"
+  },
+  {
+   "company": "solve.ai",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/solve.ai/1179e1af-6930-4271-b4b5-75294c13f806"
+  },
+  {
+   "company": "sophos",
+   "role": "Incident Response Engineer 2",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sophos/7ddcc9dc-f415-4ef5-9bd7-ed28e42fd8e4"
+  },
+  {
+   "company": "techtorch",
+   "role": "Forward Deployed Engineer ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/techtorch/878eaa7b-6ec8-42f4-974e-fde68db3582d"
+  },
+  {
+   "company": "TransFICC",
+   "role": "Network Infrastructure Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/transficc/198592a0-a995-4bbd-a3e0-25707ba03e7a"
+  },
+  {
+   "company": "v7labs.com",
+   "role": "Product Engineer (Backend)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/v7labs.com/abd684f4-7aff-43be-b031-ff835061f2c6"
+  },
+  {
+   "company": "v7labs.com",
+   "role": "Forward Deployed Engineer ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/v7labs.com/7f45f354-dec1-4315-89ca-0706c84c5197"
+  },
+  {
+   "company": "voleon",
+   "role": "Site Reliability Engineer ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/voleon/5fa35ccb-35bd-430d-bbaf-6fd86f9debac"
+  },
+  {
+   "company": "xyz-reality",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/xyz-reality/42120298-cac8-4dc8-b3a9-cddf5df93eb2"
   },
   {
    "company": "Livestock Information",
@@ -13408,6 +13632,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T22:36:23+00:00",
- "updated": "2026-11-09T22:36:51+00:00",
- "updated_at": "2026-11-09T22:36:51+00:00"
+ "updated": "2026-11-09T23:32:31+00:00",
+ "updated_at": "2026-11-09T23:32:31+00:00"
 }
