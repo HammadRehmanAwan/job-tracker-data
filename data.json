@@ -1,6 +1,6 @@
 {
- "total": 1516,
- "portal": 1078,
+ "total": 1536,
+ "portal": 1098,
  "email": 350,
  "linkedin": 88,
  "bounced_emails": 23,
@@ -106,7 +106,7 @@
   },
   {
    "date": "2026-11-09",
-   "portal": 109,
+   "portal": 129,
    "email": 0,
    "linkedin": 22
   }
@@ -1617,6 +1617,166 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://forms.gle/VBoRqtF4ghGZ6A1Q6"
+  },
+  {
+   "company": "and-digital",
+   "role": "Backend Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/and-digital/j/0DEBEEBE63/"
+  },
+  {
+   "company": "blenheimchalcot",
+   "role": "Graduate Data Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/blenheimchalcot/jobs/8207802"
+  },
+  {
+   "company": "blockchain",
+   "role": "Business Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/blockchain/jobs/8045355"
+  },
+  {
+   "company": "blockchain",
+   "role": "Front-End Engineer, Institutional",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/blockchain/jobs/7821146"
+  },
+  {
+   "company": "capitalontap",
+   "role": "Flutter Engineer - Platform",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/capitalontap/jobs/8902820002"
+  },
+  {
+   "company": "fosphamarketing",
+   "role": "Data Scientist",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8143927"
+  },
+  {
+   "company": "fosphamarketing",
+   "role": "Junior Data Scientist ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8143897"
+  },
+  {
+   "company": "foundry",
+   "role": "Technical Support Specialist ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/foundry/jobs/8013921"
+  },
+  {
+   "company": "winton",
+   "role": "Software Developer, Quantitative Platform",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/winton/jobs/5003627101"
+  },
+  {
+   "company": "axle-careers",
+   "role": "Software Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/axle-careers/e7f4e244-e96f-4767-b6ff-3eb9bd5eb0a9"
+  },
+  {
+   "company": "axle-careers",
+   "role": "Solutions Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/axle-careers/66df8faf-5210-45b2-8e44-3b05eac01413"
+  },
+  {
+   "company": "caribou",
+   "role": "Product Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/caribou/95869cef-0efc-418a-a98c-6d7ae1a16d29"
+  },
+  {
+   "company": "circuithub",
+   "role": "Software Engineer, Operations Research",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/circuithub/05338831-de2e-4844-ae19-c57de2c91672"
+  },
+  {
+   "company": "blenheimchalcot",
+   "role": "Data Scientist",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/blenheimchalcot/jobs/8208245"
+  },
+  {
+   "company": "delfa",
+   "role": "Founding Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/delfa/9fa18a24-8098-4583-b5c6-c7736d92f731"
+  },
+  {
+   "company": "founders-factory",
+   "role": "Founding Engineer - Ambient Care Startup ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/founders-factory/b1741e80-715d-457a-a62d-4092b839ccf9"
+  },
+  {
+   "company": "frontier-health",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/frontier-health/665f23d1-ae6e-4695-b989-3b59fed88903"
+  },
+  {
+   "company": "Pear-VC",
+   "role": "Software Engineer - Wexler",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Pear-VC/497b73fb-d625-4abf-b1ef-8a2b8503e9fd"
+  },
+  {
+   "company": "Pear-VC",
+   "role": "Customer Support Engineer (UK) \u2014 Phaselaw",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Pear-VC/fc578cd2-471b-4ca8-82ab-0d1822ff36cc"
+  },
+  {
+   "company": "profound",
+   "role": "Solutions Consultant",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Profound/c43192f0-1d55-4d18-9acf-73726bfcc522"
   },
   {
    "company": "Livestock Information",
@@ -12564,6 +12724,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T15:32:17+00:00",
- "updated": "2026-11-09T15:32:25+00:00",
- "updated_at": "2026-11-09T15:32:25+00:00"
+ "updated": "2026-11-09T16:20:54+00:00",
+ "updated_at": "2026-11-09T16:20:54+00:00"
 }
