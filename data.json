@@ -4,8 +4,8 @@
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1159,
- "rejections": 130,
+ "confirmations": 1177,
+ "rejections": 133,
  "positives": [
   {
    "company": "Curation",
@@ -29,7 +29,7 @@
   },
   {
    "company": "Rokt",
-   "note": "Completed the Criteria Cognitive Aptitude Test (CCAT); they'll be in touch"
+   "note": "Invited to a one-way video interview after the CCAT; complete it within 96 hours (link expires around 7:45pm UK on Friday 13 Nov)"
   },
   {
    "company": "AJAIA",
@@ -13223,7 +13223,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-09T19:41:19+00:00",
- "updated": "2026-11-09T19:41:21+00:00",
- "updated_at": "2026-11-09T19:41:21+00:00"
+ "email_stats_updated": "2026-11-09T20:37:28+00:00",
+ "updated": "2026-11-09T20:37:32+00:00",
+ "updated_at": "2026-11-09T20:37:32+00:00"
 }
