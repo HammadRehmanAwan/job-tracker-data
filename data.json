@@ -1,6 +1,6 @@
 {
- "total": 1536,
- "portal": 1098,
+ "total": 1540,
+ "portal": 1102,
  "email": 350,
  "linkedin": 88,
  "bounced_emails": 23,
@@ -106,7 +106,7 @@
   },
   {
    "date": "2026-11-09",
-   "portal": 129,
+   "portal": 133,
    "email": 0,
    "linkedin": 22
   }
@@ -1777,6 +1777,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/Profound/c43192f0-1d55-4d18-9acf-73726bfcc522"
+  },
+  {
+   "company": "loveholidays",
+   "role": "Data Scientist",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/loveholidays/14674b40-f333-483e-9c68-6c0dd09f4c1b"
+  },
+  {
+   "company": "loveholidays",
+   "role": "IT Systems & AI Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/loveholidays/82f18d2e-83c8-47aa-a61e-4f95a74e49fe"
+  },
+  {
+   "company": "quantexa",
+   "role": "Software Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/quantexa/a255bbab-562f-444d-99e1-5323f6818696"
+  },
+  {
+   "company": "quantexa",
+   "role": "Solution Engineer  - Public Sector  - UK ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/quantexa/323d5662-e3ea-4b6e-8b3c-5d81a850f86f"
   },
   {
    "company": "Livestock Information",
@@ -12724,6 +12756,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T15:32:17+00:00",
- "updated": "2026-11-09T16:20:54+00:00",
- "updated_at": "2026-11-09T16:20:54+00:00"
+ "updated": "2026-11-09T16:30:18+00:00",
+ "updated_at": "2026-11-09T16:30:18+00:00"
 }
