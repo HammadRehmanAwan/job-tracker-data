@@ -1,6 +1,6 @@
 {
- "total": 1355,
- "portal": 932,
+ "total": 1408,
+ "portal": 985,
  "email": 350,
  "linkedin": 73,
  "bounced_emails": 23,
@@ -88,13 +88,13 @@
   },
   {
    "date": "2026-11-08",
-   "portal": 374,
+   "portal": 412,
    "email": 0,
    "linkedin": 32
   },
   {
    "date": "2026-11-09",
-   "portal": 0,
+   "portal": 15,
    "email": 0,
    "linkedin": 6
   }
@@ -145,6 +145,126 @@
    "role": "Solutions Engineer",
    "date": "2026-11-09",
    "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "evervault",
+   "role": "Product Engineer, Experience",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "evervault",
+   "role": "Product Engineer, Cards",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Accora",
+   "role": "Technology & AI Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ellison Institute of Technology",
+   "role": "Data Engineer (Forward Deployed)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ellison Institute of Technology",
+   "role": "Data Engineer (Autonomous Systems)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Minerva Defence",
+   "role": "Product Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Onodrim Industries",
+   "role": "Forward Deployed Operator - Software Engineering",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "thought-machine",
+   "role": "Software Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "appdirect",
+   "role": "Intermediate Software Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "stackadapt",
+   "role": "Automation Engineer, Agentic Orchestration",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "stackadapt",
+   "role": "Integrations Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "alloy",
+   "role": "Technical Support Engineer, Triage & Discovery",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "crusoe",
+   "role": "Cloud Support Engineer ll",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "hightouch",
+   "role": "Backend Engineer, Platform",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "planetscale",
+   "role": "Customer Support Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
    "status": "submitted",
    "link": ""
   },
@@ -295,126 +415,6 @@
   {
    "company": "Encord",
    "role": "Product Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Foundational",
-   "role": "Full Stack Software Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Nevis Wealth",
-   "role": "Applied AI Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Nevis Wealth",
-   "role": "Forward Deployed Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "iwoca",
-   "role": "Applied AI Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "iwoca",
-   "role": "Data Scientist - Broker Flow",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "iwoca",
-   "role": "Software Engineer - BYG",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "iwoca",
-   "role": "Data Scientist - iwocaPay",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "iwoca",
-   "role": "Data Scientist - Third-Party Acquisition",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "iwoca",
-   "role": "Data Scientist - Broker Terms",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Omnea",
-   "role": "Product Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "BCN Group",
-   "role": "Data Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Benefex",
-   "role": "Frontend Engineer (Brain team)",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Optima Partners",
-   "role": "Core Data Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "FundApps",
-   "role": "Software Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Pexip",
-   "role": "Software Engineer - Backend",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -603,6 +603,126 @@
    "role": "Solutions Engineer",
    "date": "2026-11-09",
    "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "evervault",
+   "role": "Product Engineer, Experience",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "evervault",
+   "role": "Product Engineer, Cards",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Accora",
+   "role": "Technology & AI Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ellison Institute of Technology",
+   "role": "Data Engineer (Forward Deployed)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ellison Institute of Technology",
+   "role": "Data Engineer (Autonomous Systems)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Minerva Defence",
+   "role": "Product Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Onodrim Industries",
+   "role": "Forward Deployed Operator - Software Engineering",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "thought-machine",
+   "role": "Software Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "appdirect",
+   "role": "Intermediate Software Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "stackadapt",
+   "role": "Automation Engineer, Agentic Orchestration",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "stackadapt",
+   "role": "Integrations Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "alloy",
+   "role": "Technical Support Engineer, Triage & Discovery",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "crusoe",
+   "role": "Cloud Support Engineer ll",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "hightouch",
+   "role": "Backend Engineer, Platform",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "planetscale",
+   "role": "Customer Support Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
    "status": "submitted",
    "link": ""
   },
@@ -3849,6 +3969,310 @@
   {
    "company": "Universal Quantum",
    "role": "Systems Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Snyk",
+   "role": "Implementation Consultant",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "mthree Recruiting Portal",
+   "role": "Daft US Software Engineer Interest Form",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Starburst",
+   "role": "Customer Support Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Ki",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Valsoft Corporation",
+   "role": "Software Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Huzzle",
+   "role": "Automation Engineer - n8n",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/3FE016C6A1"
+  },
+  {
+   "company": "Huzzle",
+   "role": "Automation Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/85AEB538FB"
+  },
+  {
+   "company": "Huzzle",
+   "role": "Automation Engineer - Workflow & Process Automation",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/DC95F78CBE"
+  },
+  {
+   "company": "Graham & Brown Holdings - a family of companies",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Designer Group",
+   "role": "Junior Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "G MASS",
+   "role": "Fullstack Developer - Python",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Avomind",
+   "role": "Data Engineer (m/f/d)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Valsoft Corporation",
+   "role": "AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "neurohire.ai",
+   "role": "Data Scientist",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "neurohire.ai",
+   "role": "Software AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Financeit",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "XTM International",
+   "role": "Forward Deployed AI Value Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Portless",
+   "role": "AI Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Palona AI",
+   "role": "AI Software Engineer, Product",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Palona AI",
+   "role": "AI Software Engineer, Growth",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "neurohire.ai",
+   "role": "Software Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Providius",
+   "role": "Software Engineer, Test",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Liberty Mutual Canada",
+   "role": "Software Developer (Node.js & Python)",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "STACK IT Recruitment",
+   "role": "Full Stack Python Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Financeit",
+   "role": "Data Scientist, Risk Modeling & Analytics",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Akuna Capital",
+   "role": "Software Engineer - Python, Business Operations",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Speechmatics",
+   "role": "Developer Relations Advocate",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Maple",
+   "role": "Forward Deployed Engineer - Growth",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Rokt",
+   "role": "Junior Software Engineer - Rokt Residency",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Stellar Cyber",
+   "role": "Machine Learning Infrastructure Engineer - LLM & Agentic AI",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Innovative Rocket Technologies Inc.",
+   "role": "Data Engineer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Block LLP",
+   "role": "AI Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "The Anywhere Company",
+   "role": "Full Stack Developer",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Blue Machines AI",
+   "role": "Forward Deployed Engineer (AI Integration + Design) - Gen AI & Voice AI - US",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "MedSightAI",
+   "role": "Data Analyst",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "AJAIA",
+   "role": "Data Analyst Researcher",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "Exotec",
+   "role": "Software Integration Engineer - Automation & Robotics",
+   "date": "2026-11-08",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "ASM",
+   "role": "Software Developer",
    "date": "2026-11-08",
    "type": "portal",
    "status": "submitted",
@@ -11264,6 +11688,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T03:41:08+00:00",
- "updated": "2026-11-09T03:41:10+00:00",
- "updated_at": "2026-11-09T03:41:10+00:00"
+ "updated": "2026-11-09T04:05:41+00:00",
+ "updated_at": "2026-11-09T04:05:41+00:00"
 }
