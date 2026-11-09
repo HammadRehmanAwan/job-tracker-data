@@ -1,11 +1,11 @@
 {
- "total": 1454,
- "portal": 1016,
+ "total": 1483,
+ "portal": 1045,
  "email": 350,
  "linkedin": 88,
  "bounced_emails": 23,
- "confirmations": 1012,
- "rejections": 80,
+ "confirmations": 1047,
+ "rejections": 86,
  "positives": [
   {
    "company": "Curation",
@@ -98,7 +98,7 @@
   },
   {
    "date": "2026-11-09",
-   "portal": 47,
+   "portal": 76,
    "email": 0,
    "linkedin": 22
   }
@@ -1113,6 +1113,238 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4486183892/"
+  },
+  {
+   "company": "addepar1",
+   "role": "AddeGrad Program (2027) - Client Solutions Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/addepar1/jobs/8756273002"
+  },
+  {
+   "company": "addepar1",
+   "role": "Data Projects Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/addepar1/jobs/8802892002"
+  },
+  {
+   "company": "fanduel",
+   "role": "Full Stack Engineer - Frontend Focused",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/fanduel/jobs/8220692"
+  },
+  {
+   "company": "kerv",
+   "role": "Junior Network Security Support Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/kerv/jobs/5024781101"
+  },
+  {
+   "company": "quberesearchandtechnologies",
+   "role": "Cloud Observability Platform Engineer (Contractor)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8632671002"
+  },
+  {
+   "company": "squarepointcapital",
+   "role": "Software Developer - Data Platform",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/squarepointcapital/jobs/8092777"
+  },
+  {
+   "company": "squarepointcapital",
+   "role": "Software Developer - Data Reliability",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/squarepointcapital/jobs/8092644"
+  },
+  {
+   "company": "watershed",
+   "role": "Performance Marketing Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/watershed/jobs/5975769003"
+  },
+  {
+   "company": "atominvest",
+   "role": "Product Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/atominvest/0611d154-59e4-4274-adfa-58287cec697d"
+  },
+  {
+   "company": "axle-careers",
+   "role": "Customer Support (part-time)",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/axle-careers/1a99c9a6-4e70-46aa-8f2d-18a366c2a145"
+  },
+  {
+   "company": "basis-research",
+   "role": "Research Engineer, Machine Learning",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/basis-research/1e3dba92-ee3e-47c9-b321-695c3249479a"
+  },
+  {
+   "company": "fundingcircle",
+   "role": "Loan Operations Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/fundingcircle/8fae0643-8b40-4827-a1e4-6e5cc2f141c6"
+  },
+  {
+   "company": "fundingcircle",
+   "role": "Credit Strategy Analyst ",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e"
+  },
+  {
+   "company": "Rogo",
+   "role": "Customer Support Specialist, EMEA",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Rogo/1bae20cd-9858-45cf-80b4-3f057601aa93"
+  },
+  {
+   "company": "and-digital",
+   "role": "Solution Architect",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/and-digital/j/1BFD6BB1AE/"
+  },
+  {
+   "company": "bionic-services-ltd",
+   "role": "AI Operations Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/bionic-services-ltd/j/45B4AB53B1/"
+  },
+  {
+   "company": "burendo",
+   "role": "DevOps Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/burendo/j/7D106F43C4/"
+  },
+  {
+   "company": "capitex",
+   "role": "QC Analyst - KYC Managed Service",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/capitex/j/C0C7644D55/"
+  },
+  {
+   "company": "capitex",
+   "role": "Junior KYC Analyst - KYC Managed Service",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/capitex/j/3AC329E45D/"
+  },
+  {
+   "company": "climax-studios",
+   "role": "Software Engineer - Backend Services - MPG - Fully remote from the UK or",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/climax-studios/j/F677984CC8/"
+  },
+  {
+   "company": "digi2al-limited",
+   "role": "Security Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/digi2al-limited/j/0739EFE1E0/"
+  },
+  {
+   "company": "digi2al-limited",
+   "role": "Solution Architect",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/digi2al-limited/j/8EF18D6C0C/"
+  },
+  {
+   "company": "digi2al-limited",
+   "role": "Full Stack Developer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/digi2al-limited/j/F323A06895/"
+  },
+  {
+   "company": "doneplus",
+   "role": "Contract Management Analyst - Financial Data & Technology",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/doneplus/j/F86FC4235B/"
+  },
+  {
+   "company": "doneplus",
+   "role": "Financial Data & Vendor Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/doneplus/j/2612D98B3B/"
+  },
+  {
+   "company": "doneplus",
+   "role": "Market Data Vendor Management Analyst - Investment Management",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/doneplus/j/48145196CF/"
+  },
+  {
+   "company": "ellison-institute-of-technology",
+   "role": "AI Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/ellison-institute-of-technology/j/A8214D0650/"
+  },
+  {
+   "company": "fe-fundinfo",
+   "role": "Business Analyst",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/fe-fundinfo/j/BD8DFC452C/"
+  },
+  {
+   "company": "filtronic",
+   "role": "Software Development Engineer",
+   "date": "2026-11-09",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/filtronic/j/56DC886639/"
   },
   {
    "company": "Livestock Information",
@@ -12059,7 +12291,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-09T08:39:48+00:00",
- "updated": "2026-11-09T08:39:50+00:00",
- "updated_at": "2026-11-09T08:39:50+00:00"
+ "email_stats_updated": "2026-11-09T09:39:40+00:00",
+ "updated": "2026-11-09T09:39:41+00:00",
+ "updated_at": "2026-11-09T09:39:41+00:00"
 }
