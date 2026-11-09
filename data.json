@@ -90,16 +90,32 @@
    "date": "2026-11-08",
    "portal": 412,
    "email": 0,
-   "linkedin": 32
+   "linkedin": 30
   },
   {
    "date": "2026-11-09",
    "portal": 15,
    "email": 0,
-   "linkedin": 6
+   "linkedin": 8
   }
  ],
  "recent": [
+  {
+   "company": "Situ",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "fscom",
+   "role": "Product Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
   {
    "company": "i23 Group",
    "role": "Full Stack Engineer (AI and agentic workflows)",
@@ -403,22 +419,6 @@
    "type": "portal",
    "status": "submitted",
    "link": ""
-  },
-  {
-   "company": "GetGround",
-   "role": "Product Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Encord",
-   "role": "Product Engineer",
-   "date": "2026-11-08",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
   }
  ],
  "applications": [
@@ -556,6 +556,22 @@
    "date": "earlier",
    "type": "email",
    "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Situ",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "fscom",
+   "role": "Product Engineer",
+   "date": "2026-11-09",
+   "type": "linkedin",
+   "status": "submitted",
    "link": ""
   },
   {
@@ -3539,22 +3555,6 @@
    "role": "Software Engineer, New Grad",
    "date": "2026-11-08",
    "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Situ",
-   "role": "Forward Deployed Engineer",
-   "date": "2026-11-08",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "fscom",
-   "role": "Product Engineer",
-   "date": "2026-11-08",
-   "type": "linkedin",
    "status": "submitted",
    "link": ""
   },
@@ -11688,6 +11688,6 @@
   }
  ],
  "email_stats_updated": "2026-11-09T03:41:08+00:00",
- "updated": "2026-11-09T04:05:41+00:00",
- "updated_at": "2026-11-09T04:05:41+00:00"
+ "updated": "2026-11-09T04:06:29+00:00",
+ "updated_at": "2026-11-09T04:06:29+00:00"
 }
