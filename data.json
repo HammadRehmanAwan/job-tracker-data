@@ -5,7 +5,7 @@
  "linkedin": 67,
  "bounced_emails": 23,
  "confirmations": 968,
- "rejections": 74,
+ "rejections": 75,
  "positives": [
   {
    "company": "Curation",
@@ -29,7 +29,7 @@
   },
   {
    "company": "Rokt",
-   "note": "Invited to the Criteria Cognitive Aptitude Test (CCAT), a 15-minute assessment due within 5 days"
+   "note": "Completed the Criteria Cognitive Aptitude Test (CCAT); they'll be in touch"
   },
   {
    "company": "AJAIA",
@@ -11209,7 +11209,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-09T00:37:16+00:00",
- "updated": "2026-11-09T00:37:19+00:00",
- "updated_at": "2026-11-09T00:37:19+00:00"
+ "email_stats_updated": "2026-11-09T01:35:51+00:00",
+ "updated": "2026-11-09T01:35:55+00:00",
+ "updated_at": "2026-11-09T01:35:55+00:00"
 }
