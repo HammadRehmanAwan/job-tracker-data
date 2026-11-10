@@ -1,6 +1,6 @@
 {
- "total": 1718,
- "portal": 1279,
+ "total": 1731,
+ "portal": 1292,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -184,7 +184,7 @@
   },
   {
    "date": "2026-11-10",
-   "portal": 70,
+   "portal": 83,
    "email": 0,
    "linkedin": 0
   }
@@ -1207,6 +1207,110 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/capco/jobs/5886767"
+  },
+  {
+   "company": "devoteam",
+   "role": "AI Engineer Mid-Level",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/devoteam/744000157982449"
+  },
+  {
+   "company": "yassir",
+   "role": "Back-end Developer (f/m/x)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/yassir/743999817513736"
+  },
+  {
+   "company": "almedia",
+   "role": "Product Engineer (Client Platform)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/almedia/a14b273c-801c-43e4-a6bf-84fb22651b12"
+  },
+  {
+   "company": "clera",
+   "role": "Product Engineer, Frontend Focus",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Clera/4925faf8-f0c0-4d16-9dff-1938031787c2"
+  },
+  {
+   "company": "constructor",
+   "role": "Software Engineer: Core",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/constructor/8f6f9407-bd8a-4966-bf41-cd41321eca52"
+  },
+  {
+   "company": "kuro",
+   "role": "Software Engineer - AI",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/kuro/446f292f-534d-425f-9bfa-e12f71271444"
+  },
+  {
+   "company": "linear",
+   "role": "Developer Relations",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/linear/1d652292-04d9-405c-8101-578efd020e94"
+  },
+  {
+   "company": "taktile",
+   "role": "Forward Deployed Engineer (Ops)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/taktile/6c08e5fb-ae2f-4553-9c07-fd70f616396a"
+  },
+  {
+   "company": "uncountable",
+   "role": "Devops Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/uncountable/f5a4acf0-95aa-4094-a97d-cbd88a24c826"
+  },
+  {
+   "company": "uncountable",
+   "role": "Platform Engineer - Generative AI",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/uncountable/677487ff-7923-4be1-97ab-bab17ee7f9fb"
+  },
+  {
+   "company": "brex",
+   "role": "Developer Support Specialist",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/brex/jobs/8829338002"
+  },
+  {
+   "company": "baseten",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e"
+  },
+  {
+   "company": "doppel",
+   "role": "Software Engineer, Email",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Doppel/1144603c-07da-48b9-b838-da27ebbd2f1b"
   },
   {
    "company": "Situ",
@@ -14258,6 +14362,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T05:33:12+00:00",
- "updated": "2026-11-10T05:33:12+00:00",
- "updated_at": "2026-11-10T05:33:12+00:00"
+ "updated": "2026-11-10T05:57:01+00:00",
+ "updated_at": "2026-11-10T05:57:01+00:00"
 }
