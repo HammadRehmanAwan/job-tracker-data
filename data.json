@@ -1,6 +1,6 @@
 {
- "total": 1705,
- "portal": 1266,
+ "total": 1706,
+ "portal": 1267,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -184,7 +184,7 @@
   },
   {
    "date": "2026-11-10",
-   "portal": 57,
+   "portal": 58,
    "email": 0,
    "linkedin": 0
   }
@@ -1103,6 +1103,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/speechify/jobs/6229119004"
+  },
+  {
+   "company": "clickhouse",
+   "role": "Cloud Security Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/clickhouse/a1159cde-3628-4b5e-aa4b-7b9e73f1dafc"
   },
   {
    "company": "Situ",
@@ -14154,6 +14162,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T03:39:53+00:00",
- "updated": "2026-11-10T03:39:53+00:00",
- "updated_at": "2026-11-10T03:39:53+00:00"
+ "updated": "2026-11-10T04:13:39+00:00",
+ "updated_at": "2026-11-10T04:13:39+00:00"
 }
