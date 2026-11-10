@@ -47,7 +47,7 @@ function posHTML(list){
 function draw(s){
  document.getElementById('upd').textContent='Last updated '+uk(s.updated_at||s.updated);
  const P=s.positives||[],nd=s.positives_done??P.filter(p=>p.status==='done').length,nr=s.positives_remaining??P.filter(p=>(p.status||'remaining')==='remaining').length;
- document.getElementById('cards').innerHTML=[['Total applications',s.total],['Portal applications',s.portal],['Direct emails',s.email],['LinkedIn applications',s.linkedin],['Confirmations',s.confirmations],['Rejections',s.rejections],['Positive responses',s.positive_count],['Positives: done / remaining',`${nd}<small> done</small> / ${nr}<small> left</small>`]]
+ document.getElementById('cards').innerHTML=[['Total applications',s.total],['Portal applications',s.portal],['Direct emails',s.email],['LinkedIn applications',s.linkedin],['Confirmations',s.confirmations],['Rejections',s.rejections],['Positive responses',s.positive_count],['Positives: done / remaining',`${nd} / ${nr}`]]
   .map(([l,n])=>`<div class="card"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('');
  const d=s.by_day,W=Math.max(320,d.length*70),H=220,Pd=28,max=Math.max(1,...d.map(x=>x.portal+x.email+(x.linkedin||0))),bw=(W-Pd*2)/d.length;
  let g='';d.forEach((x,i)=>{const X=Pd+i*bw+bw*.15,w=bw*.7,hp=x.portal/max*(H-60),he=x.email/max*(H-60),hl=(x.linkedin||0)/max*(H-60),y=H-30;
