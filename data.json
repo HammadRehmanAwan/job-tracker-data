@@ -1,6 +1,6 @@
 {
- "total": 1747,
- "portal": 1308,
+ "total": 1750,
+ "portal": 1311,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -184,7 +184,7 @@
   },
   {
    "date": "2026-11-10",
-   "portal": 99,
+   "portal": 102,
    "email": 0,
    "linkedin": 0
   }
@@ -1439,6 +1439,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b"
+  },
+  {
+   "company": "faversham-house",
+   "role": "Data & AI Automation Trainee",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://faversham-house.jobs.personio.de/job/2871919"
+  },
+  {
+   "company": "bpmcompany",
+   "role": "AI Solutions Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://bpmcompany.recruitee.com/o/ai-solutions-engineer/c/new"
+  },
+  {
+   "company": "devoteam",
+   "role": "Devoteam Cyber Trust | AI Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/devoteam/744000155943032"
   },
   {
    "company": "Situ",
@@ -14490,6 +14514,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T07:40:22+00:00",
- "updated": "2026-11-10T07:42:55+00:00",
- "updated_at": "2026-11-10T07:42:55+00:00"
+ "updated": "2026-11-10T08:28:59+00:00",
+ "updated_at": "2026-11-10T08:28:59+00:00"
 }
