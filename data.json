@@ -4,7 +4,7 @@
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1214,
+ "confirmations": 1240,
  "rejections": 135,
  "positives": [
   {
@@ -50,9 +50,13 @@
   {
    "company": "Leep Group",
    "note": "Sonia Bhambra, Recruitment Manager, spoke with him today and asked for his CV in Word format; he sent it"
+  },
+  {
+   "company": "Lendable",
+   "note": "Invited to a 15-minute cognitive assessment for the Analytics Engineer (UK Cards) role; complete it within 48 hours (by about 12:30am UK on Thursday 12 Nov). Criteria sent the test link separately."
   }
  ],
- "positive_count": 11,
+ "positive_count": 12,
  "by_day": [
   {
    "date": "earlier",
@@ -13631,7 +13635,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-09T23:41:16+00:00",
- "updated": "2026-11-09T23:41:20+00:00",
- "updated_at": "2026-11-09T23:41:20+00:00"
+ "email_stats_updated": "2026-11-10T00:41:11+00:00",
+ "updated": "2026-11-10T00:41:15+00:00",
+ "updated_at": "2026-11-10T00:41:15+00:00"
 }
