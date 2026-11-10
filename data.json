@@ -1,10 +1,10 @@
 {
- "total": 1693,
- "portal": 1254,
+ "total": 1701,
+ "portal": 1262,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1254,
+ "confirmations": 1262,
  "rejections": 135,
  "positives": [
   {
@@ -184,7 +184,7 @@
   },
   {
    "date": "2026-11-10",
-   "portal": 45,
+   "portal": 53,
    "email": 0,
    "linkedin": 0
   }
@@ -1007,6 +1007,70 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/wayve/2f98650f-deb7-4e01-b733-327ff9fb5c09"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Golang Backend Engineer, Financial Product Fraud",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8206659"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Software Platform Engineer, EU Traffic",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8334486"
+  },
+  {
+   "company": "engineersgate",
+   "role": "Systems Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/engineersgate/jobs/8041541"
+  },
+  {
+   "company": "opentable",
+   "role": "Help Desk - IT Support Technician II",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/opentable/jobs/8734138002"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Javascript / API Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352537"
+  },
+  {
+   "company": "radiant",
+   "role": "Software Engineer - Network",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/radiant/e45269eb-8cb6-4370-bffb-e37c2c555dfb"
+  },
+  {
+   "company": "radiant",
+   "role": "HPC Infrastructure Site Reliability Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/radiant/f7f1e19e-80e3-442b-a6ea-b6a0f6cf6e1e"
+  },
+  {
+   "company": "wayve",
+   "role": "Platform Engineer, Cloud Infrastructure",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/wayve/c00ffab0-fa2d-4faf-9678-14d24f75e549"
   },
   {
    "company": "Situ",
@@ -14057,7 +14121,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-10T01:38:52+00:00",
- "updated": "2026-11-10T01:46:15+00:00",
- "updated_at": "2026-11-10T01:46:15+00:00"
+ "email_stats_updated": "2026-11-10T02:34:19+00:00",
+ "updated": "2026-11-10T02:34:22+00:00",
+ "updated_at": "2026-11-10T02:34:22+00:00"
 }
