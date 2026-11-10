@@ -1,6 +1,6 @@
 {
- "total": 1679,
- "portal": 1240,
+ "total": 1693,
+ "portal": 1254,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -184,7 +184,7 @@
   },
   {
    "date": "2026-11-10",
-   "portal": 31,
+   "portal": 45,
    "email": 0,
    "linkedin": 0
   }
@@ -439,76 +439,76 @@
    "link": "https://jobs.ashbyhq.com/wordsmith/7ff2cf1a-2e4f-4092-ba95-777d08f9ddfe"
   },
   {
-   "company": "Situ",
-   "role": "Forward Deployed Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "fscom",
-   "role": "Product Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "i23 Group",
-   "role": "Full Stack Engineer (AI and agentic workflows)",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Gravitas Recruitment Group (Global) Ltd",
-   "role": "Forward Deployed AI Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Wave Talent",
-   "role": "Forward Deployed Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Harvey Nash",
-   "role": "Solution Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Syrenis",
-   "role": "Solutions Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Estuary",
-   "role": "Solutions Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "evervault",
-   "role": "Product Engineer, Experience",
-   "date": "2026-11-09",
+   "company": "braze",
+   "role": "Technical Solutions Engineer, Security & Privacy",
+   "date": "2026-11-10",
    "type": "portal",
    "status": "submitted",
-   "link": ""
+   "link": "https://job-boards.greenhouse.io/braze/jobs/8306112"
+  },
+  {
+   "company": "circleci",
+   "role": "Support Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/circleci/jobs/8918373002"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Software Engineer, Backend (BI Platform)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8206463"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Software Engineer II - Code Context",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8312275"
+  },
+  {
+   "company": "epicgames",
+   "role": "Machine Learning Engineer, Memory",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/epicgames/jobs/6141143004"
+  },
+  {
+   "company": "fanduel",
+   "role": "Software Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/fanduel/jobs/7981990"
+  },
+  {
+   "company": "klaviyo",
+   "role": "Software Engineer II - SMS International",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/klaviyo/jobs/8006729003"
+  },
+  {
+   "company": "mangroup",
+   "role": "Python Data Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mangroup/jobs/5011118101"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Front End Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352551"
   }
  ],
  "applications": [
@@ -895,6 +895,118 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/wordsmith/7ff2cf1a-2e4f-4092-ba95-777d08f9ddfe"
+  },
+  {
+   "company": "braze",
+   "role": "Technical Solutions Engineer, Security & Privacy",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/braze/jobs/8306112"
+  },
+  {
+   "company": "circleci",
+   "role": "Support Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/circleci/jobs/8918373002"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Software Engineer, Backend (BI Platform)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8206463"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Software Engineer II - Code Context",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8312275"
+  },
+  {
+   "company": "epicgames",
+   "role": "Machine Learning Engineer, Memory",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/epicgames/jobs/6141143004"
+  },
+  {
+   "company": "fanduel",
+   "role": "Software Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/fanduel/jobs/7981990"
+  },
+  {
+   "company": "klaviyo",
+   "role": "Software Engineer II - SMS International",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/klaviyo/jobs/8006729003"
+  },
+  {
+   "company": "mangroup",
+   "role": "Python Data Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mangroup/jobs/5011118101"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Front End Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352551"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "PHP Developer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352558"
+  },
+  {
+   "company": "faculty",
+   "role": "Machine Learning Engineer (Safety)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/faculty/c160f683-9bca-4784-a298-ccaabc8b6e0f"
+  },
+  {
+   "company": "wayve",
+   "role": "Software Engineer, Simulation",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/wayve/ff2f5234-99c2-4eae-b5c6-e8d719da4e4e"
+  },
+  {
+   "company": "wayve",
+   "role": "Software Engineer, Data Enrichment",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/wayve/61807813-98e4-4884-a002-b330a794ab73"
+  },
+  {
+   "company": "wayve",
+   "role": "DevOps Engineer, CI/CD",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/wayve/2f98650f-deb7-4e01-b733-327ff9fb5c09"
   },
   {
    "company": "Situ",
@@ -13946,6 +14058,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T01:38:52+00:00",
- "updated": "2026-11-10T01:44:05+00:00",
- "updated_at": "2026-11-10T01:44:05+00:00"
+ "updated": "2026-11-10T01:46:15+00:00",
+ "updated_at": "2026-11-10T01:46:15+00:00"
 }
