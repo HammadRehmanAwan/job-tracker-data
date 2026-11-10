@@ -1,6 +1,6 @@
 {
- "total": 1731,
- "portal": 1292,
+ "total": 1742,
+ "portal": 1303,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -184,7 +184,7 @@
   },
   {
    "date": "2026-11-10",
-   "portal": 83,
+   "portal": 94,
    "email": 0,
    "linkedin": 0
   }
@@ -1311,6 +1311,94 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/Doppel/1144603c-07da-48b9-b838-da27ebbd2f1b"
+  },
+  {
+   "company": "appian",
+   "role": "Product Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/appian/jobs/8264454"
+  },
+  {
+   "company": "fanaticsfbg",
+   "role": "Data Engineer II",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/fanaticsfbg/jobs/4478839009"
+  },
+  {
+   "company": "kalepa",
+   "role": "Forward Deployed Engineer - Kalepa for IT",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/kalepa/jobs/6207800004"
+  },
+  {
+   "company": "klaviyo",
+   "role": "Software Engineer II, Test Frameworks & Tooling",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/klaviyo/jobs/7855793003"
+  },
+  {
+   "company": "watershed",
+   "role": "Software Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/watershed/jobs/4254100003"
+  },
+  {
+   "company": "watershed",
+   "role": "Software Engineer, UI",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/watershed/jobs/5498525003"
+  },
+  {
+   "company": "handshake",
+   "role": "Software Engineer I, Build Review & Test",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58"
+  },
+  {
+   "company": "moderntreasury",
+   "role": "Software Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/moderntreasury/f2ff4c9c-0c2f-4bb8-b446-77cab281126a"
+  },
+  {
+   "company": "rowspace",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/rowspace/1c019e0d-4c0d-49ec-844e-adadaa0c00de"
+  },
+  {
+   "company": "middesk",
+   "role": "Software Engineer, Infrastructure",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/middesk/aed2c535-cd58-4920-9618-a0cbbb62851e"
+  },
+  {
+   "company": "pear-vc",
+   "role": "Fullstack Engineer - Fortify",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Pear-VC/1bf7fd8a-a787-4325-8b65-7dcf5dc159e4"
   },
   {
    "company": "Situ",
@@ -14362,6 +14450,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T06:39:02+00:00",
- "updated": "2026-11-10T06:39:05+00:00",
- "updated_at": "2026-11-10T06:39:05+00:00"
+ "updated": "2026-11-10T06:49:54+00:00",
+ "updated_at": "2026-11-10T06:49:54+00:00"
 }
