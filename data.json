@@ -1,6 +1,6 @@
 {
- "total": 1706,
- "portal": 1267,
+ "total": 1718,
+ "portal": 1279,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -184,7 +184,7 @@
   },
   {
    "date": "2026-11-10",
-   "portal": 58,
+   "portal": 70,
    "email": 0,
    "linkedin": 0
   }
@@ -1111,6 +1111,102 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/clickhouse/a1159cde-3628-4b5e-aa4b-7b9e73f1dafc"
+  },
+  {
+   "company": "artefact",
+   "role": "IT Support Assistant",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/artefact/jobs/8829856002"
+  },
+  {
+   "company": "betsson",
+   "role": "Android Developer (Hybrid - Malaga)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/betsson/jobs/7119087"
+  },
+  {
+   "company": "betsson",
+   "role": "Backend .NET Software Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/betsson/jobs/7972951"
+  },
+  {
+   "company": "betsson",
+   "role": "Backend .NET Software Engineer - Gaming",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/betsson/jobs/8141701"
+  },
+  {
+   "company": "blockchain",
+   "role": "Front-End Engineer (React)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/blockchain/jobs/7480518"
+  },
+  {
+   "company": "capco",
+   "role": "Finance Data Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/capco/jobs/8284515"
+  },
+  {
+   "company": "catawiki",
+   "role": "Platform Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/catawiki/jobs/8346093"
+  },
+  {
+   "company": "cloudflare",
+   "role": "Systems Engineer, Network Automation",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cloudflare/jobs/8142261"
+  },
+  {
+   "company": "gocardless",
+   "role": "Analytics engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/gocardless/jobs/7699254"
+  },
+  {
+   "company": "nebius",
+   "role": "Application Integration Developer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/nebius/jobs/4965522101"
+  },
+  {
+   "company": "nebius",
+   "role": "Forward Deployed Engineer, Physical AI Infrastructure",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/nebius/jobs/4976988101"
+  },
+  {
+   "company": "capco",
+   "role": "Front-end Developer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/capco/jobs/5886767"
   },
   {
    "company": "Situ",
@@ -14162,6 +14258,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T04:41:40+00:00",
- "updated": "2026-11-10T04:41:48+00:00",
- "updated_at": "2026-11-10T04:41:48+00:00"
+ "updated": "2026-11-10T05:08:34+00:00",
+ "updated_at": "2026-11-10T05:08:34+00:00"
 }
