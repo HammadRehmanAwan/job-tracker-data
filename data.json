@@ -4,8 +4,8 @@
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1305,
- "rejections": 142,
+ "confirmations": 1314,
+ "rejections": 162,
  "positives": [
   {
    "company": "Curation",
@@ -114,11 +114,20 @@
    "due": "2026-11-12T00:31:00+00:00",
    "done_on": "",
    "key": "lendable-analytics-engineer"
+  },
+  {
+   "company": "AJAIA (Junior AI Engineer)",
+   "note": "Invited to the Ajaia AI-Native Assessment as the next hiring stage; the assignment is time-bound once started",
+   "status": "remaining",
+   "action": "Ajaia AI-Native Assessment (timed once started)",
+   "due": "",
+   "done_on": "",
+   "key": "ajaia-junior-ai-engineer"
   }
  ],
- "positive_count": 12,
+ "positive_count": 13,
  "positives_done": 2,
- "positives_remaining": 8,
+ "positives_remaining": 9,
  "positives_expired": 2,
  "positives_declined": 0,
  "by_day": [
@@ -14569,7 +14578,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-10T08:33:52+00:00",
- "updated": "2026-11-10T09:22:15+00:00",
- "updated_at": "2026-11-10T09:22:15+00:00"
+ "email_stats_updated": "2026-11-10T09:42:32+00:00",
+ "updated": "2026-11-10T09:42:35+00:00",
+ "updated_at": "2026-11-10T09:42:35+00:00"
 }
