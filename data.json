@@ -1,6 +1,6 @@
 {
- "total": 1701,
- "portal": 1262,
+ "total": 1705,
+ "portal": 1266,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -184,7 +184,7 @@
   },
   {
    "date": "2026-11-10",
-   "portal": 53,
+   "portal": 57,
    "email": 0,
    "linkedin": 0
   }
@@ -1071,6 +1071,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/wayve/c00ffab0-fa2d-4faf-9678-14d24f75e549"
+  },
+  {
+   "company": "gitlab",
+   "role": "Backend Engineer (Ruby), Create: Change Record",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/gitlab/jobs/8891301002"
+  },
+  {
+   "company": "speechify",
+   "role": "Software Engineer, AI Data - Belfast, United Kingdom",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/speechify/jobs/6229214004"
+  },
+  {
+   "company": "speechify",
+   "role": "Software Engineer, AI Data - Brighton, United Kingdom",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/speechify/jobs/6229218004"
+  },
+  {
+   "company": "speechify",
+   "role": "Software Engineer, AI Data - Birmingham, United Kingdom",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/speechify/jobs/6229119004"
   },
   {
    "company": "Situ",
@@ -14122,6 +14154,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T02:34:19+00:00",
- "updated": "2026-11-10T02:34:22+00:00",
- "updated_at": "2026-11-10T02:35:04+00:00"
+ "updated": "2026-11-10T03:27:08+00:00",
+ "updated_at": "2026-11-10T03:27:08+00:00"
 }
