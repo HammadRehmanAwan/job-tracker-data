@@ -9,54 +9,118 @@
  "positives": [
   {
    "company": "Curation",
-   "note": "Catch-up with their Head of Product, Fri 6 Nov"
+   "note": "Catch-up with their Head of Product, Fri 6 Nov",
+   "status": "expired",
+   "action": "Catch-up with Charles Wells Fri 6 Nov 4pm - date passed, mark done if it happened",
+   "due": "2026-11-06T16:00:00+00:00",
+   "done_on": "",
+   "key": "curation-ai-engineer"
   },
   {
    "company": "SalesApe",
-   "note": "Aptitude test and video interview completed"
+   "note": "Aptitude test and video interview completed",
+   "status": "done",
+   "action": "Aptitude test + video interview",
+   "due": "",
+   "done_on": "2026-11-06",
+   "key": "salesape-video-interview"
   },
   {
    "company": "City of York Council",
-   "note": "Informal call, Mon 9 Nov 12:30"
+   "note": "Informal call, Mon 9 Nov 12:30",
+   "status": "expired",
+   "action": "Informal call Mon 9 Nov 12:30 - date passed, mark done if it happened",
+   "due": "2026-11-09T12:30:00+00:00",
+   "done_on": "",
+   "key": "city-of-york-po-ba"
   },
   {
    "company": "Sheffield City Council",
-   "note": "the hiring team offered an informal call about the Performance Analyst role on 6 Nov"
+   "note": "the hiring team offered an informal call about the Performance Analyst role on 6 Nov",
+   "status": "remaining",
+   "action": "Informal call: missed 6 Nov, asked Rachel to rearrange (awaiting reply)",
+   "due": "",
+   "done_on": "",
+   "key": "sheffield-performance-analyst"
   },
   {
    "company": "Civil Service (Higher Statistical Officer, 487028)",
-   "note": "Completed the online tests; still needs to submit the second part of the application by 11:55pm 15 Nov"
+   "note": "Completed the online tests; still needs to submit the second part of the application by 11:55pm 15 Nov",
+   "status": "remaining",
+   "action": "Submit part 2 of the application (online tests done)",
+   "due": "2026-11-15T23:55:00+00:00",
+   "done_on": "",
+   "key": "civil-service-487028"
   },
   {
    "company": "Rokt",
-   "note": "Invited to a one-way video interview after the CCAT; complete it within 96 hours (link expires around 7:45pm UK on Friday 13 Nov)"
+   "note": "Invited to a one-way video interview after the CCAT; complete it within 96 hours (link expires around 7:45pm UK on Friday 13 Nov)",
+   "status": "remaining",
+   "action": "One-way video interview (Hireflix); CCAT already done 9 Nov",
+   "due": "2026-11-13T19:45:00+00:00",
+   "done_on": "",
+   "key": "rokt-junior-swe"
   },
   {
    "company": "AJAIA",
-   "note": "Invited to the Data Analyst Researcher Assessment as the next hiring stage"
+   "note": "Invited to the Data Analyst Researcher Assessment as the next hiring stage",
+   "status": "remaining",
+   "action": "Data Analyst Researcher assessment (timed)",
+   "due": "",
+   "done_on": "",
+   "key": "ajaia-data-analyst-researcher"
   },
   {
    "company": "TNG Technology Consulting",
-   "note": "Recruiter Vivien Wagner asked for required documents and a current course transcript after reviewing his CV"
+   "note": "Recruiter Vivien Wagner asked for required documents and a current course transcript after reviewing his CV",
+   "status": "remaining",
+   "action": "Send requested documents + current course transcript to Vivien Wagner",
+   "due": "",
+   "done_on": "",
+   "key": "tng-technology-consulting"
   },
   {
    "company": "ITC",
-   "note": "Sourcing specialist Krishama Panchamiya asked for visa status, location, notice period, expected compensation, an updated CV, and a time slot to speak today or tomorrow about the Python Developer role"
+   "note": "Sourcing specialist Krishama Panchamiya asked for visa status, location, notice period, expected compensation, an updated CV, and a time slot to speak today or tomorrow about the Python Developer role",
+   "status": "remaining",
+   "action": "Reply to Krishama (LinkedIn) if you want to proceed",
+   "due": "",
+   "done_on": "",
+   "key": "itc-python-developer"
   },
   {
    "company": "i23",
-   "note": "Dr Salman Valibeik, Chief Science Officer, asked him to complete a short form on salary expectations, notice period, right to work in the UK, and availability for the Full Stack Agentic Engineer role"
+   "note": "Dr Salman Valibeik, Chief Science Officer, asked him to complete a short form on salary expectations, notice period, right to work in the UK, and availability for the Full Stack Agentic Engineer role",
+   "status": "remaining",
+   "action": "Fill in i23's short form (salary, notice, right to work, availability)",
+   "due": "",
+   "done_on": "",
+   "key": "i23-full-stack-agentic"
   },
   {
    "company": "Leep Group",
-   "note": "Sonia Bhambra, Recruitment Manager, spoke with him today and asked for his CV in Word format; he sent it"
+   "note": "Sonia Bhambra, Recruitment Manager, spoke with him today and asked for his CV in Word format; he sent it",
+   "status": "done",
+   "action": "Call with Sonia Bhambra + CV sent in Word format",
+   "due": "",
+   "done_on": "2026-11-09",
+   "key": "leep-group"
   },
   {
    "company": "Lendable",
-   "note": "Invited to a 15-minute cognitive assessment for the Analytics Engineer (UK Cards) role; complete it within 48 hours (by about 12:30am UK on Thursday 12 Nov). Criteria sent the test link separately."
+   "note": "Invited to a 15-minute cognitive assessment for the Analytics Engineer (UK Cards) role; complete it within 48 hours (by about 12:30am UK on Thursday 12 Nov). Criteria sent the test link separately.",
+   "status": "remaining",
+   "action": "Criteria 15-min cognitive test (Analytics Engineer, UK Cards)",
+   "due": "2026-11-12T00:31:00+00:00",
+   "done_on": "",
+   "key": "lendable-analytics-engineer"
   }
  ],
  "positive_count": 12,
+ "positives_done": 2,
+ "positives_remaining": 8,
+ "positives_expired": 2,
+ "positives_declined": 0,
  "by_day": [
   {
    "date": "earlier",
@@ -13882,6 +13946,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T01:38:52+00:00",
- "updated": "2026-11-10T01:38:54+00:00",
- "updated_at": "2026-11-10T01:38:54+00:00"
+ "updated": "2026-11-10T01:43:42+00:00",
+ "updated_at": "2026-11-10T01:43:42+00:00"
 }
