@@ -1,6 +1,6 @@
 {
- "total": 1757,
- "portal": 1318,
+ "total": 1761,
+ "portal": 1322,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -193,7 +193,7 @@
   },
   {
    "date": "2026-11-10",
-   "portal": 109,
+   "portal": 113,
    "email": 0,
    "linkedin": 0
   }
@@ -1528,6 +1528,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/uncountable/8c883639-e300-4cf6-adfd-e401db2c0d94"
+  },
+  {
+   "company": "coram-ai",
+   "role": "Graduate Software Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/coram-ai/d541a4c2-27d2-4700-bff8-4837792aba29"
+  },
+  {
+   "company": "Experian",
+   "role": "Associate Machine Learning Scientist",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Experian/744000157171739"
+  },
+  {
+   "company": "nielseniq",
+   "role": "Junior Insight Analyst for Global Clients",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/nielseniq/744000158447349"
+  },
+  {
+   "company": "trading212",
+   "role": "Junior Backend Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/trading212/4ece0a7b-c53e-4771-a8fd-ef82495226c1"
   },
   {
    "company": "Situ",
@@ -14579,6 +14611,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T09:42:32+00:00",
- "updated": "2026-11-10T09:42:35+00:00",
- "updated_at": "2026-11-10T09:42:35+00:00"
+ "updated": "2026-11-10T09:52:45+00:00",
+ "updated_at": "2026-11-10T09:52:45+00:00"
 }
