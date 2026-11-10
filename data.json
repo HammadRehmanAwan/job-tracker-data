@@ -1,6 +1,6 @@
 {
- "total": 1649,
- "portal": 1210,
+ "total": 1679,
+ "portal": 1240,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -72,7 +72,7 @@
   },
   {
    "date": "2026-11-02",
-   "portal": 82,
+   "portal": 81,
    "email": 79,
    "linkedin": 0
   },
@@ -117,9 +117,263 @@
    "portal": 241,
    "email": 0,
    "linkedin": 23
+  },
+  {
+   "date": "2026-11-10",
+   "portal": 31,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "lendable",
+   "role": "AI Engineer ",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lendable/a89f244b-b8de-4dbd-9d58-0dcc8e80aa2f"
+  },
+  {
+   "company": "databricks",
+   "role": "AI Forward Deployed Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/databricks/jobs/8927179002"
+  },
+  {
+   "company": "databricks",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/databricks/jobs/8921476002"
+  },
+  {
+   "company": "databricks",
+   "role": "Forward Deployed Engineer - Emerging Enterprise & DNB",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/databricks/jobs/8439047002"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Enterprise Systems Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8355927"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Software Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8206351"
+  },
+  {
+   "company": "gitlab",
+   "role": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002"
+  },
+  {
+   "company": "graphcore",
+   "role": "Infrastructure and MLOps Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/graphcore/jobs/8636574002"
+  },
+  {
+   "company": "graphcore",
+   "role": "Software Engineer - Triton",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/graphcore/jobs/8911255002"
+  },
+  {
+   "company": "mthree",
+   "role": "Software Developer - Python",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mthree/jobs/4722195006"
+  },
+  {
+   "company": "ASOS",
+   "role": "Android Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/ASOS/744000136154689"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Front End Angular Developer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678463503"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Front End Developer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352614"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Ruby Developer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352565"
+  },
+  {
+   "company": "Talan",
+   "role": "Front Office Trading Application Support Analyst ",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Talan/744000156283839"
+  },
+  {
+   "company": "Talan",
+   "role": "Application Support Analyst",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Talan/744000145246089"
+  },
+  {
+   "company": "checkout.com",
+   "role": "Engineer I, IT Engineering",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "circuithub",
+   "role": "Software Engineer, Front End & Design",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/circuithub/ea459f68-ffa5-43ba-a988-89ce823f4091"
+  },
+  {
+   "company": "circuithub",
+   "role": "Software Engineer, Haskell",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/circuithub/cedd280e-75b4-4811-8595-9b0b96da74a5"
+  },
+  {
+   "company": "circuithub",
+   "role": "Software Engineer, Product",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/circuithub/2a208d5b-c870-4398-9990-9c3986634890"
+  },
+  {
+   "company": "edra",
+   "role": "Site Reliability Engineer (London)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/edra/269a745a-4b1b-48eb-93b1-ab6fb1c9e8f8"
+  },
+  {
+   "company": "ema",
+   "role": "Software Engineer, Full Stack - UK",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ema/8207a75e-2762-4f5f-bb40-1fa168b918e0"
+  },
+  {
+   "company": "encord",
+   "role": "DevOps Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/encord/1fcf1e4b-ec1b-4a65-ba68-8512bd144d2c"
+  },
+  {
+   "company": "granola",
+   "role": "Security Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/granola/13e11445-b17a-457e-8e9c-9721fe3b545b"
+  },
+  {
+   "company": "lendable",
+   "role": "Analytics Engineer (UK Cards)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lendable/ceeaf7dd-7b35-47cc-808b-da87ed676557"
+  },
+  {
+   "company": "motorway",
+   "role": "Android Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/motorway/76b45b13-0a12-4f19-b839-7bfc5d634961"
+  },
+  {
+   "company": "nevis",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/nevis/e8a87c99-83ef-48e7-bcee-aa85891f6fa7"
+  },
+  {
+   "company": "snowflake",
+   "role": "Associate Solution Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/snowflake/c5753f2c-e417-47b2-86b9-45f4f9df125a"
+  },
+  {
+   "company": "snowflake",
+   "role": "Solution Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/snowflake/5a4332ce-2131-4d7b-b251-956d382fd3da"
+  },
+  {
+   "company": "trainline",
+   "role": "Platform Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/trainline/8536b13b-5ff7-4551-a77d-88d8b4dd43f5"
+  },
+  {
+   "company": "wordsmith",
+   "role": "IT Security Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/wordsmith/7ff2cf1a-2e4f-4092-ba95-777d08f9ddfe"
+  },
   {
    "company": "Situ",
    "role": "Forward Deployed Engineer",
@@ -191,254 +445,6 @@
    "type": "portal",
    "status": "submitted",
    "link": ""
-  },
-  {
-   "company": "evervault",
-   "role": "Product Engineer, Cards",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Accora",
-   "role": "Technology & AI Engineer",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Ellison Institute of Technology",
-   "role": "Data Engineer (Forward Deployed)",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Ellison Institute of Technology",
-   "role": "Data Engineer (Autonomous Systems)",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Minerva Defence",
-   "role": "Product Engineer",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Onodrim Industries",
-   "role": "Forward Deployed Operator - Software Engineering",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "thought-machine",
-   "role": "Software Engineer",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "appdirect",
-   "role": "Intermediate Software Engineer",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "stackadapt",
-   "role": "Automation Engineer, Agentic Orchestration",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "stackadapt",
-   "role": "Integrations Developer",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "alloy",
-   "role": "Technical Support Engineer, Triage & Discovery",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "crusoe",
-   "role": "Cloud Support Engineer ll",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "hightouch",
-   "role": "Backend Engineer, Platform",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "planetscale",
-   "role": "Customer Support Engineer",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Techaxis, Inc",
-   "role": "Python Developer with AI exp",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Referment",
-   "role": "Software Engineer (BE208A6)",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "RedRock Resourcing",
-   "role": "Python Developer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "VirtueTech Recruitment Group",
-   "role": "Python Developer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Spectrum IT Recruitment",
-   "role": "Graduate Software Developer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Advanced Resource Managers",
-   "role": "Junior Data Scientist",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Gravitas Recruitment Group (Global) Ltd",
-   "role": "Data Scientist",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Finatal",
-   "role": "AI / Forward Deployed Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "INFINIT",
-   "role": "Full Stack Software Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Ryan",
-   "role": "Full Stack AI Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Oscar Health",
-   "role": "Operations Engineer I",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "swordhealth",
-   "role": "QA Analyst, Mind",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Lambda",
-   "role": "Internal Tools & Data Product Analyst",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/Lambda/c0116ab6-9ec2-4189-9f07-e9dd284222b6"
-  },
-  {
-   "company": "Clearwater Analytics",
-   "role": "Associate Software Development Engineer (June 2027 Start Date)",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Scope AI",
-   "role": "Integrations Engineer",
-   "date": "2026-11-09",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "bcbgroup",
-   "role": "Analytics Engineer",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/bcbgroup/jobs/5001599101"
-  },
-  {
-   "company": "clickhouse",
-   "role": "Technical Customer Support Engineer - EMEA",
-   "date": "2026-11-09",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/clickhouse/fd8daa96-8c56-4f15-9817-ce55e97a8964"
   }
  ],
  "applications": [
@@ -577,6 +583,254 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "lendable",
+   "role": "AI Engineer ",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lendable/a89f244b-b8de-4dbd-9d58-0dcc8e80aa2f"
+  },
+  {
+   "company": "databricks",
+   "role": "AI Forward Deployed Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/databricks/jobs/8927179002"
+  },
+  {
+   "company": "databricks",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/databricks/jobs/8921476002"
+  },
+  {
+   "company": "databricks",
+   "role": "Forward Deployed Engineer - Emerging Enterprise & DNB",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/databricks/jobs/8439047002"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Enterprise Systems Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8355927"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Software Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8206351"
+  },
+  {
+   "company": "gitlab",
+   "role": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002"
+  },
+  {
+   "company": "graphcore",
+   "role": "Infrastructure and MLOps Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/graphcore/jobs/8636574002"
+  },
+  {
+   "company": "graphcore",
+   "role": "Software Engineer - Triton",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/graphcore/jobs/8911255002"
+  },
+  {
+   "company": "mthree",
+   "role": "Software Developer - Python",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mthree/jobs/4722195006"
+  },
+  {
+   "company": "ASOS",
+   "role": "Android Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/ASOS/744000136154689"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Front End Angular Developer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678463503"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Front End Developer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352614"
+  },
+  {
+   "company": "NewRouteRecruitmentLimited",
+   "role": "Ruby Developer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352565"
+  },
+  {
+   "company": "Talan",
+   "role": "Front Office Trading Application Support Analyst ",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Talan/744000156283839"
+  },
+  {
+   "company": "Talan",
+   "role": "Application Support Analyst",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/Talan/744000145246089"
+  },
+  {
+   "company": "checkout.com",
+   "role": "Engineer I, IT Engineering",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
+  {
+   "company": "circuithub",
+   "role": "Software Engineer, Front End & Design",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/circuithub/ea459f68-ffa5-43ba-a988-89ce823f4091"
+  },
+  {
+   "company": "circuithub",
+   "role": "Software Engineer, Haskell",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/circuithub/cedd280e-75b4-4811-8595-9b0b96da74a5"
+  },
+  {
+   "company": "circuithub",
+   "role": "Software Engineer, Product",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/circuithub/2a208d5b-c870-4398-9990-9c3986634890"
+  },
+  {
+   "company": "edra",
+   "role": "Site Reliability Engineer (London)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/edra/269a745a-4b1b-48eb-93b1-ab6fb1c9e8f8"
+  },
+  {
+   "company": "ema",
+   "role": "Software Engineer, Full Stack - UK",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ema/8207a75e-2762-4f5f-bb40-1fa168b918e0"
+  },
+  {
+   "company": "encord",
+   "role": "DevOps Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/encord/1fcf1e4b-ec1b-4a65-ba68-8512bd144d2c"
+  },
+  {
+   "company": "granola",
+   "role": "Security Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/granola/13e11445-b17a-457e-8e9c-9721fe3b545b"
+  },
+  {
+   "company": "lendable",
+   "role": "Analytics Engineer (UK Cards)",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lendable/ceeaf7dd-7b35-47cc-808b-da87ed676557"
+  },
+  {
+   "company": "motorway",
+   "role": "Android Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/motorway/76b45b13-0a12-4f19-b839-7bfc5d634961"
+  },
+  {
+   "company": "nevis",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/nevis/e8a87c99-83ef-48e7-bcee-aa85891f6fa7"
+  },
+  {
+   "company": "snowflake",
+   "role": "Associate Solution Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/snowflake/c5753f2c-e417-47b2-86b9-45f4f9df125a"
+  },
+  {
+   "company": "snowflake",
+   "role": "Solution Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/snowflake/5a4332ce-2131-4d7b-b251-956d382fd3da"
+  },
+  {
+   "company": "trainline",
+   "role": "Platform Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/trainline/8536b13b-5ff7-4551-a77d-88d8b4dd43f5"
+  },
+  {
+   "company": "wordsmith",
+   "role": "IT Security Engineer",
+   "date": "2026-11-10",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/wordsmith/7ff2cf1a-2e4f-4092-ba95-777d08f9ddfe"
   },
   {
    "company": "Situ",
@@ -12667,14 +12921,6 @@
    "link": "https://job-boards.greenhouse.io/artefact/jobs/8421835002"
   },
   {
-   "company": "Lendable",
-   "role": "AI Engineer",
-   "date": "2026-11-02",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/lendable/a89f244b-b8de-4dbd-9d58-0dcc8e80aa2f/application"
-  },
-  {
    "company": "Permutable AI",
    "role": "ML Engineer",
    "date": "2026-11-02",
@@ -13636,6 +13882,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T00:41:11+00:00",
- "updated": "2026-11-10T00:41:15+00:00",
- "updated_at": "2026-11-10T00:41:15+00:00"
+ "updated": "2026-11-10T00:42:02+00:00",
+ "updated_at": "2026-11-10T00:42:02+00:00"
 }
