@@ -10,10 +10,10 @@
   {
    "company": "Curation",
    "note": "Catch-up with their Head of Product, Fri 6 Nov",
-   "status": "expired",
+   "status": "done",
    "action": "Catch-up with Charles Wells Fri 6 Nov 4pm - date passed, mark done if it happened",
    "due": "2026-11-06T16:00:00+00:00",
-   "done_on": "",
+   "done_on": "2026-11-10",
    "key": "curation-ai-engineer"
   },
   {
@@ -28,10 +28,10 @@
   {
    "company": "City of York Council",
    "note": "Informal call, Mon 9 Nov 12:30",
-   "status": "expired",
+   "status": "done",
    "action": "Informal call Mon 9 Nov 12:30 - date passed, mark done if it happened",
    "due": "2026-11-09T12:30:00+00:00",
-   "done_on": "",
+   "done_on": "2026-11-10",
    "key": "city-of-york-po-ba"
   },
   {
@@ -82,10 +82,10 @@
   {
    "company": "ITC",
    "note": "Sourcing specialist Krishama Panchamiya asked for visa status, location, notice period, expected compensation, an updated CV, and a time slot to speak today or tomorrow about the Python Developer role",
-   "status": "remaining",
+   "status": "done",
    "action": "Reply to Krishama (LinkedIn) if you want to proceed",
    "due": "",
-   "done_on": "",
+   "done_on": "2026-11-10",
    "key": "itc-python-developer"
   },
   {
@@ -126,9 +126,9 @@
   }
  ],
  "positive_count": 13,
- "positives_done": 2,
- "positives_remaining": 9,
- "positives_expired": 2,
+ "positives_done": 5,
+ "positives_remaining": 8,
+ "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
   {
@@ -14611,6 +14611,6 @@
   }
  ],
  "email_stats_updated": "2026-11-10T15:40:14+00:00",
- "updated": "2026-11-10T15:40:14+00:00",
- "updated_at": "2026-11-10T15:40:14+00:00"
+ "updated": "2026-11-10T16:09:07+00:00",
+ "updated_at": "2026-11-10T16:09:07+00:00"
 }
