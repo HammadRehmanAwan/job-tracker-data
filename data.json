@@ -46,10 +46,10 @@
   {
    "company": "Civil Service (Higher Statistical Officer, 487028)",
    "note": "Completed the online tests; still needs to submit the second part of the application by 11:55pm 15 Nov",
-   "status": "remaining",
+   "status": "done",
    "action": "Submit part 2 of the application (online tests done)",
    "due": "2026-11-15T23:55:00+00:00",
-   "done_on": "",
+   "done_on": "2026-11-11",
    "key": "civil-service-487028"
   },
   {
@@ -134,8 +134,8 @@
   }
  ],
  "positive_count": 14,
- "positives_done": 6,
- "positives_remaining": 8,
+ "positives_done": 7,
+ "positives_remaining": 7,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -14619,6 +14619,6 @@
   }
  ],
  "email_stats_updated": "2026-11-11T01:07:42+00:00",
- "updated": "2026-11-11T01:07:42+00:00",
- "updated_at": "2026-11-11T01:07:42+00:00"
+ "updated": "2026-11-11T01:14:45+00:00",
+ "updated_at": "2026-11-11T01:14:45+00:00"
 }
