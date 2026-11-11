@@ -4,7 +4,7 @@
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1314,
+ "confirmations": 1315,
  "rejections": 208,
  "positives": [
   {
@@ -45,7 +45,7 @@
   },
   {
    "company": "Civil Service (Higher Statistical Officer, 487028)",
-   "note": "Completed the online tests; still needs to submit the second part of the application by 11:55pm 15 Nov",
+   "note": "Submitted the application (confirmation received 11 Nov, unique ID 19438976); online tests already completed",
    "status": "done",
    "action": "Submit part 2 of the application (online tests done)",
    "due": "2026-11-15T23:55:00+00:00",
@@ -14618,7 +14618,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-11T01:07:42+00:00",
- "updated": "2026-11-11T01:14:45+00:00",
- "updated_at": "2026-11-11T01:14:45+00:00"
+ "email_stats_updated": "2026-11-11T01:16:57+00:00",
+ "updated": "2026-11-11T01:17:00+00:00",
+ "updated_at": "2026-11-11T01:17:00+00:00"
 }
