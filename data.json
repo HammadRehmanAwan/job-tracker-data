@@ -35,15 +35,6 @@
    "key": "city-of-york-po-ba"
   },
   {
-   "company": "Sheffield City Council",
-   "note": "the hiring team offered an informal call about the Performance Analyst role on 6 Nov",
-   "status": "remaining",
-   "action": "Informal call: missed 6 Nov, asked Rachel to rearrange (awaiting reply)",
-   "due": "",
-   "done_on": "",
-   "key": "sheffield-performance-analyst"
-  },
-  {
    "company": "Civil Service (Higher Statistical Officer, 487028)",
    "note": "Submitted the application (confirmation received 11 Nov, unique ID 19438976); online tests already completed",
    "status": "done",
@@ -63,9 +54,9 @@
   },
   {
    "company": "AJAIA",
-   "note": "Invited to the Data Analyst Researcher Assessment as the next hiring stage",
+   "note": "Invited to the Data Analyst Researcher Assessment as the next hiring stage; the assessment requires 120 minutes",
    "status": "remaining",
-   "action": "Data Analyst Researcher assessment (timed)",
+   "action": "Data Analyst Researcher assessment (timed, 120 minutes)",
    "due": "",
    "done_on": "",
    "key": "ajaia-data-analyst-researcher"
@@ -90,11 +81,11 @@
   },
   {
    "company": "i23",
-   "note": "Dr Salman Valibeik, Chief Science Officer, asked him to complete a short form on salary expectations, notice period, right to work in the UK, and availability for the Full Stack Agentic Engineer role",
-   "status": "remaining",
+   "note": "Submitted the short form (~01:33 UK 11 Nov) on salary, notice, right to work and availability; confirmation: 'Thank you for your interest. Someone will be contacting you shortly.'",
+   "status": "done",
    "action": "Fill in i23's short form (salary, notice, right to work, availability)",
    "due": "",
-   "done_on": "",
+   "done_on": "2026-11-11",
    "key": "i23-full-stack-agentic"
   },
   {
@@ -133,9 +124,9 @@
    "done_on": ""
   }
  ],
- "positive_count": 14,
- "positives_done": 7,
- "positives_remaining": 7,
+ "positive_count": 13,
+ "positives_done": 8,
+ "positives_remaining": 5,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -14618,7 +14609,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-11T01:45:43+00:00",
- "updated": "2026-11-11T01:45:46+00:00",
- "updated_at": "2026-11-11T01:45:46+00:00"
+ "email_stats_updated": "2026-11-11T02:02:01+00:00",
+ "updated": "2026-11-11T02:02:01+00:00",
+ "updated_at": "2026-11-11T02:02:01+00:00"
 }
