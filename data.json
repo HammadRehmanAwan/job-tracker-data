@@ -64,10 +64,10 @@
   {
    "company": "TNG Technology Consulting",
    "note": "Recruiter Vivien Wagner asked for required documents and a current course transcript after reviewing his CV",
-   "status": "remaining",
+   "status": "done",
    "action": "Send requested documents + current course transcript to Vivien Wagner",
    "due": "",
-   "done_on": "",
+   "done_on": "2026-11-12",
    "key": "tng-technology-consulting"
   },
   {
@@ -118,31 +118,34 @@
   {
    "company": "IRIT (CNRS PhD, UMR5505-CHLBOU-112)",
    "note": "Andreas Herzig asked about his exposure to logic during his studies; they are collecting applications and will hold interviews before the end of November",
-   "status": "remaining",
-   "action": "",
+   "status": "done",
+   "action": "Reply to Andreas Herzig about exposure to logic",
    "due": "",
-   "done_on": ""
+   "done_on": "2026-11-12",
+   "key": "irit-cnrs-phd"
   },
   {
    "company": "Xist4 (recruiter Gozie Ezulike)",
    "note": "Recruiter replied to his application, added his CV to their records and asked for brief answers on role type, right to work, location, contract type, salary and notice period; will contact him when a suitable role comes up",
-   "status": "remaining",
-   "action": "",
+   "status": "done",
+   "action": "Answer Gozie's questions (role type, right to work, location, contract, salary, notice)",
    "due": "",
-   "done_on": ""
+   "done_on": "2026-11-12",
+   "key": "xist4-recruiter"
   },
   {
    "company": "Pinpoint Partners (Chief AI Tech Officer, Graduate)",
    "note": "Recruiter Stefan Pillinger asked for his A-level (or equivalent) grades and visa / right-to-work status to complete their review of his application",
-   "status": "remaining",
-   "action": "",
+   "status": "done",
+   "action": "Send A-level equivalent grades and right-to-work status to Stefan Pillinger",
    "due": "",
-   "done_on": ""
+   "done_on": "2026-11-12",
+   "key": "pinpoint-partners"
   }
  ],
  "positive_count": 15,
- "positives_done": 8,
- "positives_remaining": 7,
+ "positives_done": 12,
+ "positives_remaining": 3,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -14626,6 +14629,6 @@
   }
  ],
  "email_stats_updated": "2026-11-12T02:27:22.941872+00:00",
- "updated": "2026-11-12T02:27:23+00:00",
- "updated_at": "2026-11-12T02:27:23+00:00"
+ "updated": "2026-11-12T02:27:30+00:00",
+ "updated_at": "2026-11-12T02:27:30+00:00"
 }
