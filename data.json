@@ -1,10 +1,10 @@
 {
- "total": 1911,
- "portal": 1367,
+ "total": 1920,
+ "portal": 1376,
  "email": 455,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1363,
+ "confirmations": 1373,
  "rejections": 260,
  "positives": [
   {
@@ -217,7 +217,7 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 45,
+   "portal": 54,
    "email": 105,
    "linkedin": 0
   }
@@ -1040,6 +1040,78 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/irissoftwaregroup/4b92d40d-ff9f-4535-a9c3-08ba7cd9d4e8"
+  },
+  {
+   "company": "irissoftwaregroup",
+   "role": "Revenue Operations Associate",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/irissoftwaregroup/b1962179-6d20-4c3b-b307-b71d74ce2894"
+  },
+  {
+   "company": "lottie",
+   "role": "Commercial & Strategy Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lottie/a1c30846-6e5c-464a-8096-1922180a4a75"
+  },
+  {
+   "company": "refractal",
+   "role": "Founder's Associate",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/refractal/c8733bbf-502f-4103-b45b-7eda38a1d436"
+  },
+  {
+   "company": "teton",
+   "role": "Software Engineer (Frontend) - London",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/teton/1e585f72-5acc-49eb-a970-b8a6d7d04748"
+  },
+  {
+   "company": "g-mass",
+   "role": "Data Engineering Consultant - Consortium & Facility",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/g-mass/j/7939A06D2C"
+  },
+  {
+   "company": "Reasonable AI",
+   "role": "Founding Forward Deployed Engineer (FDE)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/reasonable/j/5F34A88D3B"
+  },
+  {
+   "company": "Codurance",
+   "role": "Contract Technical Business Analyst (SaaS Modernisation)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/codurance/j/A9A1D18333"
+  },
+  {
+   "company": "AND Digital",
+   "role": "Contract Product Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/and-digital/j/AD4A1253F5"
+  },
+  {
+   "company": "G MASS",
+   "role": "Technology Operations Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/g-mass/j/E1E3A6F9E3"
   },
   {
    "company": "Baringa",
@@ -15834,7 +15906,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T05:34:20.428731+00:00",
- "updated": "2026-11-12T05:34:20+00:00",
- "updated_at": "2026-11-12T05:34:20+00:00"
+ "email_stats_updated": "2026-11-12T05:43:57.811913+00:00",
+ "updated": "2026-11-12T05:43:58+00:00",
+ "updated_at": "2026-11-12T05:43:58+00:00"
 }
