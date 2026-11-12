@@ -1,10 +1,10 @@
 {
- "total": 1762,
- "portal": 1323,
+ "total": 1770,
+ "portal": 1331,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1317,
+ "confirmations": 1324,
  "rejections": 259,
  "positives": [
   {
@@ -217,7 +217,7 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 1,
+   "portal": 9,
    "email": 0,
    "linkedin": 0
   }
@@ -230,6 +230,70 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/stratos/625d8387-ad66-4ba9-9c17-fc56564d1e42"
+  },
+  {
+   "company": "arrive",
+   "role": "Data Scientist, Pricing ",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/arrive/1f0a1b6d-ec3b-442c-92dd-99381983423a"
+  },
+  {
+   "company": "planhat",
+   "role": "GTM Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/planhat/659d1071-3218-4137-ad1a-fbcd5fe968ce"
+  },
+  {
+   "company": "stratos",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/stratos/54cd6ce1-4c11-47e8-9740-3f338546b9a4"
+  },
+  {
+   "company": "uforce",
+   "role": "Forward Deployed Software Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/uforce/1e69286f-0b24-42a4-ab64-349bd63a868d"
+  },
+  {
+   "company": "adclear",
+   "role": "Product Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/adclear/1f1129c0-e6e7-4ce1-95ba-d4cc8218deee"
+  },
+  {
+   "company": "factory",
+   "role": "Solutions Engineer, Enterprise, EMEA  ",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/factory/821236f8-caf9-4564-ba60-131f7adb2bc7"
+  },
+  {
+   "company": "smarkets",
+   "role": "Data Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8"
+  },
+  {
+   "company": "stratos",
+   "role": "Product Engineer ",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/stratos/0a59eaa5-d9c1-4dc8-a4e8-08893157f166"
   },
   {
    "company": "lendable",
@@ -478,70 +542,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/wordsmith/7ff2cf1a-2e4f-4092-ba95-777d08f9ddfe"
-  },
-  {
-   "company": "braze",
-   "role": "Technical Solutions Engineer, Security & Privacy",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/braze/jobs/8306112"
-  },
-  {
-   "company": "circleci",
-   "role": "Support Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/circleci/jobs/8918373002"
-  },
-  {
-   "company": "deliveroo",
-   "role": "Software Engineer, Backend (BI Platform)",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8206463"
-  },
-  {
-   "company": "deliveroo",
-   "role": "Software Engineer II - Code Context",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8312275"
-  },
-  {
-   "company": "epicgames",
-   "role": "Machine Learning Engineer, Memory",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/epicgames/jobs/6141143004"
-  },
-  {
-   "company": "fanduel",
-   "role": "Software Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/fanduel/jobs/7981990"
-  },
-  {
-   "company": "klaviyo",
-   "role": "Software Engineer II - SMS International",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/klaviyo/jobs/8006729003"
-  },
-  {
-   "company": "mangroup",
-   "role": "Python Data Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/mangroup/jobs/5011118101"
   }
  ],
  "applications": [
@@ -688,6 +688,70 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/stratos/625d8387-ad66-4ba9-9c17-fc56564d1e42"
+  },
+  {
+   "company": "arrive",
+   "role": "Data Scientist, Pricing ",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/arrive/1f0a1b6d-ec3b-442c-92dd-99381983423a"
+  },
+  {
+   "company": "planhat",
+   "role": "GTM Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/planhat/659d1071-3218-4137-ad1a-fbcd5fe968ce"
+  },
+  {
+   "company": "stratos",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/stratos/54cd6ce1-4c11-47e8-9740-3f338546b9a4"
+  },
+  {
+   "company": "uforce",
+   "role": "Forward Deployed Software Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/uforce/1e69286f-0b24-42a4-ab64-349bd63a868d"
+  },
+  {
+   "company": "adclear",
+   "role": "Product Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/adclear/1f1129c0-e6e7-4ce1-95ba-d4cc8218deee"
+  },
+  {
+   "company": "factory",
+   "role": "Solutions Engineer, Enterprise, EMEA  ",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/factory/821236f8-caf9-4564-ba60-131f7adb2bc7"
+  },
+  {
+   "company": "smarkets",
+   "role": "Data Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8"
+  },
+  {
+   "company": "stratos",
+   "role": "Product Engineer ",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/stratos/0a59eaa5-d9c1-4dc8-a4e8-08893157f166"
   },
   {
    "company": "lendable",
@@ -14642,7 +14706,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T02:44:37.167028+00:00",
- "updated": "2026-11-12T02:44:37+00:00",
- "updated_at": "2026-11-12T02:44:37+00:00"
+ "email_stats_updated": "2026-11-12T03:03:45.685283+00:00",
+ "updated": "2026-11-12T03:03:46+00:00",
+ "updated_at": "2026-11-12T03:03:46+00:00"
 }
