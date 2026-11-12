@@ -1,10 +1,10 @@
 {
- "total": 1761,
- "portal": 1322,
+ "total": 1762,
+ "portal": 1323,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1316,
+ "confirmations": 1317,
  "rejections": 259,
  "positives": [
   {
@@ -214,9 +214,23 @@
    "portal": 113,
    "email": 0,
    "linkedin": 0
+  },
+  {
+   "date": "2026-11-12",
+   "portal": 1,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "STRATOS",
+   "role": "Forward Deployed Engineer (Graduate)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/stratos/625d8387-ad66-4ba9-9c17-fc56564d1e42"
+  },
   {
    "company": "lendable",
    "role": "AI Engineer ",
@@ -528,14 +542,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/mangroup/jobs/5011118101"
-  },
-  {
-   "company": "NewRouteRecruitmentLimited",
-   "role": "Front End Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352551"
   }
  ],
  "applications": [
@@ -674,6 +680,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "STRATOS",
+   "role": "Forward Deployed Engineer (Graduate)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/stratos/625d8387-ad66-4ba9-9c17-fc56564d1e42"
   },
   {
    "company": "lendable",
@@ -14628,7 +14642,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T02:27:22.941872+00:00",
- "updated": "2026-11-12T02:27:30+00:00",
- "updated_at": "2026-11-12T02:27:30+00:00"
+ "email_stats_updated": "2026-11-12T02:44:37.167028+00:00",
+ "updated": "2026-11-12T02:44:37+00:00",
+ "updated_at": "2026-11-12T02:44:37+00:00"
 }
