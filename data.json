@@ -1,7 +1,7 @@
 {
- "total": 1821,
+ "total": 1850,
  "portal": 1354,
- "email": 378,
+ "email": 407,
  "linkedin": 89,
  "bounced_emails": 23,
  "confirmations": 1351,
@@ -218,7 +218,7 @@
   {
    "date": "2026-11-12",
    "portal": 32,
-   "email": 28,
+   "email": 57,
    "linkedin": 0
   }
  ],
@@ -1155,6 +1155,238 @@
   },
   {
    "company": "iFindTech",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Grid Dynamics",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "STRAT7",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Robiquity",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Lorien",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Data Careers",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Data Idols",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "EC1 Partners",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Noir Consulting",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "twentyAI",
+   "role": "Business Analyst",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "83zero",
+   "role": "Data Analyst",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Elastacloud",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "The Information Lab",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Coeo",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "1Spatial",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cyber-Duck",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "TPXimpact",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "dxw",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cambridge Intelligence",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Mirada Medical",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Brainomix",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Artificial Labs",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "causaLens",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "SPG Resourcing",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Finitas",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Circle Recruitment",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Pareto",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Rullion",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Spinks Tech",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ralph Recruitment",
    "role": "Agency registration (AI/Data)",
    "date": "2026-11-12",
    "type": "email",
@@ -15114,7 +15346,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T04:17:57.131333+00:00",
- "updated": "2026-11-12T04:17:57+00:00",
- "updated_at": "2026-11-12T04:17:57+00:00"
+ "email_stats_updated": "2026-11-12T04:31:42.693188+00:00",
+ "updated": "2026-11-12T04:31:43+00:00",
+ "updated_at": "2026-11-12T04:31:43+00:00"
 }
