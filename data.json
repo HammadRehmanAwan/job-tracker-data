@@ -1,10 +1,10 @@
 {
- "total": 1770,
- "portal": 1331,
+ "total": 1775,
+ "portal": 1336,
  "email": 350,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1324,
+ "confirmations": 1328,
  "rejections": 259,
  "positives": [
   {
@@ -217,7 +217,7 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 9,
+   "portal": 14,
    "email": 0,
    "linkedin": 0
   }
@@ -294,6 +294,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/stratos/0a59eaa5-d9c1-4dc8-a4e8-08893157f166"
+  },
+  {
+   "company": "everway",
+   "role": "Data Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/everway/jobs/4714411006"
+  },
+  {
+   "company": "addepar1",
+   "role": "Portfolio Data Operations Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/addepar1/jobs/8934788002"
+  },
+  {
+   "company": "drive",
+   "role": "Business Insights Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/drive/jobs/8891136002"
+  },
+  {
+   "company": "phrase",
+   "role": "Partner Solutions Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/phrase/d3234cf7-a772-48f0-92e0-281c71b5b3df"
+  },
+  {
+   "company": "tripledotstudios",
+   "role": "Data Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/tripledotstudios/jobs/4988619101"
   },
   {
    "company": "lendable",
@@ -502,46 +542,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/motorway/76b45b13-0a12-4f19-b839-7bfc5d634961"
-  },
-  {
-   "company": "nevis",
-   "role": "Applied AI Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/nevis/e8a87c99-83ef-48e7-bcee-aa85891f6fa7"
-  },
-  {
-   "company": "snowflake",
-   "role": "Associate Solution Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/snowflake/c5753f2c-e417-47b2-86b9-45f4f9df125a"
-  },
-  {
-   "company": "snowflake",
-   "role": "Solution Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/snowflake/5a4332ce-2131-4d7b-b251-956d382fd3da"
-  },
-  {
-   "company": "trainline",
-   "role": "Platform Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/trainline/8536b13b-5ff7-4551-a77d-88d8b4dd43f5"
-  },
-  {
-   "company": "wordsmith",
-   "role": "IT Security Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/wordsmith/7ff2cf1a-2e4f-4092-ba95-777d08f9ddfe"
   }
  ],
  "applications": [
@@ -752,6 +752,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/stratos/0a59eaa5-d9c1-4dc8-a4e8-08893157f166"
+  },
+  {
+   "company": "everway",
+   "role": "Data Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/everway/jobs/4714411006"
+  },
+  {
+   "company": "addepar1",
+   "role": "Portfolio Data Operations Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/addepar1/jobs/8934788002"
+  },
+  {
+   "company": "drive",
+   "role": "Business Insights Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/drive/jobs/8891136002"
+  },
+  {
+   "company": "phrase",
+   "role": "Partner Solutions Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/phrase/d3234cf7-a772-48f0-92e0-281c71b5b3df"
+  },
+  {
+   "company": "tripledotstudios",
+   "role": "Data Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/tripledotstudios/jobs/4988619101"
   },
   {
    "company": "lendable",
@@ -14706,7 +14746,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T03:03:45.685283+00:00",
- "updated": "2026-11-12T03:03:46+00:00",
- "updated_at": "2026-11-12T03:03:46+00:00"
+ "email_stats_updated": "2026-11-12T03:13:00.278282+00:00",
+ "updated": "2026-11-12T03:13:00+00:00",
+ "updated_at": "2026-11-12T03:13:00+00:00"
 }
