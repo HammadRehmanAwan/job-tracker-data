@@ -1,10 +1,10 @@
 {
- "total": 1903,
- "portal": 1359,
+ "total": 1905,
+ "portal": 1361,
  "email": 455,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1357,
+ "confirmations": 1359,
  "rejections": 260,
  "positives": [
   {
@@ -217,7 +217,7 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 37,
+   "portal": 39,
    "email": 105,
    "linkedin": 0
   }
@@ -520,23 +520,23 @@
    "link": "https://jobs.ashbyhq.com/irissoftwaregroup/03006505-535d-4431-9c96-69e6fc5f7b4b"
   },
   {
+   "company": "EcoOnline",
+   "role": "Software Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://ecoonline.teamtailor.com/jobs/8268160-software-engineer"
+  },
+  {
+   "company": "ClearRoute",
+   "role": "Agentic AI Developer (Python)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://clearroute.teamtailor.com/jobs/8261776-agentic-ai-developer-python"
+  },
+  {
    "company": "Baringa",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "Exclaimer",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "Kerv",
    "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
    "type": "email",
@@ -976,6 +976,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/irissoftwaregroup/03006505-535d-4431-9c96-69e6fc5f7b4b"
+  },
+  {
+   "company": "EcoOnline",
+   "role": "Software Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://ecoonline.teamtailor.com/jobs/8268160-software-engineer"
+  },
+  {
+   "company": "ClearRoute",
+   "role": "Agentic AI Developer (Python)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://clearroute.teamtailor.com/jobs/8261776-agentic-ai-developer-python"
   },
   {
    "company": "Baringa",
@@ -15770,7 +15786,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T05:00:40.512485+00:00",
- "updated": "2026-11-12T05:00:40+00:00",
- "updated_at": "2026-11-12T05:00:40+00:00"
+ "email_stats_updated": "2026-11-12T05:12:32.732845+00:00",
+ "updated": "2026-11-12T05:12:33+00:00",
+ "updated_at": "2026-11-12T05:12:33+00:00"
 }
