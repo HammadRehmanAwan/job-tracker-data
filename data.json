@@ -1,10 +1,10 @@
 {
- "total": 1812,
- "portal": 1350,
- "email": 373,
+ "total": 1821,
+ "portal": 1354,
+ "email": 378,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1344,
+ "confirmations": 1351,
  "rejections": 259,
  "positives": [
   {
@@ -217,8 +217,8 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 28,
-   "email": 23,
+   "portal": 32,
+   "email": 28,
    "linkedin": 0
   }
  ],
@@ -448,6 +448,38 @@
    "link": "https://careers.flanneryplant.co.uk/jobs/8525481-junior-business-systems-support-analyst"
   },
   {
+   "company": "Solirius Consulting",
+   "role": "Data Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/solirius-consulting-1/j/CE67A6C523"
+  },
+  {
+   "company": "Skeleton Crew",
+   "role": "Software Engineer - Internal Tools & Automation",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/skeleton-crew/j/E515060B3B"
+  },
+  {
+   "company": "AcoustoFab",
+   "role": "Software Product Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/acoustofab/j/EBD026D61F"
+  },
+  {
+   "company": "Zoopla",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/zoopla/j/38777952D3"
+  },
+  {
    "company": "Baringa",
    "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
@@ -505,38 +537,6 @@
   },
   {
    "company": "Genomics",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "Unitary",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "hireful",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "FIELD.IO",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "Tandem Bank",
    "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
    "type": "email",
@@ -906,6 +906,38 @@
    "link": "https://careers.flanneryplant.co.uk/jobs/8525481-junior-business-systems-support-analyst"
   },
   {
+   "company": "Solirius Consulting",
+   "role": "Data Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/solirius-consulting-1/j/CE67A6C523"
+  },
+  {
+   "company": "Skeleton Crew",
+   "role": "Software Engineer - Internal Tools & Automation",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/skeleton-crew/j/E515060B3B"
+  },
+  {
+   "company": "AcoustoFab",
+   "role": "Software Product Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/acoustofab/j/EBD026D61F"
+  },
+  {
+   "company": "Zoopla",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/zoopla/j/38777952D3"
+  },
+  {
    "company": "Baringa",
    "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
@@ -1084,6 +1116,46 @@
   {
    "company": "Torchbox",
    "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Tynestack",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Adria Solutions",
+   "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Datasite",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Objectway",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "iFindTech",
+   "role": "Agency registration (AI/Data)",
    "date": "2026-11-12",
    "type": "email",
    "status": "sent",
@@ -15042,7 +15114,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T04:04:48.956662+00:00",
- "updated": "2026-11-12T04:04:49+00:00",
- "updated_at": "2026-11-12T04:04:49+00:00"
+ "email_stats_updated": "2026-11-12T04:17:57.131333+00:00",
+ "updated": "2026-11-12T04:17:57+00:00",
+ "updated_at": "2026-11-12T04:17:57+00:00"
 }
