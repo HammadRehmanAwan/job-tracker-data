@@ -1,7 +1,7 @@
 {
- "total": 1855,
+ "total": 1903,
  "portal": 1359,
- "email": 407,
+ "email": 455,
  "linkedin": 89,
  "bounced_emails": 23,
  "confirmations": 1357,
@@ -218,7 +218,7 @@
   {
    "date": "2026-11-12",
    "portal": 37,
-   "email": 57,
+   "email": 105,
    "linkedin": 0
   }
  ],
@@ -1428,6 +1428,390 @@
   {
    "company": "Ralph Recruitment",
    "role": "Agency registration (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Informed Solutions",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Carnall Farrar",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "UBDS Group",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Biffa",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Rail Delivery Group",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "EnerMech",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Winnow",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Carmoola",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Blink",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Appvia",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Inspired Thinking Group (ITG)",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Arbor Education",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Phoenix Software",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Onodrim Industries",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Valis",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Acteon",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "ARO",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Smartstream",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "ZILO",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "GBG",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "PortSwigger",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Two Circles",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Moonshot",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "WeBuild-AI",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Warden AI",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Wonderbly",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Soda Data",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Bits",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Blankstate",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Alchemy Cloud Inc.",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Callsign",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "uMed",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Queueco",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Grayce",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "_nology",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Allwyn Lottery Solutions",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Hamiltonian Dynamics",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Uncapped",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Q5",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Dune Advisors",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Coefficient",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Anaqua",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Lockwood Publishing",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Onyx Capital Group",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Humara",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "CMSPI",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Cybit",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "CALIO Consulting Group",
+   "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
    "type": "email",
    "status": "sent",
@@ -15387,6 +15771,6 @@
   }
  ],
  "email_stats_updated": "2026-11-12T04:49:21.680214+00:00",
- "updated": "2026-11-12T04:49:21+00:00",
- "updated_at": "2026-11-12T04:49:22+00:00"
+ "updated": "2026-11-12T04:57:48+00:00",
+ "updated_at": "2026-11-12T04:57:48+00:00"
 }
