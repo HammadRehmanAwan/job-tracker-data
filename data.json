@@ -1,10 +1,10 @@
 {
- "total": 1811,
- "portal": 1349,
+ "total": 1812,
+ "portal": 1350,
  "email": 373,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1343,
+ "confirmations": 1344,
  "rejections": 259,
  "positives": [
   {
@@ -217,7 +217,7 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 27,
+   "portal": 28,
    "email": 23,
    "linkedin": 0
   }
@@ -440,6 +440,14 @@
    "link": "https://job-boards.greenhouse.io/vixtechnology/jobs/5027650101"
   },
   {
+   "company": "Flannery Plant Hire",
+   "role": "Junior Business Systems Support Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.flanneryplant.co.uk/jobs/8525481-junior-business-systems-support-analyst"
+  },
+  {
    "company": "Baringa",
    "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
@@ -529,14 +537,6 @@
   },
   {
    "company": "Tandem Bank",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "Vivacity Labs",
    "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
    "type": "email",
@@ -896,6 +896,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/vixtechnology/jobs/5027650101"
+  },
+  {
+   "company": "Flannery Plant Hire",
+   "role": "Junior Business Systems Support Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.flanneryplant.co.uk/jobs/8525481-junior-business-systems-support-analyst"
   },
   {
    "company": "Baringa",
@@ -15034,7 +15042,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T03:50:07.138171+00:00",
- "updated": "2026-11-12T03:50:07+00:00",
- "updated_at": "2026-11-12T03:50:07+00:00"
+ "email_stats_updated": "2026-11-12T04:04:48.956662+00:00",
+ "updated": "2026-11-12T04:04:49+00:00",
+ "updated_at": "2026-11-12T04:04:49+00:00"
 }
