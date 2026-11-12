@@ -1,10 +1,10 @@
 {
- "total": 1920,
- "portal": 1376,
+ "total": 1933,
+ "portal": 1389,
  "email": 455,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1373,
+ "confirmations": 1386,
  "rejections": 260,
  "positives": [
   {
@@ -217,7 +217,7 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 54,
+   "portal": 67,
    "email": 105,
    "linkedin": 0
   }
@@ -1112,6 +1112,110 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/g-mass/j/E1E3A6F9E3"
+  },
+  {
+   "company": "Rentokil Initial  Group",
+   "role": "Technical Software Specialist",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/rentokil-initial-group/j/D10B692121"
+  },
+  {
+   "company": "ben",
+   "role": "Revenue Operations Associate",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Ben/6060e549-6c3d-46ee-9d85-770d65f78cf1"
+  },
+  {
+   "company": "cuspai",
+   "role": "Product Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cuspai/8fb59417-ee76-47de-92cf-233879b97bb2"
+  },
+  {
+   "company": "cuspai",
+   "role": "Applied AI/ML Engineer (Agents)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cuspai/916e1489-6624-4a87-90e6-218dc7ebb6fb"
+  },
+  {
+   "company": "factory",
+   "role": "Technical Support Engineer - EMEA",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/factory/4fee6050-ebaa-45cb-a777-a9c2f1bf8d02"
+  },
+  {
+   "company": "isembard",
+   "role": "Automation Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/isembard/c701b40d-c423-4f28-9c16-58a17d3e19e1"
+  },
+  {
+   "company": "PortSwigger",
+   "role": "AI Support Operations Specialist",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/portswigger/j/993F918C13"
+  },
+  {
+   "company": "infinity-constellation",
+   "role": "AI Strategist - Supernal",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/infinity-constellation/32b6401b-b5fb-4b2e-8834-f29dc0fae3ce"
+  },
+  {
+   "company": "prolific",
+   "role": "Analytics Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolific/jobs/4571081101"
+  },
+  {
+   "company": "fifty-five",
+   "role": "Digital Analytics Associate Consultant",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/fifty-five/j/F21A38FE9E"
+  },
+  {
+   "company": "harvey",
+   "role": "Forward Deployed Finance Engineer, Private Credit",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/harvey/8407b840-8645-471b-8bbf-f4c6c8861a2d"
+  },
+  {
+   "company": "trading212",
+   "role": "Graduate Trading Operations Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/trading212/3869cbd3-5700-4a3f-b32c-ac386518ee9a"
+  },
+  {
+   "company": "Digilab",
+   "role": "Software Engineer - Python ",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/digilab/jobs/5025643101"
   },
   {
    "company": "Baringa",
@@ -15906,7 +16010,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T05:43:57.811913+00:00",
- "updated": "2026-11-12T05:43:58+00:00",
- "updated_at": "2026-11-12T05:43:58+00:00"
+ "email_stats_updated": "2026-11-12T06:04:29.094742+00:00",
+ "updated": "2026-11-12T06:04:29+00:00",
+ "updated_at": "2026-11-12T06:04:29+00:00"
 }
