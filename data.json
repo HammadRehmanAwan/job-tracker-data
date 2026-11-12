@@ -1,10 +1,10 @@
 {
- "total": 1950,
- "portal": 1406,
+ "total": 1971,
+ "portal": 1427,
  "email": 455,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1400,
+ "confirmations": 1421,
  "rejections": 260,
  "positives": [
   {
@@ -217,7 +217,7 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 84,
+   "portal": 105,
    "email": 105,
    "linkedin": 0
   }
@@ -1352,6 +1352,174 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/bionic-services-ltd/j/E46606A8F6"
+  },
+  {
+   "company": "Landytech",
+   "role": "Product Specialist - B2B SaaS Fintech",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/landytech/j/EC97E64EAB"
+  },
+  {
+   "company": "Popmenu",
+   "role": "Client Onboarding Consultant",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/popmenu/j/9ED03C1069"
+  },
+  {
+   "company": "atominvest",
+   "role": "Account Management Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/atominvest/6205ddcb-6553-4adf-aee5-776c9dbd2280"
+  },
+  {
+   "company": "deepgram",
+   "role": "Revenue Operations Analyst (Europe)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Deepgram/4e779ee8-43bd-4cb0-9d14-b1645da0ea15"
+  },
+  {
+   "company": "emagine",
+   "role": "CRM & Revenue Operations Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/emagine/8ee2e073-c399-4e95-8b7d-7c309f42b78c"
+  },
+  {
+   "company": "CHAOS Industries",
+   "role": "Forward Deployed Engineer - Software",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/chaosindustries/jobs/5253701007"
+  },
+  {
+   "company": "Frontline Group",
+   "role": "Business Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/frontline-group-1/j/EF105D3348"
+  },
+  {
+   "company": "foundational",
+   "role": "Orbital Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/foundational/057ed84b-6016-4b23-aa95-74c2ebc266e5"
+  },
+  {
+   "company": "Landytech",
+   "role": "Revenue Operations Associate - B2B SaaS Fintech",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/landytech/j/5B239EF80E"
+  },
+  {
+   "company": "hyperexponential",
+   "role": "Technical Trainer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hyperexponential/d7def2cb-0a80-4366-a446-11ad58075300"
+  },
+  {
+   "company": "Infinitesima",
+   "role": "Software Engineer Talent Pool (all grades)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/infinitesima/jobs/4988670101"
+  },
+  {
+   "company": "legal-500",
+   "role": "Enterprise AI Product Owner",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/legal-500/b7ac622f-070b-479b-b7e4-de444419ebd1"
+  },
+  {
+   "company": "intersystems",
+   "role": "Product Specialist",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/intersystems/jobs/8009257003"
+  },
+  {
+   "company": "chaosindustries",
+   "role": "MSOC Product Support Engineer (UK)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/chaosindustries/jobs/5286916007"
+  },
+  {
+   "company": "telnyx54",
+   "role": "AI Forward Deployed Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/telnyx54/jobs/8196707003"
+  },
+  {
+   "company": "Zinier",
+   "role": "Presales Solution Consultant, UK",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/zinier/jobs/4425388009"
+  },
+  {
+   "company": "InterSystems",
+   "role": "Technical Graduate",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/intersystems/jobs/7998006003"
+  },
+  {
+   "company": "supabase",
+   "role": "Software Engineer - AI Tooling",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d"
+  },
+  {
+   "company": "wpp",
+   "role": "Data Steward - People Platforms",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/wpp/jobs/8570395002"
+  },
+  {
+   "company": "alphasense",
+   "role": "Application Specialist, Financial Data",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/alphasense/jobs/8592182002"
+  },
+  {
+   "company": "Super Payments",
+   "role": "Technical Implementation Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/superpayments/jobs/5028730101"
   },
   {
    "company": "Baringa",
@@ -16146,7 +16314,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T06:19:56.901628+00:00",
- "updated": "2026-11-12T06:19:57+00:00",
- "updated_at": "2026-11-12T06:19:57+00:00"
+ "email_stats_updated": "2026-11-12T06:35:35.985718+00:00",
+ "updated": "2026-11-12T06:36:06+00:00",
+ "updated_at": "2026-11-12T06:36:06+00:00"
 }
