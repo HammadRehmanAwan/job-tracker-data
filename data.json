@@ -1,10 +1,10 @@
 {
- "total": 1775,
- "portal": 1336,
- "email": 350,
+ "total": 1786,
+ "portal": 1341,
+ "email": 356,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1328,
+ "confirmations": 1334,
  "rejections": 259,
  "positives": [
   {
@@ -217,8 +217,8 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 14,
-   "email": 0,
+   "portal": 19,
+   "email": 6,
    "linkedin": 0
   }
  ],
@@ -334,6 +334,94 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/tripledotstudios/jobs/4988619101"
+  },
+  {
+   "company": "kernel",
+   "role": "GTM Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/kernel/6d096880-f331-4bb5-a647-5ec09099fd62"
+  },
+  {
+   "company": "Blue Light Card",
+   "role": "AI and Automation Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.bluelightcard.co.uk/jobs/8690942-ai-and-automation-engineer"
+  },
+  {
+   "company": "Blue Light Card",
+   "role": "BI Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.bluelightcard.co.uk/jobs/8559670-bi-analyst"
+  },
+  {
+   "company": "Blue Light Card",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.bluelightcard.co.uk/jobs/8540944-full-stack-engineer"
+  },
+  {
+   "company": "Cazoo",
+   "role": "Commercial Data Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.cazoo.co.uk/jobs/8704068-commercial-data-analyst"
+  },
+  {
+   "company": "Baringa",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Exclaimer",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Kerv",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ledgy",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "RELEX Solutions",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Virtu Financial",
+   "role": "Data Analyst",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
   },
   {
    "company": "lendable",
@@ -454,94 +542,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.smartrecruiters.com/Talan/744000156283839"
-  },
-  {
-   "company": "Talan",
-   "role": "Application Support Analyst",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.smartrecruiters.com/Talan/744000145246089"
-  },
-  {
-   "company": "checkout.com",
-   "role": "Engineer I, IT Engineering",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "circuithub",
-   "role": "Software Engineer, Front End & Design",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/circuithub/ea459f68-ffa5-43ba-a988-89ce823f4091"
-  },
-  {
-   "company": "circuithub",
-   "role": "Software Engineer, Haskell",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/circuithub/cedd280e-75b4-4811-8595-9b0b96da74a5"
-  },
-  {
-   "company": "circuithub",
-   "role": "Software Engineer, Product",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/circuithub/2a208d5b-c870-4398-9990-9c3986634890"
-  },
-  {
-   "company": "edra",
-   "role": "Site Reliability Engineer (London)",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/edra/269a745a-4b1b-48eb-93b1-ab6fb1c9e8f8"
-  },
-  {
-   "company": "ema",
-   "role": "Software Engineer, Full Stack - UK",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/ema/8207a75e-2762-4f5f-bb40-1fa168b918e0"
-  },
-  {
-   "company": "encord",
-   "role": "DevOps Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/encord/1fcf1e4b-ec1b-4a65-ba68-8512bd144d2c"
-  },
-  {
-   "company": "granola",
-   "role": "Security Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/granola/13e11445-b17a-457e-8e9c-9721fe3b545b"
-  },
-  {
-   "company": "lendable",
-   "role": "Analytics Engineer (UK Cards)",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/lendable/ceeaf7dd-7b35-47cc-808b-da87ed676557"
-  },
-  {
-   "company": "motorway",
-   "role": "Android Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/motorway/76b45b13-0a12-4f19-b839-7bfc5d634961"
   }
  ],
  "applications": [
@@ -792,6 +792,94 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/tripledotstudios/jobs/4988619101"
+  },
+  {
+   "company": "kernel",
+   "role": "GTM Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/kernel/6d096880-f331-4bb5-a647-5ec09099fd62"
+  },
+  {
+   "company": "Blue Light Card",
+   "role": "AI and Automation Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.bluelightcard.co.uk/jobs/8690942-ai-and-automation-engineer"
+  },
+  {
+   "company": "Blue Light Card",
+   "role": "BI Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.bluelightcard.co.uk/jobs/8559670-bi-analyst"
+  },
+  {
+   "company": "Blue Light Card",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.bluelightcard.co.uk/jobs/8540944-full-stack-engineer"
+  },
+  {
+   "company": "Cazoo",
+   "role": "Commercial Data Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.cazoo.co.uk/jobs/8704068-commercial-data-analyst"
+  },
+  {
+   "company": "Baringa",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Exclaimer",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Kerv",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Ledgy",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "RELEX Solutions",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Virtu Financial",
+   "role": "Data Analyst",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
   },
   {
    "company": "lendable",
@@ -14746,7 +14834,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T03:13:00.278282+00:00",
- "updated": "2026-11-12T03:13:00+00:00",
- "updated_at": "2026-11-12T03:13:00+00:00"
+ "email_stats_updated": "2026-11-12T03:31:57.891160+00:00",
+ "updated": "2026-11-12T03:31:58+00:00",
+ "updated_at": "2026-11-12T03:31:58+00:00"
 }
