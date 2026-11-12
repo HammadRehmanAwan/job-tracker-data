@@ -1,10 +1,10 @@
 {
- "total": 1850,
- "portal": 1354,
+ "total": 1855,
+ "portal": 1359,
  "email": 407,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1351,
+ "confirmations": 1357,
  "rejections": 259,
  "positives": [
   {
@@ -217,7 +217,7 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 32,
+   "portal": 37,
    "email": 57,
    "linkedin": 0
   }
@@ -480,6 +480,46 @@
    "link": "https://apply.workable.com/zoopla/j/38777952D3"
   },
   {
+   "company": "capco",
+   "role": "Transaction Reporting Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/capco/jobs/8352468"
+  },
+  {
+   "company": "tripledotstudios",
+   "role": "Data Scientist",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/tripledotstudios/jobs/4953254101"
+  },
+  {
+   "company": "Lendable",
+   "role": "Python Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lendable/9c1b6ab5-5582-46b1-ae58-d9720c8b8440"
+  },
+  {
+   "company": "Relay Technologies",
+   "role": "Applied Scientist, Ranking & Recommendations",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/relay/060c8c1b-26f6-4064-af8a-4dd3914d4151"
+  },
+  {
+   "company": "IRIS Software Group",
+   "role": "Sales Operations Analyst, Entry Level",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/irissoftwaregroup/03006505-535d-4431-9c96-69e6fc5f7b4b"
+  },
+  {
    "company": "Baringa",
    "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
@@ -497,46 +537,6 @@
   },
   {
    "company": "Kerv",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "Ledgy",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "RELEX Solutions",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "Virtu Financial",
-   "role": "Data Analyst",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "Global Relay",
-   "role": "Speculative (AI/Data)",
-   "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
-  },
-  {
-   "company": "Genomics",
    "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
    "type": "email",
@@ -936,6 +936,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/zoopla/j/38777952D3"
+  },
+  {
+   "company": "capco",
+   "role": "Transaction Reporting Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/capco/jobs/8352468"
+  },
+  {
+   "company": "tripledotstudios",
+   "role": "Data Scientist",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/tripledotstudios/jobs/4953254101"
+  },
+  {
+   "company": "Lendable",
+   "role": "Python Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lendable/9c1b6ab5-5582-46b1-ae58-d9720c8b8440"
+  },
+  {
+   "company": "Relay Technologies",
+   "role": "Applied Scientist, Ranking & Recommendations",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/relay/060c8c1b-26f6-4064-af8a-4dd3914d4151"
+  },
+  {
+   "company": "IRIS Software Group",
+   "role": "Sales Operations Analyst, Entry Level",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/irissoftwaregroup/03006505-535d-4431-9c96-69e6fc5f7b4b"
   },
   {
    "company": "Baringa",
@@ -15346,7 +15386,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T04:31:42.693188+00:00",
- "updated": "2026-11-12T04:31:43+00:00",
- "updated_at": "2026-11-12T04:31:43+00:00"
+ "email_stats_updated": "2026-11-12T04:49:21.680214+00:00",
+ "updated": "2026-11-12T04:49:21+00:00",
+ "updated_at": "2026-11-12T04:49:22+00:00"
 }
