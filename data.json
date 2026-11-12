@@ -1,10 +1,10 @@
 {
- "total": 1933,
- "portal": 1389,
+ "total": 1950,
+ "portal": 1406,
  "email": 455,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1386,
+ "confirmations": 1400,
  "rejections": 260,
  "positives": [
   {
@@ -217,7 +217,7 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 67,
+   "portal": 84,
    "email": 105,
    "linkedin": 0
   }
@@ -1216,6 +1216,142 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/digilab/jobs/5025643101"
+  },
+  {
+   "company": "faculty",
+   "role": "Software Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/faculty/74516bac-468a-44ad-84f6-4d4d8a0ca93f"
+  },
+  {
+   "company": "abtrace",
+   "role": "Data Scientist",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/abtrace/j/5DDA18DF02"
+  },
+  {
+   "company": "solveintelligence",
+   "role": "Data Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/solveintelligence/7e42954a-cb4a-4aa4-a317-fb0a23ded383"
+  },
+  {
+   "company": "relay",
+   "role": "Research Scientist, Causal Inference",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/relay/6ab34294-e9e3-4057-a809-4980fe5d28e8"
+  },
+  {
+   "company": "legora",
+   "role": "Legal Engineer - Applied AI Knowledge ",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/legora/e97abb73-204d-4f34-b4d1-7f2690b5a030"
+  },
+  {
+   "company": "decagon",
+   "role": "Software Engineer, Agents",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18"
+  },
+  {
+   "company": "Moneybox",
+   "role": "Workplace Technology Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/moneybox/d26ac592-101b-403f-af9a-df144abcc2c1"
+  },
+  {
+   "company": "Claimsorted",
+   "role": "Strategy and Operations Analyst - London",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/claimsorted/7d9d515a-96fe-4c5c-86c4-e24777f2a92d"
+  },
+  {
+   "company": "The Beauty Tech Group Trading Limited",
+   "role": "Data AI Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/thebeautytechgroup/j/1C695C7477"
+  },
+  {
+   "company": "Contentful",
+   "role": "Demo Software Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/contentful/jobs/8356206"
+  },
+  {
+   "company": "DEPT",
+   "role": "Forward Deployed AI Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/dept/jobs/8356886"
+  },
+  {
+   "company": "onetrust",
+   "role": "Support Analyst (Cloud K8)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/onetrust/jobs/8259145"
+  },
+  {
+   "company": "PolyAI",
+   "role": "Forward Deployed Engineer, Agentic AI",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/polyai/jobs/5032627101"
+  },
+  {
+   "company": "intersystems",
+   "role": "Technical Specialist",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/intersystems/jobs/8164466003"
+  },
+  {
+   "company": "Refeyn",
+   "role": "Software Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/refeyn/jobs/5012901101"
+  },
+  {
+   "company": "CHAOS Industries",
+   "role": "Technical Operations Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/chaosindustries/jobs/5254874007"
+  },
+  {
+   "company": "Bionic Services Ltd",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/bionic-services-ltd/j/E46606A8F6"
   },
   {
    "company": "Baringa",
@@ -16010,7 +16146,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T06:04:29.094742+00:00",
- "updated": "2026-11-12T06:04:29+00:00",
- "updated_at": "2026-11-12T06:04:29+00:00"
+ "email_stats_updated": "2026-11-12T06:19:56.901628+00:00",
+ "updated": "2026-11-12T06:19:57+00:00",
+ "updated_at": "2026-11-12T06:19:57+00:00"
 }
