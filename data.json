@@ -1,10 +1,10 @@
 {
- "total": 1905,
- "portal": 1361,
+ "total": 1911,
+ "portal": 1367,
  "email": 455,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1359,
+ "confirmations": 1363,
  "rejections": 260,
  "positives": [
   {
@@ -217,7 +217,7 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 39,
+   "portal": 45,
    "email": 105,
    "linkedin": 0
   }
@@ -536,12 +536,12 @@
    "link": "https://clearroute.teamtailor.com/jobs/8261776-agentic-ai-developer-python"
   },
   {
-   "company": "Baringa",
-   "role": "Speculative (AI/Data)",
+   "company": "lendable",
+   "role": "Strategy Analyst",
    "date": "2026-11-12",
-   "type": "email",
-   "status": "sent",
-   "link": ""
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lendable/6fbfba0e-1f23-4e6a-baf1-c3d41beabe36"
   }
  ],
  "applications": [
@@ -992,6 +992,54 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://clearroute.teamtailor.com/jobs/8261776-agentic-ai-developer-python"
+  },
+  {
+   "company": "lendable",
+   "role": "Strategy Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/lendable/6fbfba0e-1f23-4e6a-baf1-c3d41beabe36"
+  },
+  {
+   "company": "cuspai",
+   "role": "Research Engineer (Materials Foundation Models)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cuspai/db0dfa5a-1556-4c60-bc94-ab41a087ab69"
+  },
+  {
+   "company": "delfa",
+   "role": "Founding GTM",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/delfa/34cc44fa-3898-458f-9d5d-bbbbe267db21"
+  },
+  {
+   "company": "checkatrade",
+   "role": "MLOps Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/checkatrade/59255f27-4514-4b98-93b3-d956335e0a1f"
+  },
+  {
+   "company": "irissoftwaregroup",
+   "role": "Sales Operations Associate",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/irissoftwaregroup/c031cc35-3e85-4fd6-af65-deaccce654ff"
+  },
+  {
+   "company": "irissoftwaregroup",
+   "role": "Junior Sales Operations Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/irissoftwaregroup/4b92d40d-ff9f-4535-a9c3-08ba7cd9d4e8"
   },
   {
    "company": "Baringa",
@@ -15786,7 +15834,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T05:12:32.732845+00:00",
- "updated": "2026-11-12T05:12:33+00:00",
- "updated_at": "2026-11-12T05:12:33+00:00"
+ "email_stats_updated": "2026-11-12T05:34:20.428731+00:00",
+ "updated": "2026-11-12T05:34:20+00:00",
+ "updated_at": "2026-11-12T05:34:20+00:00"
 }
