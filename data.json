@@ -1,10 +1,10 @@
 {
- "total": 1786,
- "portal": 1341,
- "email": 356,
+ "total": 1811,
+ "portal": 1349,
+ "email": 373,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 1334,
+ "confirmations": 1343,
  "rejections": 259,
  "positives": [
   {
@@ -217,8 +217,8 @@
   },
   {
    "date": "2026-11-12",
-   "portal": 19,
-   "email": 6,
+   "portal": 27,
+   "email": 23,
    "linkedin": 0
   }
  ],
@@ -376,6 +376,70 @@
    "link": "https://careers.cazoo.co.uk/jobs/8704068-commercial-data-analyst"
   },
   {
+   "company": "cuspai",
+   "role": "Scientific Software Engineer (Lab Integration)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cuspai/efcaa040-870e-4786-97e2-d88bfb0e4498"
+  },
+  {
+   "company": "ben",
+   "role": "Software Engineer (Data)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Ben/77a0e08a-1061-4b70-aff3-b67f4ebe3c99"
+  },
+  {
+   "company": "cuspai",
+   "role": "Data Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cuspai/bf41aa7b-0f08-439f-8985-4baecbcee3bb"
+  },
+  {
+   "company": "teton",
+   "role": "Software Engineer (Backend) - London",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/teton/49f83a3a-3575-4318-8fe5-96cd5363fb6d"
+  },
+  {
+   "company": "teton",
+   "role": "Software Engineer (Fleet) - London",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/teton/342a6d91-20f3-4ad2-a3ad-c3713edfa079"
+  },
+  {
+   "company": "teton",
+   "role": "Software Engineer (Product) - London",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/teton/cdc858dd-0a97-43b3-8c76-546647fe5760"
+  },
+  {
+   "company": "roller",
+   "role": "Software Engineer - Localisation",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/roller/jobs/5269121007"
+  },
+  {
+   "company": "vixtechnology",
+   "role": "Business Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/vixtechnology/jobs/5027650101"
+  },
+  {
    "company": "Baringa",
    "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
@@ -424,124 +488,60 @@
    "link": ""
   },
   {
-   "company": "lendable",
-   "role": "AI Engineer ",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/lendable/a89f244b-b8de-4dbd-9d58-0dcc8e80aa2f"
+   "company": "Global Relay",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
   },
   {
-   "company": "databricks",
-   "role": "AI Forward Deployed Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/databricks/jobs/8927179002"
+   "company": "Genomics",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
   },
   {
-   "company": "databricks",
-   "role": "Forward Deployed Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/databricks/jobs/8921476002"
+   "company": "Unitary",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
   },
   {
-   "company": "databricks",
-   "role": "Forward Deployed Engineer - Emerging Enterprise & DNB",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/databricks/jobs/8439047002"
+   "company": "hireful",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
   },
   {
-   "company": "deliveroo",
-   "role": "Enterprise Systems Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8355927"
+   "company": "FIELD.IO",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
   },
   {
-   "company": "deliveroo",
-   "role": "Software Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8206351"
+   "company": "Tandem Bank",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
   },
   {
-   "company": "gitlab",
-   "role": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002"
-  },
-  {
-   "company": "graphcore",
-   "role": "Infrastructure and MLOps Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/graphcore/jobs/8636574002"
-  },
-  {
-   "company": "graphcore",
-   "role": "Software Engineer - Triton",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/graphcore/jobs/8911255002"
-  },
-  {
-   "company": "mthree",
-   "role": "Software Developer - Python",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/mthree/jobs/4722195006"
-  },
-  {
-   "company": "ASOS",
-   "role": "Android Engineer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.smartrecruiters.com/ASOS/744000136154689"
-  },
-  {
-   "company": "NewRouteRecruitmentLimited",
-   "role": "Front End Angular Developer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678463503"
-  },
-  {
-   "company": "NewRouteRecruitmentLimited",
-   "role": "Front End Developer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352614"
-  },
-  {
-   "company": "NewRouteRecruitmentLimited",
-   "role": "Ruby Developer",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.smartrecruiters.com/NewRouteRecruitmentLimited/743999678352565"
-  },
-  {
-   "company": "Talan",
-   "role": "Front Office Trading Application Support Analyst ",
-   "date": "2026-11-10",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.smartrecruiters.com/Talan/744000156283839"
+   "company": "Vivacity Labs",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
   }
  ],
  "applications": [
@@ -834,6 +834,70 @@
    "link": "https://careers.cazoo.co.uk/jobs/8704068-commercial-data-analyst"
   },
   {
+   "company": "cuspai",
+   "role": "Scientific Software Engineer (Lab Integration)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cuspai/efcaa040-870e-4786-97e2-d88bfb0e4498"
+  },
+  {
+   "company": "ben",
+   "role": "Software Engineer (Data)",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Ben/77a0e08a-1061-4b70-aff3-b67f4ebe3c99"
+  },
+  {
+   "company": "cuspai",
+   "role": "Data Engineer",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/cuspai/bf41aa7b-0f08-439f-8985-4baecbcee3bb"
+  },
+  {
+   "company": "teton",
+   "role": "Software Engineer (Backend) - London",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/teton/49f83a3a-3575-4318-8fe5-96cd5363fb6d"
+  },
+  {
+   "company": "teton",
+   "role": "Software Engineer (Fleet) - London",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/teton/342a6d91-20f3-4ad2-a3ad-c3713edfa079"
+  },
+  {
+   "company": "teton",
+   "role": "Software Engineer (Product) - London",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/teton/cdc858dd-0a97-43b3-8c76-546647fe5760"
+  },
+  {
+   "company": "roller",
+   "role": "Software Engineer - Localisation",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/roller/jobs/5269121007"
+  },
+  {
+   "company": "vixtechnology",
+   "role": "Business Analyst",
+   "date": "2026-11-12",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/vixtechnology/jobs/5027650101"
+  },
+  {
    "company": "Baringa",
    "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
@@ -876,6 +940,142 @@
   {
    "company": "Virtu Financial",
    "role": "Data Analyst",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Global Relay",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Genomics",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Unitary",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "hireful",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "FIELD.IO",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Tandem Bank",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Vivacity Labs",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "YouLend",
+   "role": "Portfolio Management Associate, Data & Analytics",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Gattaca",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "SoundCloud",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Muzz",
+   "role": "Marketing Data Scientist",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "PhysicsX",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "White Circle",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Nebius",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Redis",
+   "role": "Speculative (AI/Data)",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Acturis",
+   "role": "Graduate Technical Business Analyst",
+   "date": "2026-11-12",
+   "type": "email",
+   "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Torchbox",
+   "role": "Speculative (AI/Data)",
    "date": "2026-11-12",
    "type": "email",
    "status": "sent",
@@ -14834,7 +15034,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-12T03:31:57.891160+00:00",
- "updated": "2026-11-12T03:31:58+00:00",
- "updated_at": "2026-11-12T03:31:58+00:00"
+ "email_stats_updated": "2026-11-12T03:50:07.138171+00:00",
+ "updated": "2026-11-12T03:50:07+00:00",
+ "updated_at": "2026-11-12T03:50:07+00:00"
 }
