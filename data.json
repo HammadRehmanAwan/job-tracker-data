@@ -1,6 +1,6 @@
 {
- "total": 2878,
- "portal": 2231,
+ "total": 2896,
+ "portal": 2249,
  "email": 558,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -255,7 +255,7 @@
   },
   {
    "date": "2026-11-14",
-   "portal": 52,
+   "portal": 70,
    "email": 0,
    "linkedin": 0
   }
@@ -1134,6 +1134,150 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/network-support-engineer/57460734"
+  },
+  {
+   "company": "VIQU IT Recruitment",
+   "role": "2nd & 3rd Line Field Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-3rd-line-field-support-engineer/57537854"
+  },
+  {
+   "company": "Xact Placements Limited",
+   "role": "2nd/3rd Line Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-3rd-line-support-engineer/57305482"
+  },
+  {
+   "company": " Deerfoot Recruitment Solutions Ltd",
+   "role": "Product Support Associate Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/product-support-associate-engineer/57492196"
+  },
+  {
+   "company": "Circle Recruitment",
+   "role": "3rd Line IT Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-it-support-engineer/57332625"
+  },
+  {
+   "company": "VIQU IT Recruitment",
+   "role": "3rd Line Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer/57436643"
+  },
+  {
+   "company": "Bechtle UK",
+   "role": "3rd Line Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-engineer/57480113"
+  },
+  {
+   "company": "Oscar Technology",
+   "role": "3rd Line Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer/57471032"
+  },
+  {
+   "company": "Searchability",
+   "role": "3rd Line Service Desk Engineer - Infrastructure",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-service-desk-engineer-infrastructure/57565499"
+  },
+  {
+   "company": "Reed",
+   "role": "IT Support Technician Apprentice (Level 3)",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-technician-apprentice-level-3/57557557"
+  },
+  {
+   "company": "speechify",
+   "role": "Software Engineer, AI Data - Cambridge, United Kingdom",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/speechify/jobs/6229114004"
+  },
+  {
+   "company": "Adecco ",
+   "role": "3rd Line IT Support Technician- office based in Preston",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-it-support-technician-office-based-in-preston/57517020"
+  },
+  {
+   "company": "Gleeson Recruitment Group",
+   "role": "Front End Developer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/front-end-developer/57504146"
+  },
+  {
+   "company": "Ackerman Pierce Education",
+   "role": "Trainee Tech Support Engineer - Fast Growing MSP - Harlow Essex",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/trainee-tech-support-engineer-fast-growing-msp-harlow-essex/57486011"
+  },
+  {
+   "company": "Netteam tX Ltd",
+   "role": "IT Support Engineer - 3rd Line",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer-3rd-line/57565957"
+  },
+  {
+   "company": "Enorth Resourcing Limited",
+   "role": "NOC Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/noc-engineer/57479676"
+  },
+  {
+   "company": "Profectus Recruitment",
+   "role": "3rd Line Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer/57563967"
+  },
+  {
+   "company": "Nextech ",
+   "role": "Mid-level Software Developer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/mid-level-software-developer/57494980"
+  },
+  {
+   "company": "Just IT ",
+   "role": "Backend developer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/backend-developer/57553139"
   },
   {
    "company": "fifty-five",
@@ -23608,7 +23752,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-14T20:57:54.442164+00:00",
- "updated": "2026-11-14T20:57:54+00:00",
- "updated_at": "2026-11-14T20:57:54+00:00"
+ "email_stats_updated": "2026-11-14T21:16:04.637804+00:00",
+ "updated": "2026-11-14T21:16:04+00:00",
+ "updated_at": "2026-11-14T21:16:05+00:00"
 }
