@@ -1,6 +1,6 @@
 {
- "total": 2826,
- "portal": 2179,
+ "total": 2831,
+ "portal": 2184,
  "email": 558,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -255,7 +255,7 @@
   },
   {
    "date": "2026-11-14",
-   "portal": 2,
+   "portal": 7,
    "email": 0,
    "linkedin": 0
   }
@@ -276,6 +276,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/entry-level-it-field-engineer/57566087"
+  },
+  {
+   "company": "Konrad",
+   "role": "Software Developer (Entry Level)",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/konradgroup/jobs/7669159003"
+  },
+  {
+   "company": "Clay",
+   "role": "IT Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/claylabs/7b10120b-78a4-4c7f-95e1-e800f969c539"
+  },
+  {
+   "company": "Hawk",
+   "role": "Implementation Specialist",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hawk/8ccb03f4-d238-403a-8119-75152f39d67c"
+  },
+  {
+   "company": "ACS Recruitment Solutions Ltd",
+   "role": "Credit Administrator",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/credit-administrator/57561885"
+  },
+  {
+   "company": "Specright",
+   "role": "Implementation Consultant, EMEA",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/specright/02d87c2c-584a-4889-8eb6-76c3fdaa937b"
   },
   {
    "company": "fifty-five",
@@ -540,46 +580,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/cambridgeconsultantslimited/jobs/4889141101"
-  },
-  {
-   "company": "Cambridge Consultants",
-   "role": " Graduate Cloud Software Engineer (2027 start)",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/cambridgeconsultantslimited/jobs/4908202101"
-  },
-  {
-   "company": "Brunswick Group",
-   "role": "AI Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/brunswickgroup/jobs/8623996002"
-  },
-  {
-   "company": "Smart Managed Solutions",
-   "role": "IT Support Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://smartmanagedsolutions-1734694596.teamtailor.com/jobs/8650437-it-support-engineer"
-  },
-  {
-   "company": "Legl",
-   "role": "Technical Solutions Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://legl-1684858710.teamtailor.com/jobs/8658051-technical-solutions-engineer"
-  },
-  {
-   "company": "Huawei UK",
-   "role": "Data Infrastructure and AI Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://huaweiuk.teamtailor.com/jobs/7942381-data-infrastructure-and-ai-engineer"
   }
  ],
  "applications": [
@@ -734,6 +734,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/entry-level-it-field-engineer/57566087"
+  },
+  {
+   "company": "Konrad",
+   "role": "Software Developer (Entry Level)",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/konradgroup/jobs/7669159003"
+  },
+  {
+   "company": "Clay",
+   "role": "IT Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/claylabs/7b10120b-78a4-4c7f-95e1-e800f969c539"
+  },
+  {
+   "company": "Hawk",
+   "role": "Implementation Specialist",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hawk/8ccb03f4-d238-403a-8119-75152f39d67c"
+  },
+  {
+   "company": "ACS Recruitment Solutions Ltd",
+   "role": "Credit Administrator",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/credit-administrator/57561885"
+  },
+  {
+   "company": "Specright",
+   "role": "Implementation Consultant, EMEA",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/specright/02d87c2c-584a-4889-8eb6-76c3fdaa937b"
   },
   {
    "company": "fifty-five",
@@ -23192,7 +23232,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-14T02:13:03.301777+00:00",
- "updated": "2026-11-14T02:13:03+00:00",
- "updated_at": "2026-11-14T02:13:03+00:00"
+ "email_stats_updated": "2026-11-14T02:35:33.614425+00:00",
+ "updated": "2026-11-14T02:35:34+00:00",
+ "updated_at": "2026-11-14T02:35:34+00:00"
 }
