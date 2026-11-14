@@ -141,11 +141,29 @@
    "due": "",
    "done_on": "2026-11-12",
    "key": "pinpoint-partners"
+  },
+  {
+   "company": "QuantumLoopAI (AI/ML & Prompt Engineer)",
+   "note": "One-way video interview on Workable, about 10 minutes, due 12:23pm UK Sun 15 Nov",
+   "status": "remaining",
+   "action": "One-way video interview (Workable, ~10 min)",
+   "due": "2026-11-15T12:23:00+00:00",
+   "done_on": "",
+   "key": "quantumloopai-video"
+  },
+  {
+   "company": "Huzzle (Automation Engineer)",
+   "note": "Video chat with Luna (under 30 min) - last step before Huzzle puts him in front of clients; no deadline",
+   "status": "remaining",
+   "action": "Video chat with Luna (<30 min), last step before client intros",
+   "due": "",
+   "done_on": "",
+   "key": "huzzle-luna"
   }
  ],
- "positive_count": 15,
+ "positive_count": 17,
  "positives_done": 14,
- "positives_remaining": 1,
+ "positives_remaining": 3,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -23145,6 +23163,6 @@
   }
  ],
  "email_stats_updated": "2026-11-12T06:46:55.426859+00:00",
- "updated": "2026-11-14T00:26:29+00:00",
- "updated_at": "2026-11-14T00:26:29+00:00"
+ "updated": "2026-11-14T00:28:08+00:00",
+ "updated_at": "2026-11-14T00:28:08+00:00"
 }
