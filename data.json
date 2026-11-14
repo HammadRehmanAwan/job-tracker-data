@@ -1,6 +1,6 @@
 {
- "total": 2834,
- "portal": 2187,
+ "total": 2841,
+ "portal": 2194,
  "email": 558,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -255,7 +255,7 @@
   },
   {
    "date": "2026-11-14",
-   "portal": 10,
+   "portal": 17,
    "email": 0,
    "linkedin": 0
   }
@@ -340,6 +340,62 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.eu.greenhouse.io/growetalents/jobs/5011245101"
+  },
+  {
+   "company": "Insight Investment",
+   "role": "Front Office Application Support Analyst (London)",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/insight-investment/j/A09CE365A4"
+  },
+  {
+   "company": "Pax2Pay Ltd",
+   "role": "Technical Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/pax2pay-ltd/j/06C008FACF"
+  },
+  {
+   "company": "PlanetScale",
+   "role": "Enterprise Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/planetscale/jobs/4009926009"
+  },
+  {
+   "company": "Prolific",
+   "role": "IT Support Technician - Research Participants - United Kingdom",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/5015969101"
+  },
+  {
+   "company": "Prolific",
+   "role": "Computer Sciences - Graduates - AI Training - UK",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4853429101"
+  },
+  {
+   "company": "Sensor Tower",
+   "role": "Business Technology Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sensor-tower/ee3518ff-2e27-4b88-9662-411b7474806b"
+  },
+  {
+   "company": "Eventogy",
+   "role": "Event Management and Support Specialist",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/eventogy/j/9E0C1C494E"
   },
   {
    "company": "fifty-five",
@@ -524,62 +580,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/cambridgeconsultantslimited/jobs/4908225101"
-  },
-  {
-   "company": "Cambridge Consultants",
-   "role": "Graduate Software Engineer (2027 start)",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/cambridgeconsultantslimited/jobs/4908176101"
-  },
-  {
-   "company": "Cambridge Consultants",
-   "role": "Graduate Human-Centric AI Engineer\u00a0(2027 start)",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/cambridgeconsultantslimited/jobs/4971959101"
-  },
-  {
-   "company": "Bottomline",
-   "role": "Technical Support Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8810726002"
-  },
-  {
-   "company": "Secfix",
-   "role": "Product Support Specialist",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/secfix/21e3cb50-d51c-414c-b1bf-a8c6b38290e3"
-  },
-  {
-   "company": "Gatekeeper",
-   "role": "Implementation Consultant | REMOTE (UK)",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/gatekeeper-3/j/D74033B7A8"
-  },
-  {
-   "company": "Arbor Education",
-   "role": "Digital Onboarding Specialist (FTC)",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/arbor-education-3/j/4F4EE55730"
-  },
-  {
-   "company": "Alto",
-   "role": "Digital Workplace System Administrator (Entra, Google) (FTC)",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/alto/j/03FC1D7BB8"
   }
  ],
  "applications": [
@@ -798,6 +798,62 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.eu.greenhouse.io/growetalents/jobs/5011245101"
+  },
+  {
+   "company": "Insight Investment",
+   "role": "Front Office Application Support Analyst (London)",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/insight-investment/j/A09CE365A4"
+  },
+  {
+   "company": "Pax2Pay Ltd",
+   "role": "Technical Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/pax2pay-ltd/j/06C008FACF"
+  },
+  {
+   "company": "PlanetScale",
+   "role": "Enterprise Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/planetscale/jobs/4009926009"
+  },
+  {
+   "company": "Prolific",
+   "role": "IT Support Technician - Research Participants - United Kingdom",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/5015969101"
+  },
+  {
+   "company": "Prolific",
+   "role": "Computer Sciences - Graduates - AI Training - UK",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4853429101"
+  },
+  {
+   "company": "Sensor Tower",
+   "role": "Business Technology Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sensor-tower/ee3518ff-2e27-4b88-9662-411b7474806b"
+  },
+  {
+   "company": "Eventogy",
+   "role": "Event Management and Support Specialist",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/eventogy/j/9E0C1C494E"
   },
   {
    "company": "fifty-five",
@@ -23256,7 +23312,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-14T03:00:56.796345+00:00",
- "updated": "2026-11-14T03:00:57+00:00",
- "updated_at": "2026-11-14T03:00:57+00:00"
+ "email_stats_updated": "2026-11-14T03:12:27.576120+00:00",
+ "updated": "2026-11-14T03:12:27+00:00",
+ "updated_at": "2026-11-14T03:12:27+00:00"
 }
