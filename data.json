@@ -1,11 +1,11 @@
 {
- "total": 2841,
- "portal": 2194,
+ "total": 2878,
+ "portal": 2231,
  "email": 558,
  "linkedin": 89,
  "bounced_emails": 23,
  "confirmations": 1867,
- "rejections": 404,
+ "rejections": 405,
  "positives": [
   {
    "company": "Curation",
@@ -249,13 +249,13 @@
   },
   {
    "date": "2026-11-13",
-   "portal": 654,
+   "portal": 656,
    "email": 8,
    "linkedin": 0
   },
   {
    "date": "2026-11-14",
-   "portal": 17,
+   "portal": 52,
    "email": 0,
    "linkedin": 0
   }
@@ -398,188 +398,188 @@
    "link": "https://apply.workable.com/eventogy/j/9E0C1C494E"
   },
   {
-   "company": "fifty-five",
-   "role": "Analytics Engineer",
-   "date": "2026-11-13",
+   "company": "Venn Group",
+   "role": "IT Technician",
+   "date": "2026-11-14",
    "type": "portal",
    "status": "submitted",
-   "link": "https://apply.workable.com/fifty-five/j/02118F04CB"
+   "link": "https://www.reed.co.uk/jobs/it-technician/57521377"
   },
   {
-   "company": "Kobalt Music",
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "VIP IT Support Technician",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/vip-it-support-technician/57437037"
+  },
+  {
+   "company": "Proactive Appointments",
+   "role": "2nd Line Support - 5 days onsite - INSIDE IR35",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-support-5-days-onsite-inside-ir35/57424792"
+  },
+  {
+   "company": "Matched Group",
+   "role": "Technical Support",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/technical-support/57532708"
+  },
+  {
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "IT Support Engineer | \u00a3200 - \u00a3230 | Inside IR35 PAYE | 3 Months | Onsite Bristol",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer--200-230--inside-ir35-paye--3-months--onsite-bristol/57429901"
+  },
+  {
+   "company": "Gem Partnership Ltd",
+   "role": "Customer Support Technician",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/customer-support-technician/57561869"
+  },
+  {
+   "company": "Matched Group",
+   "role": "2nd Line Support",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-support/57532705"
+  },
+  {
+   "company": "IT Search & Select",
+   "role": "IT Support Analyst",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-analyst/57492542"
+  },
+  {
+   "company": "EAC Consulting Group",
+   "role": "Helpdesk Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/helpdesk-engineer/57500210"
+  },
+  {
+   "company": "Mexa Solutions LTD",
+   "role": "2nd Line Service Desk Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-service-desk-engineer/57429286"
+  },
+  {
+   "company": "IMT Resourcing Solutions",
+   "role": "2nd Line IT Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-it-support-engineer/57471327"
+  },
+  {
+   "company": "Robert Half",
+   "role": "2nd Line IT Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-it-support-engineer/57440377"
+  },
+  {
+   "company": "ADLIB",
+   "role": "Systems Administrator",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/systems-administrator/57532811"
+  },
+  {
+   "company": "VIA MATCH LIMITED",
+   "role": "Data Scientist",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-scientist/57459250"
+  },
+  {
+   "company": "innovationteam",
+   "role": "Junior AI Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/innovationteam/j/51E032B93A"
+  },
+  {
+   "company": " Deerfoot Recruitment Solutions Ltd",
+   "role": "Analytics & Automation Test Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/analytics-automation-test-engineer/57485285"
+  },
+  {
+   "company": "Rise Technical Recruitment Limited",
+   "role": "Software Tester",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-tester/57461965"
+  },
+  {
+   "company": "INTEC SELECT LIMITED",
+   "role": "QA Automation Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/qa-automation-engineer/57456641"
+  },
+  {
+   "company": "DMS Computer Recruitment",
+   "role": "IT Support Specialist",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-specialist/57425019"
+  },
+  {
+   "company": "Robert Half",
+   "role": "IT Support Specialist",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-specialist/57470850"
+  },
+  {
+   "company": "Enorth Resourcing Limited",
    "role": "IT Support Engineer",
-   "date": "2026-11-13",
+   "date": "2026-11-14",
    "type": "portal",
    "status": "submitted",
-   "link": "https://apply.workable.com/kobalt-music/j/C2A44867BA"
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57519437"
   },
   {
-   "company": "DC Thomson",
-   "role": "Junior Software Engineer",
-   "date": "2026-11-13",
+   "company": "Arcas Technology Ltd.",
+   "role": "IT Support Engineer",
+   "date": "2026-11-14",
    "type": "portal",
    "status": "submitted",
-   "link": "https://apply.workable.com/dcthomson/j/599B94CAA8"
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57485317"
   },
   {
-   "company": "Livestock Information",
-   "role": "Azure Devops Engineer",
-   "date": "2026-11-13",
+   "company": "Technical Futures Ltd",
+   "role": "Software Engineer",
+   "date": "2026-11-14",
    "type": "portal",
    "status": "submitted",
-   "link": "https://apply.workable.com/livestock-information/j/E193575340"
-  },
-  {
-   "company": "Valsoft Corporation",
-   "role": "Service Desk Analyst",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/valsoft-corp/j/F831FE2F61"
-  },
-  {
-   "company": "Slice",
-   "role": "Software Developer, Services",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/slice/jobs/7228671"
-  },
-  {
-   "company": "ChargePoint",
-   "role": "Solutions Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/chargepoint/jobs/8785425002"
-  },
-  {
-   "company": "Baringa",
-   "role": "Infrastructure Operations Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.eu.greenhouse.io/baringa/jobs/5003688101"
-  },
-  {
-   "company": "Slice",
-   "role": "Software Developer, DevEx (Stateful Systems)",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/slice/jobs/8300434"
-  },
-  {
-   "company": "NexGen Cloud",
-   "role": "Application Support Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.eu.greenhouse.io/nexgencloud/jobs/5027826101"
-  },
-  {
-   "company": "Vix Technology",
-   "role": "DevOps Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.eu.greenhouse.io/vixtechnology/jobs/5020142101"
-  },
-  {
-   "company": "School of Coding",
-   "role": "IT Support",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/school-of-coding/j/0239BCCDC1"
-  },
-  {
-   "company": "Surftech IT",
-   "role": "Helpdesk Engineer L2",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/surftech-it/j/C6050EC6E4"
-  },
-  {
-   "company": "Arc",
-   "role": "1st Line Helpdesk Engineer - Yateley",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://arc.teamtailor.com/jobs/8631045-1st-line-helpdesk-engineer-yateley"
-  },
-  {
-   "company": "Citation Group",
-   "role": "1st Line Support Analyst",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://citationgroup.teamtailor.com/jobs/8360914-1st-line-support-analyst"
-  },
-  {
-   "company": "LangChain",
-   "role": "Activation Specialist (London)",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/langchain/3858b7f4-6762-47d0-9fb5-ea2610a5a099"
-  },
-  {
-   "company": "Valsoft Corporation",
-   "role": "1st Line Service Desk Agent - 6 Months FTC",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/valsoft-corp/j/460EF6774D"
-  },
-  {
-   "company": "Global Relay",
-   "role": "Technician, Client Support - L2, UK",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/globalrelay/jobs/5237878004"
-  },
-  {
-   "company": "Hearst",
-   "role": "QA Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/hearst/jobs/4485932009"
-  },
-  {
-   "company": "Squarepoint Capital",
-   "role": "Trade Flow Support - Trading Infrastructure Support",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/squarepointcapital/jobs/6420505"
-  },
-  {
-   "company": "Options Technology",
-   "role": "Graduate Market Data Support Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/options-it/19b313f7-75f8-4b95-a1e0-6933a62444e6"
-  },
-  {
-   "company": "Options Technology",
-   "role": "Technical Support Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/options-it/a0a841a1-5776-4df3-85a4-b3df5abea3e3"
-  },
-  {
-   "company": "Cambridge Consultants",
-   "role": "Graduate Software Test Engineer (2027 start)",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/cambridgeconsultantslimited/jobs/4908225101"
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57561878"
   }
  ],
  "applications": [
@@ -854,6 +854,286 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/eventogy/j/9E0C1C494E"
+  },
+  {
+   "company": "Venn Group",
+   "role": "IT Technician",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-technician/57521377"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "VIP IT Support Technician",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/vip-it-support-technician/57437037"
+  },
+  {
+   "company": "Proactive Appointments",
+   "role": "2nd Line Support - 5 days onsite - INSIDE IR35",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-support-5-days-onsite-inside-ir35/57424792"
+  },
+  {
+   "company": "Matched Group",
+   "role": "Technical Support",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/technical-support/57532708"
+  },
+  {
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "IT Support Engineer | \u00a3200 - \u00a3230 | Inside IR35 PAYE | 3 Months | Onsite Bristol",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer--200-230--inside-ir35-paye--3-months--onsite-bristol/57429901"
+  },
+  {
+   "company": "Gem Partnership Ltd",
+   "role": "Customer Support Technician",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/customer-support-technician/57561869"
+  },
+  {
+   "company": "Matched Group",
+   "role": "2nd Line Support",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-support/57532705"
+  },
+  {
+   "company": "IT Search & Select",
+   "role": "IT Support Analyst",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-analyst/57492542"
+  },
+  {
+   "company": "EAC Consulting Group",
+   "role": "Helpdesk Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/helpdesk-engineer/57500210"
+  },
+  {
+   "company": "Mexa Solutions LTD",
+   "role": "2nd Line Service Desk Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-service-desk-engineer/57429286"
+  },
+  {
+   "company": "IMT Resourcing Solutions",
+   "role": "2nd Line IT Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-it-support-engineer/57471327"
+  },
+  {
+   "company": "Robert Half",
+   "role": "2nd Line IT Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-it-support-engineer/57440377"
+  },
+  {
+   "company": "ADLIB",
+   "role": "Systems Administrator",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/systems-administrator/57532811"
+  },
+  {
+   "company": "VIA MATCH LIMITED",
+   "role": "Data Scientist",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-scientist/57459250"
+  },
+  {
+   "company": "innovationteam",
+   "role": "Junior AI Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/innovationteam/j/51E032B93A"
+  },
+  {
+   "company": " Deerfoot Recruitment Solutions Ltd",
+   "role": "Analytics & Automation Test Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/analytics-automation-test-engineer/57485285"
+  },
+  {
+   "company": "Rise Technical Recruitment Limited",
+   "role": "Software Tester",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-tester/57461965"
+  },
+  {
+   "company": "INTEC SELECT LIMITED",
+   "role": "QA Automation Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/qa-automation-engineer/57456641"
+  },
+  {
+   "company": "DMS Computer Recruitment",
+   "role": "IT Support Specialist",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-specialist/57425019"
+  },
+  {
+   "company": "Robert Half",
+   "role": "IT Support Specialist",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-specialist/57470850"
+  },
+  {
+   "company": "Enorth Resourcing Limited",
+   "role": "IT Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57519437"
+  },
+  {
+   "company": "Arcas Technology Ltd.",
+   "role": "IT Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57485317"
+  },
+  {
+   "company": "Technical Futures Ltd",
+   "role": "Software Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57561878"
+  },
+  {
+   "company": "VIQU IT Recruitment",
+   "role": "Software Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57478153"
+  },
+  {
+   "company": "Noir",
+   "role": "Software Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57542993"
+  },
+  {
+   "company": "Amtis professional Ltd",
+   "role": "Data Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57451268"
+  },
+  {
+   "company": "Rise Technical Recruitment Limited",
+   "role": "Data Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57459143"
+  },
+  {
+   "company": "Eden James Consulting Limited",
+   "role": "Software Engineer Consultant",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer-consultant/57051721"
+  },
+  {
+   "company": "Rise Technical Recruitment Limited",
+   "role": "IT Field Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-field-engineer/57483221"
+  },
+  {
+   "company": "Identify Solutions",
+   "role": "IT Field Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-field-engineer/57513315"
+  },
+  {
+   "company": "Survey Solutions",
+   "role": "Junior IT Support Technician",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/survey-solutions-2/j/53804EF9CE"
+  },
+  {
+   "company": "RecruitmentRevolution.com",
+   "role": "Data Migration Specialist / Data Engineer - SQL, ETL & LegalTech - Remote",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-migration-specialist-data-engineer-sql-etl-legaltech-remote/57447173"
+  },
+  {
+   "company": "Lorien",
+   "role": "Software engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57524041"
+  },
+  {
+   "company": "Circle Recruitment",
+   "role": "IT Support Engineer - Peterborough",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer-peterborough/57519309"
+  },
+  {
+   "company": "Arcas Technology Ltd.",
+   "role": "Network Support Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/network-support-engineer/57460734"
   },
   {
    "company": "fifty-five",
@@ -6086,6 +6366,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/infinitesima/jobs/5017663101"
+  },
+  {
+   "company": "Greenfield I T Recruitment",
+   "role": "Second Line Engineer",
+   "date": "2026-11-13",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/second-line-engineer/57492010"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Helpdesk Operative",
+   "date": "2026-11-13",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/helpdesk-operative/57483478"
   },
   {
    "company": "Tiger Eye",
@@ -23312,7 +23608,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-14T11:16:04+00:00",
- "updated": "2026-11-14T11:16:04+00:00",
- "updated_at": "2026-11-14T11:16:04+00:00"
+ "email_stats_updated": "2026-11-14T11:32:14+00:00",
+ "updated": "2026-11-14T11:32:15+00:00",
+ "updated_at": "2026-11-14T11:32:15+00:00"
 }
