@@ -27,7 +27,7 @@ const ukd=iso=>new Date(iso).toLocaleString('en-GB',{timeZone:'Europe/London',we
 const dl=d=>d==='earlier'?'Earlier':new Date(d+'T12:00Z').toLocaleDateString('en-GB',{day:'numeric',month:'short'});
 const RAW='https://raw.githubusercontent.com/HammadRehmanAwan/job-tracker-data/main/data.json';
 const API='https://api.github.com/repos/HammadRehmanAwan/job-tracker-data/contents/data.json';
-const load=()=>fetch(API+'?t='+Date.now(),{cache:'no-store',headers:{Accept:'application/vnd.github.raw'}}).then(r=>{if(!r.ok)throw r.status;return r.json()}).catch(()=>fetch(RAW+'?t='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()}).catch(()=>fetch('stats.json',{cache:'no-store'}).then(r=>r.json())).then(draw).catch(e=>document.getElementById('upd').textContent='Could not load stats: '+e);
+const load=()=>fetch(API+'?t='+Date.now(),{cache:'no-store',headers:{Accept:'application/vnd.github.raw'}}).then(r=>{if(!r.ok)throw r.status;return r.json()}).catch(()=>fetch(RAW+'?t='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()}).catch(()=>fetch('stats.json',{cache:'no-store'}).then(r=>r.json()))).then(draw).catch(e=>document.getElementById('upd').textContent='Could not load stats: '+e);
 function left(iso){const ms=new Date(iso)-Date.now();if(ms<0)return 'date passed';const h=Math.round(ms/36e5);return h<48?h+'h left':Math.round(h/24)+' days left';}
 function posHTML(list){
  const now=Date.now(),t=p=>p.due?new Date(p.due).getTime():Infinity;
