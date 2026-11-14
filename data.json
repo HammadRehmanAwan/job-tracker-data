@@ -1,10 +1,10 @@
 {
- "total": 2902,
- "portal": 2255,
+ "total": 2903,
+ "portal": 2256,
  "email": 558,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 2379,
+ "confirmations": 2380,
  "rejections": 415,
  "positives": [
   {
@@ -255,7 +255,7 @@
   },
   {
    "date": "2026-11-14",
-   "portal": 76,
+   "portal": 77,
    "email": 0,
    "linkedin": 0
   }
@@ -1326,6 +1326,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/speechify/jobs/6229213004"
+  },
+  {
+   "company": "focusgroup",
+   "role": "Technical Support Advisor 3rd Line",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://focusgroup.pinpointhq.com/en/postings/025259d7-8a6e-4f8d-94fb-c87abf762cae"
   },
   {
    "company": "fifty-five",
@@ -23800,7 +23808,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-14T21:42:58.506657+00:00",
- "updated": "2026-11-14T21:42:59+00:00",
- "updated_at": "2026-11-14T21:42:59+00:00"
+ "email_stats_updated": "2026-11-14T22:04:28.843811+00:00",
+ "updated": "2026-11-14T22:04:29+00:00",
+ "updated_at": "2026-11-14T22:04:29+00:00"
 }
