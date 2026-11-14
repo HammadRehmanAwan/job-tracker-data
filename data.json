@@ -1,6 +1,6 @@
 {
- "total": 2824,
- "portal": 2177,
+ "total": 2826,
+ "portal": 2179,
  "email": 558,
  "linkedin": 89,
  "bounced_emails": 23,
@@ -252,9 +252,31 @@
    "portal": 654,
    "email": 8,
    "linkedin": 0
+  },
+  {
+   "date": "2026-11-14",
+   "portal": 2,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "Reed",
+   "role": "Technical Support Analyst",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/technical-support-analyst/57534999"
+  },
+  {
+   "company": "Cerco",
+   "role": "Entry Level IT Field Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/entry-level-it-field-engineer/57566087"
+  },
   {
    "company": "fifty-five",
    "role": "Analytics Engineer",
@@ -558,22 +580,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://huaweiuk.teamtailor.com/jobs/7942381-data-infrastructure-and-ai-engineer"
-  },
-  {
-   "company": "ClearRoute",
-   "role": "AI Enabled SDLC Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://clearroute.teamtailor.com/jobs/7800008-ai-enabled-sdlc-engineer"
-  },
-  {
-   "company": "Arc",
-   "role": "2nd Line Onsite Engineer - Yateley",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://arc.teamtailor.com/jobs/8631089-2nd-line-onsite-engineer-yateley"
   }
  ],
  "applications": [
@@ -712,6 +718,22 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Reed",
+   "role": "Technical Support Analyst",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/technical-support-analyst/57534999"
+  },
+  {
+   "company": "Cerco",
+   "role": "Entry Level IT Field Engineer",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/entry-level-it-field-engineer/57566087"
   },
   {
    "company": "fifty-five",
@@ -23170,7 +23192,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-14T01:59:04.995695+00:00",
- "updated": "2026-11-14T01:59:05+00:00",
- "updated_at": "2026-11-14T01:59:05+00:00"
+ "email_stats_updated": "2026-11-14T02:13:03.301777+00:00",
+ "updated": "2026-11-14T02:13:03+00:00",
+ "updated_at": "2026-11-14T02:13:03+00:00"
 }
