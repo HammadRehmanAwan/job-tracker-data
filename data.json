@@ -1,10 +1,10 @@
 {
- "total": 2903,
- "portal": 2256,
+ "total": 2904,
+ "portal": 2257,
  "email": 558,
  "linkedin": 89,
  "bounced_emails": 23,
- "confirmations": 2380,
+ "confirmations": 2381,
  "rejections": 415,
  "positives": [
   {
@@ -255,7 +255,7 @@
   },
   {
    "date": "2026-11-14",
-   "portal": 77,
+   "portal": 78,
    "email": 0,
    "linkedin": 0
   }
@@ -1334,6 +1334,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://focusgroup.pinpointhq.com/en/postings/025259d7-8a6e-4f8d-94fb-c87abf762cae"
+  },
+  {
+   "company": "Cross Border Talents",
+   "role": "BackEnd Engineer | Compliance Team (Remote)",
+   "date": "2026-11-14",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/crossbordertalents/j/7BF2FF4586"
   },
   {
    "company": "fifty-five",
@@ -23808,7 +23816,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-14T22:04:28.843811+00:00",
- "updated": "2026-11-14T22:04:29+00:00",
- "updated_at": "2026-11-14T22:04:29+00:00"
+ "email_stats_updated": "2026-11-14T22:12:15.743838+00:00",
+ "updated": "2026-11-14T22:12:16+00:00",
+ "updated_at": "2026-11-14T22:12:16+00:00"
 }
