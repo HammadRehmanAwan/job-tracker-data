@@ -1,8 +1,8 @@
 {
- "total": 2905,
+ "total": 2921,
  "portal": 2257,
  "email": 558,
- "linkedin": 90,
+ "linkedin": 106,
  "bounced_emails": 23,
  "confirmations": 2381,
  "rejections": 427,
@@ -290,7 +290,7 @@
    "date": "2026-11-15",
    "portal": 0,
    "email": 0,
-   "linkedin": 1
+   "linkedin": 17
   }
  ],
  "recent": [
@@ -301,6 +301,134 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4482440958"
+  },
+  {
+   "company": "TBA",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490734661"
+  },
+  {
+   "company": "Formula.",
+   "role": "Artificial Intelligence Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489440131"
+  },
+  {
+   "company": "Jobgether",
+   "role": "AI Developer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488313668"
+  },
+  {
+   "company": "OFG Education",
+   "role": "Junior Data Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487451897"
+  },
+  {
+   "company": "ESP Utilities Group Ltd",
+   "role": "Data & AI Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489931210"
+  },
+  {
+   "company": "Nixor",
+   "role": "Technical Support Analyst (ATS/CRM)",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487180304"
+  },
+  {
+   "company": "Harvey Nash",
+   "role": "Application Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488869629"
+  },
+  {
+   "company": "Oliver Bernard",
+   "role": "Technical Support Engineer - SQL / Data Pipelines - Central London - \u00a355K",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487174580"
+  },
+  {
+   "company": "Gravitas Recruitment Group (Global) Ltd",
+   "role": "Junior Software Developer (C#.NET, SQL)",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488225067"
+  },
+  {
+   "company": "BOSS Professional Services",
+   "role": "Data Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489005117"
+  },
+  {
+   "company": "Method Resourcing",
+   "role": "Backend Software Engineer (Python)",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489488871"
+  },
+  {
+   "company": "Spait Infotech",
+   "role": "Software Developer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489589115"
+  },
+  {
+   "company": "Quant Capital",
+   "role": "Junior Application Support Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4417609859"
+  },
+  {
+   "company": "Talentmark",
+   "role": "AI Automation/Application Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487170332"
+  },
+  {
+   "company": "Mexa Solutions",
+   "role": "SaaS Software Support Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487806644"
+  },
+  {
+   "company": "Tact",
+   "role": "First Line Support",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490384780"
   },
   {
    "company": "Reed",
@@ -485,134 +613,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/customer-support-technician/57561869"
-  },
-  {
-   "company": "Matched Group",
-   "role": "2nd Line Support",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/2nd-line-support/57532705"
-  },
-  {
-   "company": "IT Search & Select",
-   "role": "IT Support Analyst",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-analyst/57492542"
-  },
-  {
-   "company": "EAC Consulting Group",
-   "role": "Helpdesk Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/helpdesk-engineer/57500210"
-  },
-  {
-   "company": "Mexa Solutions LTD",
-   "role": "2nd Line Service Desk Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/2nd-line-service-desk-engineer/57429286"
-  },
-  {
-   "company": "IMT Resourcing Solutions",
-   "role": "2nd Line IT Support Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/2nd-line-it-support-engineer/57471327"
-  },
-  {
-   "company": "Robert Half",
-   "role": "2nd Line IT Support Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/2nd-line-it-support-engineer/57440377"
-  },
-  {
-   "company": "ADLIB",
-   "role": "Systems Administrator",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/systems-administrator/57532811"
-  },
-  {
-   "company": "VIA MATCH LIMITED",
-   "role": "Data Scientist",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-scientist/57459250"
-  },
-  {
-   "company": "innovationteam",
-   "role": "Junior AI Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/innovationteam/j/51E032B93A"
-  },
-  {
-   "company": " Deerfoot Recruitment Solutions Ltd",
-   "role": "Analytics & Automation Test Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/analytics-automation-test-engineer/57485285"
-  },
-  {
-   "company": "Rise Technical Recruitment Limited",
-   "role": "Software Tester",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/software-tester/57461965"
-  },
-  {
-   "company": "INTEC SELECT LIMITED",
-   "role": "QA Automation Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/qa-automation-engineer/57456641"
-  },
-  {
-   "company": "DMS Computer Recruitment",
-   "role": "IT Support Specialist",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-specialist/57425019"
-  },
-  {
-   "company": "Robert Half",
-   "role": "IT Support Specialist",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-specialist/57470850"
-  },
-  {
-   "company": "Enorth Resourcing Limited",
-   "role": "IT Support Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57519437"
-  },
-  {
-   "company": "Arcas Technology Ltd.",
-   "role": "IT Support Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57485317"
   }
  ],
  "applications": [
@@ -759,6 +759,134 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4482440958"
+  },
+  {
+   "company": "TBA",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490734661"
+  },
+  {
+   "company": "Formula.",
+   "role": "Artificial Intelligence Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489440131"
+  },
+  {
+   "company": "Jobgether",
+   "role": "AI Developer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488313668"
+  },
+  {
+   "company": "OFG Education",
+   "role": "Junior Data Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487451897"
+  },
+  {
+   "company": "ESP Utilities Group Ltd",
+   "role": "Data & AI Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489931210"
+  },
+  {
+   "company": "Nixor",
+   "role": "Technical Support Analyst (ATS/CRM)",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487180304"
+  },
+  {
+   "company": "Harvey Nash",
+   "role": "Application Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488869629"
+  },
+  {
+   "company": "Oliver Bernard",
+   "role": "Technical Support Engineer - SQL / Data Pipelines - Central London - \u00a355K",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487174580"
+  },
+  {
+   "company": "Gravitas Recruitment Group (Global) Ltd",
+   "role": "Junior Software Developer (C#.NET, SQL)",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488225067"
+  },
+  {
+   "company": "BOSS Professional Services",
+   "role": "Data Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489005117"
+  },
+  {
+   "company": "Method Resourcing",
+   "role": "Backend Software Engineer (Python)",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489488871"
+  },
+  {
+   "company": "Spait Infotech",
+   "role": "Software Developer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489589115"
+  },
+  {
+   "company": "Quant Capital",
+   "role": "Junior Application Support Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4417609859"
+  },
+  {
+   "company": "Talentmark",
+   "role": "AI Automation/Application Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487170332"
+  },
+  {
+   "company": "Mexa Solutions",
+   "role": "SaaS Software Support Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487806644"
+  },
+  {
+   "company": "Tact",
+   "role": "First Line Support",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490384780"
   },
   {
    "company": "Reed",
@@ -23857,7 +23985,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-15T13:14:46.344052+00:00",
- "updated": "2026-11-15T13:14:46+00:00",
- "updated_at": "2026-11-15T13:14:46+00:00"
+ "email_stats_updated": "2026-11-15T13:34:07.679672+00:00",
+ "updated": "2026-11-15T13:34:24+00:00",
+ "updated_at": "2026-11-15T13:34:24+00:00"
 }
