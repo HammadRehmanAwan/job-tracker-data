@@ -1,8 +1,8 @@
 {
- "total": 2921,
- "portal": 2257,
+ "total": 2926,
+ "portal": 2256,
  "email": 558,
- "linkedin": 106,
+ "linkedin": 112,
  "bounced_emails": 23,
  "confirmations": 2381,
  "rejections": 427,
@@ -276,7 +276,7 @@
   },
   {
    "date": "2026-11-13",
-   "portal": 656,
+   "portal": 655,
    "email": 8,
    "linkedin": 0
   },
@@ -290,10 +290,18 @@
    "date": "2026-11-15",
    "portal": 0,
    "email": 0,
-   "linkedin": 17
+   "linkedin": 23
   }
  ],
  "recent": [
+  {
+   "company": "Robert Half",
+   "role": "First Line Support",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488207142"
+  },
   {
    "company": "Valarian",
    "role": "MLOps Engineer",
@@ -431,6 +439,46 @@
    "link": "https://www.linkedin.com/jobs/view/4490384780"
   },
   {
+   "company": "Spectrum IT Recruitment",
+   "role": "Application Support Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488311138"
+  },
+  {
+   "company": "Ingentive",
+   "role": "Support Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490324331"
+  },
+  {
+   "company": "William College",
+   "role": "IT Support Officer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488518771"
+  },
+  {
+   "company": "Harnham",
+   "role": "Junior IT Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488940648"
+  },
+  {
+   "company": "Oliver Bernard",
+   "role": "Technical Support Engineer - ETL / Data Platform",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487188022"
+  },
+  {
    "company": "Reed",
    "role": "Technical Support Analyst",
    "date": "2026-11-14",
@@ -565,54 +613,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/eventogy/j/9E0C1C494E"
-  },
-  {
-   "company": "Venn Group",
-   "role": "IT Technician",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-technician/57521377"
-  },
-  {
-   "company": "Hays Specialist Recruitment Limited",
-   "role": "VIP IT Support Technician",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/vip-it-support-technician/57437037"
-  },
-  {
-   "company": "Proactive Appointments",
-   "role": "2nd Line Support - 5 days onsite - INSIDE IR35",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/2nd-line-support-5-days-onsite-inside-ir35/57424792"
-  },
-  {
-   "company": "Matched Group",
-   "role": "Technical Support",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/technical-support/57532708"
-  },
-  {
-   "company": "Opus Recruitment Solutions Ltd",
-   "role": "IT Support Engineer | \u00a3200 - \u00a3230 | Inside IR35 PAYE | 3 Months | Onsite Bristol",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-engineer--200-230--inside-ir35-paye--3-months--onsite-bristol/57429901"
-  },
-  {
-   "company": "Gem Partnership Ltd",
-   "role": "Customer Support Technician",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/customer-support-technician/57561869"
   }
  ],
  "applications": [
@@ -753,6 +753,14 @@
    "link": ""
   },
   {
+   "company": "Robert Half",
+   "role": "First Line Support",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488207142"
+  },
+  {
    "company": "Valarian",
    "role": "MLOps Engineer",
    "date": "2026-11-15",
@@ -887,6 +895,46 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490384780"
+  },
+  {
+   "company": "Spectrum IT Recruitment",
+   "role": "Application Support Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488311138"
+  },
+  {
+   "company": "Ingentive",
+   "role": "Support Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490324331"
+  },
+  {
+   "company": "William College",
+   "role": "IT Support Officer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488518771"
+  },
+  {
+   "company": "Harnham",
+   "role": "Junior IT Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488940648"
+  },
+  {
+   "company": "Oliver Bernard",
+   "role": "Technical Support Engineer - ETL / Data Platform",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487188022"
   },
   {
    "company": "Reed",
@@ -3759,14 +3807,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/2nd-line-technical-support-engineer-hybrid/57517341"
-  },
-  {
-   "company": "Robert Half",
-   "role": "First Line Support",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/first-line-support/57507208"
   },
   {
    "company": "James Frank Associates",
@@ -23985,7 +24025,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-15T13:46:36.752233+00:00",
- "updated": "2026-11-15T13:46:37+00:00",
- "updated_at": "2026-11-15T13:46:37+00:00"
+ "email_stats_updated": "2026-11-15T14:06:16.556720+00:00",
+ "updated": "2026-11-15T14:06:16+00:00",
+ "updated_at": "2026-11-15T14:06:16+00:00"
 }
