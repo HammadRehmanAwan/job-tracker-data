@@ -1,8 +1,8 @@
 {
- "total": 2926,
+ "total": 2927,
  "portal": 2256,
  "email": 558,
- "linkedin": 112,
+ "linkedin": 113,
  "bounced_emails": 23,
  "confirmations": 2382,
  "rejections": 430,
@@ -290,7 +290,7 @@
    "date": "2026-11-15",
    "portal": 0,
    "email": 0,
-   "linkedin": 23
+   "linkedin": 24
   }
  ],
  "recent": [
@@ -479,6 +479,14 @@
    "link": "https://www.linkedin.com/jobs/view/4487188022"
   },
   {
+   "company": "Hawksworth",
+   "role": "Associate AI Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489200622"
+  },
+  {
    "company": "Reed",
    "role": "Technical Support Analyst",
    "date": "2026-11-14",
@@ -605,14 +613,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/sensor-tower/ee3518ff-2e27-4b88-9662-411b7474806b"
-  },
-  {
-   "company": "Eventogy",
-   "role": "Event Management and Support Specialist",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/eventogy/j/9E0C1C494E"
   }
  ],
  "applications": [
@@ -935,6 +935,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4487188022"
+  },
+  {
+   "company": "Hawksworth",
+   "role": "Associate AI Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489200622"
   },
   {
    "company": "Reed",
@@ -24025,7 +24033,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-15T19:29:47.116347+00:00",
- "updated": "2026-11-15T19:29:47+00:00",
- "updated_at": "2026-11-15T19:29:47+00:00"
+ "email_stats_updated": "2026-11-15T19:50:46.315552+00:00",
+ "updated": "2026-11-15T19:50:46+00:00",
+ "updated_at": "2026-11-15T19:50:46+00:00"
 }
