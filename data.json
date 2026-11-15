@@ -1,10 +1,10 @@
 {
- "total": 2937,
- "portal": 2256,
+ "total": 2938,
+ "portal": 2257,
  "email": 558,
  "linkedin": 123,
  "bounced_emails": 23,
- "confirmations": 2382,
+ "confirmations": 2384,
  "rejections": 430,
  "positives": [
   {
@@ -288,7 +288,7 @@
   },
   {
    "date": "2026-11-15",
-   "portal": 0,
+   "portal": 1,
    "email": 0,
    "linkedin": 34
   }
@@ -567,6 +567,14 @@
    "link": "https://www.linkedin.com/jobs/view/4490717011"
   },
   {
+   "company": "Robert Half",
+   "role": "Data Engineer",
+   "date": "2026-11-15",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57569797"
+  },
+  {
    "company": "Reed",
    "role": "Technical Support Analyst",
    "date": "2026-11-14",
@@ -605,14 +613,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/hawk/8ccb03f4-d238-403a-8119-75152f39d67c"
-  },
-  {
-   "company": "ACS Recruitment Solutions Ltd",
-   "role": "Credit Administrator",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/credit-administrator/57561885"
   }
  ],
  "applications": [
@@ -1023,6 +1023,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490717011"
+  },
+  {
+   "company": "Robert Half",
+   "role": "Data Engineer",
+   "date": "2026-11-15",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57569797"
   },
   {
    "company": "Reed",
@@ -24113,7 +24121,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-15T22:37:23.830218+00:00",
- "updated": "2026-11-15T22:37:24+00:00",
- "updated_at": "2026-11-15T22:37:24+00:00"
+ "email_stats_updated": "2026-11-15T22:46:50.516503+00:00",
+ "updated": "2026-11-15T22:46:50+00:00",
+ "updated_at": "2026-11-15T22:46:50+00:00"
 }
