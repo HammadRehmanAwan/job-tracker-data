@@ -1,11 +1,11 @@
 {
- "total": 2904,
+ "total": 2905,
  "portal": 2257,
  "email": 558,
- "linkedin": 89,
+ "linkedin": 90,
  "bounced_emails": 23,
  "confirmations": 2381,
- "rejections": 421,
+ "rejections": 423,
  "positives": [
   {
    "company": "Curation",
@@ -285,9 +285,23 @@
    "portal": 78,
    "email": 0,
    "linkedin": 0
+  },
+  {
+   "date": "2026-11-15",
+   "portal": 0,
+   "email": 0,
+   "linkedin": 1
   }
  ],
  "recent": [
+  {
+   "company": "Valarian",
+   "role": "MLOps Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4482440958"
+  },
   {
    "company": "Reed",
    "role": "Technical Support Analyst",
@@ -599,14 +613,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-engineer/57485317"
-  },
-  {
-   "company": "Technical Futures Ltd",
-   "role": "Software Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/software-engineer/57561878"
   }
  ],
  "applications": [
@@ -745,6 +751,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Valarian",
+   "role": "MLOps Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4482440958"
   },
   {
    "company": "Reed",
@@ -23843,7 +23857,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-15T12:43:33.120013+00:00",
- "updated": "2026-11-15T12:43:33+00:00",
- "updated_at": "2026-11-15T12:43:33+00:00"
+ "email_stats_updated": "2026-11-15T12:57:43.093028+00:00",
+ "updated": "2026-11-15T12:57:43+00:00",
+ "updated_at": "2026-11-15T12:57:43+00:00"
 }
