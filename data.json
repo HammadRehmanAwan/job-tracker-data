@@ -1,8 +1,8 @@
 {
- "total": 2927,
+ "total": 2937,
  "portal": 2256,
  "email": 558,
- "linkedin": 113,
+ "linkedin": 123,
  "bounced_emails": 23,
  "confirmations": 2382,
  "rejections": 430,
@@ -290,7 +290,7 @@
    "date": "2026-11-15",
    "portal": 0,
    "email": 0,
-   "linkedin": 24
+   "linkedin": 34
   }
  ],
  "recent": [
@@ -487,6 +487,86 @@
    "link": "https://www.linkedin.com/jobs/view/4489200622"
   },
   {
+   "company": "Oliver Bernard",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488216916"
+  },
+  {
+   "company": "Quant Capital",
+   "role": "Research Developer - Graduate",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4440437904"
+  },
+  {
+   "company": "Saragossa",
+   "role": "Junior Data Analyst - Hedge Fund",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487160339"
+  },
+  {
+   "company": "Undisclosed",
+   "role": "Data Engineer / Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490754691"
+  },
+  {
+   "company": "Harnham",
+   "role": "Data Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4479800281"
+  },
+  {
+   "company": "twentyAI",
+   "role": "Data Analyst (Investor Relations)",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489975794"
+  },
+  {
+   "company": "Proclinical Staffing",
+   "role": "AI Automation / Application Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489105128"
+  },
+  {
+   "company": "Nicoll Curtin",
+   "role": "Data Centre Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488860014"
+  },
+  {
+   "company": "Harrington Starr",
+   "role": "Data Analyst-Deal Cloud",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490383984"
+  },
+  {
+   "company": "Pentasia",
+   "role": "IT & Operations Support Specialist",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490717011"
+  },
+  {
    "company": "Reed",
    "role": "Technical Support Analyst",
    "date": "2026-11-14",
@@ -533,86 +613,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/credit-administrator/57561885"
-  },
-  {
-   "company": "Specright",
-   "role": "Implementation Consultant, EMEA",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/specright/02d87c2c-584a-4889-8eb6-76c3fdaa937b"
-  },
-  {
-   "company": "Endex",
-   "role": "Technical Support Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/endex/d384e009-d80c-4f2d-ba53-5dd44eb8e9fb"
-  },
-  {
-   "company": "Mako",
-   "role": "Graduate Software Engineer, London",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/mako/jobs/8921970002"
-  },
-  {
-   "company": "Growe",
-   "role": "Technical Support Specialist",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.eu.greenhouse.io/growetalents/jobs/5011245101"
-  },
-  {
-   "company": "Insight Investment",
-   "role": "Front Office Application Support Analyst (London)",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/insight-investment/j/A09CE365A4"
-  },
-  {
-   "company": "Pax2Pay Ltd",
-   "role": "Technical Support Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/pax2pay-ltd/j/06C008FACF"
-  },
-  {
-   "company": "PlanetScale",
-   "role": "Enterprise Support Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/planetscale/jobs/4009926009"
-  },
-  {
-   "company": "Prolific",
-   "role": "IT Support Technician - Research Participants - United Kingdom",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/5015969101"
-  },
-  {
-   "company": "Prolific",
-   "role": "Computer Sciences - Graduates - AI Training - UK",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4853429101"
-  },
-  {
-   "company": "Sensor Tower",
-   "role": "Business Technology Support Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/sensor-tower/ee3518ff-2e27-4b88-9662-411b7474806b"
   }
  ],
  "applications": [
@@ -943,6 +943,86 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4489200622"
+  },
+  {
+   "company": "Oliver Bernard",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488216916"
+  },
+  {
+   "company": "Quant Capital",
+   "role": "Research Developer - Graduate",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4440437904"
+  },
+  {
+   "company": "Saragossa",
+   "role": "Junior Data Analyst - Hedge Fund",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487160339"
+  },
+  {
+   "company": "Undisclosed",
+   "role": "Data Engineer / Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490754691"
+  },
+  {
+   "company": "Harnham",
+   "role": "Data Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4479800281"
+  },
+  {
+   "company": "twentyAI",
+   "role": "Data Analyst (Investor Relations)",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489975794"
+  },
+  {
+   "company": "Proclinical Staffing",
+   "role": "AI Automation / Application Engineer",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489105128"
+  },
+  {
+   "company": "Nicoll Curtin",
+   "role": "Data Centre Analyst",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488860014"
+  },
+  {
+   "company": "Harrington Starr",
+   "role": "Data Analyst-Deal Cloud",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490383984"
+  },
+  {
+   "company": "Pentasia",
+   "role": "IT & Operations Support Specialist",
+   "date": "2026-11-15",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490717011"
   },
   {
    "company": "Reed",
@@ -24033,7 +24113,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-15T19:50:46.315552+00:00",
- "updated": "2026-11-15T19:50:46+00:00",
- "updated_at": "2026-11-15T19:50:46+00:00"
+ "email_stats_updated": "2026-11-15T20:06:45.639252+00:00",
+ "updated": "2026-11-15T20:06:45+00:00",
+ "updated_at": "2026-11-15T20:06:45+00:00"
 }
