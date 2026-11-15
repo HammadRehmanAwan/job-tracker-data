@@ -175,11 +175,19 @@
    "action": "",
    "due": "",
    "done_on": ""
+  },
+  {
+   "company": "Surftech IT (IT Support Engineer - Education)",
+   "note": "Workable AI agent asked him to answer a few short follow-up questions via a secure chat to finish reviewing his application (reminder 15 Nov 5:01am UK)",
+   "status": "remaining",
+   "action": "",
+   "due": "",
+   "done_on": ""
   }
  ],
- "positive_count": 19,
+ "positive_count": 20,
  "positives_done": 14,
- "positives_remaining": 5,
+ "positives_remaining": 6,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -23824,7 +23832,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-15T04:50:43.669185+00:00",
- "updated": "2026-11-15T04:50:44+00:00",
- "updated_at": "2026-11-15T04:50:44+00:00"
+ "email_stats_updated": "2026-11-15T05:06:47.159596+00:00",
+ "updated": "2026-11-15T05:06:47+00:00",
+ "updated_at": "2026-11-15T05:06:47+00:00"
 }
