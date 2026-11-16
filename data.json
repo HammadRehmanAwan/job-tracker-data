@@ -1,11 +1,11 @@
 {
- "total": 3030,
+ "total": 3032,
  "portal": 2328,
  "email": 558,
- "linkedin": 144,
+ "linkedin": 146,
  "bounced_emails": 23,
  "confirmations": 2428,
- "rejections": 480,
+ "rejections": 481,
  "positives": [
   {
    "company": "Curation",
@@ -337,7 +337,7 @@
    "date": "2026-11-16",
    "portal": 72,
    "email": 0,
-   "linkedin": 22
+   "linkedin": 24
   }
  ],
  "recent": [
@@ -1550,6 +1550,22 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4489763088/"
+  },
+  {
+   "company": "Prism Digital",
+   "role": "Python Developer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489746126/"
+  },
+  {
+   "company": "Oho Group",
+   "role": "Forward Deployed Engineer | Early-Stage AI Start-Up",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490644203/"
   },
   {
    "company": "Robert Half",
@@ -24904,7 +24920,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T13:36:22+00:00",
- "updated": "2026-11-16T13:36:22+00:00",
- "updated_at": "2026-11-16T13:36:22+00:00"
+ "email_stats_updated": "2026-11-16T13:47:10+00:00",
+ "updated": "2026-11-16T13:47:10+00:00",
+ "updated_at": "2026-11-16T13:47:10+00:00"
 }
