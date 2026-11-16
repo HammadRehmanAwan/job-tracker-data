@@ -1,10 +1,10 @@
 {
- "total": 3045,
- "portal": 2331,
+ "total": 3046,
+ "portal": 2332,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
- "confirmations": 2430,
+ "confirmations": 2433,
  "rejections": 498,
  "positives": [
   {
@@ -362,7 +362,7 @@
   },
   {
    "date": "2026-11-16",
-   "portal": 75,
+   "portal": 76,
    "email": 0,
    "linkedin": 35
   }
@@ -1705,6 +1705,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/nodejs-developer-hybrid-newcastle/57572590"
+  },
+  {
+   "company": "Mexa Solutions LTD",
+   "role": "IT Support Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57580211"
   },
   {
    "company": "Robert Half",
@@ -25051,7 +25059,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T17:58:53+00:00",
- "updated": "2026-11-16T17:58:53+00:00",
- "updated_at": "2026-11-16T17:58:53+00:00"
+ "email_stats_updated": "2026-11-16T18:18:05+00:00",
+ "updated": "2026-11-16T18:18:05+00:00",
+ "updated_at": "2026-11-16T18:18:05+00:00"
 }
