@@ -5,7 +5,7 @@
  "linkedin": 136,
  "bounced_emails": 23,
  "confirmations": 2428,
- "rejections": 452,
+ "rejections": 463,
  "positives": [
   {
    "company": "Curation",
@@ -206,16 +206,24 @@
   },
   {
    "company": "ACS Staffing Solutions",
-   "note": "Recruiter Tyler Rae Morales asked Hammad to call back to discuss the Implementation Specialist role he applied for (email 16 Nov, 9:33am UK); a Key Information Document welcome email followed at 9:51am; role details sent 10:38am UK: Northampton hybrid, \u00a318.46/hr, 1am-9am Mon-Fri shifts, temporary with potential to go permanent",
+   "note": "Recruiter Tyler Rae Morales asked Hammad to call back to discuss the Implementation Specialist role he applied for (email 16 Nov, 9:33am UK); a Key Information Document welcome email followed at 9:51am; role details sent 10:38am UK: Northampton hybrid, \u00a318.46/hr, 1am-9am Mon-Fri shifts, temporary with potential to go permanent; onboarding documents and e-signatures (48 Hour Waiver, Terms of Engagement) requested 10:43-10:47am UK, plus DOB confirmation",
+   "status": "remaining",
+   "action": "",
+   "due": "",
+   "done_on": ""
+  },
+  {
+   "company": "Landytech",
+   "note": "Interview with their CRO, Shane Hopkins, for the Revenue Operations Associate role; Teams invite sent by Loren King 16 Nov (11:02am UK), meeting Wednesday 18 Nov",
    "status": "remaining",
    "action": "",
    "due": "",
    "done_on": ""
   }
  ],
- "positive_count": 23,
+ "positive_count": 24,
  "positives_done": 20,
- "positives_remaining": 3,
+ "positives_remaining": 4,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -24800,7 +24808,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T10:43:06+00:00",
- "updated": "2026-11-16T10:43:06+00:00",
- "updated_at": "2026-11-16T10:43:06+00:00"
+ "email_stats_updated": "2026-11-16T11:18:20+00:00",
+ "updated": "2026-11-16T11:18:21+00:00",
+ "updated_at": "2026-11-16T11:18:21+00:00"
 }
