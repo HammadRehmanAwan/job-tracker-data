@@ -1,11 +1,11 @@
 {
- "total": 3024,
+ "total": 3025,
  "portal": 2326,
  "email": 558,
- "linkedin": 140,
+ "linkedin": 141,
  "bounced_emails": 23,
  "confirmations": 2428,
- "rejections": 464,
+ "rejections": 467,
  "positives": [
   {
    "company": "Curation",
@@ -279,7 +279,7 @@
    "date": "2026-11-08",
    "portal": 411,
    "email": 0,
-   "linkedin": 31
+   "linkedin": 30
   },
   {
    "date": "2026-11-09",
@@ -321,10 +321,18 @@
    "date": "2026-11-16",
    "portal": 70,
    "email": 0,
-   "linkedin": 17
+   "linkedin": 19
   }
  ],
  "recent": [
+  {
+   "company": "VirtueTech Recruitment Group",
+   "role": "Software Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487465648/"
+  },
   {
    "company": "Yolk Recruitment Ltd",
    "role": "IT Support Engineer",
@@ -636,14 +644,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/hiverge/7b8f3c47-82ee-4e79-90fc-da995de28238"
-  },
-  {
-   "company": "foundationhealthcareers",
-   "role": "Software Engineer",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/foundationhealthcareers/96988d7e-0032-436c-8abf-b2cba155d4e5"
   }
  ],
  "applications": [
@@ -782,6 +782,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "VirtueTech Recruitment Group",
+   "role": "Software Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487465648/"
   },
   {
    "company": "Yolk Recruitment Ltd",
@@ -1478,6 +1486,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4488226881/"
+  },
+  {
+   "company": "i3",
+   "role": "Data Scientist",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488520239/"
   },
   {
    "company": "Robert Half",
@@ -15672,14 +15688,6 @@
    "link": ""
   },
   {
-   "company": "VirtueTech Recruitment Group",
-   "role": "Software Engineer",
-   "date": "2026-11-08",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
    "company": "Humand Talent",
    "role": "Software Engineer - up to \u00a355k - ID52314",
    "date": "2026-11-08",
@@ -24840,7 +24848,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T11:44:44+00:00",
- "updated": "2026-11-16T11:44:44+00:00",
- "updated_at": "2026-11-16T11:44:44+00:00"
+ "email_stats_updated": "2026-11-16T12:05:00+00:00",
+ "updated": "2026-11-16T12:05:01+00:00",
+ "updated_at": "2026-11-16T12:05:01+00:00"
 }
