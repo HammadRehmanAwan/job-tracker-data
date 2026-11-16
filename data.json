@@ -1,10 +1,10 @@
 {
- "total": 2968,
- "portal": 2287,
+ "total": 2988,
+ "portal": 2307,
  "email": 558,
  "linkedin": 123,
  "bounced_emails": 23,
- "confirmations": 2403,
+ "confirmations": 2415,
  "rejections": 430,
  "positives": [
   {
@@ -295,7 +295,7 @@
   },
   {
    "date": "2026-11-16",
-   "portal": 30,
+   "portal": 50,
    "email": 0,
    "linkedin": 0
   }
@@ -542,84 +542,84 @@
    "link": "https://jobs.ashbyhq.com/eloquentai/78c360e2-abd0-498b-ac59-d0907b71a801"
   },
   {
-   "company": "Robert Half",
-   "role": "First Line Support",
-   "date": "2026-11-15",
-   "type": "linkedin",
+   "company": "kaluza",
+   "role": "Platform Engineer (C2)",
+   "date": "2026-11-16",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488207142"
+   "link": "https://jobs.ashbyhq.com/kaluza/98ee4aec-1126-46d4-af8e-fec36c25a3ff"
   },
   {
-   "company": "Valarian",
-   "role": "MLOps Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
+   "company": "kaluza",
+   "role": "Platform Engineer (C3)",
+   "date": "2026-11-16",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4482440958"
+   "link": "https://jobs.ashbyhq.com/kaluza/98bd1a92-41f6-4cc8-9a10-44fc0ca271c5"
   },
   {
-   "company": "TBA",
-   "role": "Junior Software Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
+   "company": "algo1",
+   "role": "Software Engineer (Platform)",
+   "date": "2026-11-16",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490734661"
+   "link": "https://jobs.ashbyhq.com/algo1/04f4a41e-f52b-4980-ab2d-d4690134ae65"
   },
   {
-   "company": "Formula.",
-   "role": "Artificial Intelligence Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
+   "company": "foundationhealthcareers",
+   "role": "QA Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489440131"
+   "link": "https://jobs.ashbyhq.com/foundationhealthcareers/95d8b3d7-d18d-4dc5-8bc4-cd36d06d70e7"
   },
   {
-   "company": "Jobgether",
-   "role": "AI Developer",
-   "date": "2026-11-15",
-   "type": "linkedin",
+   "company": "hawk",
+   "role": "Data Scientist",
+   "date": "2026-11-16",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488313668"
+   "link": "https://jobs.ashbyhq.com/hawk/3b98f79d-a111-4b5d-a699-937fffdcccec"
   },
   {
-   "company": "OFG Education",
-   "role": "Junior Data Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
+   "company": "fleetcraft",
+   "role": "Software Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4487451897"
+   "link": "https://jobs.ashbyhq.com/Fleetcraft/57c37ba4-2e25-48fd-b0f0-3744b05a2490"
   },
   {
-   "company": "ESP Utilities Group Ltd",
-   "role": "Data & AI Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
+   "company": "hiverge",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489931210"
+   "link": "https://jobs.ashbyhq.com/hiverge/e9e24f66-f50c-40bd-b262-f453318c4041"
   },
   {
-   "company": "Nixor",
-   "role": "Technical Support Analyst (ATS/CRM)",
-   "date": "2026-11-15",
-   "type": "linkedin",
+   "company": "hiverge",
+   "role": "Product Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4487180304"
+   "link": "https://jobs.ashbyhq.com/hiverge/7b8f3c47-82ee-4e79-90fc-da995de28238"
   },
   {
-   "company": "Harvey Nash",
-   "role": "Application Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
+   "company": "foundationhealthcareers",
+   "role": "Software Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488869629"
+   "link": "https://jobs.ashbyhq.com/foundationhealthcareers/96988d7e-0032-436c-8abf-b2cba155d4e5"
   },
   {
-   "company": "Oliver Bernard",
-   "role": "Technical Support Engineer - SQL / Data Pipelines - Central London - \u00a355K",
-   "date": "2026-11-15",
-   "type": "linkedin",
+   "company": "iwoca.co.uk",
+   "role": "FP&A & Data Analyst",
+   "date": "2026-11-16",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4487174580"
+   "link": "https://jobs.ashbyhq.com/iwoca.co.uk/993497d5-877a-47b6-abbf-9779bee76695"
   }
  ],
  "applications": [
@@ -998,6 +998,166 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/eloquentai/78c360e2-abd0-498b-ac59-d0907b71a801"
+  },
+  {
+   "company": "kaluza",
+   "role": "Platform Engineer (C2)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/kaluza/98ee4aec-1126-46d4-af8e-fec36c25a3ff"
+  },
+  {
+   "company": "kaluza",
+   "role": "Platform Engineer (C3)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/kaluza/98bd1a92-41f6-4cc8-9a10-44fc0ca271c5"
+  },
+  {
+   "company": "algo1",
+   "role": "Software Engineer (Platform)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/algo1/04f4a41e-f52b-4980-ab2d-d4690134ae65"
+  },
+  {
+   "company": "foundationhealthcareers",
+   "role": "QA Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/foundationhealthcareers/95d8b3d7-d18d-4dc5-8bc4-cd36d06d70e7"
+  },
+  {
+   "company": "hawk",
+   "role": "Data Scientist",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hawk/3b98f79d-a111-4b5d-a699-937fffdcccec"
+  },
+  {
+   "company": "fleetcraft",
+   "role": "Software Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Fleetcraft/57c37ba4-2e25-48fd-b0f0-3744b05a2490"
+  },
+  {
+   "company": "hiverge",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hiverge/e9e24f66-f50c-40bd-b262-f453318c4041"
+  },
+  {
+   "company": "hiverge",
+   "role": "Product Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hiverge/7b8f3c47-82ee-4e79-90fc-da995de28238"
+  },
+  {
+   "company": "foundationhealthcareers",
+   "role": "Software Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/foundationhealthcareers/96988d7e-0032-436c-8abf-b2cba155d4e5"
+  },
+  {
+   "company": "iwoca.co.uk",
+   "role": "FP&A & Data Analyst",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/iwoca.co.uk/993497d5-877a-47b6-abbf-9779bee76695"
+  },
+  {
+   "company": "hiverge",
+   "role": "Platform Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hiverge/8de53e9b-b2a1-497a-b193-cd38ed0a1115"
+  },
+  {
+   "company": "linqapp",
+   "role": "Software Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/linqapp/a80957d5-94b1-4be4-9d1b-f396ec3b36eb"
+  },
+  {
+   "company": "odin",
+   "role": "Founding Software Engineer ",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/odin/8132e0ef-a284-4e90-9472-c63ab54e5e24"
+  },
+  {
+   "company": "outpostnow",
+   "role": "Backend Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/outpostnow/74279b0b-1996-4c50-9990-be1f861cc404"
+  },
+  {
+   "company": "outpostnow",
+   "role": "Frontend Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/outpostnow/2409fa56-83a7-4948-a938-b7086a69c1b0"
+  },
+  {
+   "company": "spiral",
+   "role": "Software Engineer - Systems",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/spiral/470a5ce7-791a-4d1e-a78f-53e60d167bd9"
+  },
+  {
+   "company": "withpace",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/withpace/5a77a58c-8d66-4d08-a82d-576fe77009e2"
+  },
+  {
+   "company": "hspg",
+   "role": "AI Analyst",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/hspg/jobs/5012893101"
+  },
+  {
+   "company": "siriuspoint",
+   "role": "Business Intelligence Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/siriuspoint/jobs/4988988101"
+  },
+  {
+   "company": "gsacapital",
+   "role": "Software Developer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/gsacapital/jobs/7555839002"
   },
   {
    "company": "Robert Half",
@@ -24368,7 +24528,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T07:45:39.781442+00:00",
- "updated": "2026-11-16T07:45:40+00:00",
- "updated_at": "2026-11-16T07:45:40+00:00"
+ "email_stats_updated": "2026-11-16T07:57:34.702190+00:00",
+ "updated": "2026-11-16T07:57:35+00:00",
+ "updated_at": "2026-11-16T07:57:35+00:00"
 }
