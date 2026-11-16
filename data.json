@@ -1,8 +1,8 @@
 {
- "total": 3010,
- "portal": 2327,
+ "total": 3016,
+ "portal": 2326,
  "email": 558,
- "linkedin": 125,
+ "linkedin": 132,
  "bounced_emails": 23,
  "confirmations": 2428,
  "rejections": 442,
@@ -203,11 +203,19 @@
    "action": "",
    "due": "",
    "done_on": ""
+  },
+  {
+   "company": "ACS Staffing Solutions",
+   "note": "Recruiter Tyler Rae Morales asked Hammad to call back to discuss the Implementation Specialist role he applied for (email 16 Nov, 9:33am UK); a Key Information Document welcome email followed at 9:51am",
+   "status": "remaining",
+   "action": "",
+   "due": "",
+   "done_on": ""
   }
  ],
- "positive_count": 22,
+ "positive_count": 23,
  "positives_done": 20,
- "positives_remaining": 2,
+ "positives_remaining": 3,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -285,7 +293,7 @@
   },
   {
    "date": "2026-11-13",
-   "portal": 655,
+   "portal": 654,
    "email": 8,
    "linkedin": 0
   },
@@ -305,10 +313,18 @@
    "date": "2026-11-16",
    "portal": 70,
    "email": 0,
-   "linkedin": 2
+   "linkedin": 9
   }
  ],
  "recent": [
+  {
+   "company": "Yolk Recruitment Ltd",
+   "role": "IT Support Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489572604/"
+  },
   {
    "company": "Noir",
    "role": ".NET Developer - Newcastle-under-Lyme",
@@ -620,14 +636,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/foundationhealthcareers/96988d7e-0032-436c-8abf-b2cba155d4e5"
-  },
-  {
-   "company": "iwoca.co.uk",
-   "role": "FP&A & Data Analyst",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/iwoca.co.uk/993497d5-877a-47b6-abbf-9779bee76695"
   }
  ],
  "applications": [
@@ -766,6 +774,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Yolk Recruitment Ltd",
+   "role": "IT Support Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489572604/"
   },
   {
    "company": "Noir",
@@ -1342,6 +1358,54 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4488911890/"
+  },
+  {
+   "company": "MRP-Global",
+   "role": "IT Support Engineer - Service Now, Kanban, KCS - On Site Full Time, West Sussex",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489001622/"
+  },
+  {
+   "company": "Eriban Business Services Ltd",
+   "role": "IT Support Apprentice",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489953339/"
+  },
+  {
+   "company": "FluidOne",
+   "role": "Help Desk Technician",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488849591/"
+  },
+  {
+   "company": "GTN Solutions",
+   "role": "Desktop Support Technician",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489034568/"
+  },
+  {
+   "company": "Verra Mobility",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489185029/"
+  },
+  {
+   "company": "Fluent Money Ltd",
+   "role": "First Line Support",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489916856/"
   },
   {
    "company": "Robert Half",
@@ -4294,14 +4358,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/2nd-line-support-technician/57532506"
-  },
-  {
-   "company": "Yolk Recruitment Ltd",
-   "role": "IT Support Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57523273"
   },
   {
    "company": "VIQU IT Recruitment",
@@ -24712,7 +24768,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T09:28:02+00:00",
- "updated": "2026-11-16T09:28:02+00:00",
- "updated_at": "2026-11-16T09:28:02+00:00"
+ "email_stats_updated": "2026-11-16T09:58:30+00:00",
+ "updated": "2026-11-16T09:58:31+00:00",
+ "updated_at": "2026-11-16T09:58:31+00:00"
 }
