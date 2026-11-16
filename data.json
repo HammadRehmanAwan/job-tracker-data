@@ -1,10 +1,10 @@
 {
- "total": 2938,
- "portal": 2257,
+ "total": 2968,
+ "portal": 2287,
  "email": 558,
  "linkedin": 123,
  "bounced_emails": 23,
- "confirmations": 2385,
+ "confirmations": 2403,
  "rejections": 430,
  "positives": [
   {
@@ -292,9 +292,255 @@
    "portal": 1,
    "email": 0,
    "linkedin": 34
+  },
+  {
+   "date": "2026-11-16",
+   "portal": 30,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "Noir",
+   "role": ".NET Developer - Newcastle-under-Lyme",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/net-developer-newcastle-under-lyme/57569872"
+  },
+  {
+   "company": "Focal Systems",
+   "role": "Data Scientist - UK",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/focalsystems/jobs/6016008004"
+  },
+  {
+   "company": "irissoftwaregroup",
+   "role": "2nd Line Customer Support Analyst (IRIS Financials)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/irissoftwaregroup/028b70d3-4a2e-4204-9a2d-64af1be7810e"
+  },
+  {
+   "company": "addepar1",
+   "role": "Technical Data Analyst",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/addepar1/jobs/8906716002"
+  },
+  {
+   "company": "banyansoftware",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/banyansoftware/jobs/5056439007"
+  },
+  {
+   "company": "partisiablockchain",
+   "role": "Front End Developer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/partisiablockchain/7fc355e5-6020-4386-bd3c-d95d66149b08"
+  },
+  {
+   "company": "justmarkets",
+   "role": "Data Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/justmarkets/jobs/4572803101"
+  },
+  {
+   "company": "utilityprofit",
+   "role": "QA Engineer \u2014 Manual Testing & Automation",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/utilityprofit/jobs/4379597009"
+  },
+  {
+   "company": "alpaca",
+   "role": "Software Engineer - Market Data",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/alpaca/jobs/6144564004"
+  },
+  {
+   "company": "veda",
+   "role": "Backend Engineer - Solana",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/veda/a3494276-5759-4d88-8b73-9188d92a5b7e"
+  },
+  {
+   "company": "remotepeople",
+   "role": "QA Automation Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4965136101"
+  },
+  {
+   "company": "planetscale",
+   "role": "Solutions Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/planetscale/jobs/4052805009"
+  },
+  {
+   "company": "planetscale",
+   "role": "Software Engineer - PlanetScale Postgres",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/planetscale/jobs/4251150009"
+  },
+  {
+   "company": "supabase",
+   "role": "Cloud Platform Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4"
+  },
+  {
+   "company": "supabase",
+   "role": "Platform Engineer, Edge & Networking",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b"
+  },
+  {
+   "company": "supabase",
+   "role": "Software Engineer - Spark",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113"
+  },
+  {
+   "company": "supabase",
+   "role": "Software Engineer - Storage",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520"
+  },
+  {
+   "company": "supabase",
+   "role": "Software Engineer - Turso",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259"
+  },
+  {
+   "company": "coder",
+   "role": "Software Engineer (Enterprise Experience, Backend)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/coder/8d76dce2-97f7-413e-a93e-9e3f0ba8d259"
+  },
+  {
+   "company": "supabase",
+   "role": "Platform Engineer - Compute",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757"
+  },
+  {
+   "company": "polar",
+   "role": "Product Engineering",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/polar/d2f09190-24ec-444f-8642-98596af4a793"
+  },
+  {
+   "company": "supabase",
+   "role": "Software Engineer - Branching",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60"
+  },
+  {
+   "company": "constructor",
+   "role": "Backend Engineer: Retail Media",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/constructor/6088b9a0-1714-4ba3-9860-4622b0647d4f"
+  },
+  {
+   "company": "resend",
+   "role": "Platform Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/resend/76dcf582-cf8b-49dd-899b-d453d6af430e"
+  },
+  {
+   "company": "constructor",
+   "role": "Data Engineer: Merchant Intelligence Agent",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/constructor/16d7a5fa-06fe-4e66-9709-072435a324ae"
+  },
+  {
+   "company": "resend",
+   "role": "Backend Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/resend/6589bee8-3ec9-4620-90b6-890b23464c4d"
+  },
+  {
+   "company": "constructor",
+   "role": "Platform Engineer: Platform Enablement",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/constructor/fe2b4f29-b0d8-4944-bf3a-89596746a9c9"
+  },
+  {
+   "company": "eloquentai",
+   "role": "Software Engineer, Front-End",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/eloquentai/9889bccd-79a9-4590-be64-0fe640ea8b3c"
+  },
+  {
+   "company": "uncountable",
+   "role": "Scientific Support Specialist",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/uncountable/fffb551d-6f2e-4572-bb8c-90487788ec5a"
+  },
+  {
+   "company": "eloquentai",
+   "role": "Software Engineer, Front-End, Europe",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/eloquentai/78c360e2-abd0-498b-ac59-d0907b71a801"
+  },
   {
    "company": "Robert Half",
    "role": "First Line Support",
@@ -374,246 +620,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4487174580"
-  },
-  {
-   "company": "Gravitas Recruitment Group (Global) Ltd",
-   "role": "Junior Software Developer (C#.NET, SQL)",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488225067"
-  },
-  {
-   "company": "BOSS Professional Services",
-   "role": "Data Analyst",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489005117"
-  },
-  {
-   "company": "Method Resourcing",
-   "role": "Backend Software Engineer (Python)",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489488871"
-  },
-  {
-   "company": "Spait Infotech",
-   "role": "Software Developer",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489589115"
-  },
-  {
-   "company": "Quant Capital",
-   "role": "Junior Application Support Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4417609859"
-  },
-  {
-   "company": "Talentmark",
-   "role": "AI Automation/Application Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4487170332"
-  },
-  {
-   "company": "Mexa Solutions",
-   "role": "SaaS Software Support Analyst",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4487806644"
-  },
-  {
-   "company": "Tact",
-   "role": "First Line Support",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490384780"
-  },
-  {
-   "company": "Spectrum IT Recruitment",
-   "role": "Application Support Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488311138"
-  },
-  {
-   "company": "Ingentive",
-   "role": "Support Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490324331"
-  },
-  {
-   "company": "William College",
-   "role": "IT Support Officer",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488518771"
-  },
-  {
-   "company": "Harnham",
-   "role": "Junior IT Analyst",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488940648"
-  },
-  {
-   "company": "Oliver Bernard",
-   "role": "Technical Support Engineer - ETL / Data Platform",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4487188022"
-  },
-  {
-   "company": "Hawksworth",
-   "role": "Associate AI Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489200622"
-  },
-  {
-   "company": "Oliver Bernard",
-   "role": "Junior Software Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488216916"
-  },
-  {
-   "company": "Quant Capital",
-   "role": "Research Developer - Graduate",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4440437904"
-  },
-  {
-   "company": "Saragossa",
-   "role": "Junior Data Analyst - Hedge Fund",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4487160339"
-  },
-  {
-   "company": "Undisclosed",
-   "role": "Data Engineer / Analyst",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490754691"
-  },
-  {
-   "company": "Harnham",
-   "role": "Data Analyst",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4479800281"
-  },
-  {
-   "company": "twentyAI",
-   "role": "Data Analyst (Investor Relations)",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489975794"
-  },
-  {
-   "company": "Proclinical Staffing",
-   "role": "AI Automation / Application Engineer",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489105128"
-  },
-  {
-   "company": "Nicoll Curtin",
-   "role": "Data Centre Analyst",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488860014"
-  },
-  {
-   "company": "Harrington Starr",
-   "role": "Data Analyst-Deal Cloud",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490383984"
-  },
-  {
-   "company": "Pentasia",
-   "role": "IT & Operations Support Specialist",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490717011"
-  },
-  {
-   "company": "Robert Half",
-   "role": "Data Engineer",
-   "date": "2026-11-15",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-engineer/57569797"
-  },
-  {
-   "company": "Reed",
-   "role": "Technical Support Analyst",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/technical-support-analyst/57534999"
-  },
-  {
-   "company": "Cerco",
-   "role": "Entry Level IT Field Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/entry-level-it-field-engineer/57566087"
-  },
-  {
-   "company": "Konrad",
-   "role": "Software Developer (Entry Level)",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/konradgroup/jobs/7669159003"
-  },
-  {
-   "company": "Clay",
-   "role": "IT Support Engineer",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/claylabs/7b10120b-78a4-4c7f-95e1-e800f969c539"
-  },
-  {
-   "company": "Hawk",
-   "role": "Implementation Specialist",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/hawk/8ccb03f4-d238-403a-8119-75152f39d67c"
   }
  ],
  "applications": [
@@ -752,6 +758,246 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Noir",
+   "role": ".NET Developer - Newcastle-under-Lyme",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/net-developer-newcastle-under-lyme/57569872"
+  },
+  {
+   "company": "Focal Systems",
+   "role": "Data Scientist - UK",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/focalsystems/jobs/6016008004"
+  },
+  {
+   "company": "irissoftwaregroup",
+   "role": "2nd Line Customer Support Analyst (IRIS Financials)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/irissoftwaregroup/028b70d3-4a2e-4204-9a2d-64af1be7810e"
+  },
+  {
+   "company": "addepar1",
+   "role": "Technical Data Analyst",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/addepar1/jobs/8906716002"
+  },
+  {
+   "company": "banyansoftware",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/banyansoftware/jobs/5056439007"
+  },
+  {
+   "company": "partisiablockchain",
+   "role": "Front End Developer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/partisiablockchain/7fc355e5-6020-4386-bd3c-d95d66149b08"
+  },
+  {
+   "company": "justmarkets",
+   "role": "Data Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/justmarkets/jobs/4572803101"
+  },
+  {
+   "company": "utilityprofit",
+   "role": "QA Engineer \u2014 Manual Testing & Automation",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/utilityprofit/jobs/4379597009"
+  },
+  {
+   "company": "alpaca",
+   "role": "Software Engineer - Market Data",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/alpaca/jobs/6144564004"
+  },
+  {
+   "company": "veda",
+   "role": "Backend Engineer - Solana",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/veda/a3494276-5759-4d88-8b73-9188d92a5b7e"
+  },
+  {
+   "company": "remotepeople",
+   "role": "QA Automation Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4965136101"
+  },
+  {
+   "company": "planetscale",
+   "role": "Solutions Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/planetscale/jobs/4052805009"
+  },
+  {
+   "company": "planetscale",
+   "role": "Software Engineer - PlanetScale Postgres",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/planetscale/jobs/4251150009"
+  },
+  {
+   "company": "supabase",
+   "role": "Cloud Platform Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4"
+  },
+  {
+   "company": "supabase",
+   "role": "Platform Engineer, Edge & Networking",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b"
+  },
+  {
+   "company": "supabase",
+   "role": "Software Engineer - Spark",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113"
+  },
+  {
+   "company": "supabase",
+   "role": "Software Engineer - Storage",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520"
+  },
+  {
+   "company": "supabase",
+   "role": "Software Engineer - Turso",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259"
+  },
+  {
+   "company": "coder",
+   "role": "Software Engineer (Enterprise Experience, Backend)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/coder/8d76dce2-97f7-413e-a93e-9e3f0ba8d259"
+  },
+  {
+   "company": "supabase",
+   "role": "Platform Engineer - Compute",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757"
+  },
+  {
+   "company": "polar",
+   "role": "Product Engineering",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/polar/d2f09190-24ec-444f-8642-98596af4a793"
+  },
+  {
+   "company": "supabase",
+   "role": "Software Engineer - Branching",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60"
+  },
+  {
+   "company": "constructor",
+   "role": "Backend Engineer: Retail Media",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/constructor/6088b9a0-1714-4ba3-9860-4622b0647d4f"
+  },
+  {
+   "company": "resend",
+   "role": "Platform Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/resend/76dcf582-cf8b-49dd-899b-d453d6af430e"
+  },
+  {
+   "company": "constructor",
+   "role": "Data Engineer: Merchant Intelligence Agent",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/constructor/16d7a5fa-06fe-4e66-9709-072435a324ae"
+  },
+  {
+   "company": "resend",
+   "role": "Backend Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/resend/6589bee8-3ec9-4620-90b6-890b23464c4d"
+  },
+  {
+   "company": "constructor",
+   "role": "Platform Engineer: Platform Enablement",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/constructor/fe2b4f29-b0d8-4944-bf3a-89596746a9c9"
+  },
+  {
+   "company": "eloquentai",
+   "role": "Software Engineer, Front-End",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/eloquentai/9889bccd-79a9-4590-be64-0fe640ea8b3c"
+  },
+  {
+   "company": "uncountable",
+   "role": "Scientific Support Specialist",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/uncountable/fffb551d-6f2e-4572-bb8c-90487788ec5a"
+  },
+  {
+   "company": "eloquentai",
+   "role": "Software Engineer, Front-End, Europe",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/eloquentai/78c360e2-abd0-498b-ac59-d0907b71a801"
   },
   {
    "company": "Robert Half",
@@ -24122,7 +24368,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T01:58:11.163027+00:00",
- "updated": "2026-11-16T01:58:11+00:00",
- "updated_at": "2026-11-16T01:58:11+00:00"
+ "email_stats_updated": "2026-11-16T02:20:24.561782+00:00",
+ "updated": "2026-11-16T02:20:24+00:00",
+ "updated_at": "2026-11-16T02:20:24+00:00"
 }
