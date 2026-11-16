@@ -1,11 +1,11 @@
 {
- "total": 3044,
- "portal": 2330,
+ "total": 3045,
+ "portal": 2331,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
- "confirmations": 2429,
- "rejections": 486,
+ "confirmations": 2430,
+ "rejections": 487,
  "positives": [
   {
    "company": "Curation",
@@ -238,11 +238,19 @@
    "due": "",
    "done_on": "2026-11-16",
    "key": "primary-goal-apprenticeship"
+  },
+  {
+   "company": "Broaden Management Partners (IT Configuration Analyst)",
+   "note": "15-minute introduction call booked with Mora Fernandez Madero for Tue 17 Nov 2026, 4:15-4:30pm UK (confirmation 16 Nov, 3:12pm UK)",
+   "status": "remaining",
+   "action": "",
+   "due": "",
+   "done_on": ""
   }
  ],
- "positive_count": 26,
+ "positive_count": 27,
  "positives_done": 23,
- "positives_remaining": 3,
+ "positives_remaining": 4,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -338,7 +346,7 @@
   },
   {
    "date": "2026-11-16",
-   "portal": 74,
+   "portal": 75,
    "email": 0,
    "linkedin": 35
   }
@@ -1673,6 +1681,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/drweng/jobs/7283666"
+  },
+  {
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "Node.js Developer - Hybrid - Newcastle",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/nodejs-developer-hybrid-newcastle/57572590"
   },
   {
    "company": "Robert Half",
@@ -25019,7 +25035,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T15:05:29+00:00",
- "updated": "2026-11-16T15:05:30+00:00",
- "updated_at": "2026-11-16T15:05:30+00:00"
+ "email_stats_updated": "2026-11-16T15:19:55+00:00",
+ "updated": "2026-11-16T15:19:56+00:00",
+ "updated_at": "2026-11-16T15:19:56+00:00"
 }
