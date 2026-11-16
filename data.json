@@ -163,10 +163,11 @@
   {
    "company": "Flosum (Manual QA Engineer)",
    "note": "One-way Hireflix video interview, 5 short questions, complete within 48 hours of 14 Nov 1:51am UK (by about 1:51am UK Mon 16 Nov)",
-   "status": "remaining",
-   "action": "",
+   "status": "done",
+   "action": "One-way Hireflix video interview",
    "due": "",
-   "done_on": ""
+   "done_on": "2026-11-16",
+   "key": "flosum-manual-qa"
   },
   {
    "company": "Surftech IT (Helpdesk Engineer L2)",
@@ -197,8 +198,8 @@
   }
  ],
  "positive_count": 21,
- "positives_done": 18,
- "positives_remaining": 3,
+ "positives_done": 19,
+ "positives_remaining": 2,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -24122,6 +24123,6 @@
   }
  ],
  "email_stats_updated": "2026-11-16T00:07:30.266884+00:00",
- "updated": "2026-11-16T00:07:30+00:00",
- "updated_at": "2026-11-16T00:07:30+00:00"
+ "updated": "2026-11-16T00:09:27+00:00",
+ "updated_at": "2026-11-16T00:09:27+00:00"
 }
