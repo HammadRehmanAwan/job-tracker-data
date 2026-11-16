@@ -1,8 +1,8 @@
 {
- "total": 3033,
+ "total": 3035,
  "portal": 2329,
  "email": 558,
- "linkedin": 146,
+ "linkedin": 148,
  "bounced_emails": 23,
  "confirmations": 2428,
  "rejections": 484,
@@ -207,10 +207,11 @@
   {
    "company": "ACS Staffing Solutions",
    "note": "Recruiter Tyler Rae Morales asked Hammad to call back to discuss the Implementation Specialist role he applied for (email 16 Nov, 9:33am UK); a Key Information Document welcome email followed at 9:51am; role details sent 10:38am UK: Northampton hybrid, \u00a318.46/hr, 1am-9am Mon-Fri shifts, temporary with potential to go permanent; onboarding documents and e-signatures (48 Hour Waiver, Terms of Engagement) requested 10:43-10:47am UK, plus DOB confirmation; 11:29am UK: asked Hammad to call to book his interview; 1:21pm UK: interview confirmed for Implementation Specialist at Sign In App, 5:25pm UK Thursday 19 Nov 2026, online; 48 Hour Waiver signed 1:25pm UK",
-   "status": "remaining",
-   "action": "",
+   "status": "done",
+   "action": "Sign SignRequest docs, upload eVisa/share code, GDPR consent",
    "due": "",
-   "done_on": ""
+   "done_on": "2026-11-16",
+   "key": "acs-onboarding"
   },
   {
    "company": "Landytech",
@@ -240,8 +241,8 @@
   }
  ],
  "positive_count": 26,
- "positives_done": 22,
- "positives_remaining": 4,
+ "positives_done": 23,
+ "positives_remaining": 3,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -339,7 +340,7 @@
    "date": "2026-11-16",
    "portal": 73,
    "email": 0,
-   "linkedin": 24
+   "linkedin": 26
   }
  ],
  "recent": [
@@ -1576,6 +1577,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/basecamp-research/259e36df-4692-47a0-a2c0-8cab81a267c0"
+  },
+  {
+   "company": "Qh4 Consulting",
+   "role": "Data Analyst - Python - ETL",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490644834/"
+  },
+  {
+   "company": "Information Tech Consultants",
+   "role": "Big Data Developer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488925184/"
   },
   {
    "company": "Robert Half",
@@ -24931,6 +24948,6 @@
   }
  ],
  "email_stats_updated": "2026-11-16T14:14:32+00:00",
- "updated": "2026-11-16T14:24:17+00:00",
- "updated_at": "2026-11-16T14:24:17+00:00"
+ "updated": "2026-11-16T14:28:53+00:00",
+ "updated_at": "2026-11-16T14:28:53+00:00"
 }
