@@ -5,7 +5,7 @@
  "linkedin": 123,
  "bounced_emails": 23,
  "confirmations": 2428,
- "rejections": 436,
+ "rejections": 441,
  "positives": [
   {
    "company": "Curation",
@@ -195,11 +195,19 @@
    "due": "",
    "done_on": "2026-11-15",
    "key": "time-recruitment-it-support-technician"
+  },
+  {
+   "company": "Mako",
+   "note": "Invited to the Mako Aptitude Test (take-home test via ClassMarker) for the Graduate Software Engineer role, 16 Nov",
+   "status": "remaining",
+   "action": "",
+   "due": "",
+   "done_on": ""
   }
  ],
- "positive_count": 21,
+ "positive_count": 22,
  "positives_done": 20,
- "positives_remaining": 1,
+ "positives_remaining": 2,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -24672,7 +24680,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T09:04:38+00:00",
- "updated": "2026-11-16T09:04:38+00:00",
- "updated_at": "2026-11-16T09:04:38+00:00"
+ "email_stats_updated": "2026-11-16T09:14:37+00:00",
+ "updated": "2026-11-16T09:14:37+00:00",
+ "updated_at": "2026-11-16T09:14:37+00:00"
 }
