@@ -1,8 +1,8 @@
 {
- "total": 3021,
+ "total": 3024,
  "portal": 2326,
  "email": 558,
- "linkedin": 137,
+ "linkedin": 140,
  "bounced_emails": 23,
  "confirmations": 2428,
  "rejections": 464,
@@ -321,7 +321,7 @@
    "date": "2026-11-16",
    "portal": 70,
    "email": 0,
-   "linkedin": 14
+   "linkedin": 17
   }
  ],
  "recent": [
@@ -1454,6 +1454,30 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4489344690/"
+  },
+  {
+   "company": "Confidential",
+   "role": "Data Engineering Intern",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487168104/"
+  },
+  {
+   "company": "ValStream Ltd",
+   "role": "Junior Data Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487280818/"
+  },
+  {
+   "company": "10Nex Consultancy",
+   "role": "Artificial Intelligence Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488226881/"
   },
   {
    "company": "Robert Half",
@@ -24816,7 +24840,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T11:34:50+00:00",
- "updated": "2026-11-16T11:34:51+00:00",
- "updated_at": "2026-11-16T11:34:51+00:00"
+ "email_stats_updated": "2026-11-16T11:44:44+00:00",
+ "updated": "2026-11-16T11:44:44+00:00",
+ "updated_at": "2026-11-16T11:44:44+00:00"
 }
