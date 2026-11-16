@@ -1,11 +1,11 @@
 {
- "total": 3046,
- "portal": 2332,
+ "total": 3047,
+ "portal": 2333,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
- "confirmations": 2433,
- "rejections": 500,
+ "confirmations": 2434,
+ "rejections": 501,
  "positives": [
   {
    "company": "Curation",
@@ -362,7 +362,7 @@
   },
   {
    "date": "2026-11-16",
-   "portal": 76,
+   "portal": 77,
    "email": 0,
    "linkedin": 35
   }
@@ -1713,6 +1713,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-engineer/57580211"
+  },
+  {
+   "company": "midnite",
+   "role": "Front End Engineer (Core Group)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/midnite/4ca0610c-3d89-425a-8199-170316075261"
   },
   {
    "company": "Robert Half",
@@ -25059,7 +25067,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T18:45:55+00:00",
- "updated": "2026-11-16T18:45:56+00:00",
- "updated_at": "2026-11-16T18:45:56+00:00"
+ "email_stats_updated": "2026-11-16T19:06:26+00:00",
+ "updated": "2026-11-16T19:06:27+00:00",
+ "updated_at": "2026-11-16T19:06:27+00:00"
 }
