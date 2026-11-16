@@ -1,11 +1,11 @@
 {
- "total": 3005,
- "portal": 2324,
+ "total": 3006,
+ "portal": 2325,
  "email": 558,
  "linkedin": 123,
  "bounced_emails": 23,
  "confirmations": 2428,
- "rejections": 434,
+ "rejections": 436,
  "positives": [
   {
    "company": "Curation",
@@ -295,7 +295,7 @@
   },
   {
    "date": "2026-11-16",
-   "portal": 67,
+   "portal": 68,
    "email": 0,
    "linkedin": 0
   }
@@ -1294,6 +1294,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/polygon-labs/bd4f73d1-08b5-410a-9c7a-34a2f65ac45a"
+  },
+  {
+   "company": "PLANET RECRUITMENT SERVICES LTD",
+   "role": "3rd Line Technical Support - MSP",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-technical-support-msp/57570584"
   },
   {
    "company": "Robert Half",
@@ -24664,7 +24672,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T08:52:34+00:00",
- "updated": "2026-11-16T08:52:34+00:00",
- "updated_at": "2026-11-16T08:52:34+00:00"
+ "email_stats_updated": "2026-11-16T09:04:38+00:00",
+ "updated": "2026-11-16T09:04:38+00:00",
+ "updated_at": "2026-11-16T09:04:38+00:00"
 }
