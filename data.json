@@ -246,11 +246,19 @@
    "action": "",
    "due": "",
    "done_on": ""
+  },
+  {
+   "company": "University of Sheffield PhD (Xingyi Song, CF4-COM-Song)",
+   "note": "Supervisor replied 16 Nov (3:26pm UK): thinks his background fits the Explainable Agentic AI project and asked him to apply through the university application system",
+   "status": "remaining",
+   "action": "",
+   "due": "",
+   "done_on": ""
   }
  ],
- "positive_count": 27,
+ "positive_count": 28,
  "positives_done": 23,
- "positives_remaining": 4,
+ "positives_remaining": 5,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -25035,7 +25043,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T15:19:55+00:00",
- "updated": "2026-11-16T15:19:56+00:00",
- "updated_at": "2026-11-16T15:19:56+00:00"
+ "email_stats_updated": "2026-11-16T15:35:50+00:00",
+ "updated": "2026-11-16T15:35:50+00:00",
+ "updated_at": "2026-11-16T15:35:50+00:00"
 }
