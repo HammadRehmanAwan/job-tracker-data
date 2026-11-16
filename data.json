@@ -1,11 +1,11 @@
 {
- "total": 3038,
- "portal": 2329,
+ "total": 3044,
+ "portal": 2330,
  "email": 558,
- "linkedin": 151,
+ "linkedin": 156,
  "bounced_emails": 23,
- "confirmations": 2428,
- "rejections": 484,
+ "confirmations": 2429,
+ "rejections": 485,
  "positives": [
   {
    "company": "Curation",
@@ -338,9 +338,9 @@
   },
   {
    "date": "2026-11-16",
-   "portal": 73,
+   "portal": 74,
    "email": 0,
-   "linkedin": 30
+   "linkedin": 35
   }
  ],
  "recent": [
@@ -1625,6 +1625,54 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490642668/"
+  },
+  {
+   "company": "GradBay",
+   "role": "Graduate Software Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489762067/"
+  },
+  {
+   "company": "Searchability",
+   "role": "Junior Developer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489100106/"
+  },
+  {
+   "company": "Dunedin IT",
+   "role": "Help Desk Support Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489751215/"
+  },
+  {
+   "company": "SISL Global",
+   "role": "Information Technology Support Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490286994/"
+  },
+  {
+   "company": "som3 Recruitment",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489456501/"
+  },
+  {
+   "company": "drweng",
+   "role": "Software Engineer, Trading \u2013 Cumberland Systematic",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/drweng/jobs/7283666"
   },
   {
    "company": "Robert Half",
@@ -24971,7 +25019,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T14:31:06+00:00",
- "updated": "2026-11-16T14:31:06+00:00",
- "updated_at": "2026-11-16T14:31:06+00:00"
+ "email_stats_updated": "2026-11-16T14:44:05+00:00",
+ "updated": "2026-11-16T14:44:06+00:00",
+ "updated_at": "2026-11-16T14:44:06+00:00"
 }
