@@ -1,10 +1,10 @@
 {
- "total": 2988,
- "portal": 2307,
+ "total": 3005,
+ "portal": 2324,
  "email": 558,
  "linkedin": 123,
  "bounced_emails": 23,
- "confirmations": 2415,
+ "confirmations": 2428,
  "rejections": 430,
  "positives": [
   {
@@ -295,7 +295,7 @@
   },
   {
    "date": "2026-11-16",
-   "portal": 50,
+   "portal": 67,
    "email": 0,
    "linkedin": 0
   }
@@ -1158,6 +1158,142 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/gsacapital/jobs/7555839002"
+  },
+  {
+   "company": "octopuslegacy",
+   "role": "Software Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/octopuslegacy/jobs/5032150101"
+  },
+  {
+   "company": "thedotcollective",
+   "role": "Cloud Engineer ",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/thedotcollective/jobs/4209461101"
+  },
+  {
+   "company": "clickhouse",
+   "role": "Data Platform Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/clickhouse/6d2d05da-c1f4-4ff6-9d02-a30306940857"
+  },
+  {
+   "company": "k-id",
+   "role": "Forward Deployed Engineer, (EMEA)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/k-ID/d981e6d3-1131-4de4-b421-7618f425963d"
+  },
+  {
+   "company": "nash",
+   "role": "Technical Support Specialist , UK",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Nash/63b467e3-f143-42f0-aa12-e0ede02e59cf"
+  },
+  {
+   "company": "pod-network",
+   "role": "QA Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/pod-network/60fffc28-e1ed-45f9-aca0-b38f6535df5b"
+  },
+  {
+   "company": "volta",
+   "role": "Platform Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/volta/d4f287cd-9937-45c1-813d-15f31812e863"
+  },
+  {
+   "company": "tailor",
+   "role": "Full-Stack Software Engineer (Remote, US West Timezone Overlap)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/tailor/08796053-4fa8-48db-9a73-a977ae2c5434"
+  },
+  {
+   "company": "squads",
+   "role": "Product Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/squads/d55321fb-d459-4834-ab67-e4bbfae3daa8"
+  },
+  {
+   "company": "whetstoneresearch",
+   "role": "Frontend Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/whetstoneresearch/290bc707-297c-4552-ad85-074d45c50efc"
+  },
+  {
+   "company": "stora",
+   "role": "Software Engineer II - (Ruby)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Stora/c6317801-b546-44ef-94e0-30b53bbc842d"
+  },
+  {
+   "company": "fundamental",
+   "role": "Full-Stack Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/fundamental/84d5507b-4f39-4fa9-918d-e2279c7a172a"
+  },
+  {
+   "company": "xbowcareers",
+   "role": "Software Engineer - AI Systems",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/xbowcareers/304f9f4e-477e-4d29-a39a-7c212738a0c8"
+  },
+  {
+   "company": "parker",
+   "role": "Data Analyst I",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/parker/72eb6232-71b2-430f-969a-82d0ac35b631"
+  },
+  {
+   "company": "vitvio",
+   "role": "Full-Stack Software Engineer (Infrastructure Focus)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/vitvio/54e12f86-ce09-4b9b-9de2-37645c10c80b"
+  },
+  {
+   "company": "vitvio",
+   "role": "Full-Stack Software Engineer (Frontend & Mobile Focus)",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/vitvio/99db843a-9609-4bab-a788-faacf6d5643e"
+  },
+  {
+   "company": "polygon-labs",
+   "role": "Platform Engineer",
+   "date": "2026-11-16",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/polygon-labs/bd4f73d1-08b5-410a-9c7a-34a2f65ac45a"
   },
   {
    "company": "Robert Half",
@@ -24528,7 +24664,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T07:57:34.702190+00:00",
- "updated": "2026-11-16T07:57:35+00:00",
- "updated_at": "2026-11-16T07:57:35+00:00"
+ "email_stats_updated": "2026-11-16T08:15:12.880021+00:00",
+ "updated": "2026-11-16T08:15:13+00:00",
+ "updated_at": "2026-11-16T08:15:13+00:00"
 }
