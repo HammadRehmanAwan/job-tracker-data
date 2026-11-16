@@ -1,8 +1,8 @@
 {
- "total": 3035,
+ "total": 3038,
  "portal": 2329,
  "email": 558,
- "linkedin": 148,
+ "linkedin": 151,
  "bounced_emails": 23,
  "confirmations": 2428,
  "rejections": 484,
@@ -304,7 +304,7 @@
    "date": "2026-11-09",
    "portal": 241,
    "email": 0,
-   "linkedin": 23
+   "linkedin": 22
   },
   {
    "date": "2026-11-10",
@@ -340,7 +340,7 @@
    "date": "2026-11-16",
    "portal": 73,
    "email": 0,
-   "linkedin": 26
+   "linkedin": 30
   }
  ],
  "recent": [
@@ -351,6 +351,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4487465648/"
+  },
+  {
+   "company": "Techaxis, Inc",
+   "role": "Python Developer with AI exp",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489765661/"
   },
   {
    "company": "Yolk Recruitment Ltd",
@@ -655,14 +663,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/hiverge/e9e24f66-f50c-40bd-b262-f453318c4041"
-  },
-  {
-   "company": "hiverge",
-   "role": "Product Engineer",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/hiverge/7b8f3c47-82ee-4e79-90fc-da995de28238"
   }
  ],
  "applications": [
@@ -809,6 +809,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4487465648/"
+  },
+  {
+   "company": "Techaxis, Inc",
+   "role": "Python Developer with AI exp",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489765661/"
   },
   {
    "company": "Yolk Recruitment Ltd",
@@ -1593,6 +1601,30 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4488925184/"
+  },
+  {
+   "company": "Opus Recruitment Solutions",
+   "role": "Data Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489545937/"
+  },
+  {
+   "company": "Spait Infotech",
+   "role": "Data Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489547703/"
+  },
+  {
+   "company": "Burns Sheehan",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-16",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490642668/"
   },
   {
    "company": "Robert Half",
@@ -12087,14 +12119,6 @@
    "role": "Customer Support Engineer",
    "date": "2026-11-09",
    "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
-   "company": "Techaxis, Inc",
-   "role": "Python Developer with AI exp",
-   "date": "2026-11-09",
-   "type": "linkedin",
    "status": "submitted",
    "link": ""
   },
@@ -24947,7 +24971,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-16T14:14:32+00:00",
- "updated": "2026-11-16T14:28:53+00:00",
- "updated_at": "2026-11-16T14:28:53+00:00"
+ "email_stats_updated": "2026-11-16T14:31:06+00:00",
+ "updated": "2026-11-16T14:31:06+00:00",
+ "updated_at": "2026-11-16T14:31:06+00:00"
 }
