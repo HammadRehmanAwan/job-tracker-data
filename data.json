@@ -1,11 +1,11 @@
 {
- "total": 3142,
- "portal": 2428,
+ "total": 3152,
+ "portal": 2438,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
- "confirmations": 2464,
- "rejections": 504,
+ "confirmations": 2477,
+ "rejections": 505,
  "positives": [
   {
    "company": "Curation",
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 95,
+   "portal": 105,
    "email": 0,
    "linkedin": 0
   }
@@ -1591,6 +1591,86 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/neo4j/jobs/4727062006"
+  },
+  {
+   "company": "speechify",
+   "role": "Software Engineer, AI Data - Edinburgh, United Kingdom",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/speechify/jobs/6229116004"
+  },
+  {
+   "company": "speechify",
+   "role": "Software Engineer, AI Data - Glasgow, United Kingdom",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/speechify/jobs/6229212004"
+  },
+  {
+   "company": "highmetric",
+   "role": "Forward Deployed AI Engineer-Anthropic-Netherlands/Western Europe",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/highmetric/jobs/6164673004"
+  },
+  {
+   "company": "ada18",
+   "role": "Customer Solutions Consultant, Ada Accelerate",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/ada18/jobs/5232336007"
+  },
+  {
+   "company": "anaplan",
+   "role": "Platform Engineer (GoLang) ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/anaplan/jobs/8533373002"
+  },
+  {
+   "company": "janestreet",
+   "role": "IT Security Operations Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/janestreet/jobs/8857690002"
+  },
+  {
+   "company": "mavensecuritiesholdingltd",
+   "role": "Platform Engineer (Kubernetes on-premises)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/6843715"
+  },
+  {
+   "company": "stripe",
+   "role": "Backend/API Engineer, Money as a Service (Product) ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/stripe/jobs/7369543"
+  },
+  {
+   "company": "wheely",
+   "role": "Backend Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/wheely/jobs/8015672003"
+  },
+  {
+   "company": "wppmedia",
+   "role": "Data Scientist",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/wppmedia/jobs/5222007008"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25833,7 +25913,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T08:30:57.164110+00:00",
- "updated": "2026-11-17T08:30:57+00:00",
- "updated_at": "2026-11-17T08:30:57+00:00"
+ "email_stats_updated": "2026-11-17T08:49:40.034356+00:00",
+ "updated": "2026-11-17T08:49:40+00:00",
+ "updated_at": "2026-11-17T08:49:40+00:00"
 }
