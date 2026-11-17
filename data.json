@@ -1,10 +1,10 @@
 {
- "total": 3173,
- "portal": 2446,
+ "total": 3174,
+ "portal": 2447,
  "email": 558,
  "linkedin": 169,
  "bounced_emails": 23,
- "confirmations": 2528,
+ "confirmations": 2529,
  "rejections": 531,
  "positives": [
   {
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 115,
+   "portal": 116,
    "email": 0,
    "linkedin": 13
   }
@@ -1855,6 +1855,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/poolside/ade02c95-890f-4f1d-9ca6-05076b6fe687"
+  },
+  {
+   "company": "trainline",
+   "role": "Android Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/trainline/23fb0d68-f4fe-487d-86d0-093650405932"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -26081,7 +26089,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T13:00:57.064645+00:00",
- "updated": "2026-11-17T13:00:57+00:00",
- "updated_at": "2026-11-17T13:00:57+00:00"
+ "email_stats_updated": "2026-11-17T13:14:04.727040+00:00",
+ "updated": "2026-11-17T13:14:05+00:00",
+ "updated_at": "2026-11-17T13:14:05+00:00"
 }
