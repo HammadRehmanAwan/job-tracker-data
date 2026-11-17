@@ -5,7 +5,7 @@
  "linkedin": 183,
  "bounced_emails": 23,
  "confirmations": 2543,
- "rejections": 538,
+ "rejections": 540,
  "positives": [
   {
    "company": "Curation",
@@ -270,11 +270,19 @@
    "action": "",
    "due": "",
    "done_on": ""
+  },
+  {
+   "company": "Cambridge University Hospitals (Addenbrooke's) - Digital Systems Analyst / Clinical Analyst (180-B-CVA1346)",
+   "note": "Invited to the Epic Aptitude test; complete by 23:59 on Sunday 22 Nov (email 17 Nov, 3:38pm UK; FAQ attached)",
+   "status": "remaining",
+   "action": "",
+   "due": "",
+   "done_on": ""
   }
  ],
- "positive_count": 30,
+ "positive_count": 31,
  "positives_done": 23,
- "positives_remaining": 7,
+ "positives_remaining": 8,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -26209,7 +26217,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T15:35:27.376088+00:00",
- "updated": "2026-11-17T15:35:27+00:00",
- "updated_at": "2026-11-17T15:35:27+00:00"
+ "email_stats_updated": "2026-11-17T15:49:45.586599+00:00",
+ "updated": "2026-11-17T15:49:46+00:00",
+ "updated_at": "2026-11-17T15:49:46+00:00"
 }
