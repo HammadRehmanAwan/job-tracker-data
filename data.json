@@ -1,6 +1,6 @@
 {
- "total": 3082,
- "portal": 2368,
+ "total": 3083,
+ "portal": 2369,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 35,
+   "portal": 36,
    "email": 0,
    "linkedin": 0
   }
@@ -655,6 +655,14 @@
    "link": "https://jobs.ashbyhq.com/airapps/535e119b-78ae-4875-a544-b67d10e36900"
   },
   {
+   "company": "stakefish",
+   "role": "(f2pool) DevOps Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/stakefish/j/486994B0D4"
+  },
+  {
    "company": "VirtueTech Recruitment Group",
    "role": "Software Engineer",
    "date": "2026-11-16",
@@ -685,14 +693,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/net-developer-newcastle-under-lyme/57569872"
-  },
-  {
-   "company": "Focal Systems",
-   "role": "Data Scientist - UK",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/focalsystems/jobs/6016008004"
   }
  ],
  "applications": [
@@ -1111,6 +1111,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/airapps/535e119b-78ae-4875-a544-b67d10e36900"
+  },
+  {
+   "company": "stakefish",
+   "role": "(f2pool) DevOps Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/stakefish/j/486994B0D4"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25353,7 +25361,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T06:36:09.893131+00:00",
- "updated": "2026-11-17T06:36:10+00:00",
- "updated_at": "2026-11-17T06:36:10+00:00"
+ "email_stats_updated": "2026-11-17T06:51:00.770452+00:00",
+ "updated": "2026-11-17T06:51:01+00:00",
+ "updated_at": "2026-11-17T06:51:01+00:00"
 }
