@@ -1,10 +1,10 @@
 {
- "total": 3191,
- "portal": 2450,
+ "total": 3192,
+ "portal": 2451,
  "email": 558,
  "linkedin": 183,
  "bounced_emails": 23,
- "confirmations": 2546,
+ "confirmations": 2548,
  "rejections": 551,
  "positives": [
   {
@@ -392,7 +392,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 119,
+   "portal": 120,
    "email": 0,
    "linkedin": 27
   }
@@ -2023,6 +2023,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/63761E30BD/apply"
+  },
+  {
+   "company": "wanstor",
+   "role": "IT Support Engineer (1st/2nd line)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://wanstor.pinpointhq.com/en/postings/c9601fb4-61c3-4ab3-8b2b-cd1ad6d6f2de"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -26249,7 +26257,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T18:29:36.399806+00:00",
- "updated": "2026-11-17T18:29:37+00:00",
- "updated_at": "2026-11-17T18:29:37+00:00"
+ "email_stats_updated": "2026-11-17T18:47:05.853615+00:00",
+ "updated": "2026-11-17T18:47:06+00:00",
+ "updated_at": "2026-11-17T18:47:06+00:00"
 }
