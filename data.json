@@ -1,6 +1,6 @@
 {
- "total": 3093,
- "portal": 2379,
+ "total": 3104,
+ "portal": 2390,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 46,
+   "portal": 57,
    "email": 0,
    "linkedin": 0
   }
@@ -1199,6 +1199,94 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/helsing/jobs/4989465101"
+  },
+  {
+   "company": "externaljobboards",
+   "role": "AI Product Designer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/externaljobboards/jobs/6211676004"
+  },
+  {
+   "company": "exadelinc",
+   "role": "AI Product Designer  ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/exadelinc/jobs/6209454004"
+  },
+  {
+   "company": "drweng",
+   "role": "Developer Experience Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/drweng/jobs/8103440"
+  },
+  {
+   "company": "nscaleoperationsukltd",
+   "role": "Systems Integration Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/nscaleoperationsukltd/jobs/5014003101"
+  },
+  {
+   "company": "globalizationpartners",
+   "role": "AI Engineer I",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/globalizationpartners/jobs/8034410003"
+  },
+  {
+   "company": "neo4j",
+   "role": "Full-stack Software Engineer - Graph Engine",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/neo4j/jobs/4718351006"
+  },
+  {
+   "company": "janestreet",
+   "role": "Machine Learning Performance Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/janestreet/jobs/7449252002"
+  },
+  {
+   "company": "onespan",
+   "role": "Solution Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/onespan/jobs/8127927"
+  },
+  {
+   "company": "speechify",
+   "role": "Software Engineer, AI Data - Cardiff, United Kingdom",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/speechify/jobs/6229217004"
+  },
+  {
+   "company": "rzr",
+   "role": "Solution Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/rzr/jobs/4217711009"
+  },
+  {
+   "company": "toast",
+   "role": "Solutions Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/toast/jobs/8383075"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25442,6 +25530,6 @@
   }
  ],
  "email_stats_updated": "2026-11-17T07:30:05.202371+00:00",
- "updated": "2026-11-17T07:30:05+00:00",
- "updated_at": "2026-11-17T07:30:05+00:00"
+ "updated": "2026-11-17T07:41:30+00:00",
+ "updated_at": "2026-11-17T07:41:30+00:00"
 }
