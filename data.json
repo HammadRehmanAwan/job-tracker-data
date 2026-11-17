@@ -1,10 +1,10 @@
 {
- "total": 3058,
- "portal": 2344,
+ "total": 3059,
+ "portal": 2345,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
- "confirmations": 2443,
+ "confirmations": 2444,
  "rejections": 504,
  "positives": [
   {
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 11,
+   "portal": 12,
    "email": 0,
    "linkedin": 0
   }
@@ -461,6 +461,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/strider-technologies/f28e980a-2232-4be7-8791-55cbd2f5b584"
+  },
+  {
+   "company": "marqeta-inc",
+   "role": "Production Support Engineer II - UK",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/marqeta-inc/d2efdbf1-317d-429e-a80b-6b12da74c21b"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -685,14 +693,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/constructor/16d7a5fa-06fe-4e66-9709-072435a324ae"
-  },
-  {
-   "company": "resend",
-   "role": "Backend Engineer",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/resend/6589bee8-3ec9-4620-90b6-890b23464c4d"
   }
  ],
  "applications": [
@@ -919,6 +919,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/strider-technologies/f28e980a-2232-4be7-8791-55cbd2f5b584"
+  },
+  {
+   "company": "marqeta-inc",
+   "role": "Production Support Engineer II - UK",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/marqeta-inc/d2efdbf1-317d-429e-a80b-6b12da74c21b"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25161,7 +25169,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T03:13:53.589977+00:00",
- "updated": "2026-11-17T03:13:54+00:00",
- "updated_at": "2026-11-17T03:13:54+00:00"
+ "email_stats_updated": "2026-11-17T03:36:07.231712+00:00",
+ "updated": "2026-11-17T03:36:07+00:00",
+ "updated_at": "2026-11-17T03:36:07+00:00"
 }
