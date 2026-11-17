@@ -1,11 +1,11 @@
 {
- "total": 3162,
- "portal": 2440,
+ "total": 3163,
+ "portal": 2441,
  "email": 558,
  "linkedin": 164,
  "bounced_emails": 23,
- "confirmations": 2514,
- "rejections": 524,
+ "confirmations": 2515,
+ "rejections": 525,
  "positives": [
   {
    "company": "Curation",
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 109,
+   "portal": 110,
    "email": 0,
    "linkedin": 8
   }
@@ -1767,6 +1767,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/29E2999E22/apply"
+  },
+  {
+   "company": "Cogna",
+   "role": "Software Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/cogna/j/847CFBC5F4"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25993,7 +26001,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T11:27:47.362165+00:00",
- "updated": "2026-11-17T11:27:47+00:00",
- "updated_at": "2026-11-17T11:27:47+00:00"
+ "email_stats_updated": "2026-11-17T11:48:54.343740+00:00",
+ "updated": "2026-11-17T11:48:54+00:00",
+ "updated_at": "2026-11-17T11:48:54+00:00"
 }
