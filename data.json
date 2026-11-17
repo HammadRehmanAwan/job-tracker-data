@@ -1,10 +1,10 @@
 {
- "total": 3066,
- "portal": 2352,
+ "total": 3074,
+ "portal": 2360,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
- "confirmations": 2451,
+ "confirmations": 2459,
  "rejections": 504,
  "positives": [
   {
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 19,
+   "portal": 27,
    "email": 0,
    "linkedin": 0
   }
@@ -527,6 +527,70 @@
    "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8204951003"
   },
   {
+   "company": "cfoinsights",
+   "role": "AI Automation Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204989003"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "AI Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204999003"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "AI Engineer, Growth",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204946003"
+  },
+  {
+   "company": "hrtechx",
+   "role": "AI Engineer, Growth",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8204949003"
+  },
+  {
+   "company": "hrtechx",
+   "role": "AI Engineering, Growth",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8204953003"
+  },
+  {
+   "company": "privateequityinsights",
+   "role": "AI Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8205000003"
+  },
+  {
+   "company": "privateequityinsights",
+   "role": "AI Engineer, Growth",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8204947003"
+  },
+  {
+   "company": "c3iot",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/c3iot/jobs/8581326002"
+  },
+  {
    "company": "VirtueTech Recruitment Group",
    "role": "Software Engineer",
    "date": "2026-11-16",
@@ -629,70 +693,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/veda/a3494276-5759-4d88-8b73-9188d92a5b7e"
-  },
-  {
-   "company": "remotepeople",
-   "role": "QA Automation Engineer",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4965136101"
-  },
-  {
-   "company": "planetscale",
-   "role": "Solutions Engineer",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/planetscale/jobs/4052805009"
-  },
-  {
-   "company": "planetscale",
-   "role": "Software Engineer - PlanetScale Postgres",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/planetscale/jobs/4251150009"
-  },
-  {
-   "company": "supabase",
-   "role": "Cloud Platform Engineer",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4"
-  },
-  {
-   "company": "supabase",
-   "role": "Platform Engineer, Edge & Networking",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b"
-  },
-  {
-   "company": "supabase",
-   "role": "Software Engineer - Spark",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113"
-  },
-  {
-   "company": "supabase",
-   "role": "Software Engineer - Storage",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520"
-  },
-  {
-   "company": "supabase",
-   "role": "Software Engineer - Turso",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259"
   }
  ],
  "applications": [
@@ -983,6 +983,70 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8204951003"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "AI Automation Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204989003"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "AI Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204999003"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "AI Engineer, Growth",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204946003"
+  },
+  {
+   "company": "hrtechx",
+   "role": "AI Engineer, Growth",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8204949003"
+  },
+  {
+   "company": "hrtechx",
+   "role": "AI Engineering, Growth",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8204953003"
+  },
+  {
+   "company": "privateequityinsights",
+   "role": "AI Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8205000003"
+  },
+  {
+   "company": "privateequityinsights",
+   "role": "AI Engineer, Growth",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8204947003"
+  },
+  {
+   "company": "c3iot",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/c3iot/jobs/8581326002"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25225,7 +25289,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T05:03:13.029769+00:00",
- "updated": "2026-11-17T05:03:13+00:00",
- "updated_at": "2026-11-17T05:03:13+00:00"
+ "email_stats_updated": "2026-11-17T05:13:36.633027+00:00",
+ "updated": "2026-11-17T05:13:36+00:00",
+ "updated_at": "2026-11-17T05:13:36+00:00"
 }
