@@ -1,6 +1,6 @@
 {
- "total": 3079,
- "portal": 2365,
+ "total": 3082,
+ "portal": 2368,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 32,
+   "portal": 35,
    "email": 0,
    "linkedin": 0
   }
@@ -631,6 +631,30 @@
    "link": "https://job-boards.greenhouse.io/optiverus/jobs/8937609002"
   },
   {
+   "company": "roslinct",
+   "role": "Process Support Specialist",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://roslinct.teamtailor.com/jobs/8747744-process-support-specialist"
+  },
+  {
+   "company": "airapps",
+   "role": "CRM Specialist",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/airapps/795c3093-7d4b-4a6c-ab23-7090f39914d2"
+  },
+  {
+   "company": "airapps",
+   "role": "Data Analyst",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/airapps/535e119b-78ae-4875-a544-b67d10e36900"
+  },
+  {
    "company": "VirtueTech Recruitment Group",
    "role": "Software Engineer",
    "date": "2026-11-16",
@@ -669,30 +693,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/focalsystems/jobs/6016008004"
-  },
-  {
-   "company": "irissoftwaregroup",
-   "role": "2nd Line Customer Support Analyst (IRIS Financials)",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/irissoftwaregroup/028b70d3-4a2e-4204-9a2d-64af1be7810e"
-  },
-  {
-   "company": "addepar1",
-   "role": "Technical Data Analyst",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/addepar1/jobs/8906716002"
-  },
-  {
-   "company": "banyansoftware",
-   "role": "Forward Deployed Engineer",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/banyansoftware/jobs/5056439007"
   }
  ],
  "applications": [
@@ -1087,6 +1087,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/optiverus/jobs/8937609002"
+  },
+  {
+   "company": "roslinct",
+   "role": "Process Support Specialist",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://roslinct.teamtailor.com/jobs/8747744-process-support-specialist"
+  },
+  {
+   "company": "airapps",
+   "role": "CRM Specialist",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/airapps/795c3093-7d4b-4a6c-ab23-7090f39914d2"
+  },
+  {
+   "company": "airapps",
+   "role": "Data Analyst",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/airapps/535e119b-78ae-4875-a544-b67d10e36900"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25329,7 +25353,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T06:19:13.643117+00:00",
- "updated": "2026-11-17T06:19:13+00:00",
- "updated_at": "2026-11-17T06:19:14+00:00"
+ "email_stats_updated": "2026-11-17T06:36:09.893131+00:00",
+ "updated": "2026-11-17T06:36:10+00:00",
+ "updated_at": "2026-11-17T06:36:10+00:00"
 }
