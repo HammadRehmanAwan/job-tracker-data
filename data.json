@@ -1,6 +1,6 @@
 {
- "total": 3116,
- "portal": 2402,
+ "total": 3128,
+ "portal": 2414,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 69,
+   "portal": 81,
    "email": 0,
    "linkedin": 0
   }
@@ -1383,6 +1383,102 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/intersystems/jobs/7999298003"
+  },
+  {
+   "company": "helsing",
+   "role": "AI Research Engineer - GPU Simulation",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/helsing/jobs/4953387101"
+  },
+  {
+   "company": "mthree",
+   "role": "Site Reliability Engineer (SRE)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mthree/jobs/4723020006"
+  },
+  {
+   "company": "oal",
+   "role": "Automation Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/oal/jobs/4998877101"
+  },
+  {
+   "company": "ohme",
+   "role": "Analytics Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/ohme/jobs/4996701101"
+  },
+  {
+   "company": "riskledger",
+   "role": "Platform Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/riskledger/jobs/4929654101"
+  },
+  {
+   "company": "nice",
+   "role": "Site Reliability Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/nice/jobs/4728093101"
+  },
+  {
+   "company": "roller",
+   "role": "Solutions Engineer - French Speaking ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/roller/jobs/5253513007"
+  },
+  {
+   "company": "samsara",
+   "role": "Technical Support Specialist - German Fluency",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/samsara/jobs/8355516"
+  },
+  {
+   "company": "tripactions",
+   "role": "Enterprise, Solutions Consultant ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/tripactions/jobs/8189824"
+  },
+  {
+   "company": "tripadvisor",
+   "role": "ML Ops Engineer II (Experiences)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/tripadvisor/jobs/8222892"
+  },
+  {
+   "company": "Indra Group UK & Ireland",
+   "role": "System Test Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/E49B4BF408/apply"
+  },
+  {
+   "company": "Indra Group UK & Ireland",
+   "role": "Product Test Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/E1748D61B4/apply"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25625,7 +25721,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T07:47:03.236740+00:00",
- "updated": "2026-11-17T07:47:03+00:00",
- "updated_at": "2026-11-17T07:47:03+00:00"
+ "email_stats_updated": "2026-11-17T08:05:40.155840+00:00",
+ "updated": "2026-11-17T08:05:40+00:00",
+ "updated_at": "2026-11-17T08:05:40+00:00"
 }
