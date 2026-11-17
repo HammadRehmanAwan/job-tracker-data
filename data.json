@@ -1,6 +1,6 @@
 {
- "total": 3138,
- "portal": 2424,
+ "total": 3142,
+ "portal": 2428,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 91,
+   "portal": 95,
    "email": 0,
    "linkedin": 0
   }
@@ -1559,6 +1559,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/A84AC4A4A0/apply"
+  },
+  {
+   "company": "isam",
+   "role": "Quantitative Developer - iSAM Securities ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/isam/jobs/4922213101"
+  },
+  {
+   "company": "drweng",
+   "role": "Software Engineer - Cumberland/Options Front Office Systems",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/drweng/jobs/7797389"
+  },
+  {
+   "company": "drweng",
+   "role": "Unified Platform - Business Experience - Software Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/drweng/jobs/8207357"
+  },
+  {
+   "company": "neo4j",
+   "role": "Software Engineer \u2013 Database Kernel",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/neo4j/jobs/4727062006"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25801,7 +25833,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T08:19:29.824406+00:00",
- "updated": "2026-11-17T08:19:30+00:00",
- "updated_at": "2026-11-17T08:19:30+00:00"
+ "email_stats_updated": "2026-11-17T08:30:57.164110+00:00",
+ "updated": "2026-11-17T08:30:57+00:00",
+ "updated_at": "2026-11-17T08:30:57+00:00"
 }
