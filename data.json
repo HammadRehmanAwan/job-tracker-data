@@ -5,7 +5,7 @@
  "linkedin": 163,
  "bounced_emails": 23,
  "confirmations": 2491,
- "rejections": 518,
+ "rejections": 520,
  "positives": [
   {
    "company": "Curation",
@@ -215,7 +215,7 @@
   },
   {
    "company": "Landytech",
-   "note": "Interview with their CRO, Shane Hopkins, for the Revenue Operations Associate role; Teams invite sent by Loren King 16 Nov (11:02am UK), meeting Wednesday 18 Nov",
+   "note": "Interview with their CRO, Shane Hopkins, for the Revenue Operations Associate role; Wed 18 Nov slot cancelled (Shane has an external meeting) - Loren King proposed Friday 20 Nov at 12pm UK (email 17 Nov 10:12am), awaiting Hammad's confirmation",
    "status": "remaining",
    "action": "",
    "due": "",
@@ -25953,7 +25953,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T10:04:54.852175+00:00",
- "updated": "2026-11-17T10:04:55+00:00",
- "updated_at": "2026-11-17T10:04:55+00:00"
+ "email_stats_updated": "2026-11-17T10:13:00.505504+00:00",
+ "updated": "2026-11-17T10:13:00+00:00",
+ "updated_at": "2026-11-17T10:13:00+00:00"
 }
