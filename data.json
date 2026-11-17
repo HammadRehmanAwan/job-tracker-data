@@ -1,10 +1,10 @@
 {
- "total": 3178,
+ "total": 3188,
  "portal": 2447,
  "email": 558,
- "linkedin": 173,
+ "linkedin": 183,
  "bounced_emails": 23,
- "confirmations": 2533,
+ "confirmations": 2543,
  "rejections": 531,
  "positives": [
   {
@@ -378,7 +378,7 @@
    "date": "2026-11-17",
    "portal": 116,
    "email": 0,
-   "linkedin": 17
+   "linkedin": 27
   }
  ],
  "recent": [
@@ -1903,6 +1903,86 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4488910821/"
+  },
+  {
+   "company": "Bonhill Partners",
+   "role": "Python Data Engineer (Dagster/Airflow)",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490418637/"
+  },
+  {
+   "company": "GradBay",
+   "role": "Information Technology Graduate",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489929596/"
+  },
+  {
+   "company": "WRK digital",
+   "role": "Python Developer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489608889/"
+  },
+  {
+   "company": "Wesleyan",
+   "role": "Analytics Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491502581/"
+  },
+  {
+   "company": "Intec Select",
+   "role": "Data Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488253267/"
+  },
+  {
+   "company": "Datatech Analytics",
+   "role": "AWS Data Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488692737/"
+  },
+  {
+   "company": "Mackenzie Jones",
+   "role": "IT Support Engineer - 2nd Line Support",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490733236/"
+  },
+  {
+   "company": "Team First Recruitment",
+   "role": "Junior Technical Support Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490455347/"
+  },
+  {
+   "company": "Quintessentially",
+   "role": "First Line Support Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491163641/"
+  },
+  {
+   "company": "FYRE Global",
+   "role": "Service Desk Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488969285/"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -26129,7 +26209,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T13:28:55.699375+00:00",
- "updated": "2026-11-17T13:28:56+00:00",
- "updated_at": "2026-11-17T13:28:56+00:00"
+ "email_stats_updated": "2026-11-17T13:45:13.696936+00:00",
+ "updated": "2026-11-17T13:45:14+00:00",
+ "updated_at": "2026-11-17T13:45:14+00:00"
 }
