@@ -1,11 +1,11 @@
 {
- "total": 3163,
- "portal": 2441,
+ "total": 3165,
+ "portal": 2443,
  "email": 558,
  "linkedin": 164,
  "bounced_emails": 23,
- "confirmations": 2515,
- "rejections": 525,
+ "confirmations": 2518,
+ "rejections": 527,
  "positives": [
   {
    "company": "Curation",
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 110,
+   "portal": 112,
    "email": 0,
    "linkedin": 8
   }
@@ -1775,6 +1775,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/cogna/j/847CFBC5F4"
+  },
+  {
+   "company": "Rise Technical Recruitment Limited",
+   "role": "IT Field Technician",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-field-technician/57581298"
+  },
+  {
+   "company": "AWD online",
+   "role": "IT Support Technician / Technical Support Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-technician-technical-support-engineer/57581914"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -26001,7 +26017,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T11:48:54.343740+00:00",
- "updated": "2026-11-17T11:48:54+00:00",
- "updated_at": "2026-11-17T11:48:54+00:00"
+ "email_stats_updated": "2026-11-17T12:06:47.306362+00:00",
+ "updated": "2026-11-17T12:06:47+00:00",
+ "updated_at": "2026-11-17T12:06:47+00:00"
 }
