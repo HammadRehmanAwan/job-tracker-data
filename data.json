@@ -1,6 +1,6 @@
 {
- "total": 3104,
- "portal": 2390,
+ "total": 3116,
+ "portal": 2402,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 57,
+   "portal": 69,
    "email": 0,
    "linkedin": 0
   }
@@ -1287,6 +1287,102 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/toast/jobs/8383075"
+  },
+  {
+   "company": "apolloio",
+   "role": "Solutions Consultant II (Presales, EMEA)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/apolloio/jobs/5983042004"
+  },
+  {
+   "company": "bloomreach",
+   "role": "Strategic Solutions Consultant (DACH)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/bloomreach/jobs/7958054"
+  },
+  {
+   "company": "brave",
+   "role": "AI Security Researcher/Research Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/brave/jobs/8165845"
+  },
+  {
+   "company": "brave",
+   "role": "AI Systems Researcher/Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/brave/jobs/8159413"
+  },
+  {
+   "company": "satalia",
+   "role": "AWS Cloud Platform Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.satalia.com/jobs/8552992-aws-cloud-platform-engineer"
+  },
+  {
+   "company": "carta",
+   "role": "Solutions Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/carta/jobs/7989778003"
+  },
+  {
+   "company": "dexory",
+   "role": "Deployment Engineer ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/dexory/jobs/4812528101"
+  },
+  {
+   "company": "elixirr",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/elixirr/jobs/7870815"
+  },
+  {
+   "company": "graphcore",
+   "role": "AI Research Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/graphcore/jobs/8632581002"
+  },
+  {
+   "company": "infinitesima",
+   "role": "Data Scientist",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/infinitesima/jobs/5029877101"
+  },
+  {
+   "company": "insight",
+   "role": "Partnerships Solutions Consultant",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/insight/jobs/5014900101"
+  },
+  {
+   "company": "intersystems",
+   "role": "Application Specialist",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/intersystems/jobs/7999298003"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25529,7 +25625,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T07:30:05.202371+00:00",
- "updated": "2026-11-17T07:41:30+00:00",
- "updated_at": "2026-11-17T07:41:30+00:00"
+ "email_stats_updated": "2026-11-17T07:47:03.236740+00:00",
+ "updated": "2026-11-17T07:47:03+00:00",
+ "updated_at": "2026-11-17T07:47:03+00:00"
 }
