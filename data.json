@@ -1,6 +1,6 @@
 {
- "total": 3088,
- "portal": 2374,
+ "total": 3093,
+ "portal": 2379,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 41,
+   "portal": 46,
    "email": 0,
    "linkedin": 0
   }
@@ -1159,6 +1159,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/irissoftwaregroup/356db152-f876-496d-b28f-fef2b640232c"
+  },
+  {
+   "company": "mitsogoinc",
+   "role": "Solution Engineer ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mitsogoinc/jobs/5446503008"
+  },
+  {
+   "company": "trainline",
+   "role": "Engineer - .NET Backend (London)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/trainline/8cd86ce9-f9d7-4247-947a-a7c42bcc9b8b"
+  },
+  {
+   "company": "jfrog",
+   "role": "Solutions Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/jfrog/jobs/8175084"
+  },
+  {
+   "company": "helsing",
+   "role": "Test Engineer - Ground ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/helsing/jobs/4989531101"
+  },
+  {
+   "company": "helsing",
+   "role": "Test Engineer - Environment",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/helsing/jobs/4989465101"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25401,7 +25441,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T07:16:35.676782+00:00",
- "updated": "2026-11-17T07:16:36+00:00",
- "updated_at": "2026-11-17T07:16:36+00:00"
+ "email_stats_updated": "2026-11-17T07:30:05.202371+00:00",
+ "updated": "2026-11-17T07:30:05+00:00",
+ "updated_at": "2026-11-17T07:30:05+00:00"
 }
