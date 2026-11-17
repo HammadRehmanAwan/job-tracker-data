@@ -1,10 +1,10 @@
 {
- "total": 3174,
+ "total": 3178,
  "portal": 2447,
  "email": 558,
- "linkedin": 169,
+ "linkedin": 173,
  "bounced_emails": 23,
- "confirmations": 2529,
+ "confirmations": 2533,
  "rejections": 531,
  "positives": [
   {
@@ -262,11 +262,19 @@
    "action": "",
    "due": "",
    "done_on": ""
+  },
+  {
+   "company": "Quantum Loop AI (AI/ML & Prompt Engineer) - assessment",
+   "note": "Moved forward after the video interview: invited to a ~26-minute online assessment (Verbal Comprehension, Attention & focus); complete within 48 hours of the email at 1:22pm UK Tue 17 Nov (by about 1:22pm UK Thu 19 Nov); link in the Workable email",
+   "status": "remaining",
+   "action": "",
+   "due": "",
+   "done_on": ""
   }
  ],
- "positive_count": 29,
+ "positive_count": 30,
  "positives_done": 23,
- "positives_remaining": 6,
+ "positives_remaining": 7,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -370,7 +378,7 @@
    "date": "2026-11-17",
    "portal": 116,
    "email": 0,
-   "linkedin": 13
+   "linkedin": 17
   }
  ],
  "recent": [
@@ -1863,6 +1871,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/trainline/23fb0d68-f4fe-487d-86d0-093650405932"
+  },
+  {
+   "company": "Jobgether",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490400643/"
+  },
+  {
+   "company": "Scaletek",
+   "role": "Software Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489760630/"
+  },
+  {
+   "company": "Durlston Partners",
+   "role": "Software Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488934977/"
+  },
+  {
+   "company": "Information Tech Consultants",
+   "role": "Junior Data Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488910821/"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -26089,7 +26129,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T13:14:04.727040+00:00",
- "updated": "2026-11-17T13:14:05+00:00",
- "updated_at": "2026-11-17T13:14:05+00:00"
+ "email_stats_updated": "2026-11-17T13:28:55.699375+00:00",
+ "updated": "2026-11-17T13:28:56+00:00",
+ "updated_at": "2026-11-17T13:28:56+00:00"
 }
