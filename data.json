@@ -1,11 +1,11 @@
 {
- "total": 3168,
+ "total": 3172,
  "portal": 2445,
  "email": 558,
- "linkedin": 165,
+ "linkedin": 169,
  "bounced_emails": 23,
- "confirmations": 2522,
- "rejections": 528,
+ "confirmations": 2527,
+ "rejections": 531,
  "positives": [
   {
    "company": "Curation",
@@ -370,7 +370,7 @@
    "date": "2026-11-17",
    "portal": 114,
    "email": 0,
-   "linkedin": 9
+   "linkedin": 13
   }
  ],
  "recent": [
@@ -1815,6 +1815,38 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4488675816/"
+  },
+  {
+   "company": "Jobgether",
+   "role": "NLP Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490401750/"
+  },
+  {
+   "company": "Oscar",
+   "role": "Junior Data Analyst",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490432890/"
+  },
+  {
+   "company": "Hartree Partners",
+   "role": "Desktop Support Intern",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489955671/"
+  },
+  {
+   "company": "Autonomai Recruitment",
+   "role": "Python Developer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490430627/"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -26041,7 +26073,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T12:32:17.685514+00:00",
- "updated": "2026-11-17T12:32:18+00:00",
- "updated_at": "2026-11-17T12:32:18+00:00"
+ "email_stats_updated": "2026-11-17T12:51:00.522142+00:00",
+ "updated": "2026-11-17T12:51:00+00:00",
+ "updated_at": "2026-11-17T12:51:00+00:00"
 }
