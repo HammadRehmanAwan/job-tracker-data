@@ -1,10 +1,10 @@
 {
- "total": 3155,
- "portal": 2438,
+ "total": 3157,
+ "portal": 2436,
  "email": 558,
- "linkedin": 159,
+ "linkedin": 163,
  "bounced_emails": 23,
- "confirmations": 2486,
+ "confirmations": 2491,
  "rejections": 515,
  "positives": [
   {
@@ -344,7 +344,7 @@
   },
   {
    "date": "2026-11-13",
-   "portal": 654,
+   "portal": 652,
    "email": 8,
    "linkedin": 0
   },
@@ -370,10 +370,26 @@
    "date": "2026-11-17",
    "portal": 105,
    "email": 0,
-   "linkedin": 3
+   "linkedin": 7
   }
  ],
  "recent": [
+  {
+   "company": "Kobalt Music",
+   "role": "IT Support Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490398872/"
+  },
+  {
+   "company": "Centre People Appointments",
+   "role": "Help Desk Analyst",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489934493/"
+  },
   {
    "company": "datologyai",
    "role": "Software Engineer, Infrastructure",
@@ -677,22 +693,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/Nivoda/49c677eb-aea4-4db3-aa07-245634aaa3c8"
-  },
-  {
-   "company": "lilt-production",
-   "role": "AI Training Contributor - English (Great Britain) - Remote",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/lilt-production/b7790c9d-8ded-4b15-aec1-fa03b8371242"
-  },
-  {
-   "company": "lilt-production",
-   "role": "AI Training Contributor - English (Scotland) - Remote",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/lilt-production/aa7f4c4e-3881-472b-bc5f-3553afa22f4c"
   }
  ],
  "applications": [
@@ -831,6 +831,22 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Kobalt Music",
+   "role": "IT Support Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490398872/"
+  },
+  {
+   "company": "Centre People Appointments",
+   "role": "Help Desk Analyst",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489934493/"
   },
   {
    "company": "datologyai",
@@ -1695,6 +1711,22 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490413559/"
+  },
+  {
+   "company": "Connecting Education",
+   "role": "ICT Technician",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490718125/"
+  },
+  {
+   "company": "Mitsubishi Electric \u2013 UK",
+   "role": "Junior Software Developer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490591478/"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -3503,14 +3535,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/fifty-five/j/02118F04CB"
-  },
-  {
-   "company": "Kobalt Music",
-   "role": "IT Support Engineer",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/kobalt-music/j/C2A44867BA"
   },
   {
    "company": "DC Thomson",
@@ -6959,14 +6983,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/1st-2nd-line-it-support-engineer-msp/57561702"
-  },
-  {
-   "company": "Centre People Appointments",
-   "role": "Help Desk Analyst",
-   "date": "2026-11-13",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/help-desk-analyst/57557767"
   },
   {
    "company": "PHS Group Limited",
@@ -25937,7 +25953,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T09:36:49.445368+00:00",
- "updated": "2026-11-17T09:36:49+00:00",
- "updated_at": "2026-11-17T09:36:49+00:00"
+ "email_stats_updated": "2026-11-17T09:50:44.013920+00:00",
+ "updated": "2026-11-17T09:50:44+00:00",
+ "updated_at": "2026-11-17T09:50:44+00:00"
 }
