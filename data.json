@@ -1,11 +1,11 @@
 {
- "total": 3189,
- "portal": 2448,
+ "total": 3190,
+ "portal": 2449,
  "email": 558,
  "linkedin": 183,
  "bounced_emails": 23,
- "confirmations": 2544,
- "rejections": 548,
+ "confirmations": 2545,
+ "rejections": 549,
  "positives": [
   {
    "company": "Curation",
@@ -392,7 +392,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 117,
+   "portal": 118,
    "email": 0,
    "linkedin": 27
   }
@@ -2007,6 +2007,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/hozah/f4fd4a0b-4f48-4947-afd3-b997a0638ad9"
+  },
+  {
+   "company": "Reed",
+   "role": "IT Support Analyst-Inside IR35-Must be Car Driver",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-analyst-inside-ir35-must-be-car-driver/57584737"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -26233,7 +26241,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T17:36:46.005367+00:00",
- "updated": "2026-11-17T17:36:46+00:00",
- "updated_at": "2026-11-17T17:36:46+00:00"
+ "email_stats_updated": "2026-11-17T17:47:48.192326+00:00",
+ "updated": "2026-11-17T17:47:48+00:00",
+ "updated_at": "2026-11-17T17:47:48+00:00"
 }
