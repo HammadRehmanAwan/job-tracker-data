@@ -1,11 +1,11 @@
 {
- "total": 3165,
- "portal": 2443,
+ "total": 3166,
+ "portal": 2444,
  "email": 558,
  "linkedin": 164,
  "bounced_emails": 23,
- "confirmations": 2518,
- "rejections": 527,
+ "confirmations": 2520,
+ "rejections": 528,
  "positives": [
   {
    "company": "Curation",
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 112,
+   "portal": 113,
    "email": 0,
    "linkedin": 8
   }
@@ -1791,6 +1791,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-technician-technical-support-engineer/57581914"
+  },
+  {
+   "company": "hireful.",
+   "role": "ICT Technician - Schools",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ict-technician-schools/57582357"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -26017,7 +26025,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T12:06:47.306362+00:00",
- "updated": "2026-11-17T12:06:47+00:00",
- "updated_at": "2026-11-17T12:06:47+00:00"
+ "email_stats_updated": "2026-11-17T12:13:28.779961+00:00",
+ "updated": "2026-11-17T12:13:29+00:00",
+ "updated_at": "2026-11-17T12:13:29+00:00"
 }
