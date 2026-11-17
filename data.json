@@ -1,6 +1,6 @@
 {
- "total": 3128,
- "portal": 2414,
+ "total": 3138,
+ "portal": 2424,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
@@ -368,7 +368,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 81,
+   "portal": 91,
    "email": 0,
    "linkedin": 0
   }
@@ -1479,6 +1479,86 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/E1748D61B4/apply"
+  },
+  {
+   "company": "G MASS",
+   "role": "Financial Crime Implementation Business Analyst",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/88FCE20F30/apply"
+  },
+  {
+   "company": "Nexus Marine",
+   "role": "Data Analyst - AI",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/nexus-marine/j/FE455FC640"
+  },
+  {
+   "company": "Ultimate Performance",
+   "role": "IT Operations Technician - 1st Line Support",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/ultimateperformance/j/ACE79FBD4E"
+  },
+  {
+   "company": "Two95 International Inc.",
+   "role": "Service Desk Engineer (L1) - Mandarin(Speaking, writing, Reading)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/BC506EA4F0/apply"
+  },
+  {
+   "company": "Minerva Defence",
+   "role": "Forward Deployed Software Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/9D8E9D9362/apply"
+  },
+  {
+   "company": "Minerva Defence",
+   "role": "Machine Learning Systems Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/E0842C3A28/apply"
+  },
+  {
+   "company": "Zaizi",
+   "role": "IT Support Engineer (2nd Line)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/DA11C06F57/apply"
+  },
+  {
+   "company": "CALIO Consulting Group",
+   "role": "Data Governance & AI Consultant",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/56BA9EBE48/apply"
+  },
+  {
+   "company": "Surftech IT",
+   "role": "2nd Line Support Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/BAA04B19AC/apply"
+  },
+  {
+   "company": "Ellison Institute of Technology",
+   "role": "Bio-ML Scientist (Metabolic Modelling) - Generative Biology Institute",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/A84AC4A4A0/apply"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25721,7 +25801,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T08:05:40.155840+00:00",
- "updated": "2026-11-17T08:05:40+00:00",
- "updated_at": "2026-11-17T08:05:40+00:00"
+ "email_stats_updated": "2026-11-17T08:19:29.824406+00:00",
+ "updated": "2026-11-17T08:19:30+00:00",
+ "updated_at": "2026-11-17T08:19:30+00:00"
 }
