@@ -1,11 +1,11 @@
 {
- "total": 3152,
+ "total": 3155,
  "portal": 2438,
  "email": 558,
- "linkedin": 156,
+ "linkedin": 159,
  "bounced_emails": 23,
- "confirmations": 2481,
- "rejections": 511,
+ "confirmations": 2486,
+ "rejections": 515,
  "positives": [
   {
    "company": "Curation",
@@ -370,7 +370,7 @@
    "date": "2026-11-17",
    "portal": 105,
    "email": 0,
-   "linkedin": 0
+   "linkedin": 3
   }
  ],
  "recent": [
@@ -1671,6 +1671,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/wppmedia/jobs/5222007008"
+  },
+  {
+   "company": "Kennedy Pearce Consulting",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487484713/"
+  },
+  {
+   "company": "Pulse Group",
+   "role": "Data Analyst",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4487800276/"
+  },
+  {
+   "company": "Proclinical Staffing",
+   "role": "Technical User Support Analyst",
+   "date": "2026-11-17",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490413559/"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25913,7 +25937,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T09:12:58.461834+00:00",
- "updated": "2026-11-17T09:12:59+00:00",
- "updated_at": "2026-11-17T09:12:59+00:00"
+ "email_stats_updated": "2026-11-17T09:36:49.445368+00:00",
+ "updated": "2026-11-17T09:36:49+00:00",
+ "updated_at": "2026-11-17T09:36:49+00:00"
 }
