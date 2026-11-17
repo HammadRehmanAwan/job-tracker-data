@@ -1,10 +1,10 @@
 {
- "total": 3047,
- "portal": 2333,
+ "total": 3058,
+ "portal": 2344,
  "email": 558,
  "linkedin": 156,
  "bounced_emails": 23,
- "confirmations": 2434,
+ "confirmations": 2443,
  "rejections": 504,
  "positives": [
   {
@@ -365,9 +365,103 @@
    "portal": 77,
    "email": 0,
    "linkedin": 35
+  },
+  {
+   "date": "2026-11-17",
+   "portal": 11,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "datologyai",
+   "role": "Software Engineer, Infrastructure",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/DatologyAI/a61a442c-e640-4542-be68-984f99369ec5"
+  },
+  {
+   "company": "namespace",
+   "role": "Infrastructure Software Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/namespace/168f6c0b-a28c-4b04-9432-228a297aeedc"
+  },
+  {
+   "company": "hirehire",
+   "role": "Backend Engineer | 36labs",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hirehire/0aaf2953-37de-4e5c-a1d6-7e5973b1bc86"
+  },
+  {
+   "company": "sentient",
+   "role": "Applied ML Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sentient/c8354f11-556c-496c-8ef4-d6bd336a8f2d"
+  },
+  {
+   "company": "datologyai",
+   "role": "Research Engineer ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/DatologyAI/4c20a093-1476-4f2a-b049-26bdb05c1f65"
+  },
+  {
+   "company": "delos-data",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/delos-data/90eb5c34-33ea-445a-a7a1-0bec19426c05"
+  },
+  {
+   "company": "goteleport",
+   "role": "Site Reliability Engineer (Forward Deployed)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/goteleport/219963ed-01b6-4e78-a9c8-7048c0109141"
+  },
+  {
+   "company": "hirehire",
+   "role": "Harness Research Engineer | 36labs",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hirehire/64c52043-cb88-4aa7-9d98-35efd4e6f5c9"
+  },
+  {
+   "company": "namespace",
+   "role": "DevOps Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/namespace/ffb1d2d1-84ea-41b2-8c23-0842ade25f68"
+  },
+  {
+   "company": "novogaia",
+   "role": "ML Research Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Novogaia/c5fa8f21-1f21-40ba-b093-76710769c866"
+  },
+  {
+   "company": "strider-technologies",
+   "role": "Forward Deployed Engineer - UK/EU",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/strider-technologies/f28e980a-2232-4be7-8791-55cbd2f5b584"
+  },
   {
    "company": "VirtueTech Recruitment Group",
    "role": "Software Engineer",
@@ -599,94 +693,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/resend/6589bee8-3ec9-4620-90b6-890b23464c4d"
-  },
-  {
-   "company": "constructor",
-   "role": "Platform Engineer: Platform Enablement",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/constructor/fe2b4f29-b0d8-4944-bf3a-89596746a9c9"
-  },
-  {
-   "company": "eloquentai",
-   "role": "Software Engineer, Front-End",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/eloquentai/9889bccd-79a9-4590-be64-0fe640ea8b3c"
-  },
-  {
-   "company": "uncountable",
-   "role": "Scientific Support Specialist",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/uncountable/fffb551d-6f2e-4572-bb8c-90487788ec5a"
-  },
-  {
-   "company": "eloquentai",
-   "role": "Software Engineer, Front-End, Europe",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/eloquentai/78c360e2-abd0-498b-ac59-d0907b71a801"
-  },
-  {
-   "company": "kaluza",
-   "role": "Platform Engineer (C2)",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/kaluza/98ee4aec-1126-46d4-af8e-fec36c25a3ff"
-  },
-  {
-   "company": "kaluza",
-   "role": "Platform Engineer (C3)",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/kaluza/98bd1a92-41f6-4cc8-9a10-44fc0ca271c5"
-  },
-  {
-   "company": "algo1",
-   "role": "Software Engineer (Platform)",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/algo1/04f4a41e-f52b-4980-ab2d-d4690134ae65"
-  },
-  {
-   "company": "foundationhealthcareers",
-   "role": "QA Engineer",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/foundationhealthcareers/95d8b3d7-d18d-4dc5-8bc4-cd36d06d70e7"
-  },
-  {
-   "company": "hawk",
-   "role": "Data Scientist",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/hawk/3b98f79d-a111-4b5d-a699-937fffdcccec"
-  },
-  {
-   "company": "fleetcraft",
-   "role": "Software Engineer",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/Fleetcraft/57c37ba4-2e25-48fd-b0f0-3744b05a2490"
-  },
-  {
-   "company": "hiverge",
-   "role": "Machine Learning Engineer",
-   "date": "2026-11-16",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/hiverge/e9e24f66-f50c-40bd-b262-f453318c4041"
   }
  ],
  "applications": [
@@ -825,6 +831,94 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "datologyai",
+   "role": "Software Engineer, Infrastructure",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/DatologyAI/a61a442c-e640-4542-be68-984f99369ec5"
+  },
+  {
+   "company": "namespace",
+   "role": "Infrastructure Software Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/namespace/168f6c0b-a28c-4b04-9432-228a297aeedc"
+  },
+  {
+   "company": "hirehire",
+   "role": "Backend Engineer | 36labs",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hirehire/0aaf2953-37de-4e5c-a1d6-7e5973b1bc86"
+  },
+  {
+   "company": "sentient",
+   "role": "Applied ML Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sentient/c8354f11-556c-496c-8ef4-d6bd336a8f2d"
+  },
+  {
+   "company": "datologyai",
+   "role": "Research Engineer ",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/DatologyAI/4c20a093-1476-4f2a-b049-26bdb05c1f65"
+  },
+  {
+   "company": "delos-data",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/delos-data/90eb5c34-33ea-445a-a7a1-0bec19426c05"
+  },
+  {
+   "company": "goteleport",
+   "role": "Site Reliability Engineer (Forward Deployed)",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/goteleport/219963ed-01b6-4e78-a9c8-7048c0109141"
+  },
+  {
+   "company": "hirehire",
+   "role": "Harness Research Engineer | 36labs",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hirehire/64c52043-cb88-4aa7-9d98-35efd4e6f5c9"
+  },
+  {
+   "company": "namespace",
+   "role": "DevOps Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/namespace/ffb1d2d1-84ea-41b2-8c23-0842ade25f68"
+  },
+  {
+   "company": "novogaia",
+   "role": "ML Research Engineer",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/Novogaia/c5fa8f21-1f21-40ba-b093-76710769c866"
+  },
+  {
+   "company": "strider-technologies",
+   "role": "Forward Deployed Engineer - UK/EU",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/strider-technologies/f28e980a-2232-4be7-8791-55cbd2f5b584"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -25067,7 +25161,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T02:42:31.496824+00:00",
- "updated": "2026-11-17T02:42:31+00:00",
- "updated_at": "2026-11-17T02:42:31+00:00"
+ "email_stats_updated": "2026-11-17T03:04:05.404929+00:00",
+ "updated": "2026-11-17T03:04:05+00:00",
+ "updated_at": "2026-11-17T03:04:05+00:00"
 }
