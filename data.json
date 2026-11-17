@@ -1,10 +1,10 @@
 {
- "total": 3190,
- "portal": 2449,
+ "total": 3191,
+ "portal": 2450,
  "email": 558,
  "linkedin": 183,
  "bounced_emails": 23,
- "confirmations": 2545,
+ "confirmations": 2546,
  "rejections": 551,
  "positives": [
   {
@@ -392,7 +392,7 @@
   },
   {
    "date": "2026-11-17",
-   "portal": 118,
+   "portal": 119,
    "email": 0,
    "linkedin": 27
   }
@@ -2015,6 +2015,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-analyst-inside-ir35-must-be-car-driver/57584737"
+  },
+  {
+   "company": "G MASS",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-17",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/63761E30BD/apply"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -26241,7 +26249,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-17T18:20:52.462537+00:00",
- "updated": "2026-11-17T18:20:52+00:00",
- "updated_at": "2026-11-17T18:20:52+00:00"
+ "email_stats_updated": "2026-11-17T18:29:36.399806+00:00",
+ "updated": "2026-11-17T18:29:37+00:00",
+ "updated_at": "2026-11-17T18:29:37+00:00"
 }
