@@ -1,6 +1,6 @@
 {
- "total": 3376,
- "portal": 2617,
+ "total": 3415,
+ "portal": 2656,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 166,
+   "portal": 205,
    "email": 0,
    "linkedin": 19
   }
@@ -2341,6 +2341,318 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/data-analyst/57586985"
+  },
+  {
+   "company": "Erin Associates",
+   "role": "Data Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-engineer/erin-associates-job108327535"
+  },
+  {
+   "company": "Fdo Consulting Limited",
+   "role": "Data Engineer, On Prem, Stakeholder management",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-engineer-on-prem-stakeholder-management/fdo-consulting-limited-job108319196"
+  },
+  {
+   "company": "83zero Limited",
+   "role": "Data Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-analyst/83zero-limited-job108318802"
+  },
+  {
+   "company": "Intelligent Talent Solutions Ltd",
+   "role": "Data Engineer \u2013 Microsoft Fabric & Azure",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-engineer-microsoft-fabric-azure/intelligent-talent-solutions-ltd-job108318045"
+  },
+  {
+   "company": "Essential Recruitment",
+   "role": "Azure Data Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/azure-data-engineer/essential-recruitment-job108317959"
+  },
+  {
+   "company": "Hays",
+   "role": "Data Engineer - Microsoft Azure, Microsoft Fabric, Pyspark",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-engineer-microsoft-azure-microsoft-fabric-pyspark/hays-job108313226"
+  },
+  {
+   "company": "Harvey Nash",
+   "role": "Azure Cloud Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/azure-cloud-engineer/harvey-nash-job108318961"
+  },
+  {
+   "company": "Method-Resourcing",
+   "role": "Backend engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/backend-engineer/method-resourcing-job108322474"
+  },
+  {
+   "company": "Marshall Resource Partners Ltd",
+   "role": "Data Analyst IT",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-analyst-it/marshall-resource-partners-ltd-job108324159"
+  },
+  {
+   "company": "Constant Recruitment",
+   "role": "Data Analyst \u2013 Microsoft 365 Migration",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-analyst-microsoft-365-migration/constant-recruitment-job108314985"
+  },
+  {
+   "company": "We Are Dcoded Limited",
+   "role": "Business Data Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/business-data-analyst/we-are-dcoded-limited-job108312847"
+  },
+  {
+   "company": "Hays",
+   "role": "Graduate Research/Algorithm Engineer (DSP, Sensor Systems)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/algorithm-engineer/hays-job108312630"
+  },
+  {
+   "company": "Orion Electrotech Sales",
+   "role": "Integration Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/integration-engineer/orion-electrotech-sales-job108335662"
+  },
+  {
+   "company": "Networking People (UK) Limited",
+   "role": "Cisco ACI Network Implementation Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/cisco-aci-network-implementation-engineer/networking-people-uk-limited-job108320937"
+  },
+  {
+   "company": "Seymour John Public Services (Midlands) Limited",
+   "role": "End User Device Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/end-user-device-engineer/seymour-john-public-services-midlands-limited-job108320927"
+  },
+  {
+   "company": "Interact Consulting Limited",
+   "role": "QA Engineer Playwright Contract Remote Inside IR35",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/qa-engineer-playwright-contract-remote-inside-ir35/interact-consulting-limited-job108312310"
+  },
+  {
+   "company": "Hays",
+   "role": "Product Test Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/product-test-engineer/hays-job108328458"
+  },
+  {
+   "company": "Trant Engineering Limited",
+   "role": "Control Panel Test Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/control-panel-test-engineer/trant-engineering-limited-job108160594"
+  },
+  {
+   "company": "REC SOLUTIONS LIMITED",
+   "role": "DevOps Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/deployment-engineer/rec-solutions-limited-job108327415"
+  },
+  {
+   "company": "SmartSourcing PLC",
+   "role": "AWS DevOps Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/aws-devops-engineer/smartsourcing-plc-job108318952"
+  },
+  {
+   "company": "Client Server",
+   "role": "DevOps Engineer AWS",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/devops-engineer-aws/client-server-job108318122"
+  },
+  {
+   "company": "Randstad Digital",
+   "role": "Virtual Desktop Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/virtual-desktop-engineer/randstad-digital-job108321407"
+  },
+  {
+   "company": "Randstad Digital",
+   "role": "Virtual Desktop Engineer (Citrix)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/virtual-desktop-engineer-citrix/randstad-digital-job108313046"
+  },
+  {
+   "company": "Trescal",
+   "role": "Dimensional Calibration Trainee Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/dimensional-calibration-trainee-engineer/trescal-job108336266"
+  },
+  {
+   "company": "Future Recruitment Group Ltd",
+   "role": "Trainee Field Service Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/trainee-field-service-engineer/future-recruitment-group-ltd-job108326121"
+  },
+  {
+   "company": "Bucks & Berks Recruitment PLC",
+   "role": "Office and IT Administrator",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/office-and-it-administrator/bucks-berks-recruitment-plc-job108328386"
+  },
+  {
+   "company": "Nextech Group Limited",
+   "role": "3rd Line Engineer - Crawley",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/3rd-line-engineer-crawley/nextech-group-limited-job108335692"
+  },
+  {
+   "company": "JOSKOS SOLUTIONS LIMITED",
+   "role": "IT Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-support-engineer/joskos-solutions-limited-job108322458"
+  },
+  {
+   "company": "Reed Specialist Recruitment Ltd",
+   "role": "Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/support-engineer/reed-specialist-recruitment-ltd-job108328379"
+  },
+  {
+   "company": "Euro Projects Recruitment",
+   "role": "1st Line Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/1st-line-support-engineer/euro-projects-recruitment-job108114369"
+  },
+  {
+   "company": "Bennett and Game Recruitment LTD",
+   "role": "1st Line Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/1st-line-support-engineer/bennett-and-game-recruitment-ltd-job108114169"
+  },
+  {
+   "company": "STK Recruitment",
+   "role": "AI Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/ai-engineer/stk-recruitment-job108259500"
+  },
+  {
+   "company": "CHARALLE LEGAL RECRUITMENT LIMITED",
+   "role": "Forward Deployed AI Engineer - Law Firm - Cardiff",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/forward-deployed-ai-engineer-law-firm-cardiff/charalle-legal-recruitment-limited-job108281329"
+  },
+  {
+   "company": "Halian Technology Limited",
+   "role": "AI Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/ai-engineer/halian-technology-limited-job108123761"
+  },
+  {
+   "company": "Reed Technology",
+   "role": "Front End Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/front-end-developer/reed-technology-job108217357"
+  },
+  {
+   "company": "Cathcart Technology",
+   "role": "Full Stack Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/full-stack-developer/cathcart-technology-job108305791"
+  },
+  {
+   "company": "Searchability (UK) Ltd",
+   "role": "Full Stack Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/full-stack-developer/searchability-uk-ltd-job108284236"
+  },
+  {
+   "company": "Halian Technology Limited",
+   "role": "DevOps Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/devops-engineer/halian-technology-limited-job108122229"
+  },
+  {
+   "company": "Uptrail",
+   "role": "Trainee AI Data Analyst (No Experience Needed \u2013 UK Remote)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/trainee-ai-data-analyst-no-experience-needed--uk-remote/57587159"
   },
   {
    "company": "Kobalt Music",
@@ -27735,7 +28047,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T12:14:37.624622+00:00",
- "updated": "2026-11-18T12:14:37+00:00",
- "updated_at": "2026-11-18T12:14:38+00:00"
+ "email_stats_updated": "2026-11-18T12:31:35.807411+00:00",
+ "updated": "2026-11-18T12:31:36+00:00",
+ "updated_at": "2026-11-18T12:31:36+00:00"
 }
