@@ -1,6 +1,6 @@
 {
- "total": 3295,
- "portal": 2554,
+ "total": 3326,
+ "portal": 2585,
  "email": 558,
  "linkedin": 183,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 103,
+   "portal": 134,
    "email": 0,
    "linkedin": 0
   }
@@ -1685,6 +1685,254 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.totaljobs.com/job/service-desk-engineer/lm-recruitment-solutions-ltd-job107983314"
+  },
+  {
+   "company": "Morson Edge",
+   "role": "Lineside Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/production-process-verification-engineer/morson-edge-job108313347"
+  },
+  {
+   "company": "VIQU IT Recruitment",
+   "role": "2nd Line IT Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/2nd-line-it-support-engineer/viqu-it-recruitment-job108335820"
+  },
+  {
+   "company": "ECS",
+   "role": "IT Support Engineer - 2nd Line",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-support-engineer-2nd-line/ecs-job108320905"
+  },
+  {
+   "company": "Erin Associates",
+   "role": "2nd/3rd Line Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/2nd-3rd-line-engineer/erin-associates-job108318576"
+  },
+  {
+   "company": "TALENT INTERNATIONAL UK LTD",
+   "role": "IT Support",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-support/talent-international-uk-ltd-job108320061"
+  },
+  {
+   "company": "Redline Group Ltd",
+   "role": "Laser Application Support Engineer (6 Month FTC)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/laser-application-support-engineer-6-month-ftc/redline-group-ltd-job108337107"
+  },
+  {
+   "company": "Sanderson Government and Defence",
+   "role": "Python Developer/Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/python-developer-engineer/sanderson-government-and-defence-job108335669"
+  },
+  {
+   "company": "Run-Time Group Ltd",
+   "role": "Technical Solutions Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/technical-solutions-engineer/run-time-group-ltd-job108334731"
+  },
+  {
+   "company": "Mercury Hampton",
+   "role": "BMS Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/bms-support-engineer/mercury-hampton-job108333489"
+  },
+  {
+   "company": "Omega Resource Group",
+   "role": "Junior Application Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/junior-application-engineer/omega-resource-group-job108329867"
+  },
+  {
+   "company": "F5 consultants",
+   "role": "Cloud IAM Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/cloud-iam-support-engineer/f5-consultants-job108329607"
+  },
+  {
+   "company": "Global Technology Solutions Ltd",
+   "role": "IBM i Managed Services Consultant / 3rd Line Infrastructure Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/ibm-i-managed-services-consultant-3rd-line-infrastructure-engineer-dorking-hybrid-working/global-technology-solutions-ltd-job108327481"
+  },
+  {
+   "company": "Candidate Source",
+   "role": "Technical Support Engineer (Electronics)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/technical-support-engineer-electronics/candidate-source-job108326716"
+  },
+  {
+   "company": "Ernest Gordon Recruitment",
+   "role": "Chemical Engineer (Graduate)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/chemical-engineer-graduate/ernest-gordon-recruitment-job108326678"
+  },
+  {
+   "company": "Halian Technology Limited",
+   "role": "DevOps Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/devops-support-engineer/halian-technology-limited-job108326149"
+  },
+  {
+   "company": "Barker Ross Group",
+   "role": "Trainee AI & Automation Assistant",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/trainee-ai-automation-assistant/barker-ross-group-job108325982"
+  },
+  {
+   "company": "Lorien Resourcing Limited",
+   "role": "AI Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/ai-engineer/lorien-resourcing-limited-job108320661"
+  },
+  {
+   "company": "CBSbutler Holdings Limited",
+   "role": "Market Data Engineer - Java - Futures & Options - RFA to RTSDK",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/market-data-engineer-java-futures-options-rfa-to-rtsdk/cbsbutler-holdings-limited-job108316459"
+  },
+  {
+   "company": "Client Server",
+   "role": "Backend Software Engineer C# Asset Management",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/backend-software-engineer-c-asset-management/client-server-job108317827"
+  },
+  {
+   "company": "Redline Group Ltd",
+   "role": "Customer Integration Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/customer-integration-engineer/redline-group-ltd-job108313252"
+  },
+  {
+   "company": "Pave Talent Partners Limited",
+   "role": "Junior Software Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/junior-software-developer/pave-talent-partners-limited-job108322828"
+  },
+  {
+   "company": "Kyna Associates Limited",
+   "role": "Full Stack Developer \u2013 C# / .NET / Angular",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/full-stack-developer-c-net-angular/kyna-associates-limited-job108322395"
+  },
+  {
+   "company": "Langley James Limited",
+   "role": "Full Stack Web Developer, West Cheshire N Wales border",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/full-stack-web-developer-west-cheshire-n-wales-border-upto-70k/langley-james-limited-job108318204"
+  },
+  {
+   "company": "Oscar Associates (UK) Limited",
+   "role": "Junior Data Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/junior-data-analyst/oscar-associates-uk-limited-job108331984"
+  },
+  {
+   "company": "Harvey Nash",
+   "role": "Junior Test Engineer - Bedford",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/junior-test-engineer-bedford/harvey-nash-job108330965"
+  },
+  {
+   "company": "Candour Solutions Limited",
+   "role": "Junior Infrastructure Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/junior-infrastructure-engineer/candour-solutions-limited-job108320351"
+  },
+  {
+   "company": "TALENT INTERNATIONAL UK LTD",
+   "role": "Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/software-engineer/talent-international-uk-ltd-job108320062"
+  },
+  {
+   "company": "Sanderson Government and Defence",
+   "role": "Junior AI Engineer BPSS Eligible",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/junior-ai-engineer-bpss-eligible/sanderson-government-and-defence-job108317466"
+  },
+  {
+   "company": "Spectrum IT Recruitment Limited",
+   "role": "Contract Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/contract-software-engineer/spectrum-it-recruitment-limited-job108311733"
+  },
+  {
+   "company": "Gap Technical Ltd",
+   "role": "Graduate Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/graduate-engineer/gap-technical-ltd-job108317417"
+  },
+  {
+   "company": "Building Careers UK Ltd",
+   "role": "IT Support",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-support/building-careers-uk-ltd-job108315819"
   },
   {
    "company": "Kobalt Music",
@@ -27087,7 +27335,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T09:21:33.202383+00:00",
- "updated": "2026-11-18T09:21:33+00:00",
- "updated_at": "2026-11-18T09:21:33+00:00"
+ "email_stats_updated": "2026-11-18T09:36:44.669963+00:00",
+ "updated": "2026-11-18T09:36:45+00:00",
+ "updated_at": "2026-11-18T09:36:45+00:00"
 }
