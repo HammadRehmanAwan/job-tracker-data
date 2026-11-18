@@ -1,11 +1,11 @@
 {
- "total": 3460,
- "portal": 2701,
+ "total": 3461,
+ "portal": 2702,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2598,
- "rejections": 586,
+ "confirmations": 2601,
+ "rejections": 587,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 250,
+   "portal": 251,
    "email": 0,
    "linkedin": 19
   }
@@ -3013,6 +3013,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.totaljobs.com/job/customer-marketing-data-analyst/amtis-professional-ltd-job108326904"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Software Engineer II (Full-Stack) - Growth",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8286801"
   },
   {
    "company": "Kobalt Music",
@@ -28407,7 +28415,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T13:44:06.407190+00:00",
- "updated": "2026-11-18T13:44:07+00:00",
- "updated_at": "2026-11-18T13:44:07+00:00"
+ "email_stats_updated": "2026-11-18T13:58:36.385141+00:00",
+ "updated": "2026-11-18T13:58:36+00:00",
+ "updated_at": "2026-11-18T13:58:36+00:00"
 }
