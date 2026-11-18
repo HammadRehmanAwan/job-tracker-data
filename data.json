@@ -1,6 +1,6 @@
 {
- "total": 3364,
- "portal": 2614,
+ "total": 3365,
+ "portal": 2615,
  "email": 558,
  "linkedin": 192,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 163,
+   "portal": 164,
    "email": 0,
    "linkedin": 10
   }
@@ -2245,6 +2245,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-technician/57586306"
+  },
+  {
+   "company": "QA",
+   "role": "IT Apprentice",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-apprentice/57586590"
   },
   {
    "company": "Kobalt Music",
@@ -27639,7 +27647,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T10:44:51.046303+00:00",
- "updated": "2026-11-18T10:44:51+00:00",
- "updated_at": "2026-11-18T10:44:51+00:00"
+ "email_stats_updated": "2026-11-18T11:05:32.209909+00:00",
+ "updated": "2026-11-18T11:05:32+00:00",
+ "updated_at": "2026-11-18T11:05:32+00:00"
 }
