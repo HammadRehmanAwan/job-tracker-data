@@ -1,6 +1,6 @@
 {
- "total": 3192,
- "portal": 2451,
+ "total": 3199,
+ "portal": 2458,
  "email": 558,
  "linkedin": 183,
  "bounced_emails": 23,
@@ -395,9 +395,71 @@
    "portal": 120,
    "email": 0,
    "linkedin": 27
+  },
+  {
+   "date": "2026-11-18",
+   "portal": 7,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "N P Associates",
+   "role": "Junior Network Operations Engineer (NOC / BAU)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/junior-network-operations-engineer-noc-bau/57572076"
+  },
+  {
+   "company": "EAC Consulting Group",
+   "role": "IT Helpdesk Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-helpdesk-engineer/57572611"
+  },
+  {
+   "company": "Bucks and Berks Recruitment",
+   "role": "Office and IT Administrator",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/office-and-it-administrator/57579931"
+  },
+  {
+   "company": "Time Recruitment",
+   "role": "AI & Automation Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-developer/57580007"
+  },
+  {
+   "company": "F5",
+   "role": "Cloud IAM Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/cloud-iam-support-engineer/57581294"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Project & Technical Support Officer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/project-technical-support-officer/57581844"
+  },
+  {
+   "company": "Robert Half",
+   "role": "First Line Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/first-line-support-engineer/57582374"
+  },
   {
    "company": "Kobalt Music",
    "role": "IT Support Engineer",
@@ -661,62 +723,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/indiciumai/jobs/4853142101"
-  },
-  {
-   "company": "optiverus",
-   "role": "Software Engineer - Digital Assets",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/optiverus/jobs/8937609002"
-  },
-  {
-   "company": "roslinct",
-   "role": "Process Support Specialist",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://roslinct.teamtailor.com/jobs/8747744-process-support-specialist"
-  },
-  {
-   "company": "airapps",
-   "role": "CRM Specialist",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/airapps/795c3093-7d4b-4a6c-ab23-7090f39914d2"
-  },
-  {
-   "company": "airapps",
-   "role": "Data Analyst",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/airapps/535e119b-78ae-4875-a544-b67d10e36900"
-  },
-  {
-   "company": "stakefish",
-   "role": "(f2pool) DevOps Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/stakefish/j/486994B0D4"
-  },
-  {
-   "company": "ZeroAvia",
-   "role": "Test Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/zeroavia/j/E9FADD741E"
-  },
-  {
-   "company": "nivoda",
-   "role": "Salesforce Developer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/Nivoda/49c677eb-aea4-4db3-aa07-245634aaa3c8"
   }
  ],
  "applications": [
@@ -855,6 +861,62 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "N P Associates",
+   "role": "Junior Network Operations Engineer (NOC / BAU)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/junior-network-operations-engineer-noc-bau/57572076"
+  },
+  {
+   "company": "EAC Consulting Group",
+   "role": "IT Helpdesk Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-helpdesk-engineer/57572611"
+  },
+  {
+   "company": "Bucks and Berks Recruitment",
+   "role": "Office and IT Administrator",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/office-and-it-administrator/57579931"
+  },
+  {
+   "company": "Time Recruitment",
+   "role": "AI & Automation Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-developer/57580007"
+  },
+  {
+   "company": "F5",
+   "role": "Cloud IAM Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/cloud-iam-support-engineer/57581294"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Project & Technical Support Officer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/project-technical-support-officer/57581844"
+  },
+  {
+   "company": "Robert Half",
+   "role": "First Line Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/first-line-support-engineer/57582374"
   },
   {
    "company": "Kobalt Music",
@@ -26257,7 +26319,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T07:16:38.422773+00:00",
- "updated": "2026-11-18T07:16:39+00:00",
- "updated_at": "2026-11-18T07:16:39+00:00"
+ "email_stats_updated": "2026-11-18T07:33:32.113237+00:00",
+ "updated": "2026-11-18T07:33:32+00:00",
+ "updated_at": "2026-11-18T07:33:32+00:00"
 }
