@@ -1,6 +1,6 @@
 {
- "total": 3498,
- "portal": 2739,
+ "total": 3501,
+ "portal": 2742,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 288,
+   "portal": 291,
    "email": 0,
    "linkedin": 19
   }
@@ -3317,6 +3317,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Stevenage-GBR/AI-Modelling-Engineer--Digital-Twin_260005230-1"
+  },
+  {
+   "company": "faculty",
+   "role": "Data Scientist ",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/faculty/0b6ad03f-8633-47ef-9dec-a8eb3cebf9b2"
+  },
+  {
+   "company": "goodlord",
+   "role": "Platform Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/goodlord/4ead672c-b1dd-4bee-9f32-42abe9c07ef7"
+  },
+  {
+   "company": "hrtechx",
+   "role": "AI Automation Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8204990003"
   },
   {
    "company": "Kobalt Music",
@@ -28711,7 +28735,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T17:34:19.846323+00:00",
- "updated": "2026-11-18T17:34:20+00:00",
- "updated_at": "2026-11-18T17:34:20+00:00"
+ "email_stats_updated": "2026-11-18T17:45:02.644361+00:00",
+ "updated": "2026-11-18T17:45:03+00:00",
+ "updated_at": "2026-11-18T17:45:03+00:00"
 }
