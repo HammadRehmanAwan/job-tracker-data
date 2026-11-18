@@ -1,6 +1,6 @@
 {
- "total": 3265,
- "portal": 2524,
+ "total": 3295,
+ "portal": 2554,
  "email": 558,
  "linkedin": 183,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 73,
+   "portal": 103,
    "email": 0,
    "linkedin": 0
   }
@@ -1445,6 +1445,246 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/highmetric/jobs/6164664004"
+  },
+  {
+   "company": "Fairland",
+   "role": "Network Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/network-support-engineer/fairland-job108336202"
+  },
+  {
+   "company": "Ekco (Livingston) Ltd",
+   "role": "3rd Line Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/3rd-line-engineer/ekco-livingston-ltd-job108333690"
+  },
+  {
+   "company": "Langley James Limited",
+   "role": "3rd Line Service Desk Engineer, South London 50k",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/3rd-line-service-desk-engineer-south-london-50k/langley-james-limited-job108328642"
+  },
+  {
+   "company": "Spectrum IT Recruitment Limited",
+   "role": "3rd Line Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/3rd-line-support-engineer/spectrum-it-recruitment-limited-job108327840"
+  },
+  {
+   "company": "VIQU IT Recruitment",
+   "role": "M365 Technical Consultant",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/m365-technical-consultant/viqu-it-recruitment-job108326208"
+  },
+  {
+   "company": "Redmore Recruitment Limited",
+   "role": "IT Support Technician",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-support-technician/redmore-recruitment-limited-job108325101"
+  },
+  {
+   "company": "Circle Group",
+   "role": "IT Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-support-engineer/circle-group-job108321938"
+  },
+  {
+   "company": "SF Partners Admin",
+   "role": "IT Service Desk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-service-desk-analyst/sf-partners-admin-job108321113"
+  },
+  {
+   "company": "Pearson Whiffin IT & Digital",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/service-desk-analyst/pearson-whiffin-it-digital-job108320747"
+  },
+  {
+   "company": "CBSbutler Holdings Limited",
+   "role": "IT Support Engineer - 2nd / 3rd line support",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-support-engineer-2nd-3rd-line-support/cbsbutler-holdings-limited-job108320572"
+  },
+  {
+   "company": "TALENT INTERNATIONAL UK LTD",
+   "role": "2nd Line / Infrastructure Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/2nd-line-infrastructure-engineer/talent-international-uk-ltd-job108320064"
+  },
+  {
+   "company": "AWD Online",
+   "role": "IT Support / AV Technician",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-support-av-technician/awd-online-job108317455"
+  },
+  {
+   "company": "Sanderson Recruitment",
+   "role": "Technical Support Specialist (1st & 2nd line)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/technical-support-specialist-1st-2nd-line/sanderson-recruitment-job108313837"
+  },
+  {
+   "company": "Recruit Select Limited",
+   "role": "Help Desk Coordinator",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/help-desk-coordinator/recruit-select-limited-job108332899"
+  },
+  {
+   "company": "Mainstay Industrial",
+   "role": "Helpdesk Coordinator",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/helpdesk-coordinator/mainstay-industrial-job108326241"
+  },
+  {
+   "company": "Baker Harding Limited",
+   "role": "1st Line Technical Support",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/1st-line-technical-support/baker-harding-limited-job108318631"
+  },
+  {
+   "company": "Constant Recruitment",
+   "role": "Helpdesk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/helpdesk-analyst/constant-recruitment-job108315006"
+  },
+  {
+   "company": "DGH Recruitment",
+   "role": "Audio Visual Support Specialist",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/audio-visual-support-specialist/dgh-recruitment-job108331542"
+  },
+  {
+   "company": "Jelly Technical",
+   "role": "IT Support Technician",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-support-technician/jelly-technical-job108321547"
+  },
+  {
+   "company": "DGH Recruitment",
+   "role": "IT User Support Specialist/IT Support Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-user-support-specialist-it-support-analyst/dgh-recruitment-job108312866"
+  },
+  {
+   "company": "Red Recruitment Group",
+   "role": "1st Line Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/1st-line-support-engineer/red-recruitment-group-job108322146"
+  },
+  {
+   "company": "Kaizen Talent Solutions",
+   "role": "Group IT Support Engineer - Hybrid",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/group-it-support-engineer-hybrid/kaizen-talent-solutions-job108321507"
+  },
+  {
+   "company": "Candour Solutions Limited",
+   "role": "IT Support Technician",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-support-technician/candour-solutions-limited-job108314443"
+  },
+  {
+   "company": "Sterling Bridge Limited",
+   "role": "2nd Line Support",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/2nd-line-support/sterling-bridge-limited-job108167994"
+  },
+  {
+   "company": "OFWAT",
+   "role": "2nd Line Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/2nd-line-support-engineer/ofwat-job108307980"
+  },
+  {
+   "company": "Reed Technology",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/service-desk-analyst/reed-technology-job108111477"
+  },
+  {
+   "company": "Circle Group",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/service-desk-analyst/circle-group-job108290803"
+  },
+  {
+   "company": "Advanced",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/service-desk-analyst/advanced-job108255646"
+  },
+  {
+   "company": "Vistry Group",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/service-desk-analyst/vistry-group-job108310714"
+  },
+  {
+   "company": "LM RECRUITMENT SOLUTIONS LTD",
+   "role": "Service Desk Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/service-desk-engineer/lm-recruitment-solutions-ltd-job107983314"
   },
   {
    "company": "Kobalt Music",
@@ -26848,6 +27088,6 @@
   }
  ],
  "email_stats_updated": "2026-11-18T09:00:56.301234+00:00",
- "updated": "2026-11-18T09:00:57+00:00",
- "updated_at": "2026-11-18T09:00:57+00:00"
+ "updated": "2026-11-18T09:14:58+00:00",
+ "updated_at": "2026-11-18T09:14:58+00:00"
 }
