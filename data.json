@@ -1,6 +1,6 @@
 {
- "total": 3362,
- "portal": 2612,
+ "total": 3364,
+ "portal": 2614,
  "email": 558,
  "linkedin": 192,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 161,
+   "portal": 163,
    "email": 0,
    "linkedin": 10
   }
@@ -2229,6 +2229,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.totaljobs.com/job/fullstack-developer-420p-d-inside-ir35-remote/exalto-consulting-ltd-job108336166"
+  },
+  {
+   "company": "alta-ares",
+   "role": "Systems Integration Engineer ",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/alta-ares/265b1248-7ab5-4ade-8293-309bfdb1f3a1"
+  },
+  {
+   "company": "Pure Resourcing Solutions",
+   "role": "IT Support Technician",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-technician/57586306"
   },
   {
    "company": "Kobalt Music",
@@ -27623,7 +27639,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T10:16:45.543087+00:00",
- "updated": "2026-11-18T10:16:46+00:00",
- "updated_at": "2026-11-18T10:16:46+00:00"
+ "email_stats_updated": "2026-11-18T10:31:16.175560+00:00",
+ "updated": "2026-11-18T10:31:16+00:00",
+ "updated_at": "2026-11-18T10:31:16+00:00"
 }
