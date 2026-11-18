@@ -1,11 +1,11 @@
 {
- "total": 3476,
- "portal": 2717,
+ "total": 3480,
+ "portal": 2721,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2643,
- "rejections": 595,
+ "confirmations": 2647,
+ "rejections": 596,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 266,
+   "portal": 270,
    "email": 0,
    "linkedin": 19
   }
@@ -3141,6 +3141,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-support-engineer/57588907"
+  },
+  {
+   "company": "Greenpoint Computer Services Ltd",
+   "role": "Field IT Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobsite.co.uk/job/field-it-support-engineer/greenpoint-computer-services-ltd-job108339800"
+  },
+  {
+   "company": "Eriban Business Services Ltd",
+   "role": "IT Helpdesk Engineer \u2013 MSP (1st Line)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobsite.co.uk/job/it-helpdesk-engineer-msp-1st-line/eriban-business-services-ltd-job108245777"
+  },
+  {
+   "company": "Eriban Business Services Ltd",
+   "role": "Network Support Engineer - MSP",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobsite.co.uk/job/network-support-engineer-msp/eriban-business-services-ltd-job108340442"
+  },
+  {
+   "company": "Evera Recruitment Ltd",
+   "role": "Base Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobsite.co.uk/job/base-software-engineer/evera-recruitment-ltd-job108336169"
   },
   {
    "company": "Kobalt Music",
@@ -28535,7 +28567,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T15:51:18.084666+00:00",
- "updated": "2026-11-18T15:51:18+00:00",
- "updated_at": "2026-11-18T15:51:18+00:00"
+ "email_stats_updated": "2026-11-18T16:04:01.561762+00:00",
+ "updated": "2026-11-18T16:04:02+00:00",
+ "updated_at": "2026-11-18T16:04:02+00:00"
 }
