@@ -1,6 +1,6 @@
 {
- "total": 3204,
- "portal": 2463,
+ "total": 3208,
+ "portal": 2467,
  "email": 558,
  "linkedin": 183,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 12,
+   "portal": 16,
    "email": 0,
    "linkedin": 0
   }
@@ -499,6 +499,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/process-automation-software-engineer/57436829"
+  },
+  {
+   "company": "justmarkets",
+   "role": "Data Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/justmarkets/jobs/4788118101"
+  },
+  {
+   "company": "AWD online",
+   "role": "Test Analyst / Software Tester",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/test-analyst-software-tester/57483529"
+  },
+  {
+   "company": "Lynx Recruitment Ltd",
+   "role": "AI Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-engineer/57162422"
+  },
+  {
+   "company": "Braundton Consulting Limited",
+   "role": "Software Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-developer/57523841"
   },
   {
    "company": "Kobalt Music",
@@ -691,38 +723,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204946003"
-  },
-  {
-   "company": "hrtechx",
-   "role": "AI Engineer, Growth",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8204949003"
-  },
-  {
-   "company": "hrtechx",
-   "role": "AI Engineering, Growth",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8204953003"
-  },
-  {
-   "company": "privateequityinsights",
-   "role": "AI Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8205000003"
-  },
-  {
-   "company": "privateequityinsights",
-   "role": "AI Engineer, Growth",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8204947003"
   }
  ],
  "applications": [
@@ -957,6 +957,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/process-automation-software-engineer/57436829"
+  },
+  {
+   "company": "justmarkets",
+   "role": "Data Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/justmarkets/jobs/4788118101"
+  },
+  {
+   "company": "AWD online",
+   "role": "Test Analyst / Software Tester",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/test-analyst-software-tester/57483529"
+  },
+  {
+   "company": "Lynx Recruitment Ltd",
+   "role": "AI Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-engineer/57162422"
+  },
+  {
+   "company": "Braundton Consulting Limited",
+   "role": "Software Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-developer/57523841"
   },
   {
    "company": "Kobalt Music",
@@ -26359,7 +26391,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T07:33:32.113237+00:00",
- "updated": "2026-11-18T07:39:46+00:00",
- "updated_at": "2026-11-18T07:39:46+00:00"
+ "email_stats_updated": "2026-11-18T07:43:20.449532+00:00",
+ "updated": "2026-11-18T07:43:20+00:00",
+ "updated_at": "2026-11-18T07:43:20+00:00"
 }
