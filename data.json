@@ -1,11 +1,11 @@
 {
- "total": 3461,
- "portal": 2702,
+ "total": 3464,
+ "portal": 2705,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2601,
- "rejections": 587,
+ "confirmations": 2612,
+ "rejections": 590,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 251,
+   "portal": 254,
    "email": 0,
    "linkedin": 19
   }
@@ -3021,6 +3021,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8286801"
+  },
+  {
+   "company": "Quickline Communications",
+   "role": "Noc Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/noc-engineer/quickline-communications-job108276124"
+  },
+  {
+   "company": "GAME Retail Limited",
+   "role": "TRAINEE DATA ANALYST - ELEVATION PROGRAMME",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/trainee-data-analyst-elevation-programme/game-retail-limited-job108324731"
+  },
+  {
+   "company": "McCabe & Barton",
+   "role": "Data Analyst/ Data Analytics",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-analyst-data-analytics/mccabe-barton-job108329901"
   },
   {
    "company": "Kobalt Music",
@@ -28415,7 +28439,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T13:58:36.385141+00:00",
- "updated": "2026-11-18T13:58:36+00:00",
- "updated_at": "2026-11-18T13:58:36+00:00"
+ "email_stats_updated": "2026-11-18T14:16:31.619036+00:00",
+ "updated": "2026-11-18T14:16:32+00:00",
+ "updated_at": "2026-11-18T14:16:32+00:00"
 }
