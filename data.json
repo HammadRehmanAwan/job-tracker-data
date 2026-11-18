@@ -1,10 +1,10 @@
 {
- "total": 3464,
- "portal": 2705,
+ "total": 3465,
+ "portal": 2706,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2614,
+ "confirmations": 2616,
  "rejections": 592,
  "positives": [
   {
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 254,
+   "portal": 255,
    "email": 0,
    "linkedin": 19
   }
@@ -3045,6 +3045,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.totaljobs.com/job/data-analyst-data-analytics/mccabe-barton-job108329901"
+  },
+  {
+   "company": "Prize Placements",
+   "role": "1st/2nd Line Support - Kings Langley (WD4) Global Company - \u00a335,000 + Excellent Benefits",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/1st-2nd-line-support-kings-langley-wd4-global-company-35000--excellent-benefits/57588521"
   },
   {
    "company": "Kobalt Music",
@@ -28439,7 +28447,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T14:37:08.022554+00:00",
- "updated": "2026-11-18T14:37:08+00:00",
- "updated_at": "2026-11-18T14:37:08+00:00"
+ "email_stats_updated": "2026-11-18T14:50:43.536401+00:00",
+ "updated": "2026-11-18T14:50:44+00:00",
+ "updated_at": "2026-11-18T14:50:45+00:00"
 }
