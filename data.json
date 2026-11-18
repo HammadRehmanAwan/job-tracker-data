@@ -1,11 +1,11 @@
 {
- "total": 3415,
- "portal": 2656,
+ "total": 3437,
+ "portal": 2678,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
  "confirmations": 2549,
- "rejections": 555,
+ "rejections": 579,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 205,
+   "portal": 227,
    "email": 0,
    "linkedin": 19
   }
@@ -2653,6 +2653,182 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/trainee-ai-data-analyst-no-experience-needed--uk-remote/57587159"
+  },
+  {
+   "company": "Granite Recruitment and Consulting",
+   "role": "Business Intelligence Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/business-intelligence-analyst/granite-recruitment-and-consulting-job108178569"
+  },
+  {
+   "company": "Russell Taylor Group Ltd",
+   "role": "Data Analytics & AI Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-analytics-ai-engineer/russell-taylor-group-ltd-job108232596"
+  },
+  {
+   "company": "Oscar Associates (UK) Limited",
+   "role": "Software Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/software-developer/oscar-associates-uk-limited-job108114804"
+  },
+  {
+   "company": "ASC Connections Ltd",
+   "role": "Test Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/test-engineer/asc-connections-ltd-job108236375"
+  },
+  {
+   "company": "Response Informatics",
+   "role": "Test Engineer, Cloud & Data",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/engineer-cloud-data/response-informatics-job108275270"
+  },
+  {
+   "company": "X-On Health",
+   "role": "Graduate Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/graduate-software-engineer/x-on-health-job108206578"
+  },
+  {
+   "company": "McGregor Boyall Associates Limited",
+   "role": "Graduate Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/graduate-software-engineer/mcgregor-boyall-associates-limited-job108159089"
+  },
+  {
+   "company": "REVYBE IT RECRUITMENT LIMITED",
+   "role": "Imperial College London Graduate Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/imperial-college-london-graduate-software-engineer/revybe-it-recruitment-limited-job108219277"
+  },
+  {
+   "company": "EXL Service",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/service-desk-analyst/exl-service-job108210497"
+  },
+  {
+   "company": "Fdo Consulting Limited",
+   "role": "Data Engineer, SQL Developer, London or Buckinghamshire",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-engineer-sql-developer-london-or-buckinghamshire/fdo-consulting-limited-job108207469"
+  },
+  {
+   "company": "Fdo Consulting Limited",
+   "role": "Data Engineer, SQL Developer, On Prem",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-engineer-sql-developer-on-prem/fdo-consulting-limited-job108113043"
+  },
+  {
+   "company": "Deerfoot Recruitment Solutions",
+   "role": "Data Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-engineer/deerfoot-recruitment-solutions-job108227681"
+  },
+  {
+   "company": "Career Legal Ltd",
+   "role": "AI Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/ai-engineer/career-legal-ltd-job108111610"
+  },
+  {
+   "company": "Method-Resourcing",
+   "role": "AI Engineers (x2) - Microsoft Foundry  Agentic AI  C#",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/ai-engineers-x2-microsoft-foundry-agentic-ai-c/method-resourcing-job108232939"
+  },
+  {
+   "company": "CRG TEC",
+   "role": "3rd Line IT Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/3rd-line-it-engineer/crg-tec-job108338443"
+  },
+  {
+   "company": "Franklin Bates Limited",
+   "role": "React Full Stack Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/react-full-stack-engineer/franklin-bates-limited-job108338654"
+  },
+  {
+   "company": "Daniel James Resourcing Ltd",
+   "role": "QA Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/manual-qa/daniel-james-resourcing-ltd-job108122053"
+  },
+  {
+   "company": "Fyre Global Limited",
+   "role": "IT Service Desk Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/it-service-desk-engineer/fyre-global-limited-job108338971"
+  },
+  {
+   "company": "TurleyWay Limited",
+   "role": "AI Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/ai-engineer/turleyway-limited-job108339067"
+  },
+  {
+   "company": "ATA Recruitment",
+   "role": "Site Integration Test Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/site-integration-test-engineer/ata-recruitment-job108338941"
+  },
+  {
+   "company": "TurleyWay Limited",
+   "role": "Data Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/data-engineer/turleyway-limited-job108338908"
+  },
+  {
+   "company": "Bidwells LLP",
+   "role": "2nd Line Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/2nd-line-support-engineer/bidwells-llp-job108298236"
   },
   {
    "company": "Kobalt Music",
@@ -28047,7 +28223,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T12:31:35.807411+00:00",
- "updated": "2026-11-18T12:31:36+00:00",
- "updated_at": "2026-11-18T12:31:36+00:00"
+ "email_stats_updated": "2026-11-18T12:50:50.841576+00:00",
+ "updated": "2026-11-18T12:50:51+00:00",
+ "updated_at": "2026-11-18T12:50:51+00:00"
 }
