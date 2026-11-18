@@ -1,10 +1,10 @@
 {
- "total": 3465,
- "portal": 2706,
+ "total": 3470,
+ "portal": 2711,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2620,
+ "confirmations": 2623,
  "rejections": 595,
  "positives": [
   {
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 255,
+   "portal": 260,
    "email": 0,
    "linkedin": 19
   }
@@ -3053,6 +3053,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/1st-2nd-line-support-kings-langley-wd4-global-company-35000--excellent-benefits/57588521"
+  },
+  {
+   "company": "reactivemarkets",
+   "role": "C++ Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/reactivemarkets/8662bd36-401c-4dd7-8102-7c9049c10d3d"
+  },
+  {
+   "company": "sensor-tower",
+   "role": "DevOps Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sensor-tower/219b2d96-f88e-4fc4-be75-9c7d02713162"
+  },
+  {
+   "company": "sensor-tower",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sensor-tower/d226ea14-b1ad-4468-980d-e360858e62a9"
+  },
+  {
+   "company": "EnerMech",
+   "role": "Contract Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/enermech/j/D5F4A7826B"
+  },
+  {
+   "company": "Insight Investment",
+   "role": "QA Engineer (Manchester)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/insight-investment/j/A47272AD69"
   },
   {
    "company": "Kobalt Music",
@@ -28447,7 +28487,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T15:01:12.635237+00:00",
- "updated": "2026-11-18T15:01:13+00:00",
- "updated_at": "2026-11-18T15:01:13+00:00"
+ "email_stats_updated": "2026-11-18T15:12:55.900678+00:00",
+ "updated": "2026-11-18T15:12:56+00:00",
+ "updated_at": "2026-11-18T15:12:56+00:00"
 }
