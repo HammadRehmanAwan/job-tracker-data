@@ -1,11 +1,11 @@
 {
- "total": 3508,
- "portal": 2749,
+ "total": 3509,
+ "portal": 2750,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2672,
- "rejections": 604,
+ "confirmations": 2673,
+ "rejections": 605,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 298,
+   "portal": 299,
    "email": 0,
    "linkedin": 19
   }
@@ -3397,6 +3397,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.gosuperscript.com/jobs/8718649-it-operations-support-technician"
+  },
+  {
+   "company": "Queen Mary University of London",
+   "role": "Data Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.ac.uk/job/DTN201/data-analyst"
   },
   {
    "company": "Kobalt Music",
@@ -28791,7 +28799,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T17:58:26.349508+00:00",
- "updated": "2026-11-18T17:58:26+00:00",
- "updated_at": "2026-11-18T17:58:26+00:00"
+ "email_stats_updated": "2026-11-18T18:21:02.942795+00:00",
+ "updated": "2026-11-18T18:21:03+00:00",
+ "updated_at": "2026-11-18T18:21:03+00:00"
 }
