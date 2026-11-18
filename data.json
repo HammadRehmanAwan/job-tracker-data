@@ -1,10 +1,10 @@
 {
- "total": 3561,
- "portal": 2802,
+ "total": 3564,
+ "portal": 2805,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2715,
+ "confirmations": 2716,
  "rejections": 611,
  "positives": [
   {
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 351,
+   "portal": 354,
    "email": 0,
    "linkedin": 19
   }
@@ -3821,6 +3821,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9236-26-00001"
+  },
+  {
+   "company": "East Lancashire Hospitals NHS Trust",
+   "role": "Information Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apps.trac.jobs/job-advert/8307989"
+  },
+  {
+   "company": "Thames Valley ICB",
+   "role": "Associate Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/D9482-26-0069"
+  },
+  {
+   "company": "University Hospital Southampton NHS Trust",
+   "role": "R&D Specialist Data Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9188-26-1024"
   },
   {
    "company": "Kobalt Music",
@@ -29215,7 +29239,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T23:34:49.688045+00:00",
- "updated": "2026-11-18T23:34:50+00:00",
- "updated_at": "2026-11-18T23:34:50+00:00"
+ "email_stats_updated": "2026-11-18T23:42:55.244066+00:00",
+ "updated": "2026-11-18T23:42:55+00:00",
+ "updated_at": "2026-11-18T23:42:55+00:00"
 }
