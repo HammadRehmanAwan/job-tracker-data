@@ -1,11 +1,11 @@
 {
- "total": 3490,
- "portal": 2731,
+ "total": 3498,
+ "portal": 2739,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2659,
- "rejections": 602,
+ "confirmations": 2665,
+ "rejections": 603,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 280,
+   "portal": 288,
    "email": 0,
    "linkedin": 19
   }
@@ -3253,6 +3253,70 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/hbs/jobs/4767702101"
+  },
+  {
+   "company": "CMC Markets",
+   "role": "Trading Application Support Engineer - 12-month FTC",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/London/Trading-Application-Support-Engineer_CMC5823"
+  },
+  {
+   "company": "Motorola Solutions",
+   "role": "Frontend Software Engineer - Vue.js / TypeScript",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/details/Software-Engineer--Frontend--TypeScript-_R65771"
+  },
+  {
+   "company": "Team Creation",
+   "role": "Network Operations Engineer (1-year fixed term contract)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://teamcreation.teamtailor.com/jobs/7845507-network-operations-engineer-1-year-fixed-teram-contract"
+  },
+  {
+   "company": "Lloyd's List Intelligence",
+   "role": "DevOps Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.lloydslistintelligence.com/jobs/7719407-devops-engineer"
+  },
+  {
+   "company": "Motorola Solutions",
+   "role": "Back End Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/details/Back-End-Software-Engineer_R65879"
+  },
+  {
+   "company": "Motorola Solutions",
+   "role": "Software Engineer (Java)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/details/Software-Engineer--Java-_R70274"
+  },
+  {
+   "company": "Globepay Limited",
+   "role": "Data Analyst - Revenue Governance",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/MANCHESTER--UNITED-KINGDOM/Data-Analyst---Revenue-Governance---_R0077030-1"
+  },
+  {
+   "company": "Viavi Solutions",
+   "role": "AI Modelling Engineer, Digital Twin Graduate",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Stevenage-GBR/AI-Modelling-Engineer--Digital-Twin_260005230-1"
   },
   {
    "company": "Kobalt Music",
@@ -28647,7 +28711,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T17:12:53.892687+00:00",
- "updated": "2026-11-18T17:12:54+00:00",
- "updated_at": "2026-11-18T17:12:54+00:00"
+ "email_stats_updated": "2026-11-18T17:34:19.846323+00:00",
+ "updated": "2026-11-18T17:34:20+00:00",
+ "updated_at": "2026-11-18T17:34:20+00:00"
 }
