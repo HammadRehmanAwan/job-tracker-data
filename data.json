@@ -1,10 +1,10 @@
 {
- "total": 3509,
- "portal": 2750,
+ "total": 3510,
+ "portal": 2751,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2673,
+ "confirmations": 2674,
  "rejections": 605,
  "positives": [
   {
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 299,
+   "portal": 300,
    "email": 0,
    "linkedin": 19
   }
@@ -3405,6 +3405,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.jobs.ac.uk/job/DTN201/data-analyst"
+  },
+  {
+   "company": "Brunel University London",
+   "role": "KTP Associate - AI Software Developer 17133",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.brunel.ac.uk/vacancy/ktp-associate-ai-software-developer-17133-623318.html"
   },
   {
    "company": "Kobalt Music",
@@ -28799,7 +28807,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T18:21:02.942795+00:00",
- "updated": "2026-11-18T18:21:03+00:00",
- "updated_at": "2026-11-18T18:21:03+00:00"
+ "email_stats_updated": "2026-11-18T18:32:52.798182+00:00",
+ "updated": "2026-11-18T18:32:53+00:00",
+ "updated_at": "2026-11-18T18:32:53+00:00"
 }
