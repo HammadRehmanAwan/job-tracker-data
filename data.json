@@ -1,10 +1,10 @@
 {
- "total": 3553,
- "portal": 2794,
+ "total": 3558,
+ "portal": 2799,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2704,
+ "confirmations": 2709,
  "rejections": 610,
  "positives": [
   {
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 343,
+   "portal": 348,
    "email": 0,
    "linkedin": 19
   }
@@ -3757,6 +3757,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/5029823101"
+  },
+  {
+   "company": "EverQuote",
+   "role": "Software Engineer II, Security",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/everquote/jobs/7713262003"
+  },
+  {
+   "company": "think-cell",
+   "role": "C++ Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/think-cell/jobs/4844701101"
+  },
+  {
+   "company": "Neptune North",
+   "role": "Applied AI Engineer (Defence)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/neptunenorth/jobs/4949424101"
+  },
+  {
+   "company": "Neptune North",
+   "role": "Data Engineer (Defence) ",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/neptunenorth/jobs/4952406101"
+  },
+  {
+   "company": "Neptune North",
+   "role": "Machine Learning Engineer (Defence)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/neptunenorth/jobs/5006029101"
   },
   {
    "company": "Kobalt Music",
@@ -29151,7 +29191,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T21:16:36.127242+00:00",
- "updated": "2026-11-18T21:16:36+00:00",
- "updated_at": "2026-11-18T21:16:36+00:00"
+ "email_stats_updated": "2026-11-18T21:36:32.387960+00:00",
+ "updated": "2026-11-18T21:36:32+00:00",
+ "updated_at": "2026-11-18T21:36:32+00:00"
 }
