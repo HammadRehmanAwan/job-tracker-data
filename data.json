@@ -1,11 +1,11 @@
 {
- "total": 3480,
- "portal": 2721,
+ "total": 3481,
+ "portal": 2722,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2647,
- "rejections": 596,
+ "confirmations": 2650,
+ "rejections": 598,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 270,
+   "portal": 271,
    "email": 0,
    "linkedin": 19
   }
@@ -3173,6 +3173,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.jobsite.co.uk/job/base-software-engineer/evera-recruitment-ltd-job108336169"
+  },
+  {
+   "company": "Waterstons",
+   "role": "Service Desk Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.waterstons.com/jobs/7659662-service-desk-engineer"
   },
   {
    "company": "Kobalt Music",
@@ -28567,7 +28575,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T16:04:01.561762+00:00",
- "updated": "2026-11-18T16:04:02+00:00",
- "updated_at": "2026-11-18T16:04:02+00:00"
+ "email_stats_updated": "2026-11-18T16:16:00.211254+00:00",
+ "updated": "2026-11-18T16:16:00+00:00",
+ "updated_at": "2026-11-18T16:16:00+00:00"
 }
