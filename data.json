@@ -1,11 +1,11 @@
 {
- "total": 3326,
+ "total": 3335,
  "portal": 2585,
  "email": 558,
- "linkedin": 183,
+ "linkedin": 192,
  "bounced_emails": 23,
  "confirmations": 2549,
- "rejections": 551,
+ "rejections": 555,
  "positives": [
   {
    "company": "Curation",
@@ -340,7 +340,7 @@
    "date": "2026-11-07",
    "portal": 349,
    "email": 0,
-   "linkedin": 35
+   "linkedin": 34
   },
   {
    "date": "2026-11-08",
@@ -400,10 +400,18 @@
    "date": "2026-11-18",
    "portal": 134,
    "email": 0,
-   "linkedin": 0
+   "linkedin": 10
   }
  ],
  "recent": [
+  {
+   "company": "Digital Waffle",
+   "role": "Software Engineer",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489591034/"
+  },
   {
    "company": "N P Associates",
    "role": "Junior Network Operations Engineer (NOC / BAU)",
@@ -715,14 +723,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/digital-analyst/57498646"
-  },
-  {
-   "company": "Reed",
-   "role": "Reporting Analyst",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/reporting-analyst/57536302"
   }
  ],
  "applications": [
@@ -861,6 +861,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Digital Waffle",
+   "role": "Software Engineer",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489591034/"
   },
   {
    "company": "N P Associates",
@@ -1933,6 +1941,78 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.totaljobs.com/job/it-support/building-careers-uk-ltd-job108315819"
+  },
+  {
+   "company": "Arrows",
+   "role": "Artificial Intelligence Engineer (contract)",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491195557/"
+  },
+  {
+   "company": "Goldcrest Post London",
+   "role": "IT & Production Support Technician/Assistant",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490863537/"
+  },
+  {
+   "company": "NLB Services",
+   "role": "Service Desk Specialist",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491809712/"
+  },
+  {
+   "company": "NLB Services",
+   "role": "Service Desk Analyst L1",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491822113/"
+  },
+  {
+   "company": "Anson McCade",
+   "role": "Service Delivery Analyst",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488554018/"
+  },
+  {
+   "company": "Advanced Resource Managers",
+   "role": "Support Engineer",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490337511/"
+  },
+  {
+   "company": "Yolk Recruitment",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489090785/"
+  },
+  {
+   "company": "Vertual",
+   "role": "Technical SaaS Engineer",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490786231/"
+  },
+  {
+   "company": "Jobgether",
+   "role": "BI Engineer",
+   "date": "2026-11-18",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490835331/"
   },
   {
    "company": "Kobalt Music",
@@ -20719,14 +20799,6 @@
    "link": ""
   },
   {
-   "company": "Digital Waffle",
-   "role": "Software Engineer",
-   "date": "2026-11-07",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
    "company": "Information Tech Consultants",
    "role": "Python Developer",
    "date": "2026-11-07",
@@ -27335,7 +27407,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T09:36:44.669963+00:00",
- "updated": "2026-11-18T09:36:45+00:00",
- "updated_at": "2026-11-18T09:36:45+00:00"
+ "email_stats_updated": "2026-11-18T09:49:31.710953+00:00",
+ "updated": "2026-11-18T09:49:32+00:00",
+ "updated_at": "2026-11-18T09:49:32+00:00"
 }
