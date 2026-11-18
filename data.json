@@ -1,11 +1,11 @@
 {
- "total": 3481,
- "portal": 2722,
+ "total": 3490,
+ "portal": 2731,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2650,
- "rejections": 598,
+ "confirmations": 2656,
+ "rejections": 599,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 271,
+   "portal": 280,
    "email": 0,
    "linkedin": 19
   }
@@ -3181,6 +3181,78 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://careers.waterstons.com/jobs/7659662-service-desk-engineer"
+  },
+  {
+   "company": "natilik",
+   "role": "Conversational AI Engineer (Cognigy)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://natilik.teamtailor.com/jobs/8367204-conversational-ai-engineer-cognigy"
+  },
+  {
+   "company": "sharegain",
+   "role": "AI Software Engineer London",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.sharegain.com/jobs/7934630-ai-software-engineer-london"
+  },
+  {
+   "company": "graphcore",
+   "role": "Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/graphcore/jobs/8646993002"
+  },
+  {
+   "company": "Splunk",
+   "role": "Solutions Engineer - AI-Native Managed Services and Agentic Operations",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.cisco.com/global/en/apply?jobSeqNo=CISCISGLOBAL2029102EXTERNALENGLOBAL"
+  },
+  {
+   "company": "Cisco",
+   "role": "Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.cisco.com/global/en/apply?jobSeqNo=CISCISGLOBAL2023758EXTERNALENGLOBAL"
+  },
+  {
+   "company": "RemoteStar",
+   "role": "QA Engineer / Product Operations Engineer (Remote)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://remotestar-team.freshteam.com/jobs/C9wR2LhNlbBi/qa-engineer-product-operations-engineer-remote"
+  },
+  {
+   "company": "Costa",
+   "role": "Data Analyst (People Insights)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.dayforcehcm.com/en-GB/costa/CANDIDATEPORTAL/jobs/360921"
+  },
+  {
+   "company": "cloudflare",
+   "role": "Network Operations Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cloudflare/jobs/8311366"
+  },
+  {
+   "company": "hbs",
+   "role": "Broadcast Cloud Engineer (Video)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hbs/jobs/4767702101"
   },
   {
    "company": "Kobalt Music",
@@ -28575,7 +28647,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T16:16:00.211254+00:00",
- "updated": "2026-11-18T16:16:00+00:00",
- "updated_at": "2026-11-18T16:16:00+00:00"
+ "email_stats_updated": "2026-11-18T16:29:26.611706+00:00",
+ "updated": "2026-11-18T16:29:27+00:00",
+ "updated_at": "2026-11-18T16:29:27+00:00"
 }
