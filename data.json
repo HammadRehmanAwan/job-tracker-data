@@ -1,6 +1,6 @@
 {
- "total": 3251,
- "portal": 2510,
+ "total": 3265,
+ "portal": 2524,
  "email": 558,
  "linkedin": 183,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 59,
+   "portal": 73,
    "email": 0,
    "linkedin": 0
   }
@@ -1333,6 +1333,118 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/reporting-analyst/57473693"
+  },
+  {
+   "company": "Granite Recruitment and Consulting Limited",
+   "role": "Business Intelligence Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-intelligence-analyst/57460890"
+  },
+  {
+   "company": "Michael Page Technology",
+   "role": "Business Performance / Business Intelligence Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-performance-business-intelligence-analyst/57431496"
+  },
+  {
+   "company": "Wesleyan",
+   "role": "MI Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/mi-analyst/57535989"
+  },
+  {
+   "company": "Alexander Mae HR",
+   "role": "Business Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-analyst/57434072"
+  },
+  {
+   "company": "Zachary Daniels",
+   "role": "Digital Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/digital-analyst/57582919"
+  },
+  {
+   "company": "Sanderson ",
+   "role": "Entry Level IT Field Service Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/entry-level-it-field-service-engineer/57534894"
+  },
+  {
+   "company": "Seymour John",
+   "role": "3rd Line Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-engineer/57505290"
+  },
+  {
+   "company": "DMS Computer Recruitment",
+   "role": "3rd Line Infrastructure Engineer / 3rd Line Support",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-infrastructure-engineer-3rd-line-support/57521553"
+  },
+  {
+   "company": "Aktos",
+   "role": "Product Implementation Specialist",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/applytoaktos/jobs/5687849004"
+  },
+  {
+   "company": "HRtechX",
+   "role": "AI Implementation Consultant",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8205019003"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "AI Engineering, Growth",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204952003"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "AI Implementation Consultant",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8205017003"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "Wordpress Web Developer at CFO Insights",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/5423752003"
+  },
+  {
+   "company": "highmetric",
+   "role": "Forward Deployed AI Engineer-Anthropic-UK",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/highmetric/jobs/6164664004"
   },
   {
    "company": "Kobalt Music",
@@ -26735,7 +26847,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T08:16:39.658638+00:00",
- "updated": "2026-11-18T08:16:40+00:00",
- "updated_at": "2026-11-18T08:16:40+00:00"
+ "email_stats_updated": "2026-11-18T08:34:03.984096+00:00",
+ "updated": "2026-11-18T08:34:04+00:00",
+ "updated_at": "2026-11-18T08:34:04+00:00"
 }
