@@ -1,6 +1,6 @@
 {
- "total": 3199,
- "portal": 2458,
+ "total": 3204,
+ "portal": 2463,
  "email": 558,
  "linkedin": 183,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 7,
+   "portal": 12,
    "email": 0,
    "linkedin": 0
   }
@@ -459,6 +459,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/first-line-support-engineer/57582374"
+  },
+  {
+   "company": "LMA Recruitment",
+   "role": "1st line Helpdesk Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/1st-line-helpdesk-engineer/57582656"
+  },
+  {
+   "company": "MFK Recruitment",
+   "role": "2nd Line IT Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-it-support-engineer/57583232"
+  },
+  {
+   "company": "Proactive Appointments",
+   "role": "IT Service Desk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-service-desk-analyst/57583970"
+  },
+  {
+   "company": "Michael Page Technology",
+   "role": "Junior Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/junior-developer/57584723"
+  },
+  {
+   "company": "Frossell Recruitment",
+   "role": "Process Automation Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/process-automation-software-engineer/57436829"
   },
   {
    "company": "Kobalt Music",
@@ -683,46 +723,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8204947003"
-  },
-  {
-   "company": "c3iot",
-   "role": "Forward Deployed Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/c3iot/jobs/8581326002"
-  },
-  {
-   "company": "codalinc",
-   "role": "Full Stack Engineer ",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/codalinc/jobs/5475325008"
-  },
-  {
-   "company": "digitalassetcorp",
-   "role": "CX Software Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4371595009"
-  },
-  {
-   "company": "indiciumai",
-   "role": "AI Engineers",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/indiciumai/jobs/4684638101"
-  },
-  {
-   "company": "indiciumai",
-   "role": "Forward Deployed Software Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/indiciumai/jobs/4853142101"
   }
  ],
  "applications": [
@@ -917,6 +917,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/first-line-support-engineer/57582374"
+  },
+  {
+   "company": "LMA Recruitment",
+   "role": "1st line Helpdesk Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/1st-line-helpdesk-engineer/57582656"
+  },
+  {
+   "company": "MFK Recruitment",
+   "role": "2nd Line IT Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-it-support-engineer/57583232"
+  },
+  {
+   "company": "Proactive Appointments",
+   "role": "IT Service Desk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-service-desk-analyst/57583970"
+  },
+  {
+   "company": "Michael Page Technology",
+   "role": "Junior Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/junior-developer/57584723"
+  },
+  {
+   "company": "Frossell Recruitment",
+   "role": "Process Automation Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/process-automation-software-engineer/57436829"
   },
   {
    "company": "Kobalt Music",
@@ -26320,6 +26360,6 @@
   }
  ],
  "email_stats_updated": "2026-11-18T07:33:32.113237+00:00",
- "updated": "2026-11-18T07:33:32+00:00",
- "updated_at": "2026-11-18T07:33:32+00:00"
+ "updated": "2026-11-18T07:39:46+00:00",
+ "updated_at": "2026-11-18T07:39:46+00:00"
 }
