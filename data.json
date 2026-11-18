@@ -1,6 +1,6 @@
 {
- "total": 3335,
- "portal": 2585,
+ "total": 3362,
+ "portal": 2612,
  "email": 558,
  "linkedin": 192,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 134,
+   "portal": 161,
    "email": 0,
    "linkedin": 10
   }
@@ -2013,6 +2013,222 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490835331/"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "IT Support Engineer Trainee",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer-trainee/57586208"
+  },
+  {
+   "company": "Nigel Wright Group",
+   "role": "IT Field Engineer - Luton",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-field-engineer-luton/57586271"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "Trainee IT Support Technician",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/trainee-it-support-technician/57586205"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "Trainee IT Support Assistant",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/trainee-it-support-assistant/57586203"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "IT Assistant Trainee",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-assistant-trainee/57586190"
+  },
+  {
+   "company": "Ernest Gordon Recruitment",
+   "role": "Project Coordinator (Engineering Graduate)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/project-coordinator-engineering-graduate/ernest-gordon-recruitment-job108328817"
+  },
+  {
+   "company": "Ernest Gordon Recruitment",
+   "role": "Graduate Quality Inspector (Precision Engineering)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/graduate-quality-inspector-precision-engineering/ernest-gordon-recruitment-job108328460"
+  },
+  {
+   "company": "TALENT LEADERS LTD",
+   "role": "Graduate Sofware Systems Support x2 - SQL, Linux, WMS, Logistics",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/graduate-sofware-systems-support-x2-sql-linux-wms-logistics/talent-leaders-ltd-job108327553"
+  },
+  {
+   "company": "MTrec Technical",
+   "role": "Graduate Manufacturing Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/graduate-manufacturing-engineer/mtrec-technical-job108321107"
+  },
+  {
+   "company": "Redline Group Ltd",
+   "role": "Robotics Software Engineer - C++ ROS2",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/robotics-software-engineer-c-ros2/redline-group-ltd-job108337106"
+  },
+  {
+   "company": "Simplex Services (UK) Ltd",
+   "role": "Java Full Stack Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/java-full-stack-developer/simplex-services-uk-ltd-job108333118"
+  },
+  {
+   "company": "Enterprise Recruitment Limited",
+   "role": "Contract Software Engineers \u2013 C# & C++ (Linux)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/contract-software-engineers-c-c-linux/enterprise-recruitment-limited-job108332234"
+  },
+  {
+   "company": "ASC Connections Ltd",
+   "role": "Electronics Test Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/electronics-engineer/asc-connections-ltd-job108329752"
+  },
+  {
+   "company": "Sanderson Recruitment",
+   "role": "Agentic AI Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/agentic-ai-software-engineer/sanderson-recruitment-job108329572"
+  },
+  {
+   "company": "KO2 Embedded Recruitment Solutions LTD",
+   "role": "PC Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/pc-software-engineer/ko2-embedded-recruitment-solutions-ltd-job108326246"
+  },
+  {
+   "company": "Client Server",
+   "role": "Backend Software Engineer C Linux OpenSSL",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/backend-software-engineer-c-linux-openssl/client-server-job108325770"
+  },
+  {
+   "company": "APRIL QUEST LIMITED",
+   "role": "Software Engineer C# .NET",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/software-engineer-c-net/april-quest-limited-job108321822"
+  },
+  {
+   "company": "Dragonfly IT Resources",
+   "role": "Snr Technical Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/snr-technical-support-engineer/dragonfly-it-resources-job108320707"
+  },
+  {
+   "company": "Sterling Bridge Limited",
+   "role": "Applied AI Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/applied-ai-engineer/sterling-bridge-limited-job108317273"
+  },
+  {
+   "company": "Adria Solutions",
+   "role": "AI Software Engineer  X 2",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/ai-software-engineer-x-2/adria-solutions-job108316217"
+  },
+  {
+   "company": "Lorien Resourcing Limited",
+   "role": "Implementation Consultant (SQL) - Glasgow/Edinburgh - 56K",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/implementation-consultant-sql-glasgow-edinburgh-56k/lorien-resourcing-limited-job108312360"
+  },
+  {
+   "company": "EUROPEAN SOFTWARE SOLUTIONS (UK) LIMITED",
+   "role": "Automation Test Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/automation-test-engineer/european-software-solutions-uk-limited-job108312088"
+  },
+  {
+   "company": "Morson Edge",
+   "role": "Software Engineer - Java - Node - Remote - Inside IR35",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/software-engineer-java-node-remote-inside-ir35/morson-edge-job108336343"
+  },
+  {
+   "company": "Erin Associates",
+   "role": "Front-End Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/front-end-software-engineer/erin-associates-job108318705"
+  },
+  {
+   "company": "Fruition Group",
+   "role": "Security AI Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/security-ai-engineer/fruition-group-job108326365"
+  },
+  {
+   "company": "Adria Solutions",
+   "role": "AI Engineer (Agentic AI)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/ai-engineer-agentic-ai/adria-solutions-job108320660"
+  },
+  {
+   "company": "Exalto Consulting ltd",
+   "role": "Fullstack Developer - \u00a3420p/d Inside IR35 - Remote",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/fullstack-developer-420p-d-inside-ir35-remote/exalto-consulting-ltd-job108336166"
   },
   {
    "company": "Kobalt Music",
@@ -27407,7 +27623,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T09:49:31.710953+00:00",
- "updated": "2026-11-18T09:49:32+00:00",
- "updated_at": "2026-11-18T09:49:32+00:00"
+ "email_stats_updated": "2026-11-18T09:57:23.873333+00:00",
+ "updated": "2026-11-18T09:57:24+00:00",
+ "updated_at": "2026-11-18T09:57:24+00:00"
 }
