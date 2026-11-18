@@ -1,10 +1,10 @@
 {
- "total": 3518,
- "portal": 2759,
+ "total": 3524,
+ "portal": 2765,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2680,
+ "confirmations": 2683,
  "rejections": 605,
  "positives": [
   {
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 308,
+   "portal": 314,
    "email": 0,
    "linkedin": 19
   }
@@ -3477,6 +3477,54 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.cv-library.co.uk/job/225850392/ai-data-scientist"
+  },
+  {
+   "company": "Optiver",
+   "role": "Cloud Infrastructure Engineer - Digital Assets",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/optiverus/jobs/8452858002"
+  },
+  {
+   "company": "Qube Research & Technologies",
+   "role": "Data Scientist - Market Data",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8551885002"
+  },
+  {
+   "company": "Huxley Associates",
+   "role": "XVA Application Developer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.cv-library.co.uk/job/225841205/xva-application-developer"
+  },
+  {
+   "company": "Huxley Associates",
+   "role": "Java Developer Bank",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.cv-library.co.uk/job/225845144/java-developer-bank"
+  },
+  {
+   "company": "Michael Page",
+   "role": "Cyber Security Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.cv-library.co.uk/job/225847228/cyber-security-engineer"
+  },
+  {
+   "company": "Opus Recruitment Solutions",
+   "role": "Forward Deployed Engineer - AI",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.cv-library.co.uk/job/225851324/forward-deployed-engineer-ai"
   },
   {
    "company": "Kobalt Music",
@@ -28871,7 +28919,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T19:20:51.853387+00:00",
- "updated": "2026-11-18T19:20:52+00:00",
- "updated_at": "2026-11-18T19:20:52+00:00"
+ "email_stats_updated": "2026-11-18T19:31:54.913207+00:00",
+ "updated": "2026-11-18T19:31:55+00:00",
+ "updated_at": "2026-11-18T19:31:55+00:00"
 }
