@@ -1,10 +1,10 @@
 {
- "total": 3559,
- "portal": 2800,
+ "total": 3561,
+ "portal": 2802,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2712,
+ "confirmations": 2715,
  "rejections": 611,
  "positives": [
   {
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 349,
+   "portal": 351,
    "email": 0,
    "linkedin": 19
   }
@@ -3805,6 +3805,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.jobs.ac.uk/job/DTR538/research-assistant-in-digital-twin-platform-development"
+  },
+  {
+   "company": "NHS South Yorkshire ICB",
+   "role": "Associate Data Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/D9133-2003"
+  },
+  {
+   "company": "Northern Care Alliance NHS FT",
+   "role": "Application Support Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9236-26-00001"
   },
   {
    "company": "Kobalt Music",
@@ -29199,7 +29215,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T22:42:59.784677+00:00",
- "updated": "2026-11-18T22:43:00+00:00",
- "updated_at": "2026-11-18T22:43:00+00:00"
+ "email_stats_updated": "2026-11-18T23:06:44.468997+00:00",
+ "updated": "2026-11-18T23:06:44+00:00",
+ "updated_at": "2026-11-18T23:06:44+00:00"
 }
