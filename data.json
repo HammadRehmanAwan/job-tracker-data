@@ -1,6 +1,6 @@
 {
- "total": 3208,
- "portal": 2467,
+ "total": 3225,
+ "portal": 2484,
  "email": 558,
  "linkedin": 183,
  "bounced_emails": 23,
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 16,
+   "portal": 33,
    "email": 0,
    "linkedin": 0
   }
@@ -533,6 +533,142 @@
    "link": "https://www.reed.co.uk/jobs/software-developer/57523841"
   },
   {
+   "company": "Profile 29",
+   "role": "Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57471240"
+  },
+  {
+   "company": "supabase",
+   "role": "Support Engineer (EMEA)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/c01f7436-1fdd-4a3e-8b96-8cadc33b006e"
+  },
+  {
+   "company": "supabase",
+   "role": "Support Engineer (EMEA - Weekends)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/590a0742-97f1-47f4-81a2-567efc939ae2"
+  },
+  {
+   "company": "adaptyv",
+   "role": "Software Engineer, Product",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/adaptyv/624170d8-3cee-4859-a1ea-e74658d0b50c"
+  },
+  {
+   "company": "Kenneth Brian Associates Limited",
+   "role": "3rd Line IT Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-it-support-engineer/57508944"
+  },
+  {
+   "company": "Samsara",
+   "role": "Business Technology Support Specialist",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/samsara/jobs/8337515"
+  },
+  {
+   "company": "DMS Computer Recruitment",
+   "role": "3rd Line Support (Networking)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-support-networking/57473449"
+  },
+  {
+   "company": "amplemarket",
+   "role": "Spontaneous Application - Data Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101"
+  },
+  {
+   "company": "amplemarket",
+   "role": "Frontend Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4488062101"
+  },
+  {
+   "company": "neo4j",
+   "role": "Software Engineering - Clustering & Distributed Systems",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/neo4j/jobs/4714099006"
+  },
+  {
+   "company": "GreatFind Recruitment",
+   "role": "IT Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57568884"
+  },
+  {
+   "company": "Two Six Recruitment Limited",
+   "role": "3rd Line Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer/57572126"
+  },
+  {
+   "company": "paysend",
+   "role": "QA Automation Engineer / SDET",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://paysend.teamtailor.com/jobs/8748487-qa-automation-engineer-sdet"
+  },
+  {
+   "company": "Xact Placements Limited",
+   "role": "IT Technician - Slough",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-technician-slough/57581785"
+  },
+  {
+   "company": "Livestock Information",
+   "role": "Azure Integration Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/livestock-information/j/E5B85A604D"
+  },
+  {
+   "company": "Geo Services",
+   "role": "Commercial IT Operations Specialist",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/acteon/j/AAE2553F23"
+  },
+  {
+   "company": "People First",
+   "role": "IT Support Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-analyst/57582648"
+  },
+  {
    "company": "Kobalt Music",
    "role": "IT Support Engineer",
    "date": "2026-11-17",
@@ -587,142 +723,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/DatologyAI/4c20a093-1476-4f2a-b049-26bdb05c1f65"
-  },
-  {
-   "company": "delos-data",
-   "role": "Forward Deployed Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/delos-data/90eb5c34-33ea-445a-a7a1-0bec19426c05"
-  },
-  {
-   "company": "goteleport",
-   "role": "Site Reliability Engineer (Forward Deployed)",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/goteleport/219963ed-01b6-4e78-a9c8-7048c0109141"
-  },
-  {
-   "company": "hirehire",
-   "role": "Harness Research Engineer | 36labs",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/hirehire/64c52043-cb88-4aa7-9d98-35efd4e6f5c9"
-  },
-  {
-   "company": "namespace",
-   "role": "DevOps Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/namespace/ffb1d2d1-84ea-41b2-8c23-0842ade25f68"
-  },
-  {
-   "company": "novogaia",
-   "role": "ML Research Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/Novogaia/c5fa8f21-1f21-40ba-b093-76710769c866"
-  },
-  {
-   "company": "strider-technologies",
-   "role": "Forward Deployed Engineer - UK/EU",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/strider-technologies/f28e980a-2232-4be7-8791-55cbd2f5b584"
-  },
-  {
-   "company": "marqeta-inc",
-   "role": "Production Support Engineer II - UK",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/marqeta-inc/d2efdbf1-317d-429e-a80b-6b12da74c21b"
-  },
-  {
-   "company": "hrtechx",
-   "role": "AI Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8205001003"
-  },
-  {
-   "company": "privateequityinsights",
-   "role": "AI Engineering, Growth",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8204950003"
-  },
-  {
-   "company": "retailinsights",
-   "role": "Wordpress Web Developer at Retail Insights",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/retailinsights/jobs/5423770003"
-  },
-  {
-   "company": "setsales",
-   "role": "Wordpress Web Developer at SetSales",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/setsales/jobs/5423773003"
-  },
-  {
-   "company": "unitedmedia",
-   "role": "AI Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8205002003"
-  },
-  {
-   "company": "unitedmedia",
-   "role": "AI Engineer, Growth",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8204948003"
-  },
-  {
-   "company": "unitedmedia",
-   "role": "AI Engineering, Growth",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8204951003"
-  },
-  {
-   "company": "cfoinsights",
-   "role": "AI Automation Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204989003"
-  },
-  {
-   "company": "cfoinsights",
-   "role": "AI Engineer",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204999003"
-  },
-  {
-   "company": "cfoinsights",
-   "role": "AI Engineer, Growth",
-   "date": "2026-11-17",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8204946003"
   }
  ],
  "applications": [
@@ -989,6 +989,142 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/software-developer/57523841"
+  },
+  {
+   "company": "Profile 29",
+   "role": "Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57471240"
+  },
+  {
+   "company": "supabase",
+   "role": "Support Engineer (EMEA)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/c01f7436-1fdd-4a3e-8b96-8cadc33b006e"
+  },
+  {
+   "company": "supabase",
+   "role": "Support Engineer (EMEA - Weekends)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/supabase/590a0742-97f1-47f4-81a2-567efc939ae2"
+  },
+  {
+   "company": "adaptyv",
+   "role": "Software Engineer, Product",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/adaptyv/624170d8-3cee-4859-a1ea-e74658d0b50c"
+  },
+  {
+   "company": "Kenneth Brian Associates Limited",
+   "role": "3rd Line IT Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-it-support-engineer/57508944"
+  },
+  {
+   "company": "Samsara",
+   "role": "Business Technology Support Specialist",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/samsara/jobs/8337515"
+  },
+  {
+   "company": "DMS Computer Recruitment",
+   "role": "3rd Line Support (Networking)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-support-networking/57473449"
+  },
+  {
+   "company": "amplemarket",
+   "role": "Spontaneous Application - Data Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101"
+  },
+  {
+   "company": "amplemarket",
+   "role": "Frontend Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4488062101"
+  },
+  {
+   "company": "neo4j",
+   "role": "Software Engineering - Clustering & Distributed Systems",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/neo4j/jobs/4714099006"
+  },
+  {
+   "company": "GreatFind Recruitment",
+   "role": "IT Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57568884"
+  },
+  {
+   "company": "Two Six Recruitment Limited",
+   "role": "3rd Line Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer/57572126"
+  },
+  {
+   "company": "paysend",
+   "role": "QA Automation Engineer / SDET",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://paysend.teamtailor.com/jobs/8748487-qa-automation-engineer-sdet"
+  },
+  {
+   "company": "Xact Placements Limited",
+   "role": "IT Technician - Slough",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-technician-slough/57581785"
+  },
+  {
+   "company": "Livestock Information",
+   "role": "Azure Integration Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/livestock-information/j/E5B85A604D"
+  },
+  {
+   "company": "Geo Services",
+   "role": "Commercial IT Operations Specialist",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/acteon/j/AAE2553F23"
+  },
+  {
+   "company": "People First",
+   "role": "IT Support Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-analyst/57582648"
   },
   {
    "company": "Kobalt Music",
@@ -26391,7 +26527,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T07:43:20.449532+00:00",
- "updated": "2026-11-18T07:43:20+00:00",
- "updated_at": "2026-11-18T07:43:20+00:00"
+ "email_stats_updated": "2026-11-18T08:02:41.765293+00:00",
+ "updated": "2026-11-18T08:02:42+00:00",
+ "updated_at": "2026-11-18T08:02:42+00:00"
 }
