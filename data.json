@@ -1,10 +1,10 @@
 {
- "total": 3513,
- "portal": 2754,
+ "total": 3518,
+ "portal": 2759,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2676,
+ "confirmations": 2680,
  "rejections": 605,
  "positives": [
   {
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 303,
+   "portal": 308,
    "email": 0,
    "linkedin": 19
   }
@@ -3437,6 +3437,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://hrsystems.admin.cam.ac.uk/recruit-ui/pages/auth/registerConfirmation.xhtml?vacancyRef=RS51558"
+  },
+  {
+   "company": "Replit",
+   "role": "Forward Deployed Engineer (UK)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/replit/f32821e3-8b65-4565-b12f-3a2f3e399fb9"
+  },
+  {
+   "company": "Exegy",
+   "role": "Production Support & Monitoring Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/exegy/926dc44a-1b79-4a2f-b7c3-ea36ffff0fa3"
+  },
+  {
+   "company": "Genomics England",
+   "role": "QA Engineer - Python, Automation (offices in Cambridge, Leeds and London)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/GenomicsEngland/744000162370837-qa-engineer-python-automation-we-have-office-locations-in-cambridge-leeds-and-london-"
+  },
+  {
+   "company": "Genomics England",
+   "role": "QA Engineer - Java, Automation, 12 Month FTC (offices in Cambridge, Leeds and London)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.smartrecruiters.com/GenomicsEngland/744000161537328-qa-engineer-java-automation-12-month-ftc-we-have-office-locations-in-cambridge-leeds-and-london-"
+  },
+  {
+   "company": "J. Murphy & Sons Ltd",
+   "role": "AI - Data Scientist",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.cv-library.co.uk/job/225850392/ai-data-scientist"
   },
   {
    "company": "Kobalt Music",
@@ -28831,7 +28871,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T18:58:03.025304+00:00",
- "updated": "2026-11-18T18:58:03+00:00",
- "updated_at": "2026-11-18T18:58:03+00:00"
+ "email_stats_updated": "2026-11-18T19:20:51.853387+00:00",
+ "updated": "2026-11-18T19:20:52+00:00",
+ "updated_at": "2026-11-18T19:20:52+00:00"
 }
