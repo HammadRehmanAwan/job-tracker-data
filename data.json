@@ -1,10 +1,10 @@
 {
- "total": 3536,
- "portal": 2777,
+ "total": 3545,
+ "portal": 2786,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2696,
+ "confirmations": 2698,
  "rejections": 609,
  "positives": [
   {
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 326,
+   "portal": 335,
    "email": 0,
    "linkedin": 19
   }
@@ -3621,6 +3621,78 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/dynamic-creatures/90aed7a8-74b9-46c9-9ab4-12bda5180acc"
+  },
+  {
+   "company": "Capital Group",
+   "role": "Software Development Engineer II",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/London/Software-Development-Engineer-II_JR7807"
+  },
+  {
+   "company": "Rolls-Royce",
+   "role": "Product Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/London-North-Pole/Product-Support-Engineer_JR6161018-1"
+  },
+  {
+   "company": "Cisco",
+   "role": "Software Engineer - Platform Services",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Cloud-Engineer_2025804-1"
+  },
+  {
+   "company": "GSK",
+   "role": "AI/ML Engineer (Agentic Engineering) - AI for Portfolio Strategy",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/AI-ML-Engineer--Agentic-Engineering----AI-for-Portfolio-Strategy_451667-1"
+  },
+  {
+   "company": "Expedia",
+   "role": "Data Scientist II, Analytics",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-II--Analytics_R-111224-1"
+  },
+  {
+   "company": "Expedia",
+   "role": "Software Development Engineer II",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-II_R-111232"
+  },
+  {
+   "company": "AstraZeneca",
+   "role": "Business AI Coordinator",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---London/Business-AI-Coordinator_R-263815"
+  },
+  {
+   "company": "LSEG",
+   "role": "Platform Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Platform-Engineer_R0121052-1"
+  },
+  {
+   "company": "LSEG",
+   "role": "Data Scientist CTOO",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Data-Scientist-CTOO_R0124850"
   },
   {
    "company": "Kobalt Music",
@@ -29015,7 +29087,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T20:17:56.796311+00:00",
- "updated": "2026-11-18T20:17:57+00:00",
- "updated_at": "2026-11-18T20:17:57+00:00"
+ "email_stats_updated": "2026-11-18T20:34:12.718148+00:00",
+ "updated": "2026-11-18T20:34:13+00:00",
+ "updated_at": "2026-11-18T20:34:13+00:00"
 }
