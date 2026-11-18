@@ -1,11 +1,11 @@
 {
- "total": 3524,
- "portal": 2765,
+ "total": 3529,
+ "portal": 2770,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2683,
- "rejections": 605,
+ "confirmations": 2686,
+ "rejections": 606,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 314,
+   "portal": 319,
    "email": 0,
    "linkedin": 19
   }
@@ -3525,6 +3525,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.cv-library.co.uk/job/225851324/forward-deployed-engineer-ai"
+  },
+  {
+   "company": "Lightning AI",
+   "role": "Infrastructure Engineer (Storage)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/lightningai/jobs/7718708003"
+  },
+  {
+   "company": "Lightning AI",
+   "role": "Infrastructure Engineer (GPU & Compute)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/lightningai/jobs/7722285003"
+  },
+  {
+   "company": "Claranet",
+   "role": "On Site Support Engineer (London)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://claranet.jobs/recruit/fRecruit__ApplyJob?vacancyNo=VN566"
+  },
+  {
+   "company": "VIQU IT",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.cv-library.co.uk/job/225848956/infrastructure-engineer"
+  },
+  {
+   "company": "Ncounter Limited",
+   "role": "Python Developer \u2013 Reliability",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.cv-library.co.uk/job/225836878/python-developer-reliability"
   },
   {
    "company": "Kobalt Music",
@@ -28919,7 +28959,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T19:31:54.913207+00:00",
- "updated": "2026-11-18T19:31:55+00:00",
- "updated_at": "2026-11-18T19:31:55+00:00"
+ "email_stats_updated": "2026-11-18T19:44:14.871611+00:00",
+ "updated": "2026-11-18T19:44:15+00:00",
+ "updated_at": "2026-11-18T19:44:15+00:00"
 }
