@@ -1,11 +1,11 @@
 {
- "total": 3545,
- "portal": 2786,
+ "total": 3550,
+ "portal": 2791,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2698,
- "rejections": 609,
+ "confirmations": 2701,
+ "rejections": 610,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 335,
+   "portal": 340,
    "email": 0,
    "linkedin": 19
   }
@@ -3693,6 +3693,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Data-Scientist-CTOO_R0124850"
+  },
+  {
+   "company": "Barclays",
+   "role": "AI Data Engineer - KDB",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/AI-Data-Engineer---KDB_JR-0000104455-2"
+  },
+  {
+   "company": "Barclays",
+   "role": "AI Delivery Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/AI-Delivery-Analyst_JR-0000139963-1"
+  },
+  {
+   "company": "getscope",
+   "role": "Integrations Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/getscope/fb71d4e9-df7f-4edb-950a-9c8795de2c1c"
+  },
+  {
+   "company": "sourcedev",
+   "role": "Performance Engineer  ",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sourcedev/3365f30d-5b3e-4c47-8901-34480d3e1bd0"
+  },
+  {
+   "company": "thinkcellsoftware",
+   "role": "C++ Developer (f/m/d)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101"
   },
   {
    "company": "Kobalt Music",
@@ -29087,7 +29127,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T20:34:12.718148+00:00",
- "updated": "2026-11-18T20:34:13+00:00",
- "updated_at": "2026-11-18T20:34:13+00:00"
+ "email_stats_updated": "2026-11-18T20:42:16.450340+00:00",
+ "updated": "2026-11-18T20:42:16+00:00",
+ "updated_at": "2026-11-18T20:42:16+00:00"
 }
