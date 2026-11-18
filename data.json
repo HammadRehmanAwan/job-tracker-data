@@ -1,10 +1,10 @@
 {
- "total": 3470,
- "portal": 2711,
+ "total": 3476,
+ "portal": 2717,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2623,
+ "confirmations": 2640,
  "rejections": 595,
  "positives": [
   {
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 260,
+   "portal": 266,
    "email": 0,
    "linkedin": 19
   }
@@ -3093,6 +3093,54 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/insight-investment/j/A47272AD69"
+  },
+  {
+   "company": "Business Essential Services Ltd trading as Bionic",
+   "role": "Mid-Level QA Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/9754F3B5B4/apply"
+  },
+  {
+   "company": "Fuku",
+   "role": "DevOps Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/22422E2549/apply"
+  },
+  {
+   "company": "Minerva Defence",
+   "role": "Validation & Test Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/A1C403F6B2/apply"
+  },
+  {
+   "company": "Zaizi",
+   "role": "Test Engineer (SFIA 3)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/F0F0FF5430/apply"
+  },
+  {
+   "company": "Solidus",
+   "role": "IT Support Engineer (1st and 2nd Line)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer-1st-and-2nd-line/57588998"
+  },
+  {
+   "company": "Office Angels",
+   "role": "IT Support / Support Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-support-engineer/57588907"
   },
   {
    "company": "Kobalt Music",
@@ -28487,7 +28535,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T15:12:55.900678+00:00",
- "updated": "2026-11-18T15:12:56+00:00",
- "updated_at": "2026-11-18T15:12:56+00:00"
+ "email_stats_updated": "2026-11-18T15:32:25.341219+00:00",
+ "updated": "2026-11-18T15:32:25+00:00",
+ "updated_at": "2026-11-18T15:32:25+00:00"
 }
