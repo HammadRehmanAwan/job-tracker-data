@@ -1,11 +1,11 @@
 {
- "total": 3501,
- "portal": 2742,
+ "total": 3508,
+ "portal": 2749,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2665,
- "rejections": 603,
+ "confirmations": 2672,
+ "rejections": 604,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 291,
+   "portal": 298,
    "email": 0,
    "linkedin": 19
   }
@@ -3341,6 +3341,62 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8204990003"
+  },
+  {
+   "company": "flintbishop",
+   "role": "Data Scientist",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.flintbishop.co.uk/en/postings/9b93e32e-8455-41f6-9fda-fd4e4b064169"
+  },
+  {
+   "company": "Capitex",
+   "role": "Job Title: KYC QA Tester - Contract (London-Based)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/capitex/j/73032EF543"
+  },
+  {
+   "company": "Capitex",
+   "role": "UK - AML Analytics Specialist (Power BI / Tableau)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/0B194FE6A4/apply"
+  },
+  {
+   "company": "Much Better Adventures",
+   "role": "Product Engineer (Activate / Engagement)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/D1D917FF76/apply"
+  },
+  {
+   "company": "7IM",
+   "role": "Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.7im.co.uk/vacancies/653/software-engineer.html"
+  },
+  {
+   "company": "Lifeline IT",
+   "role": "Helpdesk Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://app.webrecruit.co/JobSeeker/Apply/DdjFaiT43zVL_mpqJQV01zZb7cWRctR4pDE9BaphtCI"
+  },
+  {
+   "company": "Superscript",
+   "role": "IT Operations Support Technician",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.gosuperscript.com/jobs/8718649-it-operations-support-technician"
   },
   {
    "company": "Kobalt Music",
@@ -28735,7 +28791,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T17:45:02.644361+00:00",
- "updated": "2026-11-18T17:45:03+00:00",
- "updated_at": "2026-11-18T17:45:03+00:00"
+ "email_stats_updated": "2026-11-18T17:58:26.349508+00:00",
+ "updated": "2026-11-18T17:58:26+00:00",
+ "updated_at": "2026-11-18T17:58:26+00:00"
 }
