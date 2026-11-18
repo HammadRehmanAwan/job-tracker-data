@@ -1,11 +1,11 @@
 {
- "total": 3529,
- "portal": 2770,
+ "total": 3536,
+ "portal": 2777,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2686,
- "rejections": 606,
+ "confirmations": 2694,
+ "rejections": 609,
  "positives": [
   {
    "company": "Curation",
@@ -398,7 +398,7 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 319,
+   "portal": 326,
    "email": 0,
    "linkedin": 19
   }
@@ -3565,6 +3565,62 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.cv-library.co.uk/job/225836878/python-developer-reliability"
+  },
+  {
+   "company": "sparta-commodities",
+   "role": "Developer Experience Engineer - AI SDLC",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sparta-commodities/d33ba28d-3457-4602-b156-f7599e3020fa"
+  },
+  {
+   "company": "Reasonable AI",
+   "role": "Forward Deployed Engineer (FDE)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/24F3172C58/apply"
+  },
+  {
+   "company": "e-Careers Limited",
+   "role": "Software Developer Trainee",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/5049C7B338/apply"
+  },
+  {
+   "company": "Indra Group UK & Ireland",
+   "role": "Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/7A18F173B5/apply"
+  },
+  {
+   "company": "Indra Group UK & Ireland",
+   "role": "Deployment and Integration Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/575A90462A/apply"
+  },
+  {
+   "company": "Rockstar",
+   "role": "QA Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/A8D0171731/apply"
+  },
+  {
+   "company": "dynamic-creatures",
+   "role": "Robotics Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/dynamic-creatures/90aed7a8-74b9-46c9-9ab4-12bda5180acc"
   },
   {
    "company": "Kobalt Music",
@@ -28959,7 +29015,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T19:44:14.871611+00:00",
- "updated": "2026-11-18T19:44:15+00:00",
- "updated_at": "2026-11-18T19:44:15+00:00"
+ "email_stats_updated": "2026-11-18T20:05:35.040648+00:00",
+ "updated": "2026-11-18T20:05:35+00:00",
+ "updated_at": "2026-11-18T20:05:35+00:00"
 }
