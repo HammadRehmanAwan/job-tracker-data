@@ -1,6 +1,6 @@
 {
- "total": 3576,
- "portal": 2817,
+ "total": 3577,
+ "portal": 2818,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
@@ -412,7 +412,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 11,
+   "portal": 12,
    "email": 0,
    "linkedin": 0
   }
@@ -505,6 +505,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://uktv.pinpointhq.com/en/postings/487da793-571d-4966-ac04-fe07e7c90612"
+  },
+  {
+   "company": "accelercomm",
+   "role": "Software Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://accelercomm.pinpointhq.com/en/postings/ba6f3e2b-248f-4222-9431-d1221209744a"
   },
   {
    "company": "Digital Waffle",
@@ -729,14 +737,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-engineer/57568884"
-  },
-  {
-   "company": "Two Six Recruitment Limited",
-   "role": "3rd Line Support Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer/57572126"
   }
  ],
  "applications": [
@@ -963,6 +963,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://uktv.pinpointhq.com/en/postings/487da793-571d-4966-ac04-fe07e7c90612"
+  },
+  {
+   "company": "accelercomm",
+   "role": "Software Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://accelercomm.pinpointhq.com/en/postings/ba6f3e2b-248f-4222-9431-d1221209744a"
   },
   {
    "company": "Digital Waffle",
@@ -29349,7 +29357,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T05:43:25.016585+00:00",
- "updated": "2026-11-19T05:43:25+00:00",
- "updated_at": "2026-11-19T05:43:25+00:00"
+ "email_stats_updated": "2026-11-19T05:59:38.820489+00:00",
+ "updated": "2026-11-19T05:59:39+00:00",
+ "updated_at": "2026-11-19T05:59:39+00:00"
 }
