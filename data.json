@@ -266,10 +266,11 @@
   {
    "company": "Quantum Loop AI (AI/ML & Prompt Engineer) - assessment",
    "note": "Moved forward after the video interview: invited to a ~26-minute online assessment (Verbal Comprehension, Attention & focus); complete within 48 hours of the email at 1:22pm UK Tue 17 Nov (by about 1:22pm UK Thu 19 Nov); link in the Workable email",
-   "status": "remaining",
-   "action": "",
-   "due": "",
-   "done_on": ""
+   "status": "done",
+   "action": "Workable assessment (AI/ML & Prompt Engineer: Verbal Comprehension + Attention & focus)",
+   "due": "2026-11-19T13:22:00+00:00",
+   "done_on": "2026-11-19",
+   "key": "quantumloopai-assessment"
   },
   {
    "company": "Cambridge University Hospitals (Addenbrooke's) - Digital Systems Analyst / Clinical Analyst (180-B-CVA1346)",
@@ -297,8 +298,8 @@
   }
  ],
  "positive_count": 33,
- "positives_done": 23,
- "positives_remaining": 10,
+ "positives_done": 24,
+ "positives_remaining": 9,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -29358,6 +29359,6 @@
   }
  ],
  "email_stats_updated": "2026-11-19T08:01:05.361442+00:00",
- "updated": "2026-11-19T08:01:06+00:00",
- "updated_at": "2026-11-19T08:01:06+00:00"
+ "updated": "2026-11-19T08:11:44+00:00",
+ "updated_at": "2026-11-19T08:11:44+00:00"
 }
