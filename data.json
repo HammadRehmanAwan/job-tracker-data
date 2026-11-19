@@ -1,11 +1,11 @@
 {
- "total": 3582,
- "portal": 2823,
+ "total": 3583,
+ "portal": 2824,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2728,
- "rejections": 630,
+ "confirmations": 2729,
+ "rejections": 633,
  "positives": [
   {
    "company": "Curation",
@@ -413,7 +413,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 17,
+   "portal": 18,
    "email": 0,
    "linkedin": 0
   }
@@ -554,6 +554,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/cloudflare/jobs/8398779"
+  },
+  {
+   "company": "Capital on Tap",
+   "role": "Frontend Software Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/capitalontap/jobs/8924924002"
   },
   {
    "company": "Digital Waffle",
@@ -730,14 +738,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/3rd-line-it-support-engineer/57508944"
-  },
-  {
-   "company": "Samsara",
-   "role": "Business Technology Support Specialist",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/samsara/jobs/8337515"
   }
  ],
  "applications": [
@@ -1012,6 +1012,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/cloudflare/jobs/8398779"
+  },
+  {
+   "company": "Capital on Tap",
+   "role": "Frontend Software Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/capitalontap/jobs/8924924002"
   },
   {
    "company": "Digital Waffle",
@@ -29398,7 +29406,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T10:50:04.538155+00:00",
- "updated": "2026-11-19T10:50:04+00:00",
- "updated_at": "2026-11-19T10:50:05+00:00"
+ "email_stats_updated": "2026-11-19T11:05:31.500605+00:00",
+ "updated": "2026-11-19T11:05:31+00:00",
+ "updated_at": "2026-11-19T11:05:31+00:00"
 }
