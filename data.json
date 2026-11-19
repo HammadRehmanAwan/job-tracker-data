@@ -1,6 +1,6 @@
 {
- "total": 3636,
- "portal": 2852,
+ "total": 3646,
+ "portal": 2862,
  "email": 558,
  "linkedin": 226,
  "bounced_emails": 23,
@@ -429,7 +429,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 47,
+   "portal": 57,
    "email": 0,
    "linkedin": 27
   }
@@ -1484,6 +1484,86 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/virtual-desktop-engineer/57566278"
+  },
+  {
+   "company": "Page Group",
+   "role": "Business Systems Analyst (AI & Change)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-systems-analyst-ai-change/57580252"
+  },
+  {
+   "company": "Pontoon",
+   "role": "C# .Net Developer (WPF, Winforms)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/c-net-developer-wpf-winforms/57437727"
+  },
+  {
+   "company": "Pontoon",
+   "role": "Data Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57572031"
+  },
+  {
+   "company": "Reed",
+   "role": "EUC Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/euc-engineer/57584064"
+  },
+  {
+   "company": "Searchability NS&D",
+   "role": "Contract Test Engineer (Goggle Gemini)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/contract-test-engineer-goggle-gemini/57589887"
+  },
+  {
+   "company": "NXA Talent Ltd",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/full-stack-engineer/57589699"
+  },
+  {
+   "company": "Randstad Technologies",
+   "role": "Service Desk 2nd 3rd Line",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/service-desk-2nd-3rd-line/57591001"
+  },
+  {
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "AI Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-engineer/57583652"
+  },
+  {
+   "company": "Butler Rose",
+   "role": "Business Analyst | Power BI | \u00a360,000 + Bonus",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-analyst--power-bi--60000--bonus/57442576"
+  },
+  {
+   "company": "Tenth Revolution Group",
+   "role": "Business Analyst - London - \u00a360-70k",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-analyst-london-60-70k/57475084"
   },
   {
    "company": "Digital Waffle",
@@ -29846,7 +29926,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T16:50:45.481305+00:00",
- "updated": "2026-11-19T16:50:45+00:00",
- "updated_at": "2026-11-19T16:50:45+00:00"
+ "email_stats_updated": "2026-11-19T16:59:36.595401+00:00",
+ "updated": "2026-11-19T16:59:37+00:00",
+ "updated_at": "2026-11-19T16:59:37+00:00"
 }
