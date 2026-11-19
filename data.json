@@ -1,8 +1,8 @@
 {
- "total": 3599,
- "portal": 2834,
+ "total": 3614,
+ "portal": 2837,
  "email": 558,
- "linkedin": 207,
+ "linkedin": 219,
  "bounced_emails": 23,
  "confirmations": 2736,
  "rejections": 647,
@@ -429,9 +429,9 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 28,
+   "portal": 31,
    "email": 0,
-   "linkedin": 7
+   "linkedin": 19
   }
  ],
  "recent": [
@@ -716,44 +716,44 @@
    "link": "https://www.reed.co.uk/jobs/it-engineer/57593314"
   },
   {
-   "company": "Digital Waffle",
-   "role": "Software Engineer",
-   "date": "2026-11-18",
+   "company": "The Trade Desk",
+   "role": "Software Engineer II, DataProc",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/thetradedesk/jobs/5301677007"
+  },
+  {
+   "company": "Genesis AI",
+   "role": "Machine Learning Engineer (Training Infrastructure)",
+   "date": "2026-11-19",
    "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489591034/"
+   "link": "https://www.linkedin.com/jobs/view/4490668118/"
   },
   {
-   "company": "N P Associates",
-   "role": "Junior Network Operations Engineer (NOC / BAU)",
-   "date": "2026-11-18",
-   "type": "portal",
+   "company": "Hawksworth",
+   "role": "Software Engineer (AI)",
+   "date": "2026-11-19",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/junior-network-operations-engineer-noc-bau/57572076"
+   "link": "https://www.linkedin.com/jobs/view/4490673727/"
   },
   {
-   "company": "EAC Consulting Group",
-   "role": "IT Helpdesk Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
+   "company": "Adecco",
+   "role": "Research Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-helpdesk-engineer/57572611"
+   "link": "https://www.linkedin.com/jobs/view/4492442645/"
   },
   {
-   "company": "Bucks and Berks Recruitment",
-   "role": "Office and IT Administrator",
-   "date": "2026-11-18",
-   "type": "portal",
+   "company": "Proactive.IT Appointments Ltd.",
+   "role": "Help Desk Support Analyst",
+   "date": "2026-11-19",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/office-and-it-administrator/57579931"
-  },
-  {
-   "company": "Time Recruitment",
-   "role": "AI & Automation Developer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/ai-automation-developer/57580007"
+   "link": "https://www.linkedin.com/jobs/view/4492175470/"
   }
  ],
  "applications": [
@@ -1172,6 +1172,126 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-engineer/57593314"
+  },
+  {
+   "company": "The Trade Desk",
+   "role": "Software Engineer II, DataProc",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/thetradedesk/jobs/5301677007"
+  },
+  {
+   "company": "Genesis AI",
+   "role": "Machine Learning Engineer (Training Infrastructure)",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490668118/"
+  },
+  {
+   "company": "Hawksworth",
+   "role": "Software Engineer (AI)",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490673727/"
+  },
+  {
+   "company": "Adecco",
+   "role": "Research Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492442645/"
+  },
+  {
+   "company": "Proactive.IT Appointments Ltd.",
+   "role": "Help Desk Support Analyst",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492175470/"
+  },
+  {
+   "company": "DataVita",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492437987/"
+  },
+  {
+   "company": "Eden Scott",
+   "role": "1st Line IT Support Technician",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489732817/"
+  },
+  {
+   "company": "RedRock Resourcing",
+   "role": "Application Support Analyst (SQL) - Sheffield",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490926770/"
+  },
+  {
+   "company": "RedRock Resourcing",
+   "role": "Product Support Specialist (ERP)",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490912151/"
+  },
+  {
+   "company": "Vertage",
+   "role": "IT Service Desk Analyst L2",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492433871/"
+  },
+  {
+   "company": "monks",
+   "role": "Junior Data Analyst ",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/monks/jobs/6266248004"
+  },
+  {
+   "company": "ARC IT Recruitment",
+   "role": "Technical Support Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489736470/"
+  },
+  {
+   "company": "Robert Walters",
+   "role": "1st Line (SaaS) Support Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/1st-line-saas-support-engineer/57593495"
+  },
+  {
+   "company": "iXceed Solutions",
+   "role": "End User Support Specialist",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492450438/"
+  },
+  {
+   "company": "Recruitment Resolution Ltd",
+   "role": "Product Support Specialist - Automation",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490800723/"
   },
   {
    "company": "Digital Waffle",
@@ -29550,7 +29670,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T16:14:29.283898+00:00",
- "updated": "2026-11-19T16:14:29+00:00",
- "updated_at": "2026-11-19T16:14:29+00:00"
+ "email_stats_updated": "2026-11-19T16:33:28.924599+00:00",
+ "updated": "2026-11-19T16:33:29+00:00",
+ "updated_at": "2026-11-19T16:33:29+00:00"
 }
