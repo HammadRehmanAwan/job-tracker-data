@@ -1,11 +1,11 @@
 {
- "total": 3570,
- "portal": 2811,
+ "total": 3576,
+ "portal": 2817,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2716,
- "rejections": 611,
+ "confirmations": 2722,
+ "rejections": 612,
  "positives": [
   {
    "company": "Curation",
@@ -412,7 +412,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 5,
+   "portal": 11,
    "email": 0,
    "linkedin": 0
   }
@@ -457,6 +457,54 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Salesforce-Developer_R0124507"
+  },
+  {
+   "company": "focusgroup",
+   "role": "1st Line Support Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://focusgroup.pinpointhq.com/en/postings/3984d5f1-5aef-4965-929a-3c8ef9fcbbf5"
+  },
+  {
+   "company": "xantura",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://xantura.pinpointhq.com/en/postings/fdfd6308-0a6a-48d7-b780-7e7d83070d85"
+  },
+  {
+   "company": "xantura",
+   "role": "Data Engineer - TechOps",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://xantura.pinpointhq.com/en/postings/8436201f-7996-4e82-ad13-d83c40cfaa00"
+  },
+  {
+   "company": "gearset",
+   "role": "DevOps Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://gearset.pinpointhq.com/en/postings/69a5e2b5-505e-4c34-98ad-ff0ceea4a55a"
+  },
+  {
+   "company": "judge-priestley",
+   "role": "Administrative Assistant - Onboarding",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://judge-priestley.pinpointhq.com/en/postings/dcbdc0c7-dbec-421d-9e9a-73a04d733279"
+  },
+  {
+   "company": "uktv",
+   "role": "QA Engineer ",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://uktv.pinpointhq.com/en/postings/487da793-571d-4966-ac04-fe07e7c90612"
   },
   {
    "company": "Digital Waffle",
@@ -689,54 +737,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer/57572126"
-  },
-  {
-   "company": "paysend",
-   "role": "QA Automation Engineer / SDET",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://paysend.teamtailor.com/jobs/8748487-qa-automation-engineer-sdet"
-  },
-  {
-   "company": "Xact Placements Limited",
-   "role": "IT Technician - Slough",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-technician-slough/57581785"
-  },
-  {
-   "company": "Livestock Information",
-   "role": "Azure Integration Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/livestock-information/j/E5B85A604D"
-  },
-  {
-   "company": "Geo Services",
-   "role": "Commercial IT Operations Specialist",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/acteon/j/AAE2553F23"
-  },
-  {
-   "company": "People First",
-   "role": "IT Support Analyst",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-analyst/57582648"
-  },
-  {
-   "company": "Proactive Appointments",
-   "role": "QA Analyst",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/qa-analyst/57476338"
   }
  ],
  "applications": [
@@ -915,6 +915,54 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Salesforce-Developer_R0124507"
+  },
+  {
+   "company": "focusgroup",
+   "role": "1st Line Support Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://focusgroup.pinpointhq.com/en/postings/3984d5f1-5aef-4965-929a-3c8ef9fcbbf5"
+  },
+  {
+   "company": "xantura",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://xantura.pinpointhq.com/en/postings/fdfd6308-0a6a-48d7-b780-7e7d83070d85"
+  },
+  {
+   "company": "xantura",
+   "role": "Data Engineer - TechOps",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://xantura.pinpointhq.com/en/postings/8436201f-7996-4e82-ad13-d83c40cfaa00"
+  },
+  {
+   "company": "gearset",
+   "role": "DevOps Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://gearset.pinpointhq.com/en/postings/69a5e2b5-505e-4c34-98ad-ff0ceea4a55a"
+  },
+  {
+   "company": "judge-priestley",
+   "role": "Administrative Assistant - Onboarding",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://judge-priestley.pinpointhq.com/en/postings/dcbdc0c7-dbec-421d-9e9a-73a04d733279"
+  },
+  {
+   "company": "uktv",
+   "role": "QA Engineer ",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://uktv.pinpointhq.com/en/postings/487da793-571d-4966-ac04-fe07e7c90612"
   },
   {
    "company": "Digital Waffle",
@@ -29301,7 +29349,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T04:13:50.459553+00:00",
- "updated": "2026-11-19T04:13:51+00:00",
- "updated_at": "2026-11-19T04:13:51+00:00"
+ "email_stats_updated": "2026-11-19T04:28:43.320362+00:00",
+ "updated": "2026-11-19T04:28:44+00:00",
+ "updated_at": "2026-11-19T04:28:44+00:00"
 }
