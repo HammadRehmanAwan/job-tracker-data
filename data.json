@@ -1,10 +1,10 @@
 {
- "total": 3657,
- "portal": 2868,
+ "total": 3658,
+ "portal": 2869,
  "email": 558,
  "linkedin": 231,
  "bounced_emails": 23,
- "confirmations": 2744,
+ "confirmations": 2745,
  "rejections": 650,
  "positives": [
   {
@@ -437,7 +437,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 63,
+   "portal": 64,
    "email": 0,
    "linkedin": 33
   }
@@ -1668,6 +1668,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/CDC5DD4425/apply"
+  },
+  {
+   "company": "Teneo",
+   "role": "IT Service Desk Analyst",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/teneo/jobs/8209431003"
   },
   {
    "company": "Digital Waffle",
@@ -30022,7 +30030,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T21:13:31.707337+00:00",
- "updated": "2026-11-19T21:13:32+00:00",
- "updated_at": "2026-11-19T21:13:32+00:00"
+ "email_stats_updated": "2026-11-19T21:35:02.578806+00:00",
+ "updated": "2026-11-19T21:35:03+00:00",
+ "updated_at": "2026-11-19T21:35:03+00:00"
 }
