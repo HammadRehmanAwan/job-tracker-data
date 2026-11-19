@@ -1,6 +1,6 @@
 {
- "total": 3568,
- "portal": 2809,
+ "total": 3570,
+ "portal": 2811,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
@@ -404,7 +404,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 3,
+   "portal": 5,
    "email": 0,
    "linkedin": 0
   }
@@ -433,6 +433,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-systems-administrator/57588483"
+  },
+  {
+   "company": "Nottingham Trent University",
+   "role": "AI & Automation Solutions Developer (ref 552608)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://vacancies.ntu.ac.uk/Job/JobDetail?JobId=2643"
+  },
+  {
+   "company": "LSEG",
+   "role": "Salesforce Developer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Salesforce-Developer_R0124507"
   },
   {
    "company": "Digital Waffle",
@@ -713,22 +729,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/qa-analyst/57476338"
-  },
-  {
-   "company": "Reed",
-   "role": "Data Analyst - 2 year FTC",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-analyst-2-year-ftc/57487989"
-  },
-  {
-   "company": "Source4 Personnel Solutions",
-   "role": "Business Intelligence Analyst",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/business-intelligence-analyst/57465791"
   }
  ],
  "applications": [
@@ -891,6 +891,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-systems-administrator/57588483"
+  },
+  {
+   "company": "Nottingham Trent University",
+   "role": "AI & Automation Solutions Developer (ref 552608)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://vacancies.ntu.ac.uk/Job/JobDetail?JobId=2643"
+  },
+  {
+   "company": "LSEG",
+   "role": "Salesforce Developer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Salesforce-Developer_R0124507"
   },
   {
    "company": "Digital Waffle",
@@ -29277,7 +29293,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T00:16:40.885916+00:00",
- "updated": "2026-11-19T00:16:41+00:00",
- "updated_at": "2026-11-19T00:16:41+00:00"
+ "email_stats_updated": "2026-11-19T00:35:08.238547+00:00",
+ "updated": "2026-11-19T00:35:08+00:00",
+ "updated_at": "2026-11-19T00:35:09+00:00"
 }
