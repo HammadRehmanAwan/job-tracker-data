@@ -4,7 +4,7 @@
  "email": 558,
  "linkedin": 231,
  "bounced_emails": 23,
- "confirmations": 2736,
+ "confirmations": 2738,
  "rejections": 648,
  "positives": [
   {
@@ -29974,7 +29974,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T17:46:11.607395+00:00",
- "updated": "2026-11-19T17:46:12+00:00",
- "updated_at": "2026-11-19T17:46:12+00:00"
+ "email_stats_updated": "2026-11-19T18:04:04.038263+00:00",
+ "updated": "2026-11-19T18:04:04+00:00",
+ "updated_at": "2026-11-19T18:04:04+00:00"
 }
