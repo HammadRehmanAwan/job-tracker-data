@@ -1,6 +1,6 @@
 {
- "total": 3598,
- "portal": 2833,
+ "total": 3599,
+ "portal": 2834,
  "email": 558,
  "linkedin": 207,
  "bounced_emails": 23,
@@ -429,7 +429,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 27,
+   "portal": 28,
    "email": 0,
    "linkedin": 7
   }
@@ -708,6 +708,14 @@
    "link": "https://www.reed.co.uk/jobs/net-developer-sevenoaks-kent-hybrid-4-days-wfh/57593015"
   },
   {
+   "company": "Robert Half",
+   "role": "IT Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-engineer/57593314"
+  },
+  {
    "company": "Digital Waffle",
    "role": "Software Engineer",
    "date": "2026-11-18",
@@ -746,14 +754,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/ai-automation-developer/57580007"
-  },
-  {
-   "company": "F5",
-   "role": "Cloud IAM Support Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/cloud-iam-support-engineer/57581294"
   }
  ],
  "applications": [
@@ -1164,6 +1164,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/net-developer-sevenoaks-kent-hybrid-4-days-wfh/57593015"
+  },
+  {
+   "company": "Robert Half",
+   "role": "IT Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-engineer/57593314"
   },
   {
    "company": "Digital Waffle",
@@ -29542,7 +29550,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T15:44:48.820998+00:00",
- "updated": "2026-11-19T15:44:49+00:00",
- "updated_at": "2026-11-19T15:44:49+00:00"
+ "email_stats_updated": "2026-11-19T16:04:17.077041+00:00",
+ "updated": "2026-11-19T16:04:18+00:00",
+ "updated_at": "2026-11-19T16:04:18+00:00"
 }
