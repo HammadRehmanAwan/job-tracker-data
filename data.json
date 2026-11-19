@@ -1,10 +1,10 @@
 {
- "total": 3651,
- "portal": 2862,
+ "total": 3656,
+ "portal": 2867,
  "email": 558,
  "linkedin": 231,
  "bounced_emails": 23,
- "confirmations": 2738,
+ "confirmations": 2740,
  "rejections": 650,
  "positives": [
   {
@@ -437,7 +437,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 57,
+   "portal": 62,
    "email": 0,
    "linkedin": 33
   }
@@ -1620,6 +1620,46 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4491363055/"
+  },
+  {
+   "company": "prolificacademicltd",
+   "role": "Biology - Graduates - AI Training - Brighton, UK",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4866303101"
+  },
+  {
+   "company": "prolificacademicltd",
+   "role": "Chemistry - Graduates - AI Training - Cambridge, UK",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4866595101"
+  },
+  {
+   "company": "prolificacademicltd",
+   "role": "Computer Sciences - Graduates - AI Training - Cambridge, UK",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4866999101"
+  },
+  {
+   "company": "prolificacademicltd",
+   "role": "Database Administrator - Graduates - AI Training - Bristol, UK",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4871286101"
+  },
+  {
+   "company": "prolificacademicltd",
+   "role": "Database Administrator - Graduates - AI Training - Oxford, UK",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4871301101"
   },
   {
    "company": "Digital Waffle",
@@ -29974,7 +30014,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T20:20:05.679468+00:00",
- "updated": "2026-11-19T20:20:06+00:00",
- "updated_at": "2026-11-19T20:20:06+00:00"
+ "email_stats_updated": "2026-11-19T20:31:09.026518+00:00",
+ "updated": "2026-11-19T20:31:09+00:00",
+ "updated_at": "2026-11-19T20:31:09+00:00"
 }
