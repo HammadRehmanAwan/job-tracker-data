@@ -1,8 +1,8 @@
 {
- "total": 3646,
+ "total": 3651,
  "portal": 2862,
  "email": 558,
- "linkedin": 226,
+ "linkedin": 231,
  "bounced_emails": 23,
  "confirmations": 2736,
  "rejections": 647,
@@ -413,7 +413,7 @@
    "date": "2026-11-16",
    "portal": 77,
    "email": 0,
-   "linkedin": 35
+   "linkedin": 34
   },
   {
    "date": "2026-11-17",
@@ -431,7 +431,7 @@
    "date": "2026-11-19",
    "portal": 57,
    "email": 0,
-   "linkedin": 27
+   "linkedin": 33
   }
  ],
  "recent": [
@@ -458,6 +458,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4491590787/"
+  },
+  {
+   "company": "Burns Sheehan",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490646669/"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -746,14 +754,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490668118/"
-  },
-  {
-   "company": "Hawksworth",
-   "role": "Software Engineer (AI)",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490673727/"
   }
  ],
  "applications": [
@@ -916,6 +916,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4491590787/"
+  },
+  {
+   "company": "Burns Sheehan",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490646669/"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -1564,6 +1572,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/business-analyst-london-60-70k/57475084"
+  },
+  {
+   "company": "Oliver Bernard",
+   "role": "Data Analyst",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491316312/"
+  },
+  {
+   "company": "Insite Legal",
+   "role": "Finance Data Analyst",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489708329/"
+  },
+  {
+   "company": "WeDoData",
+   "role": "Data Analyst",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492174687/"
+  },
+  {
+   "company": "Spencer Scott - Technology Recruitment",
+   "role": "Data Analyst",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489728637/"
+  },
+  {
+   "company": "Syntrace",
+   "role": "Data Analyst",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491363055/"
   },
   {
    "company": "Digital Waffle",
@@ -6548,14 +6596,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4489547703/"
-  },
-  {
-   "company": "Burns Sheehan",
-   "role": "Machine Learning Engineer",
-   "date": "2026-11-16",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490642668/"
   },
   {
    "company": "GradBay",
@@ -29926,7 +29966,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T17:15:18.842461+00:00",
- "updated": "2026-11-19T17:15:19+00:00",
- "updated_at": "2026-11-19T17:15:19+00:00"
+ "email_stats_updated": "2026-11-19T17:35:16.790391+00:00",
+ "updated": "2026-11-19T17:35:17+00:00",
+ "updated_at": "2026-11-19T17:35:17+00:00"
 }
