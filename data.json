@@ -1,10 +1,10 @@
 {
- "total": 3579,
- "portal": 2820,
+ "total": 3580,
+ "portal": 2821,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2725,
+ "confirmations": 2726,
  "rejections": 615,
  "positives": [
   {
@@ -413,7 +413,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 14,
+   "portal": 15,
    "email": 0,
    "linkedin": 0
   }
@@ -530,6 +530,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.totaljobs.com/job/service-desk-analyst/pilgrim-s-europe-job108321692"
+  },
+  {
+   "company": "Robert Half",
+   "role": "Microsoft Fabric Data Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/microsoft-fabric-data-engineer/57590893"
   },
   {
    "company": "Digital Waffle",
@@ -730,14 +738,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101"
-  },
-  {
-   "company": "amplemarket",
-   "role": "Frontend Software Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4488062101"
   }
  ],
  "applications": [
@@ -988,6 +988,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.totaljobs.com/job/service-desk-analyst/pilgrim-s-europe-job108321692"
+  },
+  {
+   "company": "Robert Half",
+   "role": "Microsoft Fabric Data Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/microsoft-fabric-data-engineer/57590893"
   },
   {
    "company": "Digital Waffle",
@@ -29374,7 +29382,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T08:51:41.771125+00:00",
- "updated": "2026-11-19T08:51:42+00:00",
- "updated_at": "2026-11-19T08:51:42+00:00"
+ "email_stats_updated": "2026-11-19T08:59:11.469278+00:00",
+ "updated": "2026-11-19T08:59:11+00:00",
+ "updated_at": "2026-11-19T08:59:11+00:00"
 }
