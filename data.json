@@ -1,6 +1,6 @@
 {
- "total": 3564,
- "portal": 2805,
+ "total": 3568,
+ "portal": 2809,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
@@ -398,12 +398,42 @@
   },
   {
    "date": "2026-11-18",
-   "portal": 354,
+   "portal": 355,
    "email": 0,
    "linkedin": 19
+  },
+  {
+   "date": "2026-11-19",
+   "portal": 3,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "IT Support Analyst",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-analyst/57586576"
+  },
+  {
+   "company": "Proactive Appointments",
+   "role": "IT Helpdesk Support Analyst",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-helpdesk-support-analyst/57586684"
+  },
+  {
+   "company": "Reed",
+   "role": "IT Systems Administrator",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-systems-administrator/57588483"
+  },
   {
    "company": "Digital Waffle",
    "role": "Software Engineer",
@@ -699,30 +729,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/business-intelligence-analyst/57465791"
-  },
-  {
-   "company": "Forward Role",
-   "role": "Junior Data Analyst",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/junior-data-analyst/57492098"
-  },
-  {
-   "company": "Gleeson Recruitment Group",
-   "role": "Systems Analyst",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/systems-analyst/57481353"
-  },
-  {
-   "company": "Forward Role",
-   "role": "Digital Analyst",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/digital-analyst/57498646"
   }
  ],
  "applications": [
@@ -861,6 +867,30 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "IT Support Analyst",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-analyst/57586576"
+  },
+  {
+   "company": "Proactive Appointments",
+   "role": "IT Helpdesk Support Analyst",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-helpdesk-support-analyst/57586684"
+  },
+  {
+   "company": "Reed",
+   "role": "IT Systems Administrator",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-systems-administrator/57588483"
   },
   {
    "company": "Digital Waffle",
@@ -3845,6 +3875,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.jobs.nhs.uk/candidate/jobadvert/C9188-26-1024"
+  },
+  {
+   "company": "Leicestershire Partnership NHS Trust",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.jobs.leicspart.nhs.uk/Job/JobDetail?jobid=8055"
   },
   {
    "company": "Kobalt Music",
@@ -29239,7 +29277,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-18T23:42:55.244066+00:00",
- "updated": "2026-11-18T23:42:55+00:00",
- "updated_at": "2026-11-18T23:42:55+00:00"
+ "email_stats_updated": "2026-11-19T00:04:28.661269+00:00",
+ "updated": "2026-11-19T00:04:29+00:00",
+ "updated_at": "2026-11-19T00:04:29+00:00"
 }
