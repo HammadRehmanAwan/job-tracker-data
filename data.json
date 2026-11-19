@@ -1,11 +1,11 @@
 {
- "total": 3580,
- "portal": 2821,
+ "total": 3582,
+ "portal": 2823,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2726,
- "rejections": 622,
+ "confirmations": 2728,
+ "rejections": 626,
  "positives": [
   {
    "company": "Curation",
@@ -413,7 +413,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 15,
+   "portal": 17,
    "email": 0,
    "linkedin": 0
   }
@@ -538,6 +538,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/microsoft-fabric-data-engineer/57590893"
+  },
+  {
+   "company": "Sensical",
+   "role": "IT Support Engineer (London)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/sensical/j/6C4016249D/"
+  },
+  {
+   "company": "cloudflare",
+   "role": "Software Engineer, Data Primitives",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cloudflare/jobs/8398779"
   },
   {
    "company": "Digital Waffle",
@@ -722,22 +738,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/samsara/jobs/8337515"
-  },
-  {
-   "company": "DMS Computer Recruitment",
-   "role": "3rd Line Support (Networking)",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/3rd-line-support-networking/57473449"
-  },
-  {
-   "company": "amplemarket",
-   "role": "Spontaneous Application - Data Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101"
   }
  ],
  "applications": [
@@ -996,6 +996,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/microsoft-fabric-data-engineer/57590893"
+  },
+  {
+   "company": "Sensical",
+   "role": "IT Support Engineer (London)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/sensical/j/6C4016249D/"
+  },
+  {
+   "company": "cloudflare",
+   "role": "Software Engineer, Data Primitives",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cloudflare/jobs/8398779"
   },
   {
    "company": "Digital Waffle",
@@ -29382,7 +29398,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T09:57:27.927785+00:00",
- "updated": "2026-11-19T09:57:28+00:00",
- "updated_at": "2026-11-19T09:57:28+00:00"
+ "email_stats_updated": "2026-11-19T10:19:12.617281+00:00",
+ "updated": "2026-11-19T10:19:13+00:00",
+ "updated_at": "2026-11-19T10:19:13+00:00"
 }
