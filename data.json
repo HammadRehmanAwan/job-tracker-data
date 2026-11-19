@@ -1,6 +1,6 @@
 {
- "total": 3597,
- "portal": 2832,
+ "total": 3598,
+ "portal": 2833,
  "email": 558,
  "linkedin": 207,
  "bounced_emails": 23,
@@ -429,7 +429,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 26,
+   "portal": 27,
    "email": 0,
    "linkedin": 7
   }
@@ -700,6 +700,14 @@
    "link": "https://www.linkedin.com/jobs/view/4489500207/"
   },
   {
+   "company": "Noir",
+   "role": ".Net Developer - Sevenoaks Kent Hybrid 4 days WFH",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/net-developer-sevenoaks-kent-hybrid-4-days-wfh/57593015"
+  },
+  {
    "company": "Digital Waffle",
    "role": "Software Engineer",
    "date": "2026-11-18",
@@ -746,14 +754,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/cloud-iam-support-engineer/57581294"
-  },
-  {
-   "company": "Hays Specialist Recruitment Limited",
-   "role": "Project & Technical Support Officer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/project-technical-support-officer/57581844"
   }
  ],
  "applications": [
@@ -1156,6 +1156,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4489500207/"
+  },
+  {
+   "company": "Noir",
+   "role": ".Net Developer - Sevenoaks Kent Hybrid 4 days WFH",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/net-developer-sevenoaks-kent-hybrid-4-days-wfh/57593015"
   },
   {
    "company": "Digital Waffle",
@@ -29534,7 +29542,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T15:19:04.665032+00:00",
- "updated": "2026-11-19T15:19:05+00:00",
- "updated_at": "2026-11-19T15:19:05+00:00"
+ "email_stats_updated": "2026-11-19T15:28:12.926084+00:00",
+ "updated": "2026-11-19T15:28:13+00:00",
+ "updated_at": "2026-11-19T15:28:13+00:00"
 }
