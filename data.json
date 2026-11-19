@@ -5,7 +5,7 @@
  "linkedin": 207,
  "bounced_emails": 23,
  "confirmations": 2736,
- "rejections": 646,
+ "rejections": 647,
  "positives": [
   {
    "company": "Curation",
@@ -303,11 +303,19 @@
    "action": "",
    "due": "",
    "done_on": ""
+  },
+  {
+   "company": "NSC Global (Data Centre Engineer, Smart Hands)",
+   "note": "Recruiter Mohammed Ali asked him to complete a short technical assessment on Microsoft Forms (up to 7 minutes) as the next step (email 19 Nov, 2:08pm UK)",
+   "status": "remaining",
+   "action": "",
+   "due": "",
+   "done_on": ""
   }
  ],
- "positive_count": 34,
+ "positive_count": 35,
  "positives_done": 24,
- "positives_remaining": 10,
+ "positives_remaining": 11,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -363,7 +371,7 @@
    "date": "2026-11-08",
    "portal": 411,
    "email": 0,
-   "linkedin": 30
+   "linkedin": 29
   },
   {
    "date": "2026-11-09",
@@ -423,10 +431,18 @@
    "date": "2026-11-19",
    "portal": 26,
    "email": 0,
-   "linkedin": 6
+   "linkedin": 7
   }
  ],
  "recent": [
+  {
+   "company": "VirtueTech Recruitment Group",
+   "role": "Research Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490860918/"
+  },
   {
    "company": "Hays Specialist Recruitment Limited",
    "role": "IT Support Analyst",
@@ -738,14 +754,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/project-technical-support-officer/57581844"
-  },
-  {
-   "company": "Robert Half",
-   "role": "First Line Support Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/first-line-support-engineer/57582374"
   }
  ],
  "applications": [
@@ -884,6 +892,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "VirtueTech Recruitment Group",
+   "role": "Research Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490860918/"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -20430,14 +20446,6 @@
    "link": ""
   },
   {
-   "company": "VirtueTech Recruitment Group",
-   "role": "Research Engineer",
-   "date": "2026-11-08",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
    "company": "Hunter Bond",
    "role": "Graduate Software Engineer / Quant Developer / Quant Researcher - Up to \u00a3150,000 + Bonus + Package",
    "date": "2026-11-08",
@@ -29526,7 +29534,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T13:57:47.725899+00:00",
- "updated": "2026-11-19T13:57:48+00:00",
- "updated_at": "2026-11-19T13:57:48+00:00"
+ "email_stats_updated": "2026-11-19T14:30:18.889932+00:00",
+ "updated": "2026-11-19T14:30:19+00:00",
+ "updated_at": "2026-11-19T14:30:19+00:00"
 }
