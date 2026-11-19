@@ -1,6 +1,6 @@
 {
- "total": 3582,
- "portal": 2823,
+ "total": 3579,
+ "portal": 2820,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
@@ -413,7 +413,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 17,
+   "portal": 14,
    "email": 0,
    "linkedin": 0
   }
@@ -522,30 +522,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.networxrecruitment.com/Jobs/Advert/4381457"
-  },
-  {
-   "company": "Cloudflare",
-   "role": "Deemed Export & Government Experience Questionnaire (form 6f2d...)",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://app.greenhouse.io/application_form/6f2d8704a835b5d012ba7a8921d8f78c"
-  },
-  {
-   "company": "Cloudflare",
-   "role": "Deemed Export questionnaire (form 3aa7...)",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://app.greenhouse.io/application_form/3aa735936624dbad42eb7b1e894e992b"
-  },
-  {
-   "company": "Office Angels",
-   "role": "IT Support/Support Engineer screening",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.office-angels.com/screening-agent"
   },
   {
    "company": "Pilgrims Europe",
@@ -738,6 +714,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/samsara/jobs/8337515"
+  },
+  {
+   "company": "DMS Computer Recruitment",
+   "role": "3rd Line Support (Networking)",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-support-networking/57473449"
+  },
+  {
+   "company": "amplemarket",
+   "role": "Spontaneous Application - Data Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101"
+  },
+  {
+   "company": "amplemarket",
+   "role": "Frontend Software Engineer",
+   "date": "2026-11-18",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4488062101"
   }
  ],
  "applications": [
@@ -980,30 +980,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.networxrecruitment.com/Jobs/Advert/4381457"
-  },
-  {
-   "company": "Cloudflare",
-   "role": "Deemed Export & Government Experience Questionnaire (form 6f2d...)",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://app.greenhouse.io/application_form/6f2d8704a835b5d012ba7a8921d8f78c"
-  },
-  {
-   "company": "Cloudflare",
-   "role": "Deemed Export questionnaire (form 3aa7...)",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://app.greenhouse.io/application_form/3aa735936624dbad42eb7b1e894e992b"
-  },
-  {
-   "company": "Office Angels",
-   "role": "IT Support/Support Engineer screening",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.office-angels.com/screening-agent"
   },
   {
    "company": "Pilgrims Europe",
@@ -29398,7 +29374,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T08:27:21.807430+00:00",
- "updated": "2026-11-19T08:27:22+00:00",
- "updated_at": "2026-11-19T08:27:22+00:00"
+ "email_stats_updated": "2026-11-19T08:51:41.771125+00:00",
+ "updated": "2026-11-19T08:51:42+00:00",
+ "updated_at": "2026-11-19T08:51:42+00:00"
 }
