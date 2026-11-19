@@ -1,10 +1,10 @@
 {
- "total": 3577,
- "portal": 2818,
+ "total": 3582,
+ "portal": 2823,
  "email": 558,
  "linkedin": 201,
  "bounced_emails": 23,
- "confirmations": 2724,
+ "confirmations": 2725,
  "rejections": 615,
  "positives": [
   {
@@ -413,7 +413,7 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 12,
+   "portal": 17,
    "email": 0,
    "linkedin": 0
   }
@@ -514,6 +514,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://accelercomm.pinpointhq.com/en/postings/ba6f3e2b-248f-4222-9431-d1221209744a"
+  },
+  {
+   "company": "NDH / North Devon Homes",
+   "role": "1st Line IT Support",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.networxrecruitment.com/Jobs/Advert/4381457"
+  },
+  {
+   "company": "Cloudflare",
+   "role": "Deemed Export & Government Experience Questionnaire (form 6f2d...)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://app.greenhouse.io/application_form/6f2d8704a835b5d012ba7a8921d8f78c"
+  },
+  {
+   "company": "Cloudflare",
+   "role": "Deemed Export questionnaire (form 3aa7...)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://app.greenhouse.io/application_form/3aa735936624dbad42eb7b1e894e992b"
+  },
+  {
+   "company": "Office Angels",
+   "role": "IT Support/Support Engineer screening",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.office-angels.com/screening-agent"
+  },
+  {
+   "company": "Pilgrims Europe",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/service-desk-analyst/pilgrim-s-europe-job108321692"
   },
   {
    "company": "Digital Waffle",
@@ -698,46 +738,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/samsara/jobs/8337515"
-  },
-  {
-   "company": "DMS Computer Recruitment",
-   "role": "3rd Line Support (Networking)",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/3rd-line-support-networking/57473449"
-  },
-  {
-   "company": "amplemarket",
-   "role": "Spontaneous Application - Data Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101"
-  },
-  {
-   "company": "amplemarket",
-   "role": "Frontend Software Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4488062101"
-  },
-  {
-   "company": "neo4j",
-   "role": "Software Engineering - Clustering & Distributed Systems",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/neo4j/jobs/4714099006"
-  },
-  {
-   "company": "GreatFind Recruitment",
-   "role": "IT Support Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57568884"
   }
  ],
  "applications": [
@@ -972,6 +972,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://accelercomm.pinpointhq.com/en/postings/ba6f3e2b-248f-4222-9431-d1221209744a"
+  },
+  {
+   "company": "NDH / North Devon Homes",
+   "role": "1st Line IT Support",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.networxrecruitment.com/Jobs/Advert/4381457"
+  },
+  {
+   "company": "Cloudflare",
+   "role": "Deemed Export & Government Experience Questionnaire (form 6f2d...)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://app.greenhouse.io/application_form/6f2d8704a835b5d012ba7a8921d8f78c"
+  },
+  {
+   "company": "Cloudflare",
+   "role": "Deemed Export questionnaire (form 3aa7...)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://app.greenhouse.io/application_form/3aa735936624dbad42eb7b1e894e992b"
+  },
+  {
+   "company": "Office Angels",
+   "role": "IT Support/Support Engineer screening",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.office-angels.com/screening-agent"
+  },
+  {
+   "company": "Pilgrims Europe",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.totaljobs.com/job/service-desk-analyst/pilgrim-s-europe-job108321692"
   },
   {
    "company": "Digital Waffle",
@@ -29358,7 +29398,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T08:18:04.169650+00:00",
- "updated": "2026-11-19T08:18:04+00:00",
- "updated_at": "2026-11-19T08:18:04+00:00"
+ "email_stats_updated": "2026-11-19T08:27:21.807430+00:00",
+ "updated": "2026-11-19T08:27:22+00:00",
+ "updated_at": "2026-11-19T08:27:22+00:00"
 }
