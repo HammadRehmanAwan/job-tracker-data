@@ -1,11 +1,11 @@
 {
- "total": 3583,
- "portal": 2824,
+ "total": 3586,
+ "portal": 2825,
  "email": 558,
- "linkedin": 201,
+ "linkedin": 203,
  "bounced_emails": 23,
  "confirmations": 2729,
- "rejections": 636,
+ "rejections": 637,
  "positives": [
   {
    "company": "Curation",
@@ -413,9 +413,9 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 18,
+   "portal": 19,
    "email": 0,
-   "linkedin": 0
+   "linkedin": 2
   }
  ],
  "recent": [
@@ -562,6 +562,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/capitalontap/jobs/8924924002"
+  },
+  {
+   "company": "fractile",
+   "role": "Semiconductor Product / Test Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/fractile/90eef494-b5ec-4ab3-b3a8-b2eaa003c71c"
+  },
+  {
+   "company": "Perch Group",
+   "role": "Data Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490325748/"
+  },
+  {
+   "company": "Harnham",
+   "role": "Data Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490650733/"
   },
   {
    "company": "Digital Waffle",
@@ -714,30 +738,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/supabase/c01f7436-1fdd-4a3e-8b96-8cadc33b006e"
-  },
-  {
-   "company": "supabase",
-   "role": "Support Engineer (EMEA - Weekends)",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/supabase/590a0742-97f1-47f4-81a2-567efc939ae2"
-  },
-  {
-   "company": "adaptyv",
-   "role": "Software Engineer, Product",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/adaptyv/624170d8-3cee-4859-a1ea-e74658d0b50c"
-  },
-  {
-   "company": "Kenneth Brian Associates Limited",
-   "role": "3rd Line IT Support Engineer",
-   "date": "2026-11-18",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/3rd-line-it-support-engineer/57508944"
   }
  ],
  "applications": [
@@ -1020,6 +1020,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/capitalontap/jobs/8924924002"
+  },
+  {
+   "company": "fractile",
+   "role": "Semiconductor Product / Test Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/fractile/90eef494-b5ec-4ab3-b3a8-b2eaa003c71c"
+  },
+  {
+   "company": "Perch Group",
+   "role": "Data Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490325748/"
+  },
+  {
+   "company": "Harnham",
+   "role": "Data Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490650733/"
   },
   {
    "company": "Digital Waffle",
@@ -29406,7 +29430,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T11:14:16.859717+00:00",
- "updated": "2026-11-19T11:14:17+00:00",
- "updated_at": "2026-11-19T11:14:17+00:00"
+ "email_stats_updated": "2026-11-19T11:31:32.396989+00:00",
+ "updated": "2026-11-19T11:31:32+00:00",
+ "updated_at": "2026-11-19T11:31:32+00:00"
 }
