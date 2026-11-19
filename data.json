@@ -1,8 +1,8 @@
 {
- "total": 3614,
- "portal": 2837,
+ "total": 3636,
+ "portal": 2852,
  "email": 558,
- "linkedin": 219,
+ "linkedin": 226,
  "bounced_emails": 23,
  "confirmations": 2736,
  "rejections": 647,
@@ -399,7 +399,7 @@
   },
   {
    "date": "2026-11-14",
-   "portal": 78,
+   "portal": 77,
    "email": 0,
    "linkedin": 0
   },
@@ -407,7 +407,7 @@
    "date": "2026-11-15",
    "portal": 1,
    "email": 0,
-   "linkedin": 34
+   "linkedin": 33
   },
   {
    "date": "2026-11-16",
@@ -429,9 +429,9 @@
   },
   {
    "date": "2026-11-19",
-   "portal": 31,
+   "portal": 47,
    "email": 0,
-   "linkedin": 19
+   "linkedin": 27
   }
  ],
  "recent": [
@@ -442,6 +442,22 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490860918/"
+  },
+  {
+   "company": "Searchability",
+   "role": "3rd Line Service Desk Engineer - Infrastructure",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490706094/"
+  },
+  {
+   "company": "Harnham",
+   "role": "Data Analyst",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491590787/"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -738,22 +754,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490673727/"
-  },
-  {
-   "company": "Adecco",
-   "role": "Research Engineer",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492442645/"
-  },
-  {
-   "company": "Proactive.IT Appointments Ltd.",
-   "role": "Help Desk Support Analyst",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492175470/"
   }
  ],
  "applications": [
@@ -900,6 +900,22 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490860918/"
+  },
+  {
+   "company": "Searchability",
+   "role": "3rd Line Service Desk Engineer - Infrastructure",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490706094/"
+  },
+  {
+   "company": "Harnham",
+   "role": "Data Analyst",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491590787/"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -1292,6 +1308,182 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490800723/"
+  },
+  {
+   "company": "Brite Recruitment Ltd",
+   "role": "First Line Support",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4247119787/"
+  },
+  {
+   "company": "Linea Resourcing",
+   "role": "Technical Support Specialist",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491710953/"
+  },
+  {
+   "company": "Ayming",
+   "role": "Data Analyst Consultant - R&D",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491549611/"
+  },
+  {
+   "company": "Ncounter Technology Recruitment",
+   "role": "Python Developer - Reliability",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490235232/"
+  },
+  {
+   "company": "Sanderson",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491508469/"
+  },
+  {
+   "company": "Harnham",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-19",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490642707/"
+  },
+  {
+   "company": "Proactive Appointments",
+   "role": "Data Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57558264"
+  },
+  {
+   "company": "Solutions Through Knowledge",
+   "role": "AI Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-engineer/57506406"
+  },
+  {
+   "company": "LANCESOFT LTD",
+   "role": "Software Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57502162"
+  },
+  {
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "Azure Data Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/azure-data-engineer/57498684"
+  },
+  {
+   "company": "TXP Technology x People",
+   "role": "Azure Data Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/azure-data-engineer/57487165"
+  },
+  {
+   "company": "Randstad Technologies",
+   "role": "System Administrator",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/system-administrator/57462800"
+  },
+  {
+   "company": "Harnham - Data & Analytics Recruitment",
+   "role": "React Developer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/react-developer/57437276"
+  },
+  {
+   "company": "TXP Technology x People",
+   "role": "Java Developer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/java-developer/57504190"
+  },
+  {
+   "company": "pyramid8",
+   "role": "Full Stack Web Developer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/full-stack-web-developer/57503484"
+  },
+  {
+   "company": "Michael Page Technology",
+   "role": "CDI Data Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/cdi-data-engineer/57509292"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Data Scientist",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-scientist/57468437"
+  },
+  {
+   "company": "Tenth Revolution Group",
+   "role": "Full Stack Developer (.NET React)",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/full-stack-developer-net-react/57486774"
+  },
+  {
+   "company": "10xteam",
+   "role": "Product Owner - AI Trainer - Freelance - 8-20hrs/week - Remote",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/10xteam/97fcbc5f-38a5-4842-87a4-46360eb08264"
+  },
+  {
+   "company": "10xteam",
+   "role": "Market Entry Specialist - AI Trainer - Freelance - 8-20hrs/week - Remote",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/10xteam/98258669-1b37-428c-9b97-44d6e00709d9"
+  },
+  {
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "Java Developer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/java-developer/57561773"
+  },
+  {
+   "company": "Randstad Technologies",
+   "role": "Virtual Desktop Engineer",
+   "date": "2026-11-19",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/virtual-desktop-engineer/57566278"
   },
   {
    "company": "Digital Waffle",
@@ -6582,14 +6774,6 @@
    "link": "https://www.linkedin.com/jobs/view/4490754691"
   },
   {
-   "company": "Harnham",
-   "role": "Data Analyst",
-   "date": "2026-11-15",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4479800281"
-  },
-  {
    "company": "twentyAI",
    "role": "Data Analyst (Investor Relations)",
    "date": "2026-11-15",
@@ -7108,14 +7292,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer/57471032"
-  },
-  {
-   "company": "Searchability",
-   "role": "3rd Line Service Desk Engineer - Infrastructure",
-   "date": "2026-11-14",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/3rd-line-service-desk-engineer-infrastructure/57565499"
   },
   {
    "company": "Reed",
@@ -29670,7 +29846,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-19T16:33:28.924599+00:00",
- "updated": "2026-11-19T16:33:29+00:00",
- "updated_at": "2026-11-19T16:33:29+00:00"
+ "email_stats_updated": "2026-11-19T16:50:45.481305+00:00",
+ "updated": "2026-11-19T16:50:45+00:00",
+ "updated_at": "2026-11-19T16:50:45+00:00"
 }
