@@ -1,11 +1,11 @@
 {
- "total": 3662,
+ "total": 3676,
  "portal": 2872,
  "email": 558,
- "linkedin": 232,
+ "linkedin": 246,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 674,
+ "rejections": 676,
  "positives": [
   {
    "company": "Curation",
@@ -421,7 +421,7 @@
    "date": "2026-11-16",
    "portal": 77,
    "email": 0,
-   "linkedin": 34
+   "linkedin": 33
   },
   {
    "date": "2026-11-17",
@@ -439,13 +439,13 @@
    "date": "2026-11-19",
    "portal": 64,
    "email": 0,
-   "linkedin": 33
+   "linkedin": 32
   },
   {
    "date": "2026-11-20",
    "portal": 4,
    "email": 0,
-   "linkedin": 1
+   "linkedin": 17
   }
  ],
  "recent": [
@@ -456,6 +456,22 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4477713171/"
+  },
+  {
+   "company": "Understanding Recruitment",
+   "role": "Graduate Software Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491909602/"
+  },
+  {
+   "company": "Eden Scott",
+   "role": "1st Line IT Support Technician",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491901581/"
   },
   {
    "company": "prolificacademicltd",
@@ -488,6 +504,118 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/paddle/7642fac5-d94b-4157-8b19-79a7dbc115ea"
+  },
+  {
+   "company": "Fortray Global Service Limited",
+   "role": "Graduate AI Engineer (Entry-Level)",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492196453/"
+  },
+  {
+   "company": "Sanderson",
+   "role": "Junior Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492916351/"
+  },
+  {
+   "company": "Enso Recruitment",
+   "role": "Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491610951/"
+  },
+  {
+   "company": "Peaple Talent",
+   "role": "Snowflake Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489737410/"
+  },
+  {
+   "company": "Gravitas Recruitment Group (Global) Ltd",
+   "role": "Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489764738/"
+  },
+  {
+   "company": "Immersum",
+   "role": "Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489774343/"
+  },
+  {
+   "company": "Experis UK",
+   "role": "Software Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4460242689/"
+  },
+  {
+   "company": "Evolve IT Recruitment Ltd",
+   "role": "Python Developer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490450508/"
+  },
+  {
+   "company": "Synapri",
+   "role": "Back End Developer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491143752/"
+  },
+  {
+   "company": "Hunter Bond",
+   "role": "Python Developer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490119909/"
+  },
+  {
+   "company": "Bonhill Partners",
+   "role": "Python Developer (Kubernetes)",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488180309/"
+  },
+  {
+   "company": "Rydal Group",
+   "role": "Level 1 IT Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491565435/"
+  },
+  {
+   "company": "Lowe Rental",
+   "role": "I.T Support Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491852359/"
+  },
+  {
+   "company": "Knights",
+   "role": "Technology Support Analyst",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492144127/"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -640,134 +768,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/microsoft-fabric-data-engineer/57590893"
-  },
-  {
-   "company": "Sensical",
-   "role": "IT Support Engineer (London)",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/sensical/j/6C4016249D/"
-  },
-  {
-   "company": "cloudflare",
-   "role": "Software Engineer, Data Primitives",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/cloudflare/jobs/8398779"
-  },
-  {
-   "company": "Capital on Tap",
-   "role": "Frontend Software Engineer",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/capitalontap/jobs/8924924002"
-  },
-  {
-   "company": "fractile",
-   "role": "Semiconductor Product / Test Engineer",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/fractile/90eef494-b5ec-4ab3-b3a8-b2eaa003c71c"
-  },
-  {
-   "company": "Perch Group",
-   "role": "Data Engineer",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490325748/"
-  },
-  {
-   "company": "Harnham",
-   "role": "Data Engineer",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490650733/"
-  },
-  {
-   "company": "Reed",
-   "role": "Node.js Developer",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/nodejs-developer/57591958"
-  },
-  {
-   "company": "Corriculo Ltd",
-   "role": "C# Developer, Azure, SQL/Postgres, Remote, COR7721",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/c-developer-azure-sql-postgres-remote-cor7721/57592234"
-  },
-  {
-   "company": "Hays Specialist Recruitment Limited",
-   "role": "IT Support - 2nd Line Service Desk",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-2nd-line-service-desk/57592215"
-  },
-  {
-   "company": "Plum Personnel",
-   "role": "Software Developer",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/software-developer/57592450"
-  },
-  {
-   "company": "Plum Personnel",
-   "role": "Full Stack Software Developer",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/full-stack-software-developer/57592451"
-  },
-  {
-   "company": "Plum Personnel",
-   "role": "Software Engineer",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/software-engineer/57592448"
-  },
-  {
-   "company": "Nigel Wright Group",
-   "role": "People MI Analyst",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/people-mi-analyst/57592337"
-  },
-  {
-   "company": "Pentatonic",
-   "role": "TECHNICAL SUPPORT & JUNIOR AI DEVELOPER",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492447271/"
-  },
-  {
-   "company": "GJR Technologies",
-   "role": "Desktop Support Engineer",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491607681/"
-  },
-  {
-   "company": "Frasers Group",
-   "role": "IT Service Desk Junior Analyst",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490599103/"
   }
  ],
  "applications": [
@@ -916,6 +916,22 @@
    "link": "https://www.linkedin.com/jobs/view/4477713171/"
   },
   {
+   "company": "Understanding Recruitment",
+   "role": "Graduate Software Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491909602/"
+  },
+  {
+   "company": "Eden Scott",
+   "role": "1st Line IT Support Technician",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491901581/"
+  },
+  {
    "company": "prolificacademicltd",
    "role": "Data Entry Clerk - Graduates - AI Training - Manchester, UK",
    "date": "2026-11-20",
@@ -946,6 +962,118 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/paddle/7642fac5-d94b-4157-8b19-79a7dbc115ea"
+  },
+  {
+   "company": "Fortray Global Service Limited",
+   "role": "Graduate AI Engineer (Entry-Level)",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492196453/"
+  },
+  {
+   "company": "Sanderson",
+   "role": "Junior Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492916351/"
+  },
+  {
+   "company": "Enso Recruitment",
+   "role": "Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491610951/"
+  },
+  {
+   "company": "Peaple Talent",
+   "role": "Snowflake Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489737410/"
+  },
+  {
+   "company": "Gravitas Recruitment Group (Global) Ltd",
+   "role": "Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489764738/"
+  },
+  {
+   "company": "Immersum",
+   "role": "Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489774343/"
+  },
+  {
+   "company": "Experis UK",
+   "role": "Software Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4460242689/"
+  },
+  {
+   "company": "Evolve IT Recruitment Ltd",
+   "role": "Python Developer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490450508/"
+  },
+  {
+   "company": "Synapri",
+   "role": "Back End Developer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491143752/"
+  },
+  {
+   "company": "Hunter Bond",
+   "role": "Python Developer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490119909/"
+  },
+  {
+   "company": "Bonhill Partners",
+   "role": "Python Developer (Kubernetes)",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488180309/"
+  },
+  {
+   "company": "Rydal Group",
+   "role": "Level 1 IT Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491565435/"
+  },
+  {
+   "company": "Lowe Rental",
+   "role": "I.T Support Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491852359/"
+  },
+  {
+   "company": "Knights",
+   "role": "Technology Support Analyst",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492144127/"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -1298,14 +1426,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492437987/"
-  },
-  {
-   "company": "Eden Scott",
-   "role": "1st Line IT Support Technician",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489732817/"
   },
   {
    "company": "RedRock Resourcing",
@@ -6482,14 +6602,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/trainee-it-assistant/57570804"
-  },
-  {
-   "company": "Understanding Recruitment",
-   "role": "Graduate Software Engineer",
-   "date": "2026-11-16",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488911890/"
   },
   {
    "company": "MRP-Global",
@@ -30068,7 +30180,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-20T11:12:54.710544+00:00",
- "updated": "2026-11-20T11:12:55+00:00",
- "updated_at": "2026-11-20T11:12:55+00:00"
+ "email_stats_updated": "2026-11-20T11:36:49.634075+00:00",
+ "updated": "2026-11-20T11:36:50+00:00",
+ "updated_at": "2026-11-20T11:36:50+00:00"
 }
