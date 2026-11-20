@@ -1,11 +1,11 @@
 {
- "total": 3658,
- "portal": 2869,
+ "total": 3659,
+ "portal": 2870,
  "email": 558,
  "linkedin": 231,
  "bounced_emails": 23,
- "confirmations": 2745,
- "rejections": 650,
+ "confirmations": 2747,
+ "rejections": 651,
  "positives": [
   {
    "company": "Curation",
@@ -440,9 +440,23 @@
    "portal": 64,
    "email": 0,
    "linkedin": 33
+  },
+  {
+   "date": "2026-11-20",
+   "portal": 1,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "prolificacademicltd",
+   "role": "Data Entry Clerk - Graduates - AI Training - Manchester, UK",
+   "date": "2026-11-20",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4871047101"
+  },
   {
    "company": "VirtueTech Recruitment Group",
    "role": "Research Engineer",
@@ -754,14 +768,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/thetradedesk/jobs/5301677007"
-  },
-  {
-   "company": "Genesis AI",
-   "role": "Machine Learning Engineer (Training Infrastructure)",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490668118/"
   }
  ],
  "applications": [
@@ -900,6 +906,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "prolificacademicltd",
+   "role": "Data Entry Clerk - Graduates - AI Training - Manchester, UK",
+   "date": "2026-11-20",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4871047101"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -30030,7 +30044,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-20T00:21:58.890665+00:00",
- "updated": "2026-11-20T00:21:59+00:00",
- "updated_at": "2026-11-20T00:21:59+00:00"
+ "email_stats_updated": "2026-11-20T00:32:35.523598+00:00",
+ "updated": "2026-11-20T00:32:35+00:00",
+ "updated_at": "2026-11-20T00:32:35+00:00"
 }
