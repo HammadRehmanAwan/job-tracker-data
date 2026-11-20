@@ -1,6 +1,6 @@
 {
- "total": 3661,
- "portal": 2872,
+ "total": 3662,
+ "portal": 2873,
  "email": 558,
  "linkedin": 231,
  "bounced_emails": 23,
@@ -443,7 +443,7 @@
   },
   {
    "date": "2026-11-20",
-   "portal": 3,
+   "portal": 4,
    "email": 0,
    "linkedin": 0
   }
@@ -472,6 +472,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://plessey.pinpointhq.com/en/postings/7e341e66-9977-4490-abf6-1fdf5fea5196"
+  },
+  {
+   "company": "paddle",
+   "role": "Software Engineer (Go)",
+   "date": "2026-11-20",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/paddle/7642fac5-d94b-4157-8b19-79a7dbc115ea"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -760,14 +768,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4489500207/"
-  },
-  {
-   "company": "Noir",
-   "role": ".Net Developer - Sevenoaks Kent Hybrid 4 days WFH",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/net-developer-sevenoaks-kent-hybrid-4-days-wfh/57593015"
   }
  ],
  "applications": [
@@ -930,6 +930,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://plessey.pinpointhq.com/en/postings/7e341e66-9977-4490-abf6-1fdf5fea5196"
+  },
+  {
+   "company": "paddle",
+   "role": "Software Engineer (Go)",
+   "date": "2026-11-20",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/paddle/7642fac5-d94b-4157-8b19-79a7dbc115ea"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -30060,7 +30068,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-20T10:05:40.395784+00:00",
- "updated": "2026-11-20T10:05:40+00:00",
- "updated_at": "2026-11-20T10:05:40+00:00"
+ "email_stats_updated": "2026-11-20T10:14:13.560865+00:00",
+ "updated": "2026-11-20T10:14:13+00:00",
+ "updated_at": "2026-11-20T10:14:13+00:00"
 }
