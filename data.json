@@ -319,11 +319,19 @@
    "action": "",
    "due": "",
    "done_on": ""
+  },
+  {
+   "company": "10x-hire (Product Owner - AI Trainer, Freelance)",
+   "note": "Screening still open: practical exercise plus AI conversation, 20-30 min; reminder received 20 Nov",
+   "status": "remaining",
+   "action": "",
+   "due": "",
+   "done_on": ""
   }
  ],
- "positive_count": 36,
+ "positive_count": 37,
  "positives_done": 24,
- "positives_remaining": 12,
+ "positives_remaining": 13,
  "positives_expired": 0,
  "positives_declined": 0,
  "by_day": [
@@ -30285,6 +30293,6 @@
   }
  ],
  "email_stats_updated": "2026-11-20T18:00:10.034273+00:00",
- "updated": "2026-11-20T18:00:10+00:00",
- "updated_at": "2026-11-20T18:00:10+00:00"
+ "updated": "2026-11-20T18:00:20+00:00",
+ "updated_at": "2026-11-20T18:00:20+00:00"
 }
