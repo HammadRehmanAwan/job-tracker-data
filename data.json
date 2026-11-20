@@ -1,6 +1,6 @@
 {
- "total": 3659,
- "portal": 2870,
+ "total": 3660,
+ "portal": 2871,
  "email": 558,
  "linkedin": 231,
  "bounced_emails": 23,
@@ -443,7 +443,7 @@
   },
   {
    "date": "2026-11-20",
-   "portal": 1,
+   "portal": 2,
    "email": 0,
    "linkedin": 0
   }
@@ -456,6 +456,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4871047101"
+  },
+  {
+   "company": "clickhouse",
+   "role": "Cloud Software Engineer - Observability Platform",
+   "date": "2026-11-20",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/clickhouse/e863d643-244a-422a-b750-292e0a0d555f"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -760,14 +768,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-engineer/57593314"
-  },
-  {
-   "company": "The Trade Desk",
-   "role": "Software Engineer II, DataProc",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/thetradedesk/jobs/5301677007"
   }
  ],
  "applications": [
@@ -914,6 +914,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4871047101"
+  },
+  {
+   "company": "clickhouse",
+   "role": "Cloud Software Engineer - Observability Platform",
+   "date": "2026-11-20",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/clickhouse/e863d643-244a-422a-b750-292e0a0d555f"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -30044,7 +30052,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-20T05:44:07.287223+00:00",
- "updated": "2026-11-20T05:44:07+00:00",
- "updated_at": "2026-11-20T05:44:07+00:00"
+ "email_stats_updated": "2026-11-20T05:59:50.756674+00:00",
+ "updated": "2026-11-20T05:59:51+00:00",
+ "updated_at": "2026-11-20T05:59:51+00:00"
 }
