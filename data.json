@@ -1,11 +1,11 @@
 {
- "total": 3681,
+ "total": 3689,
  "portal": 2872,
  "email": 558,
- "linkedin": 251,
+ "linkedin": 259,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 681,
+ "rejections": 682,
  "positives": [
   {
    "company": "Curation",
@@ -439,13 +439,13 @@
    "date": "2026-11-19",
    "portal": 64,
    "email": 0,
-   "linkedin": 32
+   "linkedin": 31
   },
   {
    "date": "2026-11-20",
    "portal": 4,
    "email": 0,
-   "linkedin": 22
+   "linkedin": 31
   }
  ],
  "recent": [
@@ -456,6 +456,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4477713171/"
+  },
+  {
+   "company": "Harnham",
+   "role": "Data Analyst",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491415709/"
   },
   {
    "company": "Understanding Recruitment",
@@ -658,6 +666,70 @@
    "link": "https://www.linkedin.com/jobs/view/4491820492/"
   },
   {
+   "company": "Crossing Hurdles",
+   "role": "Data Scientist | Remote",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490418748/"
+  },
+  {
+   "company": "Change Digital \u2013 Digital & Tech Recruitment",
+   "role": "Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491919203/"
+  },
+  {
+   "company": "Capgemini",
+   "role": "Data Engineer (IDMC)",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489561926/"
+  },
+  {
+   "company": "Information Tech Consultants",
+   "role": "Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491603180/"
+  },
+  {
+   "company": "Kleboe Jardine Ltd",
+   "role": "Data Scientist (full-stack)",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490896192/"
+  },
+  {
+   "company": "DTG Global",
+   "role": "Application Support Analyst",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492916825/"
+  },
+  {
+   "company": "The Hearing People",
+   "role": "IT Support & Systems Analyst",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492584380/"
+  },
+  {
+   "company": "CAP Resourcing LTD",
+   "role": "End User Support Specialist",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492911692/"
+  },
+  {
    "company": "VirtueTech Recruitment Group",
    "role": "Research Engineer",
    "date": "2026-11-19",
@@ -672,14 +744,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490706094/"
-  },
-  {
-   "company": "Harnham",
-   "role": "Data Analyst",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491590787/"
   },
   {
    "company": "Burns Sheehan",
@@ -704,70 +768,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-helpdesk-support-analyst/57586684"
-  },
-  {
-   "company": "Reed",
-   "role": "IT Systems Administrator",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-systems-administrator/57588483"
-  },
-  {
-   "company": "Nottingham Trent University",
-   "role": "AI & Automation Solutions Developer (ref 552608)",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://vacancies.ntu.ac.uk/Job/JobDetail?JobId=2643"
-  },
-  {
-   "company": "LSEG",
-   "role": "Salesforce Developer",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Salesforce-Developer_R0124507"
-  },
-  {
-   "company": "focusgroup",
-   "role": "1st Line Support Engineer",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://focusgroup.pinpointhq.com/en/postings/3984d5f1-5aef-4965-929a-3c8ef9fcbbf5"
-  },
-  {
-   "company": "xantura",
-   "role": "Machine Learning Engineer",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://xantura.pinpointhq.com/en/postings/fdfd6308-0a6a-48d7-b780-7e7d83070d85"
-  },
-  {
-   "company": "xantura",
-   "role": "Data Engineer - TechOps",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://xantura.pinpointhq.com/en/postings/8436201f-7996-4e82-ad13-d83c40cfaa00"
-  },
-  {
-   "company": "gearset",
-   "role": "DevOps Engineer",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://gearset.pinpointhq.com/en/postings/69a5e2b5-505e-4c34-98ad-ff0ceea4a55a"
-  },
-  {
-   "company": "judge-priestley",
-   "role": "Administrative Assistant - Onboarding",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://judge-priestley.pinpointhq.com/en/postings/dcbdc0c7-dbec-421d-9e9a-73a04d733279"
   }
  ],
  "applications": [
@@ -916,6 +916,14 @@
    "link": "https://www.linkedin.com/jobs/view/4477713171/"
   },
   {
+   "company": "Harnham",
+   "role": "Data Analyst",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491415709/"
+  },
+  {
    "company": "Understanding Recruitment",
    "role": "Graduate Software Engineer",
    "date": "2026-11-20",
@@ -1116,6 +1124,70 @@
    "link": "https://www.linkedin.com/jobs/view/4491820492/"
   },
   {
+   "company": "Crossing Hurdles",
+   "role": "Data Scientist | Remote",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490418748/"
+  },
+  {
+   "company": "Change Digital \u2013 Digital & Tech Recruitment",
+   "role": "Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491919203/"
+  },
+  {
+   "company": "Capgemini",
+   "role": "Data Engineer (IDMC)",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489561926/"
+  },
+  {
+   "company": "Information Tech Consultants",
+   "role": "Data Engineer",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491603180/"
+  },
+  {
+   "company": "Kleboe Jardine Ltd",
+   "role": "Data Scientist (full-stack)",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490896192/"
+  },
+  {
+   "company": "DTG Global",
+   "role": "Application Support Analyst",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492916825/"
+  },
+  {
+   "company": "The Hearing People",
+   "role": "IT Support & Systems Analyst",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492584380/"
+  },
+  {
+   "company": "CAP Resourcing LTD",
+   "role": "End User Support Specialist",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492911692/"
+  },
+  {
    "company": "VirtueTech Recruitment Group",
    "role": "Research Engineer",
    "date": "2026-11-19",
@@ -1130,14 +1202,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490706094/"
-  },
-  {
-   "company": "Harnham",
-   "role": "Data Analyst",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491590787/"
   },
   {
    "company": "Burns Sheehan",
@@ -30220,7 +30284,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-20T12:31:08.459199+00:00",
- "updated": "2026-11-20T12:31:08+00:00",
- "updated_at": "2026-11-20T12:31:08+00:00"
+ "email_stats_updated": "2026-11-20T12:43:21.297889+00:00",
+ "updated": "2026-11-20T12:43:21+00:00",
+ "updated_at": "2026-11-20T12:43:21+00:00"
 }
