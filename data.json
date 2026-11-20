@@ -1,11 +1,11 @@
 {
- "total": 3680,
+ "total": 3681,
  "portal": 2872,
  "email": 558,
- "linkedin": 250,
+ "linkedin": 251,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 680,
+ "rejections": 681,
  "positives": [
   {
    "company": "Curation",
@@ -445,7 +445,7 @@
    "date": "2026-11-20",
    "portal": 4,
    "email": 0,
-   "linkedin": 21
+   "linkedin": 22
   }
  ],
  "recent": [
@@ -650,6 +650,14 @@
    "link": "https://www.linkedin.com/jobs/view/4490891875/"
   },
   {
+   "company": "Crossing Hurdles",
+   "role": "Machine Learning Engineer | Remote",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491820492/"
+  },
+  {
    "company": "VirtueTech Recruitment Group",
    "role": "Research Engineer",
    "date": "2026-11-19",
@@ -760,14 +768,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://judge-priestley.pinpointhq.com/en/postings/dcbdc0c7-dbec-421d-9e9a-73a04d733279"
-  },
-  {
-   "company": "uktv",
-   "role": "QA Engineer ",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://uktv.pinpointhq.com/en/postings/487da793-571d-4966-ac04-fe07e7c90612"
   }
  ],
  "applications": [
@@ -1106,6 +1106,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490891875/"
+  },
+  {
+   "company": "Crossing Hurdles",
+   "role": "Machine Learning Engineer | Remote",
+   "date": "2026-11-20",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491820492/"
   },
   {
    "company": "VirtueTech Recruitment Group",
@@ -30212,7 +30220,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-20T12:16:15.538760+00:00",
- "updated": "2026-11-20T12:16:16+00:00",
- "updated_at": "2026-11-20T12:16:16+00:00"
+ "email_stats_updated": "2026-11-20T12:31:08.459199+00:00",
+ "updated": "2026-11-20T12:31:08+00:00",
+ "updated_at": "2026-11-20T12:31:08+00:00"
 }
