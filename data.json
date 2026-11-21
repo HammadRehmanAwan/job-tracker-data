@@ -1,6 +1,6 @@
 {
- "total": 3722,
- "portal": 2873,
+ "total": 3730,
+ "portal": 2881,
  "email": 558,
  "linkedin": 291,
  "bounced_emails": 23,
@@ -457,7 +457,7 @@
   },
   {
    "date": "2026-11-21",
-   "portal": 1,
+   "portal": 9,
    "email": 0,
    "linkedin": 36
   }
@@ -760,28 +760,28 @@
    "link": "https://www.linkedin.com/jobs/view/4492519724/"
   },
   {
-   "company": "G-P",
-   "role": "AI Engineer I",
-   "date": "2026-11-20",
-   "type": "linkedin",
+   "company": "hyperexponential",
+   "role": "Model Developer (Client Education)",
+   "date": "2026-11-21",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4477713171/"
+   "link": "https://jobs.ashbyhq.com/hyperexponential/50911dd2-1b43-44ea-bf54-0a461e44aec1"
   },
   {
-   "company": "Understanding Recruitment",
-   "role": "Graduate Software Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
+   "company": "10xteam",
+   "role": "Platform Engineer - AI Trainer - Freelance - 8-20hrs/week - Remote",
+   "date": "2026-11-21",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491909602/"
+   "link": "https://jobs.ashbyhq.com/10xteam/f9d62144-4bdc-40b5-9192-bcf78233375e"
   },
   {
-   "company": "Eden Scott",
-   "role": "1st Line IT Support Technician",
-   "date": "2026-11-20",
-   "type": "linkedin",
+   "company": "bunch",
+   "role": "GTM Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491901581/"
+   "link": "https://jobs.ashbyhq.com/bunch/1340d906-e089-4df4-98de-bf74f9c23e72"
   }
  ],
  "applications": [
@@ -1216,6 +1216,70 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492519724/"
+  },
+  {
+   "company": "hyperexponential",
+   "role": "Model Developer (Client Education)",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/hyperexponential/50911dd2-1b43-44ea-bf54-0a461e44aec1"
+  },
+  {
+   "company": "10xteam",
+   "role": "Platform Engineer - AI Trainer - Freelance - 8-20hrs/week - Remote",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/10xteam/f9d62144-4bdc-40b5-9192-bcf78233375e"
+  },
+  {
+   "company": "bunch",
+   "role": "GTM Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/bunch/1340d906-e089-4df4-98de-bf74f9c23e72"
+  },
+  {
+   "company": "dynamic-creatures",
+   "role": "Research Engineer / Scientist, World Models & Robot Learning",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/dynamic-creatures/8881ccdf-53c0-47fa-a5cd-dc983dd124db"
+  },
+  {
+   "company": "elevenlabs",
+   "role": "Data Scientist - Product Analytics",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c"
+  },
+  {
+   "company": "sensor-tower",
+   "role": "Platform Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sensor-tower/48cababe-d49c-4be5-acea-2e7698eeef6c"
+  },
+  {
+   "company": "controlplane",
+   "role": "OpenBao Developer ",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/controlplane/jobs/5026034101"
+  },
+  {
+   "company": "hrtechx",
+   "role": "GTM Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8205161003"
   },
   {
    "company": "G-P",
@@ -30562,7 +30626,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-21T12:31:06.592140+00:00",
- "updated": "2026-11-21T12:31:09+00:00",
- "updated_at": "2026-11-21T12:31:09+00:00"
+ "email_stats_updated": "2026-11-21T12:42:20.868753+00:00",
+ "updated": "2026-11-21T12:42:21+00:00",
+ "updated_at": "2026-11-21T12:42:21+00:00"
 }
