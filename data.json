@@ -1,11 +1,11 @@
 {
- "total": 3698,
+ "total": 3711,
  "portal": 2874,
  "email": 558,
- "linkedin": 266,
+ "linkedin": 279,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 704,
+ "rejections": 708,
  "positives": [
   {
    "company": "Curation",
@@ -381,7 +381,7 @@
    "date": "2026-11-07",
    "portal": 349,
    "email": 0,
-   "linkedin": 34
+   "linkedin": 33
   },
   {
    "date": "2026-11-08",
@@ -429,7 +429,7 @@
    "date": "2026-11-16",
    "portal": 77,
    "email": 0,
-   "linkedin": 33
+   "linkedin": 32
   },
   {
    "date": "2026-11-17",
@@ -459,10 +459,18 @@
    "date": "2026-11-21",
    "portal": 1,
    "email": 0,
-   "linkedin": 8
+   "linkedin": 23
   }
  ],
  "recent": [
+  {
+   "company": "Calyptus",
+   "role": "AI Engineer, Personalisation & Recommendations",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492981821/"
+  },
   {
    "company": "Harnham",
    "role": "Data Analyst",
@@ -470,6 +478,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492814194/"
+  },
+  {
+   "company": "Oho Group",
+   "role": "Forward Deployed Engineer | Early-Stage AI Start-Up",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492806429/"
   },
   {
    "company": "focusgroup",
@@ -534,6 +550,110 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492554212/"
+  },
+  {
+   "company": "European Tech Recruit",
+   "role": "Artificial Intelligence Researcher",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492930899/"
+  },
+  {
+   "company": "Platform Recruitment",
+   "role": "AI Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491942576/"
+  },
+  {
+   "company": "Information Tech Consultants",
+   "role": "ETL Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491942276/"
+  },
+  {
+   "company": "Stealth iT Consulting",
+   "role": "GenAI Full Stack Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490469531/"
+  },
+  {
+   "company": "SR2",
+   "role": "Applied AI Research Engineer, Agents",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489748946/"
+  },
+  {
+   "company": "ivee",
+   "role": "Software Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491917697/"
+  },
+  {
+   "company": "Bentley Whitaker Search and Selection",
+   "role": "GenAI Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490636953/"
+  },
+  {
+   "company": "Atarus",
+   "role": "Product Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491517064/"
+  },
+  {
+   "company": "Nicoll Curtin",
+   "role": "FinTech Solutions Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491148202/"
+  },
+  {
+   "company": "Ventula Consulting",
+   "role": "Performance Insight Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492179759/"
+  },
+  {
+   "company": "CF",
+   "role": "Data Scientist",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492950439/"
+  },
+  {
+   "company": "Zachary Daniels",
+   "role": "Digital Marketing Data Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491147878/"
+  },
+  {
+   "company": "Stonor Search",
+   "role": "Marketing Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490459739/"
   },
   {
    "company": "G-P",
@@ -662,126 +782,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4491143752/"
-  },
-  {
-   "company": "Hunter Bond",
-   "role": "Python Developer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490119909/"
-  },
-  {
-   "company": "Bonhill Partners",
-   "role": "Python Developer (Kubernetes)",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488180309/"
-  },
-  {
-   "company": "Rydal Group",
-   "role": "Level 1 IT Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491565435/"
-  },
-  {
-   "company": "Lowe Rental",
-   "role": "I.T Support Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491852359/"
-  },
-  {
-   "company": "Knights",
-   "role": "Technology Support Analyst",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492144127/"
-  },
-  {
-   "company": "Avance Consulting",
-   "role": "Service Desk Analyst",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492573380/"
-  },
-  {
-   "company": "Saragossa",
-   "role": "Service Desk Analyst - Wealth Management - \u00a335,000",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4484690867/"
-  },
-  {
-   "company": "Ampstek",
-   "role": "Service Desk Analyst (1st Line Support)",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492558835/"
-  },
-  {
-   "company": "Set2Recruit",
-   "role": "Service Desk Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490891875/"
-  },
-  {
-   "company": "Crossing Hurdles",
-   "role": "Machine Learning Engineer | Remote",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491820492/"
-  },
-  {
-   "company": "Crossing Hurdles",
-   "role": "Data Scientist | Remote",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490418748/"
-  },
-  {
-   "company": "Change Digital \u2013 Digital & Tech Recruitment",
-   "role": "Data Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491919203/"
-  },
-  {
-   "company": "Capgemini",
-   "role": "Data Engineer (IDMC)",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489561926/"
-  },
-  {
-   "company": "Information Tech Consultants",
-   "role": "Data Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491603180/"
-  },
-  {
-   "company": "Kleboe Jardine Ltd",
-   "role": "Data Scientist (full-stack)",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490896192/"
   }
  ],
  "applications": [
@@ -922,12 +922,28 @@
    "link": ""
   },
   {
+   "company": "Calyptus",
+   "role": "AI Engineer, Personalisation & Recommendations",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492981821/"
+  },
+  {
    "company": "Harnham",
    "role": "Data Analyst",
    "date": "2026-11-21",
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492814194/"
+  },
+  {
+   "company": "Oho Group",
+   "role": "Forward Deployed Engineer | Early-Stage AI Start-Up",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492806429/"
   },
   {
    "company": "focusgroup",
@@ -992,6 +1008,110 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492554212/"
+  },
+  {
+   "company": "European Tech Recruit",
+   "role": "Artificial Intelligence Researcher",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492930899/"
+  },
+  {
+   "company": "Platform Recruitment",
+   "role": "AI Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491942576/"
+  },
+  {
+   "company": "Information Tech Consultants",
+   "role": "ETL Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491942276/"
+  },
+  {
+   "company": "Stealth iT Consulting",
+   "role": "GenAI Full Stack Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490469531/"
+  },
+  {
+   "company": "SR2",
+   "role": "Applied AI Research Engineer, Agents",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489748946/"
+  },
+  {
+   "company": "ivee",
+   "role": "Software Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491917697/"
+  },
+  {
+   "company": "Bentley Whitaker Search and Selection",
+   "role": "GenAI Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490636953/"
+  },
+  {
+   "company": "Atarus",
+   "role": "Product Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491517064/"
+  },
+  {
+   "company": "Nicoll Curtin",
+   "role": "FinTech Solutions Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491148202/"
+  },
+  {
+   "company": "Ventula Consulting",
+   "role": "Performance Insight Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492179759/"
+  },
+  {
+   "company": "CF",
+   "role": "Data Scientist",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492950439/"
+  },
+  {
+   "company": "Zachary Daniels",
+   "role": "Digital Marketing Data Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491147878/"
+  },
+  {
+   "company": "Stonor Search",
+   "role": "Marketing Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490459739/"
   },
   {
    "company": "G-P",
@@ -6960,14 +7080,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4489746126/"
-  },
-  {
-   "company": "Oho Group",
-   "role": "Forward Deployed Engineer | Early-Stage AI Start-Up",
-   "date": "2026-11-16",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490644203/"
   },
   {
    "company": "basecamp-research",
@@ -23754,14 +23866,6 @@
    "link": ""
   },
   {
-   "company": "Calyptus",
-   "role": "AI Engineer, Personalisation & Recommendations",
-   "date": "2026-11-07",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": ""
-  },
-  {
    "company": "Veridraft",
    "role": "Full-Stack AI Engineer",
    "date": "2026-11-07",
@@ -30370,7 +30474,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-21T10:15:38.565337+00:00",
- "updated": "2026-11-21T10:15:39+00:00",
- "updated_at": "2026-11-21T10:15:39+00:00"
+ "email_stats_updated": "2026-11-21T10:34:52.600605+00:00",
+ "updated": "2026-11-21T10:34:52+00:00",
+ "updated_at": "2026-11-21T10:34:53+00:00"
 }
