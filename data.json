@@ -1,11 +1,11 @@
 {
- "total": 3691,
+ "total": 3698,
  "portal": 2874,
  "email": 558,
- "linkedin": 259,
+ "linkedin": 266,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 703,
+ "rejections": 704,
  "positives": [
   {
    "company": "Curation",
@@ -453,16 +453,24 @@
    "date": "2026-11-20",
    "portal": 5,
    "email": 0,
-   "linkedin": 31
+   "linkedin": 30
   },
   {
    "date": "2026-11-21",
    "portal": 1,
    "email": 0,
-   "linkedin": 0
+   "linkedin": 8
   }
  ],
  "recent": [
+  {
+   "company": "Harnham",
+   "role": "Data Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492814194/"
+  },
   {
    "company": "focusgroup",
    "role": "Solutions Engineer (Network)",
@@ -472,20 +480,68 @@
    "link": "https://focusgroup.pinpointhq.com/en/postings/986dde4e-0508-4330-b679-2f14cff02de9"
   },
   {
+   "company": "Linea Resourcing",
+   "role": "Graduate Technical Support Specialist",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492909456/"
+  },
+  {
+   "company": "Anson McCade",
+   "role": "Python Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4484369782/"
+  },
+  {
+   "company": "Jobgether",
+   "role": "IT Coordinator",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490425102/"
+  },
+  {
+   "company": "Hiiya",
+   "role": "Data Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492050667/"
+  },
+  {
+   "company": "Anson McCade",
+   "role": "Back End Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490453363/"
+  },
+  {
+   "company": "Burns Sheehan",
+   "role": "Mid Level Software Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490620112/"
+  },
+  {
+   "company": "Jobgether",
+   "role": "Developer Support Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492554212/"
+  },
+  {
    "company": "G-P",
    "role": "AI Engineer I",
    "date": "2026-11-20",
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4477713171/"
-  },
-  {
-   "company": "Harnham",
-   "role": "Data Analyst",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491415709/"
   },
   {
    "company": "Understanding Recruitment",
@@ -726,62 +782,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490896192/"
-  },
-  {
-   "company": "DTG Global",
-   "role": "Application Support Analyst",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492916825/"
-  },
-  {
-   "company": "The Hearing People",
-   "role": "IT Support & Systems Analyst",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492584380/"
-  },
-  {
-   "company": "CAP Resourcing LTD",
-   "role": "End User Support Specialist",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492911692/"
-  },
-  {
-   "company": "allego",
-   "role": "Junior Support Engineer",
-   "date": "2026-11-20",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/allego/jobs/4516796009"
-  },
-  {
-   "company": "VirtueTech Recruitment Group",
-   "role": "Research Engineer",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490860918/"
-  },
-  {
-   "company": "Searchability",
-   "role": "3rd Line Service Desk Engineer - Infrastructure",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490706094/"
-  },
-  {
-   "company": "Burns Sheehan",
-   "role": "Machine Learning Engineer",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490646669/"
   }
  ],
  "applications": [
@@ -922,6 +922,14 @@
    "link": ""
   },
   {
+   "company": "Harnham",
+   "role": "Data Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492814194/"
+  },
+  {
    "company": "focusgroup",
    "role": "Solutions Engineer (Network)",
    "date": "2026-11-21",
@@ -930,20 +938,68 @@
    "link": "https://focusgroup.pinpointhq.com/en/postings/986dde4e-0508-4330-b679-2f14cff02de9"
   },
   {
+   "company": "Linea Resourcing",
+   "role": "Graduate Technical Support Specialist",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492909456/"
+  },
+  {
+   "company": "Anson McCade",
+   "role": "Python Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4484369782/"
+  },
+  {
+   "company": "Jobgether",
+   "role": "IT Coordinator",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490425102/"
+  },
+  {
+   "company": "Hiiya",
+   "role": "Data Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492050667/"
+  },
+  {
+   "company": "Anson McCade",
+   "role": "Back End Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490453363/"
+  },
+  {
+   "company": "Burns Sheehan",
+   "role": "Mid Level Software Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490620112/"
+  },
+  {
+   "company": "Jobgether",
+   "role": "Developer Support Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492554212/"
+  },
+  {
    "company": "G-P",
    "role": "AI Engineer I",
    "date": "2026-11-20",
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4477713171/"
-  },
-  {
-   "company": "Harnham",
-   "role": "Data Analyst",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491415709/"
   },
   {
    "company": "Understanding Recruitment",
@@ -30314,7 +30370,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-21T09:15:49.409229+00:00",
- "updated": "2026-11-21T09:15:50+00:00",
- "updated_at": "2026-11-21T09:15:50+00:00"
+ "email_stats_updated": "2026-11-21T09:34:42.181906+00:00",
+ "updated": "2026-11-21T09:34:42+00:00",
+ "updated_at": "2026-11-21T09:34:42+00:00"
 }
