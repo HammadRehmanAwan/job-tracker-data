@@ -1,11 +1,11 @@
 {
- "total": 3711,
+ "total": 3715,
  "portal": 2874,
  "email": 558,
- "linkedin": 279,
+ "linkedin": 283,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 708,
+ "rejections": 710,
  "positives": [
   {
    "company": "Curation",
@@ -447,7 +447,7 @@
    "date": "2026-11-19",
    "portal": 64,
    "email": 0,
-   "linkedin": 31
+   "linkedin": 30
   },
   {
    "date": "2026-11-20",
@@ -459,7 +459,7 @@
    "date": "2026-11-21",
    "portal": 1,
    "email": 0,
-   "linkedin": 23
+   "linkedin": 28
   }
  ],
  "recent": [
@@ -486,6 +486,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492806429/"
+  },
+  {
+   "company": "Harnham",
+   "role": "Data Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491700729/"
   },
   {
    "company": "focusgroup",
@@ -656,6 +664,38 @@
    "link": "https://www.linkedin.com/jobs/view/4490459739/"
   },
   {
+   "company": "Stoke City Football Club",
+   "role": "First Team Recruitment Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491137399/"
+  },
+  {
+   "company": "Information Tech Consultants",
+   "role": "Database Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490434184/"
+  },
+  {
+   "company": "Warman O'Brien",
+   "role": "Clinical Python Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490469073/"
+  },
+  {
+   "company": "ARC Insights",
+   "role": "Data Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492037332/"
+  },
+  {
    "company": "G-P",
    "role": "AI Engineer I",
    "date": "2026-11-20",
@@ -742,46 +782,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4489737410/"
-  },
-  {
-   "company": "Gravitas Recruitment Group (Global) Ltd",
-   "role": "Data Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489764738/"
-  },
-  {
-   "company": "Immersum",
-   "role": "Data Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489774343/"
-  },
-  {
-   "company": "Experis UK",
-   "role": "Software Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4460242689/"
-  },
-  {
-   "company": "Evolve IT Recruitment Ltd",
-   "role": "Python Developer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490450508/"
-  },
-  {
-   "company": "Synapri",
-   "role": "Back End Developer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491143752/"
   }
  ],
  "applications": [
@@ -946,6 +946,14 @@
    "link": "https://www.linkedin.com/jobs/view/4492806429/"
   },
   {
+   "company": "Harnham",
+   "role": "Data Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491700729/"
+  },
+  {
    "company": "focusgroup",
    "role": "Solutions Engineer (Network)",
    "date": "2026-11-21",
@@ -1112,6 +1120,38 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490459739/"
+  },
+  {
+   "company": "Stoke City Football Club",
+   "role": "First Team Recruitment Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491137399/"
+  },
+  {
+   "company": "Information Tech Consultants",
+   "role": "Database Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490434184/"
+  },
+  {
+   "company": "Warman O'Brien",
+   "role": "Clinical Python Developer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490469073/"
+  },
+  {
+   "company": "ARC Insights",
+   "role": "Data Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492037332/"
   },
   {
    "company": "G-P",
@@ -1576,14 +1616,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490325748/"
-  },
-  {
-   "company": "Harnham",
-   "role": "Data Engineer",
-   "date": "2026-11-19",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490650733/"
   },
   {
    "company": "Reed",
@@ -30474,7 +30506,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-21T10:34:52.600605+00:00",
- "updated": "2026-11-21T10:34:52+00:00",
- "updated_at": "2026-11-21T10:34:53+00:00"
+ "email_stats_updated": "2026-11-21T10:48:22.531632+00:00",
+ "updated": "2026-11-21T10:48:23+00:00",
+ "updated_at": "2026-11-21T10:48:23+00:00"
 }
