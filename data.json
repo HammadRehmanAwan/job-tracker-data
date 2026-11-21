@@ -1,6 +1,6 @@
 {
- "total": 3750,
- "portal": 2901,
+ "total": 3755,
+ "portal": 2906,
  "email": 558,
  "linkedin": 291,
  "bounced_emails": 23,
@@ -457,7 +457,7 @@
   },
   {
    "date": "2026-11-21",
-   "portal": 29,
+   "portal": 34,
    "email": 0,
    "linkedin": 36
   }
@@ -1440,6 +1440,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/tavily/jobs/4976971101"
+  },
+  {
+   "company": "ocadogroup",
+   "role": "Analytics Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/ocadogroup/jobs/4997439101"
+  },
+  {
+   "company": "Valsoft Corporation",
+   "role": "(New Graduate) Junior Client and Product Support Analyst",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/5C9F41CBB9/apply"
+  },
+  {
+   "company": "Carnall Farrar",
+   "role": "Data Scientist",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/B870C9E2E2/apply"
+  },
+  {
+   "company": "Runware",
+   "role": "IT & Systems Administrator",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/68D0FD1F71/apply"
+  },
+  {
+   "company": "T-Tech",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/8F863BE1B7/apply"
   },
   {
    "company": "G-P",
@@ -30786,7 +30826,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-21T14:30:11.533907+00:00",
- "updated": "2026-11-21T14:30:11+00:00",
- "updated_at": "2026-11-21T14:30:11+00:00"
+ "email_stats_updated": "2026-11-21T14:51:31.100486+00:00",
+ "updated": "2026-11-21T14:51:31+00:00",
+ "updated_at": "2026-11-21T14:51:31+00:00"
 }
