@@ -1,6 +1,6 @@
 {
- "total": 3745,
- "portal": 2896,
+ "total": 3750,
+ "portal": 2901,
  "email": 558,
  "linkedin": 291,
  "bounced_emails": 23,
@@ -457,7 +457,7 @@
   },
   {
    "date": "2026-11-21",
-   "portal": 24,
+   "portal": 29,
    "email": 0,
    "linkedin": 36
   }
@@ -1400,6 +1400,46 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/FD9459DD20/apply"
+  },
+  {
+   "company": "hereio",
+   "role": "Forward Deployed Engineer - Security",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hereio/jobs/8407326"
+  },
+  {
+   "company": "privateequityinsights",
+   "role": "AI Automation Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8204986003"
+  },
+  {
+   "company": "rapidfortinc",
+   "role": "Cloud Operations Engineer \u2014 Linux & Kubernetes",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/rapidfortinc/jobs/4457621009"
+  },
+  {
+   "company": "tailscale",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/tailscale/jobs/4754860005"
+  },
+  {
+   "company": "tavily",
+   "role": "Forward Deployed Engineer, Enterprise",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/tavily/jobs/4976971101"
   },
   {
    "company": "G-P",
@@ -30746,7 +30786,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-21T13:28:23.337066+00:00",
- "updated": "2026-11-21T13:28:23+00:00",
- "updated_at": "2026-11-21T13:28:23+00:00"
+ "email_stats_updated": "2026-11-21T13:51:11.358431+00:00",
+ "updated": "2026-11-21T13:51:11+00:00",
+ "updated_at": "2026-11-21T13:51:11+00:00"
 }
