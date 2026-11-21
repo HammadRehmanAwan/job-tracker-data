@@ -1,6 +1,6 @@
 {
- "total": 3690,
- "portal": 2873,
+ "total": 3691,
+ "portal": 2874,
  "email": 558,
  "linkedin": 259,
  "bounced_emails": 23,
@@ -454,9 +454,23 @@
    "portal": 5,
    "email": 0,
    "linkedin": 31
+  },
+  {
+   "date": "2026-11-21",
+   "portal": 1,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "focusgroup",
+   "role": "Solutions Engineer (Network)",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://focusgroup.pinpointhq.com/en/postings/986dde4e-0508-4330-b679-2f14cff02de9"
+  },
   {
    "company": "G-P",
    "role": "AI Engineer I",
@@ -768,14 +782,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490646669/"
-  },
-  {
-   "company": "Hays Specialist Recruitment Limited",
-   "role": "IT Support Analyst",
-   "date": "2026-11-19",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-analyst/57586576"
   }
  ],
  "applications": [
@@ -914,6 +920,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "focusgroup",
+   "role": "Solutions Engineer (Network)",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://focusgroup.pinpointhq.com/en/postings/986dde4e-0508-4330-b679-2f14cff02de9"
   },
   {
    "company": "G-P",
@@ -30300,7 +30314,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-21T00:45:17.303958+00:00",
- "updated": "2026-11-21T00:45:17+00:00",
- "updated_at": "2026-11-21T00:45:18+00:00"
+ "email_stats_updated": "2026-11-21T01:03:19.922085+00:00",
+ "updated": "2026-11-21T01:03:20+00:00",
+ "updated_at": "2026-11-21T01:03:20+00:00"
 }
