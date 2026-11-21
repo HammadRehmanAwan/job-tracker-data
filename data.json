@@ -1,11 +1,11 @@
 {
- "total": 3715,
- "portal": 2874,
+ "total": 3722,
+ "portal": 2873,
  "email": 558,
- "linkedin": 283,
+ "linkedin": 291,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 710,
+ "rejections": 712,
  "positives": [
   {
    "company": "Curation",
@@ -379,7 +379,7 @@
   },
   {
    "date": "2026-11-07",
-   "portal": 349,
+   "portal": 348,
    "email": 0,
    "linkedin": 33
   },
@@ -459,7 +459,7 @@
    "date": "2026-11-21",
    "portal": 1,
    "email": 0,
-   "linkedin": 28
+   "linkedin": 36
   }
  ],
  "recent": [
@@ -472,12 +472,20 @@
    "link": "https://www.linkedin.com/jobs/view/4492981821/"
   },
   {
+   "company": "LMAX Group",
+   "role": "Junior Software Developer (Java)",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492907830/"
+  },
+  {
    "company": "Harnham",
    "role": "Data Analyst",
    "date": "2026-11-21",
    "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492814194/"
+   "link": "https://www.linkedin.com/jobs/view/4492812217/"
   },
   {
    "company": "Oho Group",
@@ -696,6 +704,62 @@
    "link": "https://www.linkedin.com/jobs/view/4492037332/"
   },
   {
+   "company": "GradBay",
+   "role": "Graduate Software Engineer (Edinburgh)",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489752209/"
+  },
+  {
+   "company": "GradBay",
+   "role": "Graduate Software Engineer (Glasgow)",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489740467/"
+  },
+  {
+   "company": "Accelero",
+   "role": "Data Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492409452/"
+  },
+  {
+   "company": "Hamilton Barnes",
+   "role": "IT Support Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491958279/"
+  },
+  {
+   "company": "Blupace Tech",
+   "role": "IT User Support Technician",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492949725/"
+  },
+  {
+   "company": "learnd",
+   "role": "IT Helpdesk Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492295872/"
+  },
+  {
+   "company": "Corpay",
+   "role": "Technical Support Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492519724/"
+  },
+  {
    "company": "G-P",
    "role": "AI Engineer I",
    "date": "2026-11-20",
@@ -718,70 +782,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4491901581/"
-  },
-  {
-   "company": "prolificacademicltd",
-   "role": "Data Entry Clerk - Graduates - AI Training - Manchester, UK",
-   "date": "2026-11-20",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/4871047101"
-  },
-  {
-   "company": "clickhouse",
-   "role": "Cloud Software Engineer - Observability Platform",
-   "date": "2026-11-20",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/clickhouse/e863d643-244a-422a-b750-292e0a0d555f"
-  },
-  {
-   "company": "plessey",
-   "role": "AI Solutions Engineer ",
-   "date": "2026-11-20",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://plessey.pinpointhq.com/en/postings/7e341e66-9977-4490-abf6-1fdf5fea5196"
-  },
-  {
-   "company": "paddle",
-   "role": "Software Engineer (Go)",
-   "date": "2026-11-20",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/paddle/7642fac5-d94b-4157-8b19-79a7dbc115ea"
-  },
-  {
-   "company": "Fortray Global Service Limited",
-   "role": "Graduate AI Engineer (Entry-Level)",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492196453/"
-  },
-  {
-   "company": "Sanderson",
-   "role": "Junior Data Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492916351/"
-  },
-  {
-   "company": "Enso Recruitment",
-   "role": "Data Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491610951/"
-  },
-  {
-   "company": "Peaple Talent",
-   "role": "Snowflake Data Engineer",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489737410/"
   }
  ],
  "applications": [
@@ -930,12 +930,20 @@
    "link": "https://www.linkedin.com/jobs/view/4492981821/"
   },
   {
+   "company": "LMAX Group",
+   "role": "Junior Software Developer (Java)",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492907830/"
+  },
+  {
    "company": "Harnham",
    "role": "Data Analyst",
    "date": "2026-11-21",
    "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492814194/"
+   "link": "https://www.linkedin.com/jobs/view/4492812217/"
   },
   {
    "company": "Oho Group",
@@ -1152,6 +1160,62 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492037332/"
+  },
+  {
+   "company": "GradBay",
+   "role": "Graduate Software Engineer (Edinburgh)",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489752209/"
+  },
+  {
+   "company": "GradBay",
+   "role": "Graduate Software Engineer (Glasgow)",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4489740467/"
+  },
+  {
+   "company": "Accelero",
+   "role": "Data Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492409452/"
+  },
+  {
+   "company": "Hamilton Barnes",
+   "role": "IT Support Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491958279/"
+  },
+  {
+   "company": "Blupace Tech",
+   "role": "IT User Support Technician",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492949725/"
+  },
+  {
+   "company": "learnd",
+   "role": "IT Helpdesk Engineer",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492295872/"
+  },
+  {
+   "company": "Corpay",
+   "role": "Technical Support Analyst",
+   "date": "2026-11-21",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492519724/"
   },
   {
    "company": "G-P",
@@ -24770,14 +24834,6 @@
    "link": ""
   },
   {
-   "company": "LMAX Group",
-   "role": "Junior Software Developer (Java)",
-   "date": "2026-11-07",
-   "type": "portal",
-   "status": "submitted",
-   "link": ""
-  },
-  {
    "company": "Kroo Bank Ltd",
    "role": "Data Scientist",
    "date": "2026-11-07",
@@ -30506,7 +30562,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-21T11:27:14.442725+00:00",
- "updated": "2026-11-21T11:27:14+00:00",
- "updated_at": "2026-11-21T11:27:14+00:00"
+ "email_stats_updated": "2026-11-21T11:50:28.998462+00:00",
+ "updated": "2026-11-21T11:50:29+00:00",
+ "updated_at": "2026-11-21T11:50:29+00:00"
 }
