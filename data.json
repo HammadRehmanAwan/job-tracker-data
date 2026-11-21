@@ -1,11 +1,11 @@
 {
- "total": 3730,
- "portal": 2881,
+ "total": 3745,
+ "portal": 2896,
  "email": 558,
  "linkedin": 291,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 712,
+ "rejections": 713,
  "positives": [
   {
    "company": "Curation",
@@ -457,7 +457,7 @@
   },
   {
    "date": "2026-11-21",
-   "portal": 9,
+   "portal": 24,
    "email": 0,
    "linkedin": 36
   }
@@ -1280,6 +1280,126 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8205161003"
+  },
+  {
+   "company": "neptunenorth",
+   "role": "Test Automation Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/neptunenorth/jobs/4894927101"
+  },
+  {
+   "company": "neo4j",
+   "role": "Research Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/neo4j/jobs/4708465006"
+  },
+  {
+   "company": "privateequityinsights",
+   "role": "GTM Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8205163003"
+  },
+  {
+   "company": "prolificacademicltd",
+   "role": "Data Scientist - Research Participants - United Kingdom",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/5015879101"
+  },
+  {
+   "company": "prolificacademicltd",
+   "role": "Quality Assurance Engineer - Research Participants - United Kingdom",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/prolificacademicltd/jobs/5016023101"
+  },
+  {
+   "company": "helsing",
+   "role": "Site Reliability Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/helsing/jobs/4347030101"
+  },
+  {
+   "company": "unitedmedia",
+   "role": "AI Automation Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8204988003"
+  },
+  {
+   "company": "unitedmedia",
+   "role": "GTM Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8205164003"
+  },
+  {
+   "company": "yld",
+   "role": "Golang Engineer - UK",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/yld/jobs/5043732101"
+  },
+  {
+   "company": "uniserve",
+   "role": "Finance Data Analyst",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://careers.gbglobal.world/en/postings/9d4165d6-cfb9-4626-bdac-97085c8d115d"
+  },
+  {
+   "company": "G MASS",
+   "role": "SharePoint Developer - London Market Insurance",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/60E6BEA308/apply"
+  },
+  {
+   "company": "Cogna",
+   "role": "Platform Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/66E7F2F0F9/apply"
+  },
+  {
+   "company": "Lighthouse Games",
+   "role": "QA Tester - 12 Month FTC",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/24444B8937/apply"
+  },
+  {
+   "company": "Livestock Information",
+   "role": "Data Development & Support Analyst",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/F56CCBAFBB/apply"
+  },
+  {
+   "company": "Sword Group",
+   "role": "AI & Automation Engineer",
+   "date": "2026-11-21",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/FD9459DD20/apply"
   },
   {
    "company": "G-P",
@@ -30626,7 +30746,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-21T12:42:20.868753+00:00",
- "updated": "2026-11-21T12:42:21+00:00",
- "updated_at": "2026-11-21T12:42:21+00:00"
+ "email_stats_updated": "2026-11-21T13:02:02.184819+00:00",
+ "updated": "2026-11-21T13:02:03+00:00",
+ "updated_at": "2026-11-21T13:02:03+00:00"
 }
