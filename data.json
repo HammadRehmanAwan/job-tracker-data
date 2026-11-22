@@ -435,7 +435,7 @@
    "date": "2026-11-17",
    "portal": 120,
    "email": 0,
-   "linkedin": 27
+   "linkedin": 26
   },
   {
    "date": "2026-11-18",
@@ -465,10 +465,18 @@
    "date": "2026-11-22",
    "portal": 0,
    "email": 0,
-   "linkedin": 22
+   "linkedin": 23
   }
  ],
  "recent": [
+  {
+   "company": "Durlston Partners",
+   "role": "Software Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492352337/"
+  },
   {
    "company": "X-on Health",
    "role": "Graduate Software Engineer",
@@ -780,14 +788,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490469531/"
-  },
-  {
-   "company": "SR2",
-   "role": "Applied AI Research Engineer, Agents",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489748946/"
   }
  ],
  "applications": [
@@ -926,6 +926,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Durlston Partners",
+   "role": "Software Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492352337/"
   },
   {
    "company": "X-on Health",
@@ -6726,14 +6734,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4489760630/"
-  },
-  {
-   "company": "Durlston Partners",
-   "role": "Software Engineer",
-   "date": "2026-11-17",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4488934977/"
   },
   {
    "company": "Information Tech Consultants",
@@ -31000,7 +31000,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-22T11:17:06.804479+00:00",
- "updated": "2026-11-22T11:17:07+00:00",
- "updated_at": "2026-11-22T11:17:07+00:00"
+ "email_stats_updated": "2026-11-22T11:33:42.764486+00:00",
+ "updated": "2026-11-22T11:33:43+00:00",
+ "updated_at": "2026-11-22T11:33:43+00:00"
 }
