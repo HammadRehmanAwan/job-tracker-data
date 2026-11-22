@@ -1,8 +1,8 @@
 {
- "total": 3755,
+ "total": 3759,
  "portal": 2906,
  "email": 558,
- "linkedin": 291,
+ "linkedin": 295,
  "bounced_emails": 23,
  "confirmations": 2747,
  "rejections": 717,
@@ -460,9 +460,47 @@
    "portal": 34,
    "email": 0,
    "linkedin": 36
+  },
+  {
+   "date": "2026-11-22",
+   "portal": 0,
+   "email": 0,
+   "linkedin": 4
   }
  ],
  "recent": [
+  {
+   "company": "Mentmore",
+   "role": "Graduate IT Support Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491192520/"
+  },
+  {
+   "company": "Station",
+   "role": "IT Service Desk & Modern Workplace Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491193515/"
+  },
+  {
+   "company": "Chartered Management Institute",
+   "role": "Information Technology Support Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490894196/"
+  },
+  {
+   "company": "ai4process",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491155817/"
+  },
   {
    "company": "Calyptus",
    "role": "AI Engineer, Personalisation & Recommendations",
@@ -750,38 +788,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492295872/"
-  },
-  {
-   "company": "Corpay",
-   "role": "Technical Support Analyst",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492519724/"
-  },
-  {
-   "company": "hyperexponential",
-   "role": "Model Developer (Client Education)",
-   "date": "2026-11-21",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/hyperexponential/50911dd2-1b43-44ea-bf54-0a461e44aec1"
-  },
-  {
-   "company": "10xteam",
-   "role": "Platform Engineer - AI Trainer - Freelance - 8-20hrs/week - Remote",
-   "date": "2026-11-21",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/10xteam/f9d62144-4bdc-40b5-9192-bcf78233375e"
-  },
-  {
-   "company": "bunch",
-   "role": "GTM Engineer",
-   "date": "2026-11-21",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/bunch/1340d906-e089-4df4-98de-bf74f9c23e72"
   }
  ],
  "applications": [
@@ -920,6 +926,38 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Mentmore",
+   "role": "Graduate IT Support Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491192520/"
+  },
+  {
+   "company": "Station",
+   "role": "IT Service Desk & Modern Workplace Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491193515/"
+  },
+  {
+   "company": "Chartered Management Institute",
+   "role": "Information Technology Support Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490894196/"
+  },
+  {
+   "company": "ai4process",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491155817/"
   },
   {
    "company": "Calyptus",
@@ -30826,7 +30864,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-22T09:18:07.925444+00:00",
- "updated": "2026-11-22T09:18:08+00:00",
- "updated_at": "2026-11-22T09:18:08+00:00"
+ "email_stats_updated": "2026-11-22T09:32:26.421192+00:00",
+ "updated": "2026-11-22T09:32:26+00:00",
+ "updated_at": "2026-11-22T09:32:26+00:00"
 }
