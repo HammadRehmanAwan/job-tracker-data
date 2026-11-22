@@ -1,8 +1,8 @@
 {
- "total": 3776,
+ "total": 3777,
  "portal": 2905,
  "email": 558,
- "linkedin": 313,
+ "linkedin": 314,
  "bounced_emails": 23,
  "confirmations": 2747,
  "rejections": 717,
@@ -441,7 +441,7 @@
    "date": "2026-11-18",
    "portal": 354,
    "email": 0,
-   "linkedin": 19
+   "linkedin": 18
   },
   {
    "date": "2026-11-19",
@@ -465,7 +465,7 @@
    "date": "2026-11-22",
    "portal": 0,
    "email": 0,
-   "linkedin": 23
+   "linkedin": 25
   }
  ],
  "recent": [
@@ -476,6 +476,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492352337/"
+  },
+  {
+   "company": "Oho Group",
+   "role": "Deployed Software Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492808218/"
   },
   {
    "company": "X-on Health",
@@ -654,6 +662,14 @@
    "link": "https://www.linkedin.com/jobs/view/4491179366/"
   },
   {
+   "company": "Hays",
+   "role": "Software Support Specialist",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490273656/"
+  },
+  {
    "company": "Calyptus",
    "role": "AI Engineer, Personalisation & Recommendations",
    "date": "2026-11-21",
@@ -772,22 +788,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4491942576/"
-  },
-  {
-   "company": "Information Tech Consultants",
-   "role": "ETL Developer",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491942276/"
-  },
-  {
-   "company": "Stealth iT Consulting",
-   "role": "GenAI Full Stack Engineer",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490469531/"
   }
  ],
  "applications": [
@@ -936,6 +936,14 @@
    "link": "https://www.linkedin.com/jobs/view/4492352337/"
   },
   {
+   "company": "Oho Group",
+   "role": "Deployed Software Engineer",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492808218/"
+  },
+  {
    "company": "X-on Health",
    "role": "Graduate Software Engineer",
    "date": "2026-11-22",
@@ -1110,6 +1118,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4491179366/"
+  },
+  {
+   "company": "Hays",
+   "role": "Software Support Specialist",
+   "date": "2026-11-22",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490273656/"
   },
   {
    "company": "Calyptus",
@@ -4150,14 +4166,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4488530455/"
-  },
-  {
-   "company": "Oho Group",
-   "role": "Deployed Software Engineer",
-   "date": "2026-11-18",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489581935/"
   },
   {
    "company": "HCLTech",
@@ -31000,7 +31008,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-22T12:12:27.630419+00:00",
- "updated": "2026-11-22T12:12:28+00:00",
- "updated_at": "2026-11-22T12:12:28+00:00"
+ "email_stats_updated": "2026-11-22T12:29:02.606781+00:00",
+ "updated": "2026-11-22T12:29:03+00:00",
+ "updated_at": "2026-11-22T12:29:03+00:00"
 }
