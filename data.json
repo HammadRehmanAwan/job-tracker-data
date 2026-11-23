@@ -1,11 +1,11 @@
 {
- "total": 3788,
- "portal": 2915,
+ "total": 3856,
+ "portal": 2983,
  "email": 558,
  "linkedin": 315,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 725,
+ "rejections": 731,
  "positives": [
   {
    "company": "Curation",
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 10,
+   "portal": 78,
    "email": 0,
    "linkedin": 0
   }
@@ -568,244 +568,244 @@
    "link": "https://www.reed.co.uk/jobs/ai-engineer/57562742"
   },
   {
-   "company": "Durlston Partners",
+   "company": "McGregor Boyall",
+   "role": "AI Product Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-product-engineer/57450293"
+  },
+  {
+   "company": "Kensington Mortgage Company",
    "role": "Software Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492352337/"
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57475280"
   },
   {
-   "company": "Oho Group",
-   "role": "Deployed Software Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Its Lolly ",
+   "role": ".NET Software Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492808218/"
+   "link": "https://www.reed.co.uk/jobs/net-software-engineer/57478069"
   },
   {
-   "company": "X-on Health",
-   "role": "Graduate Software Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Sphere Digital Recruitment",
+   "role": "Data Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4480984699/"
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57519550"
   },
   {
-   "company": "Mentmore",
-   "role": "Graduate IT Support Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "McGregor Boyall",
+   "role": "3rd Line Support Engineer, MSP, M365, Azure, AVD, Security",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491192520/"
+   "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer-msp-m365-azure-avd-security/57546666"
   },
   {
-   "company": "Station",
-   "role": "IT Service Desk & Modern Workplace Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Data Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491193515/"
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57519976"
   },
   {
-   "company": "Chartered Management Institute",
-   "role": "Information Technology Support Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Robert Walters",
+   "role": "Full Stack Software Engineer - Global Trading Firm",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490894196/"
+   "link": "https://www.reed.co.uk/jobs/full-stack-software-engineer-global-trading-firm/57483682"
   },
   {
-   "company": "ai4process",
-   "role": "Junior Software Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Lorien",
+   "role": "Full Stack Developer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491155817/"
+   "link": "https://www.reed.co.uk/jobs/full-stack-developer/57500183"
   },
   {
-   "company": "INSPHERE",
-   "role": "Junior Software Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Searchability NS&D",
+   "role": "Azure DevOps Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492424002/"
+   "link": "https://www.reed.co.uk/jobs/azure-devops-engineer/57482241"
   },
   {
-   "company": "Florza Resourcing",
-   "role": "Junior Developer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Business Systems & Data Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492470239/"
+   "link": "https://www.reed.co.uk/jobs/business-systems-data-analyst/57494808"
   },
   {
-   "company": "NEOCI",
-   "role": "Internal IT Support",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "Azure Platform engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489782141/"
+   "link": "https://www.reed.co.uk/jobs/azure-platform-engineer/57500269"
   },
   {
-   "company": "Alexander Faraday Recruitment",
-   "role": "Information Technology Support Technician",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Grafton Group",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492809495/"
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57537903"
   },
   {
-   "company": "Cloud People",
-   "role": "Service Desk Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "The Portfolio Group",
+   "role": "Full Stack Developer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489770413/"
+   "link": "https://www.reed.co.uk/jobs/full-stack-developer/57553124"
   },
   {
-   "company": "dnevo Partners",
-   "role": "Service Desk Analyst",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Tenth Revolution Group",
+   "role": "Data & Analytics Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4489342665/"
+   "link": "https://www.reed.co.uk/jobs/data-analytics-engineer/57538598"
   },
   {
-   "company": "Vector Resourcing",
-   "role": "Application Support Analyst",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Ultimaze Ltd trading as TSR Select",
+   "role": "3rd Line projects and Support Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492933641/"
+   "link": "https://www.reed.co.uk/jobs/3rd-line-projects-and-support-engineer/57538273"
   },
   {
-   "company": "OmniTek Recruitment",
-   "role": "Information Technology Support Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Marshall Wolfe",
+   "role": "IT Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491931369/"
+   "link": "https://www.reed.co.uk/jobs/it-infrastructure-engineer/57459083"
   },
   {
-   "company": "Mitigo Group",
-   "role": "Python Developer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "rated traders ltd",
+   "role": "Platform Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492941790/"
+   "link": "https://www.reed.co.uk/jobs/platform-engineer/57504396"
   },
   {
-   "company": "OAL",
-   "role": "Junior Software Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Vermillion Analytics",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492952883/"
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57254546"
   },
   {
-   "company": "Robertson Sumner",
-   "role": "IT Technician",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Adecco ",
+   "role": "DevOps Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491908744/"
+   "link": "https://www.reed.co.uk/jobs/devops-engineer/57464988"
   },
   {
-   "company": "Yolk Recruitment Ltd",
-   "role": "Data Analyst",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "VIQU IT Recruitment",
+   "role": "EUC Consultant",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492169033/"
+   "link": "https://www.reed.co.uk/jobs/euc-consultant/57451225"
   },
   {
-   "company": "Nigel Frank International",
-   "role": "Application Support Analyst",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Adria Solutions",
+   "role": "DevOps Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491933214/"
+   "link": "https://www.reed.co.uk/jobs/devops-engineer/57474991"
   },
   {
-   "company": "Harrington Starr",
-   "role": "Application Support Analyst",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "DevOps Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491575446/"
+   "link": "https://www.reed.co.uk/jobs/devops-engineer/57465074"
   },
   {
-   "company": "Client Server",
-   "role": "Application Support Analyst Chris21 Payroll",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Sanderson ",
+   "role": "DevOps Engineer, Hybrid",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492418294/"
+   "link": "https://www.reed.co.uk/jobs/devops-engineer-hybrid/57501358"
   },
   {
-   "company": "Harvey Nash",
-   "role": "1st and 2nd Line Engineers",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Adria Solutions",
+   "role": "Azure DevOps Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4477645157/"
+   "link": "https://www.reed.co.uk/jobs/azure-devops-engineer/57521193"
   },
   {
-   "company": "Hexaware Technologies",
-   "role": "Service Desk Level 2",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Oscar Technology",
+   "role": "Cloud Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491179366/"
+   "link": "https://www.reed.co.uk/jobs/cloud-engineer/57553048"
   },
   {
-   "company": "Hays",
-   "role": "Software Support Specialist",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "VIQU IT Recruitment",
+   "role": "Cloud Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490273656/"
+   "link": "https://www.reed.co.uk/jobs/cloud-engineer/57452378"
   },
   {
-   "company": "Hirevantis LLC",
-   "role": "Software Engineer",
-   "date": "2026-11-22",
-   "type": "linkedin",
+   "company": "Searchability",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490940242/"
+   "link": "https://www.reed.co.uk/jobs/full-stack-engineer/57532556"
   },
   {
-   "company": "Calyptus",
-   "role": "AI Engineer, Personalisation & Recommendations",
-   "date": "2026-11-21",
-   "type": "linkedin",
+   "company": "1TECH STAFFING LIMITED",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492981821/"
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57536133"
   },
   {
-   "company": "LMAX Group",
-   "role": "Junior Software Developer (Java)",
-   "date": "2026-11-21",
-   "type": "linkedin",
+   "company": "Nigel Wright Group",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492907830/"
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57535486"
   },
   {
-   "company": "Harnham",
-   "role": "Data Analyst",
-   "date": "2026-11-21",
-   "type": "linkedin",
+   "company": "Oscar Technology",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492812217/"
-  },
-  {
-   "company": "Oho Group",
-   "role": "Forward Deployed Engineer | Early-Stage AI Start-Up",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492806429/"
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57543909"
   }
  ],
  "applications": [
@@ -1024,6 +1024,550 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/ai-engineer/57562742"
+  },
+  {
+   "company": "McGregor Boyall",
+   "role": "AI Product Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-product-engineer/57450293"
+  },
+  {
+   "company": "Kensington Mortgage Company",
+   "role": "Software Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57475280"
+  },
+  {
+   "company": "Its Lolly ",
+   "role": ".NET Software Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/net-software-engineer/57478069"
+  },
+  {
+   "company": "Sphere Digital Recruitment",
+   "role": "Data Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57519550"
+  },
+  {
+   "company": "McGregor Boyall",
+   "role": "3rd Line Support Engineer, MSP, M365, Azure, AVD, Security",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer-msp-m365-azure-avd-security/57546666"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Data Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57519976"
+  },
+  {
+   "company": "Robert Walters",
+   "role": "Full Stack Software Engineer - Global Trading Firm",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/full-stack-software-engineer-global-trading-firm/57483682"
+  },
+  {
+   "company": "Lorien",
+   "role": "Full Stack Developer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/full-stack-developer/57500183"
+  },
+  {
+   "company": "Searchability NS&D",
+   "role": "Azure DevOps Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/azure-devops-engineer/57482241"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Business Systems & Data Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-systems-data-analyst/57494808"
+  },
+  {
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "Azure Platform engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/azure-platform-engineer/57500269"
+  },
+  {
+   "company": "Grafton Group",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57537903"
+  },
+  {
+   "company": "The Portfolio Group",
+   "role": "Full Stack Developer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/full-stack-developer/57553124"
+  },
+  {
+   "company": "Tenth Revolution Group",
+   "role": "Data & Analytics Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-analytics-engineer/57538598"
+  },
+  {
+   "company": "Ultimaze Ltd trading as TSR Select",
+   "role": "3rd Line projects and Support Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-projects-and-support-engineer/57538273"
+  },
+  {
+   "company": "Marshall Wolfe",
+   "role": "IT Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-infrastructure-engineer/57459083"
+  },
+  {
+   "company": "rated traders ltd",
+   "role": "Platform Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/platform-engineer/57504396"
+  },
+  {
+   "company": "Vermillion Analytics",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57254546"
+  },
+  {
+   "company": "Adecco ",
+   "role": "DevOps Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/devops-engineer/57464988"
+  },
+  {
+   "company": "VIQU IT Recruitment",
+   "role": "EUC Consultant",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/euc-consultant/57451225"
+  },
+  {
+   "company": "Adria Solutions",
+   "role": "DevOps Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/devops-engineer/57474991"
+  },
+  {
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "DevOps Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/devops-engineer/57465074"
+  },
+  {
+   "company": "Sanderson ",
+   "role": "DevOps Engineer, Hybrid",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/devops-engineer-hybrid/57501358"
+  },
+  {
+   "company": "Adria Solutions",
+   "role": "Azure DevOps Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/azure-devops-engineer/57521193"
+  },
+  {
+   "company": "Oscar Technology",
+   "role": "Cloud Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/cloud-engineer/57553048"
+  },
+  {
+   "company": "VIQU IT Recruitment",
+   "role": "Cloud Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/cloud-engineer/57452378"
+  },
+  {
+   "company": "Searchability",
+   "role": "Full Stack Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/full-stack-engineer/57532556"
+  },
+  {
+   "company": "1TECH STAFFING LIMITED",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57536133"
+  },
+  {
+   "company": "Nigel Wright Group",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57535486"
+  },
+  {
+   "company": "Oscar Technology",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57543909"
+  },
+  {
+   "company": "Elevate Technology Group Ltd",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57539838"
+  },
+  {
+   "company": "Bristow Holland",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57547282"
+  },
+  {
+   "company": "MRJ Recruitment",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57494111"
+  },
+  {
+   "company": "Exposed Solutions",
+   "role": "Infrastructure Engineer - Remote",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer-remote/57558147"
+  },
+  {
+   "company": "KCR Solutions",
+   "role": "Business Process and Systems Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-process-and-systems-analyst/57521143"
+  },
+  {
+   "company": "Michael Page Technology",
+   "role": "C#/Azure Developer - AI first role",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/c-azure-developer-ai-first-role/57441780"
+  },
+  {
+   "company": "Harnham - Data & Analytics Recruitment",
+   "role": "Data Scientist/Data Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-scientist-data-analyst/57482967"
+  },
+  {
+   "company": "Ripple Recruitment Ltd",
+   "role": "Network and Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/network-and-infrastructure-engineer/57484213"
+  },
+  {
+   "company": "Xact Placements Limited",
+   "role": "Full Stack .NET Developer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/full-stack-net-developer/57552846"
+  },
+  {
+   "company": "Spectrum IT Recruitment",
+   "role": "Backend Software Engineer - TypeScript",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/backend-software-engineer-typescript/57554849"
+  },
+  {
+   "company": "ADLIB",
+   "role": "Back-End Developer (Magento)",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/back-end-developer-magento/57539826"
+  },
+  {
+   "company": "Sanderson ",
+   "role": ".NET Developer, C#, React, Hybrid",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/net-developer-c-react-hybrid/57521854"
+  },
+  {
+   "company": "Ripple Recruitment Ltd",
+   "role": "C++ Software Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/c-software-engineer/57457261"
+  },
+  {
+   "company": "Robert Walters",
+   "role": "Data Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57504220"
+  },
+  {
+   "company": "Ripple Recruitment Ltd",
+   "role": "C++ Software Engineer (C++ / MFC) \u2013 Contract",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/c-software-engineer-c-mfc--contract/57536035"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "IT Security & Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-security-infrastructure-engineer/57520740"
+  },
+  {
+   "company": "Adecco ",
+   "role": "Microsoft Platform Engineer (Azure & Microsoft 365) - Wembley",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/microsoft-platform-engineer-azure-microsoft-365-wembley/57451976"
+  },
+  {
+   "company": "Michael Page Technology",
+   "role": "BI & Data Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/bi-data-analyst/57454076"
+  },
+  {
+   "company": "Gold Group Ltd",
+   "role": "Business Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-analyst/57500323"
+  },
+  {
+   "company": "INTEC SELECT LIMITED",
+   "role": "Business Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-analyst/57486616"
+  },
+  {
+   "company": "Zachary Daniels",
+   "role": "Business Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-analyst/57488332"
+  },
+  {
+   "company": "Noir",
+   "role": ".NET Developer, CMS, Sitecore, EpiServer, Umbraco",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/net-developer-cms-sitecore-episerver-umbraco/57570513"
+  },
+  {
+   "company": "Tenth Revolution Group",
+   "role": "Data Engineer - Snowflake - London - \u00a360k",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer-snowflake-london-60k/57448755"
+  },
+  {
+   "company": "Arden Resourcing Limited",
+   "role": ".NET Software Engineer - Essex",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/net-software-engineer-essex/57524150"
+  },
+  {
+   "company": "DMS Computer Recruitment",
+   "role": "Software Developer - Thessaloniki, Greece",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-developer-thessaloniki-greece/57567191"
+  },
+  {
+   "company": "Picture More",
+   "role": "Software Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57572424"
+  },
+  {
+   "company": "Noir",
+   "role": ".NET Developer - Colchester",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/net-developer-colchester/57570505"
+  },
+  {
+   "company": "Noir",
+   "role": ".NET Developer - Burton-in-Kendal",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/net-developer-burton-in-kendal/57570501"
+  },
+  {
+   "company": "TXP Technology x People",
+   "role": "Support Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/support-engineer/57579763"
+  },
+  {
+   "company": "Michael Page Technology",
+   "role": "Software Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer/57584633"
+  },
+  {
+   "company": "Harnham - Data & Analytics Recruitment",
+   "role": "Product Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/product-analyst/57580300"
+  },
+  {
+   "company": "Avanti",
+   "role": "C++ Software Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/c-software-engineer/57571615"
+  },
+  {
+   "company": "VIQU IT Recruitment",
+   "role": "Cato Cloud Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/cato-cloud-engineer/57500374"
+  },
+  {
+   "company": "Pearson Whiffin Recruitment Ltd",
+   "role": "AI Platform Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-platform-engineer/57581692"
+  },
+  {
+   "company": "Oscar Technology",
+   "role": "Linux Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/linux-infrastructure-engineer/57487570"
+  },
+  {
+   "company": "Proactive Appointments",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57572338"
+  },
+  {
+   "company": "Metaskil Limited",
+   "role": "AWS Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/aws-infrastructure-engineer/57570579"
+  },
+  {
+   "company": "TXP Technology x People",
+   "role": "Infrastructure Engineer - AI Platforms",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer-ai-platforms/57585866"
   },
   {
    "company": "Durlston Partners",
@@ -31114,7 +31658,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T07:58:05.348923+00:00",
- "updated": "2026-11-23T07:58:05+00:00",
- "updated_at": "2026-11-23T07:58:05+00:00"
+ "email_stats_updated": "2026-11-23T08:16:16.913786+00:00",
+ "updated": "2026-11-23T08:16:17+00:00",
+ "updated_at": "2026-11-23T08:16:17+00:00"
 }
