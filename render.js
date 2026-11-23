@@ -12,6 +12,8 @@ li.rem{border-left-color:#fbbf24;background:#2a2a1e;box-shadow:0 0 0 1px #fbbf24
 li.rem.soon{border-left-color:var(--r);box-shadow:0 0 0 1px #f8717188}
 li.exp{border-left-color:#64748b;opacity:.85}
 li.done{border-left-color:#475569;opacity:.55}li.done b::before{content:"✔ ";color:var(--g)}
+li.star,li.rem.star,li.rem.star.soon{border-left-width:5px;border-left-color:#f5c542;background:#33280f;box-shadow:0 0 0 1px #f5c542aa,0 4px 18px #f5c54233;opacity:1}
+li.star b::before{content:"⭐ ";}
 .act{margin-top:4px}.due{display:inline-block;margin-top:6px;font-size:.8rem;padding:2px 8px;border-radius:9px;background:#fbbf2433;color:#fde68a}
 li.soon .due{background:#f8717133;color:#fecaca}.st{float:right;font-size:.75rem;padding:2px 8px;border-radius:9px;background:#334155;color:var(--mu)}
 .lg span{display:inline-block;width:10px;height:10px;border-radius:2px;margin:0 4px 0 12px}`;
@@ -28,14 +30,16 @@ const dl=d=>d==='earlier'?'Earlier':new Date(d+'T12:00Z').toLocaleDateString('en
 const RAW='https://raw.githubusercontent.com/HammadRehmanAwan/job-tracker-data/main/data.json';
 const load=()=>fetch(RAW+'?t='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()}).catch(()=>fetch('stats.json',{cache:'no-store'}).then(r=>r.json())).then(draw).catch(e=>document.getElementById('upd').textContent='Could not load stats: '+e);
 function left(iso){const ms=new Date(iso)-Date.now();if(ms<0)return 'date passed';const h=Math.round(ms/36e5);return h<48?h+'h left':Math.round(h/24)+' days left';}
+function isStar(p){return p.starred===true||p.priority==='top';}
 function posHTML(list){
  const now=Date.now(),t=p=>p.due?new Date(p.due).getTime():Infinity;
  const ps=list.map(p=>Object.assign({},p,{status:p.status||'remaining'}));
- const rem=ps.filter(p=>p.status==='remaining').sort((a,b)=>t(a)-t(b));
+ const starFirst=(a,b)=>(isStar(b)-isStar(a))||(t(a)-t(b));
+ const rem=ps.filter(p=>p.status==='remaining').sort(starFirst);
  const exp=ps.filter(p=>p.status==='expired'||p.status==='declined').sort((a,b)=>t(b)-t(a));
  const done=ps.filter(p=>p.status==='done').sort((a,b)=>String(b.done_on).localeCompare(String(a.done_on)));
- const item=(p,cls)=>{const overdue=p.status==='remaining'&&p.due&&t(p)<now,soon=p.status==='remaining'&&p.due&&t(p)-now<24*36e5;
-  return `<li class="p ${cls}${soon?' soon':''}">${p.status!=='remaining'?`<span class="st">${p.status==='expired'?'Date passed – not confirmed':esc(p.status)}</span>`:''}<b>${esc(p.company)}</b>
+ const item=(p,cls)=>{const overdue=p.status==='remaining'&&p.due&&t(p)<now,soon=p.status==='remaining'&&p.due&&t(p)-now<24*36e5,star=isStar(p);
+  return `<li class="p ${cls}${soon?' soon':''}${star?' star':''}">${p.status!=='remaining'?`<span class="st">${p.status==='expired'?'Date passed – not confirmed':esc(p.status)}</span>`:''}<b>${esc(p.company)}</b>
   ${p.action?`<div class="act">${esc(p.action)}</div>`:''}<div class="mu">${esc(p.note)}</div>
   ${p.status==='remaining'?(p.due?`<span class="due">${overdue?'Overdue? ':'Due '}${ukd(p.due)} · ${left(p.due)}</span>`:'<span class="due">No deadline given</span>'):''}
   ${p.status==='done'&&p.done_on?`<div class="mu">Done ${dl(p.done_on)}</div>`:''}</li>`};
