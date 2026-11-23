@@ -1,6 +1,6 @@
 {
- "total": 3856,
- "portal": 2983,
+ "total": 3866,
+ "portal": 2993,
  "email": 558,
  "linkedin": 315,
  "bounced_emails": 23,
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 78,
+   "portal": 88,
    "email": 0,
    "linkedin": 0
   }
@@ -1568,6 +1568,86 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/infrastructure-engineer-ai-platforms/57585866"
+  },
+  {
+   "company": "Reed",
+   "role": "Automation Analytics Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/automation-analytics-engineer/57586138"
+  },
+  {
+   "company": "Hartley Resourcing",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57589009"
+  },
+  {
+   "company": "Reed",
+   "role": "Software Developer (DevOps)",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-developer-devops/57593586"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "C#/.NET Developer - Commodities Trading",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/c-net-developer-commodities-trading/57465345"
+  },
+  {
+   "company": "Michael Page Business Support",
+   "role": "Power BI Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/power-bi-analyst/57597481"
+  },
+  {
+   "company": "LMA Recruitment",
+   "role": "Java Software Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/java-software-engineer/57599014"
+  },
+  {
+   "company": "Opus Recruitment Solutions Ltd",
+   "role": "Junior DevOps (Support) Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/junior-devops-support-engineer/57599640"
+  },
+  {
+   "company": "TXP Technology x People",
+   "role": "Devops Engineer with Fabric and Python",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/devops-engineer-with-fabric-and-python/57594071"
+  },
+  {
+   "company": "Harnham - Data & Analytics Recruitment",
+   "role": "BE AI Engineer (Contract)",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/be-ai-engineer-contract/57447207"
+  },
+  {
+   "company": "VIQU IT Recruitment",
+   "role": "Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57447623"
   },
   {
    "company": "Durlston Partners",
@@ -31658,7 +31738,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T08:16:16.913786+00:00",
- "updated": "2026-11-23T08:16:17+00:00",
- "updated_at": "2026-11-23T08:16:17+00:00"
+ "email_stats_updated": "2026-11-23T08:34:19.371610+00:00",
+ "updated": "2026-11-23T08:34:19+00:00",
+ "updated_at": "2026-11-23T08:34:19+00:00"
 }
