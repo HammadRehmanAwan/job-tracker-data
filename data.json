@@ -200,9 +200,10 @@
    "company": "Mako",
    "note": "Invited to the Mako Aptitude Test (take-home test via ClassMarker) for the Graduate Software Engineer role, 16 Nov",
    "status": "remaining",
-   "action": "",
-   "due": "",
-   "done_on": ""
+   "action": "Mako Aptitude Test (ClassMarker, 50 questions in 30 minutes, one attempt)",
+   "due": "2026-11-26T08:51:00+00:00",
+   "done_on": "",
+   "key": "mako-graduate-swe"
   },
   {
    "company": "ACS Staffing Solutions",
@@ -215,11 +216,12 @@
   },
   {
    "company": "Landytech",
-   "note": "Interview with their CRO, Shane Hopkins, for the Revenue Operations Associate role; Wed 18 Nov slot cancelled (Shane has an external meeting) - Loren King proposed Friday 20 Nov at 12pm UK (email 17 Nov 10:12am), awaiting Hammad's confirmation",
+   "note": "Interview with CRO Shane Hopkins for Revenue Operations Associate is now Wednesday 25 Nov 2026, 6:00\u20136:15pm UK on Microsoft Teams (Wed 18 Nov and Fri 20 Nov slots were cancelled or superseded; Hammad confirmed the new time on 21 Nov).",
    "status": "remaining",
-   "action": "",
-   "due": "",
-   "done_on": ""
+   "action": "Interview with CRO Shane Hopkins (Microsoft Teams), Wed 25 Nov 6:00\u20136:15pm UK",
+   "due": "2026-11-25T18:00:00+00:00",
+   "done_on": "",
+   "key": "landytech-revops"
   },
   {
    "company": "Spring Capital Partners (Junior Developer, Technology, Data & AI Associate)",
@@ -242,26 +244,29 @@
   {
    "company": "Broaden Management Partners (IT Configuration Analyst)",
    "note": "15-minute introduction call booked with Mora Fernandez Madero for Tue 17 Nov 2026, 4:15-4:30pm UK (confirmation 16 Nov, 3:12pm UK)",
-   "status": "remaining",
-   "action": "",
-   "due": "",
-   "done_on": ""
+   "status": "done",
+   "action": "15-minute introduction call with Mora Fernandez Madero (Tue 17 Nov 4:15pm UK)",
+   "due": "2026-11-17T16:15:00+00:00",
+   "done_on": "2026-11-17",
+   "key": "broaden-intro-call"
   },
   {
    "company": "University of Sheffield PhD (Xingyi Song, CF4-COM-Song)",
    "note": "Supervisor replied 16 Nov (3:26pm UK): thinks his background fits the Explainable Agentic AI project and asked him to apply through the university application system",
    "status": "remaining",
-   "action": "",
+   "action": "Apply through the University of Sheffield / EPSRC DLA application system (Xingyi Song, CF4-COM-Song)",
    "due": "",
-   "done_on": ""
+   "done_on": "",
+   "key": "sheffield-phd-song"
   },
   {
    "company": "Brainlabs",
    "note": "Invited to a 25-minute online assessment (via Criteria) as the next step in the process (email 16 Nov, 4:21pm UK)",
    "status": "remaining",
-   "action": "",
+   "action": "25-minute online assessment via Criteria (Security Operations Engineer)",
    "due": "",
-   "done_on": ""
+   "done_on": "",
+   "key": "brainlabs-criteria"
   },
   {
    "company": "Quantum Loop AI (AI/ML & Prompt Engineer) - assessment",
@@ -274,65 +279,72 @@
   },
   {
    "company": "Cambridge University Hospitals (Addenbrooke's) - Digital Systems Analyst / Clinical Analyst (180-B-CVA1346)",
-   "note": "Invited to the Epic Aptitude test; complete by 23:59 on Sunday 22 Nov (email 17 Nov, 3:38pm UK; FAQ attached)",
+   "note": "Invited to the Epic Aptitude test (Honorlock) for Digital Systems Analyst / Clinical Analyst (180-B-CVA1346); completion date extended to 23:59 UK on Tuesday 24 Nov 2026 (original due 22 Nov; extension in Tracy North / Epic email 18 Nov).",
    "status": "remaining",
-   "action": "",
-   "due": "",
-   "done_on": ""
+   "action": "Epic Aptitude test via Honorlock (Digital Systems Analyst / Clinical Analyst, 180-B-CVA1346)",
+   "due": "2026-11-24T23:59:00+00:00",
+   "done_on": "",
+   "key": "cuh-epic-aptitude"
   },
   {
    "company": "Broaden Management Partners (IT Configuration Analyst)",
    "note": "Invited to a second-stage interview (informal, more technical) with Sofia Tsaousi and Mora Fernandez Madero on Google Meet after the intro call; book a slot via the Teamtailor link (email 17 Nov, 4:31pm UK)",
-   "status": "remaining",
-   "action": "",
+   "status": "done",
+   "action": "Book second-stage interview slot via Teamtailor",
    "due": "",
-   "done_on": ""
+   "done_on": "2026-11-18",
+   "key": "broaden-second-stage-invite"
   },
   {
    "company": "Rolls-Royce (Product Support Engineer, JR6161018)",
    "note": "Invited to complete an online assessment (Aon MapTQ); must be completed within 4 days of the invite email received 00:40 UK on 19 Nov (by about 23 Nov), one attempt only",
-   "status": "remaining",
-   "action": "",
-   "due": "",
-   "done_on": ""
+   "status": "expired",
+   "action": "Aon MapTQ online assessment (Product Support Engineer, JR6161018), one attempt",
+   "due": "2026-11-23T00:40:00+00:00",
+   "done_on": "",
+   "key": "rolls-royce-maptq"
   },
   {
    "company": "Broaden Management Partners (IT Configuration Analyst)",
    "note": "Second-stage interview booked for Fri 20 Nov 2026, 1:30-2:00pm UK (reminder email 19 Nov, 1:03pm UK)",
-   "status": "remaining",
-   "action": "",
-   "due": "",
-   "done_on": ""
+   "status": "done",
+   "action": "Second-stage interview with Sofia Tsaousi and Mora Fernandez Madero (Fri 20 Nov 1:30pm UK)",
+   "due": "2026-11-20T13:30:00+00:00",
+   "done_on": "2026-11-20",
+   "key": "broaden-second-stage-interview"
   },
   {
    "company": "NSC Global (Data Centre Engineer, Smart Hands)",
    "note": "Recruiter Mohammed Ali asked him to complete a short technical assessment on Microsoft Forms (up to 7 minutes) as the next step (email 19 Nov, 2:08pm UK)",
    "status": "remaining",
-   "action": "",
+   "action": "Short Microsoft Forms technical assessment (up to 7 minutes) for Data Centre Engineer, Smart Hands",
    "due": "",
-   "done_on": ""
+   "done_on": "",
+   "key": "nsc-global-forms"
   },
   {
    "company": "NHS (Automation Developer, 644-CE125)",
-   "note": "Invited to a remote Microsoft Teams interview on 9 Dec 2026 (panel: Alessandro Sironi, Digital Development and Automation Manager, and Anusha Yadamakanti); book a slot via the Trac link by 09:00 UK on 8 Dec 2026, bring photo ID, and return the mandatory questionnaire to a.sironi@nhs.net before the interview (email 19 Nov, 5:32pm UK)",
+   "note": "Remote Microsoft Teams interview booked for Wednesday 9 Dec 2026 at 12:30 UK (Trac confirmation 20 Nov; panel Alessandro Sironi and Anusha Yadamakanti). The mandatory questionnaire was not attached; Hammad asked a.sironi@nhs.net to send it (20 Nov). Bring photo ID.",
    "status": "remaining",
-   "action": "",
-   "due": "",
-   "done_on": ""
+   "action": "Return the mandatory pre-interview questionnaire to a.sironi@nhs.net once Alessandro sends it (Trac slot for Wed 9 Dec 12:30 UK is booked; questionnaire was not attached)",
+   "due": "2026-12-09T12:30:00+00:00",
+   "done_on": "",
+   "key": "nhs-ce125-interview"
   },
   {
    "company": "10x-hire (Product Owner - AI Trainer, Freelance)",
    "note": "Screening still open: practical exercise plus AI conversation, 20-30 min; reminder received 20 Nov",
    "status": "remaining",
-   "action": "",
+   "action": "Finish 10x screening (practical exercise plus AI conversation, 20\u201330 min) for Product Owner - AI Trainer, Freelance",
    "due": "",
-   "done_on": ""
+   "done_on": "",
+   "key": "tenx-product-owner"
   }
  ],
  "positive_count": 37,
- "positives_done": 24,
- "positives_remaining": 13,
- "positives_expired": 0,
+ "positives_done": 27,
+ "positives_remaining": 9,
+ "positives_expired": 1,
  "positives_declined": 0,
  "by_day": [
   {
@@ -31017,6 +31029,6 @@
   }
  ],
  "email_stats_updated": "2026-11-23T01:43:36.263024+00:00",
- "updated": "2026-11-23T01:43:36+00:00",
- "updated_at": "2026-11-23T01:43:36+00:00"
+ "updated": "2026-11-23T02:01:48+00:00",
+ "updated_at": "2026-11-23T02:01:48+00:00"
 }
