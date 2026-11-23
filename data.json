@@ -1,6 +1,6 @@
 {
- "total": 3917,
- "portal": 3010,
+ "total": 3918,
+ "portal": 3011,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 105,
+   "portal": 106,
    "email": 0,
    "linkedin": 35
   }
@@ -2064,6 +2064,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/network-infrastructure-engineer/57603558"
+  },
+  {
+   "company": "Recruitment Helpline",
+   "role": "Technical Support Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/technical-support-engineer/57603718"
   },
   {
    "company": "Durlston Partners",
@@ -32146,7 +32154,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T16:46:20.752246+00:00",
- "updated": "2026-11-23T16:46:21+00:00",
- "updated_at": "2026-11-23T16:46:21+00:00"
+ "email_stats_updated": "2026-11-23T17:01:14.637673+00:00",
+ "updated": "2026-11-23T17:01:15+00:00",
+ "updated_at": "2026-11-23T17:01:15+00:00"
 }
