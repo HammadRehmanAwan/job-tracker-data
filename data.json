@@ -1,11 +1,11 @@
 {
- "total": 3867,
+ "total": 3869,
  "portal": 2994,
  "email": 558,
- "linkedin": 315,
+ "linkedin": 317,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 735,
+ "rejections": 736,
  "positives": [
   {
    "company": "Curation",
@@ -483,7 +483,7 @@
    "date": "2026-11-23",
    "portal": 89,
    "email": 0,
-   "linkedin": 0
+   "linkedin": 2
   }
  ],
  "recent": [
@@ -1656,6 +1656,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/signal-ai/41513dbd-1a16-4358-96ac-895670ea0937"
+  },
+  {
+   "company": "Futureheads Recruitment | B Corp",
+   "role": "AI Engineer",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492165870/"
+  },
+  {
+   "company": "Investigo",
+   "role": "Machine Learning Engineer \u2013 Remote/UK",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4488874781/"
   },
   {
    "company": "Durlston Partners",
@@ -31746,7 +31762,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T09:12:43.718910+00:00",
- "updated": "2026-11-23T09:12:45+00:00",
- "updated_at": "2026-11-23T09:12:45+00:00"
+ "email_stats_updated": "2026-11-23T09:29:18.551761+00:00",
+ "updated": "2026-11-23T09:29:19+00:00",
+ "updated_at": "2026-11-23T09:29:19+00:00"
 }
