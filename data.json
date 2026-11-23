@@ -1,6 +1,6 @@
 {
- "total": 3913,
- "portal": 3006,
+ "total": 3915,
+ "portal": 3008,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 101,
+   "portal": 103,
    "email": 0,
    "linkedin": 35
   }
@@ -2032,6 +2032,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/1A5C01FA1E/apply"
+  },
+  {
+   "company": "snowflake",
+   "role": "Commercial Solution Engineer - Expansion",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/snowflake/86e9ce4d-7288-43ac-8d62-45ea073a72d1"
+  },
+  {
+   "company": "G MASS",
+   "role": "Business Analyst, AI & Automation",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/E56CCD88B9/apply"
   },
   {
    "company": "Durlston Partners",
@@ -32114,7 +32130,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T15:57:14.397603+00:00",
- "updated": "2026-11-23T15:57:14+00:00",
- "updated_at": "2026-11-23T15:57:14+00:00"
+ "email_stats_updated": "2026-11-23T16:14:27.024030+00:00",
+ "updated": "2026-11-23T16:14:27+00:00",
+ "updated_at": "2026-11-23T16:14:27+00:00"
 }
