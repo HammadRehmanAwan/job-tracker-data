@@ -1,6 +1,6 @@
 {
- "total": 3778,
- "portal": 2905,
+ "total": 3788,
+ "portal": 2915,
  "email": 558,
  "linkedin": 315,
  "bounced_emails": 23,
@@ -478,9 +478,95 @@
    "portal": 0,
    "email": 0,
    "linkedin": 26
+  },
+  {
+   "date": "2026-11-23",
+   "portal": 10,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "Adecco ",
+   "role": "AI Automation Engineer (Python, R, Shiny)",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-engineer-python-r-shiny/57552241"
+  },
+  {
+   "company": "Akkodis",
+   "role": "AI & Automation Solutions Developer | C. \u00a360k",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-solutions-developer--c-60k/57457585"
+  },
+  {
+   "company": "Randstad Technologies",
+   "role": "AI Automation / Application Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-application-engineer/57559306"
+  },
+  {
+   "company": "Tenth Revolution Group",
+   "role": "AI Automation Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-engineer/57565327"
+  },
+  {
+   "company": "Blues Point Ltd",
+   "role": "Java Developer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/java-developer/57516981"
+  },
+  {
+   "company": "Lorien",
+   "role": "Test Automation Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/test-automation-engineer/57497859"
+  },
+  {
+   "company": "Key Partnership Recruitment Limited ",
+   "role": "QA Automation Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/qa-automation-engineer/57516479"
+  },
+  {
+   "company": "Sanderson ",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/machine-learning-engineer/57504455"
+  },
+  {
+   "company": "Harnham - Data & Analytics Recruitment",
+   "role": "Contract Machine Learning Engineer - Outside IR35",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/contract-machine-learning-engineer-outside-ir35/57496338"
+  },
+  {
+   "company": "Robert Half",
+   "role": "Ai Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-engineer/57562742"
+  },
   {
    "company": "Durlston Partners",
    "role": "Software Engineer",
@@ -720,86 +806,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492806429/"
-  },
-  {
-   "company": "Harnham",
-   "role": "Data Engineer",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491700729/"
-  },
-  {
-   "company": "focusgroup",
-   "role": "Solutions Engineer (Network)",
-   "date": "2026-11-21",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://focusgroup.pinpointhq.com/en/postings/986dde4e-0508-4330-b679-2f14cff02de9"
-  },
-  {
-   "company": "Linea Resourcing",
-   "role": "Graduate Technical Support Specialist",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492909456/"
-  },
-  {
-   "company": "Anson McCade",
-   "role": "Python Developer",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4484369782/"
-  },
-  {
-   "company": "Jobgether",
-   "role": "IT Coordinator",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490425102/"
-  },
-  {
-   "company": "Hiiya",
-   "role": "Data Engineer",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492050667/"
-  },
-  {
-   "company": "Anson McCade",
-   "role": "Back End Engineer",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490453363/"
-  },
-  {
-   "company": "Burns Sheehan",
-   "role": "Mid Level Software Engineer",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490620112/"
-  },
-  {
-   "company": "Jobgether",
-   "role": "Developer Support Engineer",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492554212/"
-  },
-  {
-   "company": "European Tech Recruit",
-   "role": "Artificial Intelligence Researcher",
-   "date": "2026-11-21",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492930899/"
   }
  ],
  "applications": [
@@ -938,6 +944,86 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Adecco ",
+   "role": "AI Automation Engineer (Python, R, Shiny)",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-engineer-python-r-shiny/57552241"
+  },
+  {
+   "company": "Akkodis",
+   "role": "AI & Automation Solutions Developer | C. \u00a360k",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-solutions-developer--c-60k/57457585"
+  },
+  {
+   "company": "Randstad Technologies",
+   "role": "AI Automation / Application Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-application-engineer/57559306"
+  },
+  {
+   "company": "Tenth Revolution Group",
+   "role": "AI Automation Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-engineer/57565327"
+  },
+  {
+   "company": "Blues Point Ltd",
+   "role": "Java Developer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/java-developer/57516981"
+  },
+  {
+   "company": "Lorien",
+   "role": "Test Automation Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/test-automation-engineer/57497859"
+  },
+  {
+   "company": "Key Partnership Recruitment Limited ",
+   "role": "QA Automation Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/qa-automation-engineer/57516479"
+  },
+  {
+   "company": "Sanderson ",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/machine-learning-engineer/57504455"
+  },
+  {
+   "company": "Harnham - Data & Analytics Recruitment",
+   "role": "Contract Machine Learning Engineer - Outside IR35",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/contract-machine-learning-engineer-outside-ir35/57496338"
+  },
+  {
+   "company": "Robert Half",
+   "role": "Ai Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-engineer/57562742"
   },
   {
    "company": "Durlston Partners",
@@ -31028,7 +31114,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T07:46:17.150769+00:00",
- "updated": "2026-11-23T07:46:17+00:00",
- "updated_at": "2026-11-23T07:46:17+00:00"
+ "email_stats_updated": "2026-11-23T07:58:05.348923+00:00",
+ "updated": "2026-11-23T07:58:05+00:00",
+ "updated_at": "2026-11-23T07:58:05+00:00"
 }
