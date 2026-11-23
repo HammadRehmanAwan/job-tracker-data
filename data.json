@@ -1,11 +1,11 @@
 {
- "total": 3894,
+ "total": 3905,
  "portal": 2998,
  "email": 558,
- "linkedin": 338,
+ "linkedin": 349,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 747,
+ "rejections": 751,
  "positives": [
   {
    "company": "Curation",
@@ -465,7 +465,7 @@
    "date": "2026-11-20",
    "portal": 5,
    "email": 0,
-   "linkedin": 30
+   "linkedin": 29
   },
   {
    "date": "2026-11-21",
@@ -483,10 +483,18 @@
    "date": "2026-11-23",
    "portal": 93,
    "email": 0,
-   "linkedin": 23
+   "linkedin": 35
   }
  ],
  "recent": [
+  {
+   "company": "Crossing Hurdles",
+   "role": "Machine Learning Engineer | Remote",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490431410/"
+  },
   {
    "company": "Adecco ",
    "role": "AI Automation Engineer (Python, R, Shiny)",
@@ -798,14 +806,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57535486"
-  },
-  {
-   "company": "Oscar Technology",
-   "role": "Infrastructure Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57543909"
   }
  ],
  "applications": [
@@ -944,6 +944,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Crossing Hurdles",
+   "role": "Machine Learning Engineer | Remote",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490431410/"
   },
   {
    "company": "Adecco ",
@@ -1872,6 +1880,94 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492024117/"
+  },
+  {
+   "company": "Gravitas Recruitment Group (Global) Ltd",
+   "role": "System Analyst - Cardiff",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491909319/"
+  },
+  {
+   "company": "Tata Consultancy Services",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493748937/"
+  },
+  {
+   "company": "Vanaways",
+   "role": "Junior Software Engineer",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493624481/"
+  },
+  {
+   "company": "E-Solutions",
+   "role": "Python Developer",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493632363/"
+  },
+  {
+   "company": "G.Digital",
+   "role": "Data Engineer",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4480958391/"
+  },
+  {
+   "company": "Morela Solutions",
+   "role": "Data & ML Engineer (Document Ingestion & RAG) - Contract",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491853646/"
+  },
+  {
+   "company": "Nicholson Search and Selection",
+   "role": "Artificial Intelligence Engineer",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492397726/"
+  },
+  {
+   "company": "HiredBuddy",
+   "role": "Web Developer",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493170721/"
+  },
+  {
+   "company": "HW Interim Solutions",
+   "role": "Business Central Systems Administrator / Junior Developer",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4490879805/"
+  },
+  {
+   "company": "FMX",
+   "role": "FMX Support",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4491851532/"
+  },
+  {
+   "company": "Reggie & Cole",
+   "role": "IT Support Engineer",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493623971/"
   },
   {
    "company": "Durlston Partners",
@@ -2840,14 +2936,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4490891875/"
-  },
-  {
-   "company": "Crossing Hurdles",
-   "role": "Machine Learning Engineer | Remote",
-   "date": "2026-11-20",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4491820492/"
   },
   {
    "company": "Crossing Hurdles",
@@ -31962,7 +32050,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T11:28:06.269471+00:00",
- "updated": "2026-11-23T11:28:06+00:00",
- "updated_at": "2026-11-23T11:28:06+00:00"
+ "email_stats_updated": "2026-11-23T11:51:13.798368+00:00",
+ "updated": "2026-11-23T11:51:14+00:00",
+ "updated_at": "2026-11-23T11:51:14+00:00"
 }
