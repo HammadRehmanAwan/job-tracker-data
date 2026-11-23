@@ -1,11 +1,11 @@
 {
- "total": 3866,
- "portal": 2993,
+ "total": 3867,
+ "portal": 2994,
  "email": 558,
  "linkedin": 315,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 731,
+ "rejections": 733,
  "positives": [
   {
    "company": "Curation",
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 88,
+   "portal": 89,
    "email": 0,
    "linkedin": 0
   }
@@ -1648,6 +1648,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57447623"
+  },
+  {
+   "company": "signal-ai",
+   "role": "Site Reliability Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/signal-ai/41513dbd-1a16-4358-96ac-895670ea0937"
   },
   {
    "company": "Durlston Partners",
@@ -31738,7 +31746,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T08:34:19.371610+00:00",
- "updated": "2026-11-23T08:34:19+00:00",
- "updated_at": "2026-11-23T08:34:19+00:00"
+ "email_stats_updated": "2026-11-23T08:50:45.681984+00:00",
+ "updated": "2026-11-23T08:50:46+00:00",
+ "updated_at": "2026-11-23T08:50:46+00:00"
 }
