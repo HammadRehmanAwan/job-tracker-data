@@ -34,7 +34,7 @@ function posHTML(list){
  const rem=ps.filter(p=>p.status==='remaining').sort((a,b)=>t(a)-t(b));
  const exp=ps.filter(p=>p.status==='expired'||p.status==='declined').sort((a,b)=>t(b)-t(a));
  const done=ps.filter(p=>p.status==='done').sort((a,b)=>String(b.done_on).localeCompare(String(a.done_on)));
- const item=(p,cls)=>{const overdue=p.status==='remaining'&&p.due&&t(p)<now,soon=p.status==='remaining'&&p.due&&t(p)-now<48*36e5;
+ const item=(p,cls)=>{const overdue=p.status==='remaining'&&p.due&&t(p)<now,soon=p.status==='remaining'&&p.due&&t(p)-now<24*36e5;
   return `<li class="p ${cls}${soon?' soon':''}">${p.status!=='remaining'?`<span class="st">${p.status==='expired'?'Date passed – not confirmed':esc(p.status)}</span>`:''}<b>${esc(p.company)}</b>
   ${p.action?`<div class="act">${esc(p.action)}</div>`:''}<div class="mu">${esc(p.note)}</div>
   ${p.status==='remaining'?(p.due?`<span class="due">${overdue?'Overdue? ':'Due '}${ukd(p.due)} · ${left(p.due)}</span>`:'<span class="due">No deadline given</span>'):''}
