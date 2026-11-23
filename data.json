@@ -1,6 +1,6 @@
 {
- "total": 3915,
- "portal": 3008,
+ "total": 3917,
+ "portal": 3010,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 103,
+   "portal": 105,
    "email": 0,
    "linkedin": 35
   }
@@ -2048,6 +2048,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/E56CCD88B9/apply"
+  },
+  {
+   "company": "QA",
+   "role": "IT Support Apprentice",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-apprentice/57603652"
+  },
+  {
+   "company": "Elevation Recruitment Group",
+   "role": "Network & Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/network-infrastructure-engineer/57603558"
   },
   {
    "company": "Durlston Partners",
@@ -32130,7 +32146,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T16:27:13.952818+00:00",
- "updated": "2026-11-23T16:27:14+00:00",
- "updated_at": "2026-11-23T16:27:14+00:00"
+ "email_stats_updated": "2026-11-23T16:46:20.752246+00:00",
+ "updated": "2026-11-23T16:46:21+00:00",
+ "updated_at": "2026-11-23T16:46:21+00:00"
 }
