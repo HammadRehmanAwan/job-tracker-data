@@ -1,6 +1,6 @@
 {
- "total": 3909,
- "portal": 3002,
+ "total": 3910,
+ "portal": 3003,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 97,
+   "portal": 98,
    "email": 0,
    "linkedin": 35
   }
@@ -2000,6 +2000,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/full-stack-ai-engineer-edinburgh/57601869"
+  },
+  {
+   "company": "Arc IT Recruitment",
+   "role": "CRM Support Business Analyst",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/crm-support-business-analyst/57602195"
   },
   {
    "company": "Durlston Partners",
@@ -32082,7 +32090,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T13:19:09.038363+00:00",
- "updated": "2026-11-23T13:19:09+00:00",
- "updated_at": "2026-11-23T13:19:09+00:00"
+ "email_stats_updated": "2026-11-23T13:32:08.386737+00:00",
+ "updated": "2026-11-23T13:32:08+00:00",
+ "updated_at": "2026-11-23T13:32:08+00:00"
 }
