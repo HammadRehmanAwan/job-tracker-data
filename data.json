@@ -1,11 +1,11 @@
 {
- "total": 3918,
- "portal": 3011,
+ "total": 3920,
+ "portal": 3013,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 761,
+ "rejections": 762,
  "positives": [
   {
    "company": "Curation",
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 106,
+   "portal": 108,
    "email": 0,
    "linkedin": 35
   }
@@ -2072,6 +2072,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/technical-support-engineer/57603718"
+  },
+  {
+   "company": "Involved Solutions",
+   "role": "Data Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57603799"
+  },
+  {
+   "company": "nice",
+   "role": "Solution Engineer, AI",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/nice/jobs/5043475101"
   },
   {
    "company": "Durlston Partners",
@@ -32154,7 +32170,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T17:17:35.049288+00:00",
- "updated": "2026-11-23T17:17:35+00:00",
- "updated_at": "2026-11-23T17:17:35+00:00"
+ "email_stats_updated": "2026-11-23T17:28:43.916625+00:00",
+ "updated": "2026-11-23T17:28:44+00:00",
+ "updated_at": "2026-11-23T17:28:44+00:00"
 }
