@@ -1,11 +1,11 @@
 {
- "total": 3905,
- "portal": 2998,
+ "total": 3906,
+ "portal": 2999,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 751,
+ "rejections": 752,
  "positives": [
   {
    "company": "Curation",
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 93,
+   "portal": 94,
    "email": 0,
    "linkedin": 35
   }
@@ -1968,6 +1968,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4493623971/"
+  },
+  {
+   "company": "James Frank Associates",
+   "role": "IT Support Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57601819"
   },
   {
    "company": "Durlston Partners",
@@ -32050,7 +32058,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T11:59:17.430213+00:00",
- "updated": "2026-11-23T11:59:17+00:00",
- "updated_at": "2026-11-23T11:59:18+00:00"
+ "email_stats_updated": "2026-11-23T12:16:28.435306+00:00",
+ "updated": "2026-11-23T12:16:28+00:00",
+ "updated_at": "2026-11-23T12:16:28+00:00"
 }
