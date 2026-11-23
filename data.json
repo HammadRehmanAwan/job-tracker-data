@@ -1,6 +1,6 @@
 {
- "total": 3922,
- "portal": 3015,
+ "total": 3923,
+ "portal": 3016,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
@@ -566,7 +566,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 110,
+   "portal": 111,
    "email": 0,
    "linkedin": 35
   }
@@ -2189,6 +2189,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/mac-support-engineer-desktop-support/57604094"
+  },
+  {
+   "company": "Policy Expert",
+   "role": "Security Infrastructure Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/policyexpert/jobs/5045208101"
   },
   {
    "company": "Durlston Partners",
@@ -32271,7 +32279,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T21:48:46.939337+00:00",
- "updated": "2026-11-23T21:48:47+00:00",
- "updated_at": "2026-11-23T21:48:47+00:00"
+ "email_stats_updated": "2026-11-23T22:00:05.423933+00:00",
+ "updated": "2026-11-23T22:00:05+00:00",
+ "updated_at": "2026-11-23T22:00:05+00:00"
 }
