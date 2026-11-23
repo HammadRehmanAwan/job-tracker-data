@@ -1,11 +1,11 @@
 {
- "total": 3906,
- "portal": 2999,
+ "total": 3909,
+ "portal": 3002,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 752,
+ "rejections": 756,
  "positives": [
   {
    "company": "Curation",
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 94,
+   "portal": 97,
    "email": 0,
    "linkedin": 35
   }
@@ -1976,6 +1976,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-engineer/57601819"
+  },
+  {
+   "company": "axiom",
+   "role": "Data Scientist ",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/axiom/jobs/8926847002"
+  },
+  {
+   "company": "Kingsgate Recruitment Ltd",
+   "role": "Graduate / Junior Data Engineer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/graduate-junior-data-engineer/57601862"
+  },
+  {
+   "company": "FDM Group",
+   "role": "Full Stack & AI Engineer- Edinburgh",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/full-stack-ai-engineer-edinburgh/57601869"
   },
   {
    "company": "Durlston Partners",
@@ -32058,7 +32082,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T12:31:07.543275+00:00",
- "updated": "2026-11-23T12:31:07+00:00",
- "updated_at": "2026-11-23T12:31:07+00:00"
+ "email_stats_updated": "2026-11-23T12:45:02.926912+00:00",
+ "updated": "2026-11-23T12:45:03+00:00",
+ "updated_at": "2026-11-23T12:45:03+00:00"
 }
