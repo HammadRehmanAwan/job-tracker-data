@@ -413,11 +413,22 @@
    "starred": false,
    "priority": "",
    "key": "tenx-product-owner"
+  },
+  {
+   "company": "Nottingham Trent University x TeamKinetic (KTP)",
+   "note": "Shortlisted. Next round: build a volunteer-matching prototype and a 1,000-word note (Word or PDF); email to VCSEObservatory@ntu.ac.uk by 9:00am UK on Tuesday 1 December 2026, subject \"KTP Associate: Volunteer Management Data Scientist & Software Engineer KTP Associate\". Interviews on 9 or 11 December 2026, ideally in person in Manchester (online if needed). Salary \u00a338,000\u2013\u00a342,000, 36-month fixed term, based in Manchester (TeamKinetic) with travel to NTU, \u00a36k training budget, Skilled Worker sponsorship eligible. Advert: https://vacancies.ntu.ac.uk/Job/JobDetail?JobId=2699",
+   "status": "remaining",
+   "action": "Build volunteer-matching prototype + 1,000-word note (Word/PDF) and email to VCSEObservatory@ntu.ac.uk by 9:00am UK Tue 1 Dec, subject \"KTP Associate: Volunteer Management Data Scientist & Software Engineer KTP Associate\". Then interviews 9 or 11 Dec, ideally in person in Manchester.",
+   "due": "2026-12-01T09:00:00+00:00",
+   "done_on": "",
+   "starred": true,
+   "priority": "top",
+   "key": "ntu-teamkinetic-ktp"
   }
  ],
- "positive_count": 37,
+ "positive_count": 38,
  "positives_done": 27,
- "positives_remaining": 9,
+ "positives_remaining": 10,
  "positives_expired": 1,
  "positives_declined": 0,
  "by_day": [
@@ -25024,8 +25035,8 @@
    "role": "Volunteer Management Data Scientist & Software Engineer - KTP Associate",
    "date": "2026-11-07",
    "type": "portal",
-   "status": "submitted",
-   "link": ""
+   "status": "shortlisted / next round",
+   "link": "https://vacancies.ntu.ac.uk/Job/JobDetail?JobId=2699"
   },
   {
    "company": "Anaplan",
@@ -32261,6 +32272,6 @@
   }
  ],
  "email_stats_updated": "2026-11-23T19:57:39.780096+00:00",
- "updated": "2026-11-23T19:57:40+00:00",
- "updated_at": "2026-11-23T19:57:40+00:00"
+ "updated": "2026-11-23T19:58:07+00:00",
+ "updated_at": "2026-11-23T19:58:07+00:00"
 }
