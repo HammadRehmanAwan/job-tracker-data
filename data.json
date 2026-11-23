@@ -1,6 +1,6 @@
 {
- "total": 3920,
- "portal": 3013,
+ "total": 3921,
+ "portal": 3014,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 108,
+   "portal": 109,
    "email": 0,
    "linkedin": 35
   }
@@ -2088,6 +2088,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/nice/jobs/5043475101"
+  },
+  {
+   "company": "SF Partners",
+   "role": "Front End Developer",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/front-end-developer/57603978"
   },
   {
    "company": "Durlston Partners",
@@ -32170,7 +32178,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T17:28:43.916625+00:00",
- "updated": "2026-11-23T17:28:44+00:00",
- "updated_at": "2026-11-23T17:28:44+00:00"
+ "email_stats_updated": "2026-11-23T17:47:52.728030+00:00",
+ "updated": "2026-11-23T17:47:53+00:00",
+ "updated_at": "2026-11-23T17:47:53+00:00"
 }
