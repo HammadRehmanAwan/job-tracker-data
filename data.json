@@ -14,6 +14,8 @@
    "action": "Catch-up with Charles Wells Fri 6 Nov 4pm - date passed, mark done if it happened",
    "due": "2026-11-06T16:00:00+00:00",
    "done_on": "2026-11-10",
+   "starred": false,
+   "priority": "",
    "key": "curation-ai-engineer"
   },
   {
@@ -23,6 +25,8 @@
    "action": "Aptitude test + video interview",
    "due": "",
    "done_on": "2026-11-06",
+   "starred": false,
+   "priority": "",
    "key": "salesape-video-interview"
   },
   {
@@ -32,6 +36,8 @@
    "action": "Informal call Mon 9 Nov 12:30 - date passed, mark done if it happened",
    "due": "2026-11-09T12:30:00+00:00",
    "done_on": "2026-11-10",
+   "starred": false,
+   "priority": "",
    "key": "city-of-york-po-ba"
   },
   {
@@ -41,6 +47,8 @@
    "action": "Submit part 2 of the application (online tests done)",
    "due": "2026-11-15T23:55:00+00:00",
    "done_on": "2026-11-11",
+   "starred": false,
+   "priority": "",
    "key": "civil-service-487028"
   },
   {
@@ -50,6 +58,8 @@
    "action": "One-way video interview (Hireflix); CCAT already done 9 Nov",
    "due": "2026-11-13T19:45:00+00:00",
    "done_on": "2026-11-13",
+   "starred": false,
+   "priority": "",
    "key": "rokt-junior-swe"
   },
   {
@@ -59,6 +69,8 @@
    "action": "Data Analyst Researcher assessment (timed, 120 minutes)",
    "due": "",
    "done_on": "2026-11-13",
+   "starred": false,
+   "priority": "",
    "key": "ajaia-data-analyst-researcher"
   },
   {
@@ -68,6 +80,8 @@
    "action": "Send requested documents + current course transcript to Vivien Wagner",
    "due": "",
    "done_on": "2026-11-12",
+   "starred": false,
+   "priority": "",
    "key": "tng-technology-consulting"
   },
   {
@@ -77,6 +91,8 @@
    "action": "Reply to Krishama (LinkedIn) if you want to proceed",
    "due": "",
    "done_on": "2026-11-10",
+   "starred": false,
+   "priority": "",
    "key": "itc-python-developer"
   },
   {
@@ -86,6 +102,8 @@
    "action": "Fill in i23's short form (salary, notice, right to work, availability)",
    "due": "",
    "done_on": "2026-11-11",
+   "starred": false,
+   "priority": "",
    "key": "i23-full-stack-agentic"
   },
   {
@@ -95,6 +113,8 @@
    "action": "Call with Sonia Bhambra + CV sent in Word format",
    "due": "",
    "done_on": "2026-11-09",
+   "starred": false,
+   "priority": "",
    "key": "leep-group"
   },
   {
@@ -104,6 +124,8 @@
    "action": "Criteria 15-min cognitive test (Analytics Engineer, UK Cards)",
    "due": "2026-11-12T00:31:00+00:00",
    "done_on": "2026-11-10",
+   "starred": false,
+   "priority": "",
    "key": "lendable-analytics-engineer"
   },
   {
@@ -113,6 +135,8 @@
    "action": "Ajaia AI-Native Assessment (timed once started)",
    "due": "",
    "done_on": "2026-11-16",
+   "starred": false,
+   "priority": "",
    "key": "ajaia-junior-ai-engineer"
   },
   {
@@ -122,6 +146,8 @@
    "action": "Reply to Andreas Herzig about exposure to logic",
    "due": "",
    "done_on": "2026-11-12",
+   "starred": false,
+   "priority": "",
    "key": "irit-cnrs-phd"
   },
   {
@@ -131,6 +157,8 @@
    "action": "Answer Gozie's questions (role type, right to work, location, contract, salary, notice)",
    "due": "",
    "done_on": "2026-11-12",
+   "starred": false,
+   "priority": "",
    "key": "xist4-recruiter"
   },
   {
@@ -140,6 +168,8 @@
    "action": "Send A-level equivalent grades and right-to-work status to Stefan Pillinger",
    "due": "",
    "done_on": "2026-11-12",
+   "starred": false,
+   "priority": "",
    "key": "pinpoint-partners"
   },
   {
@@ -149,6 +179,8 @@
    "action": "One-way video interview (Workable, ~10 min)",
    "due": "2026-11-15T12:23:00+00:00",
    "done_on": "2026-11-15",
+   "starred": false,
+   "priority": "",
    "key": "quantumloopai-video"
   },
   {
@@ -158,6 +190,8 @@
    "action": "Video chat with Luna (<30 min), last step before client intros",
    "due": "",
    "done_on": "",
+   "starred": false,
+   "priority": "",
    "key": "huzzle-luna"
   },
   {
@@ -167,6 +201,8 @@
    "action": "One-way Hireflix video interview",
    "due": "",
    "done_on": "2026-11-16",
+   "starred": false,
+   "priority": "",
    "key": "flosum-manual-qa"
   },
   {
@@ -176,6 +212,8 @@
    "action": "Workable screening chats (Helpdesk Engineer L2 and IT Support Engineer - Education)",
    "due": "",
    "done_on": "2026-11-15",
+   "starred": false,
+   "priority": "",
    "key": "surftech-it-screenings"
   },
   {
@@ -185,6 +223,8 @@
    "action": "Workable screening chats (Helpdesk Engineer L2 and IT Support Engineer - Education)",
    "due": "",
    "done_on": "2026-11-15",
+   "starred": false,
+   "priority": "",
    "key": "surftech-it-screenings"
   },
   {
@@ -194,6 +234,8 @@
    "action": "Screening chatbot for IT Support Technician (job 76925)",
    "due": "",
    "done_on": "2026-11-15",
+   "starred": false,
+   "priority": "",
    "key": "time-recruitment-it-support-technician"
   },
   {
@@ -203,6 +245,8 @@
    "action": "Mako Aptitude Test (ClassMarker, 50 questions in 30 minutes, one attempt)",
    "due": "2026-11-26T08:51:00+00:00",
    "done_on": "",
+   "starred": false,
+   "priority": "",
    "key": "mako-graduate-swe"
   },
   {
@@ -212,6 +256,8 @@
    "action": "Sign SignRequest docs, upload eVisa/share code, GDPR consent",
    "due": "",
    "done_on": "2026-11-16",
+   "starred": false,
+   "priority": "",
    "key": "acs-onboarding"
   },
   {
@@ -221,6 +267,8 @@
    "action": "Interview with CRO Shane Hopkins (Microsoft Teams), Wed 25 Nov 6:00\u20136:15pm UK",
    "due": "2026-11-25T18:00:00+00:00",
    "done_on": "",
+   "starred": false,
+   "priority": "",
    "key": "landytech-revops"
   },
   {
@@ -230,6 +278,8 @@
    "action": "Shortlist form",
    "due": "",
    "done_on": "2026-11-16",
+   "starred": false,
+   "priority": "",
    "key": "spring-capital-junior-dev"
   },
   {
@@ -239,6 +289,8 @@
    "action": "Apprenticeship questionnaire",
    "due": "",
    "done_on": "2026-11-16",
+   "starred": false,
+   "priority": "",
    "key": "primary-goal-apprenticeship"
   },
   {
@@ -248,6 +300,8 @@
    "action": "15-minute introduction call with Mora Fernandez Madero (Tue 17 Nov 4:15pm UK)",
    "due": "2026-11-17T16:15:00+00:00",
    "done_on": "2026-11-17",
+   "starred": false,
+   "priority": "",
    "key": "broaden-intro-call"
   },
   {
@@ -257,6 +311,8 @@
    "action": "Apply through the University of Sheffield / EPSRC DLA application system (Xingyi Song, CF4-COM-Song)",
    "due": "",
    "done_on": "",
+   "starred": false,
+   "priority": "",
    "key": "sheffield-phd-song"
   },
   {
@@ -266,6 +322,8 @@
    "action": "25-minute online assessment via Criteria (Security Operations Engineer)",
    "due": "",
    "done_on": "",
+   "starred": false,
+   "priority": "",
    "key": "brainlabs-criteria"
   },
   {
@@ -275,6 +333,8 @@
    "action": "Workable assessment (AI/ML & Prompt Engineer: Verbal Comprehension + Attention & focus)",
    "due": "2026-11-19T13:22:00+00:00",
    "done_on": "2026-11-19",
+   "starred": false,
+   "priority": "",
    "key": "quantumloopai-assessment"
   },
   {
@@ -284,6 +344,8 @@
    "action": "Epic Aptitude test via Honorlock (Digital Systems Analyst / Clinical Analyst, 180-B-CVA1346)",
    "due": "2026-11-24T23:59:00+00:00",
    "done_on": "",
+   "starred": false,
+   "priority": "",
    "key": "cuh-epic-aptitude"
   },
   {
@@ -293,6 +355,8 @@
    "action": "Book second-stage interview slot via Teamtailor",
    "due": "",
    "done_on": "2026-11-18",
+   "starred": false,
+   "priority": "",
    "key": "broaden-second-stage-invite"
   },
   {
@@ -302,6 +366,8 @@
    "action": "Aon MapTQ online assessment (Product Support Engineer, JR6161018), one attempt",
    "due": "2026-11-23T00:40:00+00:00",
    "done_on": "",
+   "starred": false,
+   "priority": "",
    "key": "rolls-royce-maptq"
   },
   {
@@ -311,6 +377,8 @@
    "action": "Second-stage interview with Sofia Tsaousi and Mora Fernandez Madero (Fri 20 Nov 1:30pm UK)",
    "due": "2026-11-20T13:30:00+00:00",
    "done_on": "2026-11-20",
+   "starred": false,
+   "priority": "",
    "key": "broaden-second-stage-interview"
   },
   {
@@ -320,6 +388,8 @@
    "action": "Short Microsoft Forms technical assessment (up to 7 minutes) for Data Centre Engineer, Smart Hands",
    "due": "",
    "done_on": "",
+   "starred": false,
+   "priority": "",
    "key": "nsc-global-forms"
   },
   {
@@ -329,6 +399,8 @@
    "action": "Return the mandatory pre-interview questionnaire to a.sironi@nhs.net once Alessandro sends it (Trac slot for Wed 9 Dec 12:30 UK is booked; questionnaire was not attached)",
    "due": "2026-12-09T12:30:00+00:00",
    "done_on": "",
+   "starred": false,
+   "priority": "",
    "key": "nhs-ce125-interview"
   },
   {
@@ -338,6 +410,8 @@
    "action": "Finish 10x screening (practical exercise plus AI conversation, 20\u201330 min) for Product Owner - AI Trainer, Freelance",
    "due": "",
    "done_on": "",
+   "starred": false,
+   "priority": "",
    "key": "tenx-product-owner"
   }
  ],
@@ -32186,7 +32260,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T19:42:28.795696+00:00",
- "updated": "2026-11-23T19:42:29+00:00",
- "updated_at": "2026-11-23T19:42:29+00:00"
+ "email_stats_updated": "2026-11-23T19:57:39.780096+00:00",
+ "updated": "2026-11-23T19:57:40+00:00",
+ "updated_at": "2026-11-23T19:57:40+00:00"
 }
