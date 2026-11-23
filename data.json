@@ -1,11 +1,11 @@
 {
- "total": 3871,
+ "total": 3879,
  "portal": 2994,
  "email": 558,
- "linkedin": 319,
+ "linkedin": 327,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 743,
+ "rejections": 744,
  "positives": [
   {
    "company": "Curation",
@@ -483,7 +483,7 @@
    "date": "2026-11-23",
    "portal": 89,
    "email": 0,
-   "linkedin": 4
+   "linkedin": 12
   }
  ],
  "recent": [
@@ -1688,6 +1688,70 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4493746211/"
+  },
+  {
+   "company": "ISS Facility Services UK",
+   "role": "Asset Data Analyst",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493614748/"
+  },
+  {
+   "company": "Solve IT Consultant",
+   "role": "Information Technology Service Desk",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492395087/"
+  },
+  {
+   "company": "Methods",
+   "role": "Service Desk Analyst - Shared Services",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4465517923/"
+  },
+  {
+   "company": "Jobgether",
+   "role": "Middle L1 Technical Support Specialist",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492898002/"
+  },
+  {
+   "company": "Atrom Mindcare",
+   "role": "Data & Back-end Engineer",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492484117/"
+  },
+  {
+   "company": "RedRock Resourcing",
+   "role": "Application Support Specialist - ERP/SQL",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493523709/"
+  },
+  {
+   "company": "Searchability",
+   "role": "Information Technology Support Engineer",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493621519/"
+  },
+  {
+   "company": "Sika",
+   "role": "IT Support Engineer - Europe North",
+   "date": "2026-11-23",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492378847/"
   },
   {
    "company": "Durlston Partners",
@@ -31778,7 +31842,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T10:19:58.158053+00:00",
- "updated": "2026-11-23T10:19:58+00:00",
- "updated_at": "2026-11-23T10:19:58+00:00"
+ "email_stats_updated": "2026-11-23T10:32:46.403568+00:00",
+ "updated": "2026-11-23T10:32:46+00:00",
+ "updated_at": "2026-11-23T10:32:46+00:00"
 }
