@@ -1,6 +1,6 @@
 {
- "total": 3921,
- "portal": 3014,
+ "total": 3922,
+ "portal": 3015,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
@@ -481,7 +481,7 @@
   },
   {
    "date": "2026-11-23",
-   "portal": 109,
+   "portal": 110,
    "email": 0,
    "linkedin": 35
   }
@@ -2096,6 +2096,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/front-end-developer/57603978"
+  },
+  {
+   "company": "Devonshire Hayes Recruitment Specialists Limited",
+   "role": "Mac Support Engineer - Desktop Support",
+   "date": "2026-11-23",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/mac-support-engineer-desktop-support/57604094"
   },
   {
    "company": "Durlston Partners",
@@ -32178,7 +32186,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-23T18:43:42.172274+00:00",
- "updated": "2026-11-23T18:43:42+00:00",
- "updated_at": "2026-11-23T18:43:42+00:00"
+ "email_stats_updated": "2026-11-23T19:04:50.289669+00:00",
+ "updated": "2026-11-23T19:04:50+00:00",
+ "updated_at": "2026-11-23T19:04:50+00:00"
 }
