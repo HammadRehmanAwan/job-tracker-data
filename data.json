@@ -1,11 +1,11 @@
 {
- "total": 3940,
- "portal": 3033,
+ "total": 3944,
+ "portal": 3037,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 789,
+ "rejections": 790,
  "positives": [
   {
    "company": "Curation",
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 17,
+   "portal": 21,
    "email": 0,
    "linkedin": 0
   }
@@ -713,6 +713,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/joblogic/jobs/4905842101"
+  },
+  {
+   "company": "Box",
+   "role": "Associate Technical Consultant",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/boxinc/jobs/8401808"
+  },
+  {
+   "company": "Apogee Corporation ",
+   "role": "2nd Line Support Technician",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-support-technician/57606600"
+  },
+  {
+   "company": "Elevate Technology Group Ltd",
+   "role": "Data Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57606699"
+  },
+  {
+   "company": "Elevate Technology Group Ltd",
+   "role": "Junior Data Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/junior-data-engineer/57606721"
   },
   {
    "company": "Crossing Hurdles",
@@ -865,38 +897,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/full-stack-developer/57500183"
-  },
-  {
-   "company": "Searchability NS&D",
-   "role": "Azure DevOps Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/azure-devops-engineer/57482241"
-  },
-  {
-   "company": "Hays Specialist Recruitment Limited",
-   "role": "Business Systems & Data Analyst",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/business-systems-data-analyst/57494808"
-  },
-  {
-   "company": "Opus Recruitment Solutions Ltd",
-   "role": "Azure Platform engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/azure-platform-engineer/57500269"
-  },
-  {
-   "company": "Grafton Group",
-   "role": "Infrastructure Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57537903"
   }
  ],
  "applications": [
@@ -1171,6 +1171,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/joblogic/jobs/4905842101"
+  },
+  {
+   "company": "Box",
+   "role": "Associate Technical Consultant",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/boxinc/jobs/8401808"
+  },
+  {
+   "company": "Apogee Corporation ",
+   "role": "2nd Line Support Technician",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-support-technician/57606600"
+  },
+  {
+   "company": "Elevate Technology Group Ltd",
+   "role": "Data Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57606699"
+  },
+  {
+   "company": "Elevate Technology Group Ltd",
+   "role": "Junior Data Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/junior-data-engineer/57606721"
   },
   {
    "company": "Crossing Hurdles",
@@ -32421,7 +32453,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T13:04:19.165915+00:00",
- "updated": "2026-11-24T13:04:20+00:00",
- "updated_at": "2026-11-24T13:04:20+00:00"
+ "email_stats_updated": "2026-11-24T13:22:10.855315+00:00",
+ "updated": "2026-11-24T13:22:12+00:00",
+ "updated_at": "2026-11-24T13:22:12+00:00"
 }
