@@ -1,6 +1,6 @@
 {
- "total": 3929,
- "portal": 3022,
+ "total": 3930,
+ "portal": 3023,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 6,
+   "portal": 7,
    "email": 0,
    "linkedin": 0
   }
@@ -625,6 +625,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/data-analyst-operations/57604077"
+  },
+  {
+   "company": "scaleai",
+   "role": "Machine Learning Fellow - Human Frontier Collective",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005"
   },
   {
    "company": "Crossing Hurdles",
@@ -889,14 +897,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/devops-engineer/57465074"
-  },
-  {
-   "company": "Sanderson ",
-   "role": "DevOps Engineer, Hybrid",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/devops-engineer-hybrid/57501358"
   }
  ],
  "applications": [
@@ -1083,6 +1083,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/data-analyst-operations/57604077"
+  },
+  {
+   "company": "scaleai",
+   "role": "Machine Learning Fellow - Human Frontier Collective",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005"
   },
   {
    "company": "Crossing Hurdles",
@@ -32333,7 +32341,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T00:49:59.058770+00:00",
- "updated": "2026-11-24T00:49:59+00:00",
- "updated_at": "2026-11-24T00:49:59+00:00"
+ "email_stats_updated": "2026-11-24T01:00:31.300755+00:00",
+ "updated": "2026-11-24T01:00:32+00:00",
+ "updated_at": "2026-11-24T01:00:32+00:00"
 }
