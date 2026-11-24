@@ -1,11 +1,11 @@
 {
- "total": 3971,
- "portal": 3044,
+ "total": 3973,
+ "portal": 3046,
  "email": 558,
  "linkedin": 369,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 803,
+ "rejections": 804,
  "positives": [
   {
    "company": "Curation",
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 28,
+   "portal": 30,
    "email": 0,
    "linkedin": 20
   }
@@ -1419,6 +1419,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/software-developer-net-c/57607716"
+  },
+  {
+   "company": "abnormalsecurity",
+   "role": "Enterprise Platform Engineer, EMEA",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/abnormalsecurity/jobs/8215310003"
+  },
+  {
+   "company": "Arc IT Recruitment",
+   "role": "Software Engineer (.NET / C#)",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-engineer-net-c/57607959"
   },
   {
    "company": "Crossing Hurdles",
@@ -32669,7 +32685,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T16:14:50.147807+00:00",
- "updated": "2026-11-24T16:14:51+00:00",
- "updated_at": "2026-11-24T16:14:51+00:00"
+ "email_stats_updated": "2026-11-24T16:36:06.082392+00:00",
+ "updated": "2026-11-24T16:36:07+00:00",
+ "updated_at": "2026-11-24T16:36:07+00:00"
 }
