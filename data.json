@@ -1,6 +1,6 @@
 {
- "total": 3973,
- "portal": 3046,
+ "total": 3974,
+ "portal": 3047,
  "email": 558,
  "linkedin": 369,
  "bounced_emails": 23,
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 30,
+   "portal": 31,
    "email": 0,
    "linkedin": 20
   }
@@ -1435,6 +1435,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/software-engineer-net-c/57607959"
+  },
+  {
+   "company": "Chapman Tate Associates",
+   "role": "Desktop Support Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/desktop-support-engineer/57608430"
   },
   {
    "company": "Crossing Hurdles",
@@ -32685,7 +32693,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T17:04:12.372766+00:00",
- "updated": "2026-11-24T17:04:13+00:00",
- "updated_at": "2026-11-24T17:04:14+00:00"
+ "email_stats_updated": "2026-11-24T17:18:22.451706+00:00",
+ "updated": "2026-11-24T17:18:24+00:00",
+ "updated_at": "2026-11-24T17:18:24+00:00"
 }
