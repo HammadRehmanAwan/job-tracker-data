@@ -1,11 +1,11 @@
 {
- "total": 3944,
- "portal": 3037,
+ "total": 3945,
+ "portal": 3038,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 791,
+ "rejections": 793,
  "positives": [
   {
    "company": "Curation",
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 21,
+   "portal": 22,
    "email": 0,
    "linkedin": 0
   }
@@ -747,6 +747,14 @@
    "link": "https://www.reed.co.uk/jobs/junior-data-engineer/57606721"
   },
   {
+   "company": "1TECH STAFFING LIMITED",
+   "role": "Software Developer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-developer/57606854"
+  },
+  {
    "company": "Crossing Hurdles",
    "role": "Machine Learning Engineer | Remote",
    "date": "2026-11-23",
@@ -889,14 +897,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/full-stack-software-engineer-global-trading-firm/57483682"
-  },
-  {
-   "company": "Lorien",
-   "role": "Full Stack Developer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/full-stack-developer/57500183"
   }
  ],
  "applications": [
@@ -1203,6 +1203,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/junior-data-engineer/57606721"
+  },
+  {
+   "company": "1TECH STAFFING LIMITED",
+   "role": "Software Developer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-developer/57606854"
   },
   {
    "company": "Crossing Hurdles",
@@ -32453,7 +32461,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T13:36:16.860938+00:00",
- "updated": "2026-11-24T13:36:18+00:00",
- "updated_at": "2026-11-24T13:36:18+00:00"
+ "email_stats_updated": "2026-11-24T13:51:14.983474+00:00",
+ "updated": "2026-11-24T13:51:16+00:00",
+ "updated_at": "2026-11-24T13:51:16+00:00"
 }
