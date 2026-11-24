@@ -1,11 +1,11 @@
 {
- "total": 3934,
- "portal": 3027,
+ "total": 3935,
+ "portal": 3028,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 780,
+ "rejections": 782,
  "positives": [
   {
    "company": "Curation",
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 11,
+   "portal": 12,
    "email": 0,
    "linkedin": 0
   }
@@ -665,6 +665,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/service-desk-analyst-first-line/57605349"
+  },
+  {
+   "company": "Randstad Technologies",
+   "role": "Agentic Automation Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/agentic-automation-engineer/57605407"
   },
   {
    "company": "Crossing Hurdles",
@@ -889,14 +897,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/platform-engineer/57504396"
-  },
-  {
-   "company": "Vermillion Analytics",
-   "role": "Infrastructure Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57254546"
   }
  ],
  "applications": [
@@ -1123,6 +1123,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/service-desk-analyst-first-line/57605349"
+  },
+  {
+   "company": "Randstad Technologies",
+   "role": "Agentic Automation Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/agentic-automation-engineer/57605407"
   },
   {
    "company": "Crossing Hurdles",
@@ -32373,7 +32381,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T11:01:24.762583+00:00",
- "updated": "2026-11-24T11:01:25+00:00",
- "updated_at": "2026-11-24T11:01:25+00:00"
+ "email_stats_updated": "2026-11-24T11:16:06.199975+00:00",
+ "updated": "2026-11-24T11:16:06+00:00",
+ "updated_at": "2026-11-24T11:16:06+00:00"
 }
