@@ -1,6 +1,6 @@
 {
- "total": 3981,
- "portal": 3054,
+ "total": 3982,
+ "portal": 3055,
  "email": 558,
  "linkedin": 369,
  "bounced_emails": 23,
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 38,
+   "portal": 39,
    "email": 0,
    "linkedin": 20
   }
@@ -1499,6 +1499,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/newsweek/jobs/4731789006"
+  },
+  {
+   "company": "Newsweek",
+   "role": "Backend Software Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/newsweek/jobs/4731797006"
   },
   {
    "company": "Crossing Hurdles",
@@ -32749,7 +32757,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T19:51:21.880704+00:00",
- "updated": "2026-11-24T19:51:23+00:00",
- "updated_at": "2026-11-24T19:51:23+00:00"
+ "email_stats_updated": "2026-11-24T19:58:26.242543+00:00",
+ "updated": "2026-11-24T19:58:27+00:00",
+ "updated_at": "2026-11-24T19:58:28+00:00"
 }
