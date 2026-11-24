@@ -1,6 +1,6 @@
 {
- "total": 3937,
- "portal": 3030,
+ "total": 3938,
+ "portal": 3031,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 14,
+   "portal": 15,
    "email": 0,
    "linkedin": 0
   }
@@ -689,6 +689,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/business-analyst/57605988"
+  },
+  {
+   "company": "focusgroup",
+   "role": "Technical Support Advisor 1st Line",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://focusgroup.pinpointhq.com/en/postings/e6e34ddc-6143-4a95-9ad0-85debaeb454d"
   },
   {
    "company": "Crossing Hurdles",
@@ -889,14 +897,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/data-analytics-engineer/57538598"
-  },
-  {
-   "company": "Ultimaze Ltd trading as TSR Select",
-   "role": "3rd Line projects and Support Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/3rd-line-projects-and-support-engineer/57538273"
   }
  ],
  "applications": [
@@ -1147,6 +1147,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/business-analyst/57605988"
+  },
+  {
+   "company": "focusgroup",
+   "role": "Technical Support Advisor 1st Line",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://focusgroup.pinpointhq.com/en/postings/e6e34ddc-6143-4a95-9ad0-85debaeb454d"
   },
   {
    "company": "Crossing Hurdles",
@@ -32397,7 +32405,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T11:50:39.704043+00:00",
- "updated": "2026-11-24T11:50:40+00:00",
- "updated_at": "2026-11-24T11:50:40+00:00"
+ "email_stats_updated": "2026-11-24T12:00:18.981796+00:00",
+ "updated": "2026-11-24T12:00:19+00:00",
+ "updated_at": "2026-11-24T12:00:19+00:00"
 }
