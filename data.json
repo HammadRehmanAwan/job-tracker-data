@@ -5,7 +5,7 @@
  "linkedin": 349,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 764,
+ "rejections": 765,
  "positives": [
   {
    "company": "Curation",
@@ -32341,7 +32341,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T08:13:25.754566+00:00",
- "updated": "2026-11-24T08:13:26+00:00",
- "updated_at": "2026-11-24T08:13:26+00:00"
+ "email_stats_updated": "2026-11-24T08:34:31.336569+00:00",
+ "updated": "2026-11-24T08:34:31+00:00",
+ "updated_at": "2026-11-24T08:34:31+00:00"
 }
