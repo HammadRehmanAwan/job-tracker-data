@@ -1,11 +1,11 @@
 {
- "total": 3980,
- "portal": 3053,
+ "total": 3981,
+ "portal": 3054,
  "email": 558,
  "linkedin": 369,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 807,
+ "rejections": 808,
  "positives": [
   {
    "company": "Curation",
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 37,
+   "portal": 38,
    "email": 0,
    "linkedin": 20
   }
@@ -1491,6 +1491,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/1st-line-it-support-engineer/57608786"
+  },
+  {
+   "company": "Newsweek",
+   "role": "Frontend Software Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/newsweek/jobs/4731789006"
   },
   {
    "company": "Crossing Hurdles",
@@ -32741,7 +32749,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T19:27:47.211793+00:00",
- "updated": "2026-11-24T19:27:48+00:00",
- "updated_at": "2026-11-24T19:27:48+00:00"
+ "email_stats_updated": "2026-11-24T19:51:21.880704+00:00",
+ "updated": "2026-11-24T19:51:23+00:00",
+ "updated_at": "2026-11-24T19:51:23+00:00"
 }
