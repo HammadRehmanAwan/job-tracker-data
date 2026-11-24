@@ -1,8 +1,8 @@
 {
- "total": 3992,
+ "total": 3997,
  "portal": 3055,
  "email": 558,
- "linkedin": 379,
+ "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
  "rejections": 808,
@@ -574,7 +574,7 @@
    "date": "2026-11-24",
    "portal": 39,
    "email": 0,
-   "linkedin": 30
+   "linkedin": 35
   }
  ],
  "recent": [
@@ -1587,6 +1587,46 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4493007386/"
+  },
+  {
+   "company": "Opus 2",
+   "role": "IT Support Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494117910/"
+  },
+  {
+   "company": "LA International",
+   "role": "Data Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494024515/"
+  },
+  {
+   "company": "Smartedge Solutions",
+   "role": "Technical Analyst/ Operational Support Analyst",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494129919/"
+  },
+  {
+   "company": "Tempest Vane Partners",
+   "role": "Forward Deployed AI Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493372934/"
+  },
+  {
+   "company": "NXA Talent",
+   "role": "AI Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494149961/"
   },
   {
    "company": "Crossing Hurdles",
@@ -32837,7 +32877,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T20:33:34.127130+00:00",
- "updated": "2026-11-24T20:33:35+00:00",
- "updated_at": "2026-11-24T20:33:35+00:00"
+ "email_stats_updated": "2026-11-24T20:51:46.180105+00:00",
+ "updated": "2026-11-24T20:51:47+00:00",
+ "updated_at": "2026-11-24T20:51:47+00:00"
 }
