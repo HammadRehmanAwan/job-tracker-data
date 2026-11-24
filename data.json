@@ -1,11 +1,11 @@
 {
- "total": 3930,
- "portal": 3023,
+ "total": 3931,
+ "portal": 3024,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 770,
+ "rejections": 772,
  "positives": [
   {
    "company": "Curation",
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 7,
+   "portal": 8,
    "email": 0,
    "linkedin": 0
   }
@@ -633,6 +633,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005"
+  },
+  {
+   "company": "Andy File Associates Limited",
+   "role": "AI & Automation Specialist",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-specialist/57605182"
   },
   {
    "company": "Crossing Hurdles",
@@ -889,14 +897,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/devops-engineer/57474991"
-  },
-  {
-   "company": "Opus Recruitment Solutions Ltd",
-   "role": "DevOps Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/devops-engineer/57465074"
   }
  ],
  "applications": [
@@ -1091,6 +1091,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005"
+  },
+  {
+   "company": "Andy File Associates Limited",
+   "role": "AI & Automation Specialist",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-automation-specialist/57605182"
   },
   {
    "company": "Crossing Hurdles",
@@ -32341,7 +32349,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T09:28:44.261566+00:00",
- "updated": "2026-11-24T09:28:44+00:00",
- "updated_at": "2026-11-24T09:28:44+00:00"
+ "email_stats_updated": "2026-11-24T09:49:37.187265+00:00",
+ "updated": "2026-11-24T09:49:37+00:00",
+ "updated_at": "2026-11-24T09:49:38+00:00"
 }
