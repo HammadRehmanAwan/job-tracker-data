@@ -1,11 +1,11 @@
 {
- "total": 3968,
- "portal": 3041,
+ "total": 3971,
+ "portal": 3044,
  "email": 558,
  "linkedin": 369,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 798,
+ "rejections": 799,
  "positives": [
   {
    "company": "Curation",
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 25,
+   "portal": 28,
    "email": 0,
    "linkedin": 20
   }
@@ -1395,6 +1395,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://focusgroup.pinpointhq.com/en/postings/a9f03b51-abd4-4ba1-85c5-57910005ded9"
+  },
+  {
+   "company": "Qube Research & Technologies",
+   "role": "Application Support Engineer \u2013 Vendor Service",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8589348002"
+  },
+  {
+   "company": "1TECH STAFFING LIMITED",
+   "role": "2nd Line Support Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-support-engineer/57607564"
+  },
+  {
+   "company": "Jackson Hogg",
+   "role": "Software Developer - (.NET/C#)",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-developer-net-c/57607716"
   },
   {
    "company": "Crossing Hurdles",
@@ -32645,7 +32669,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T15:17:19.278477+00:00",
- "updated": "2026-11-24T15:17:20+00:00",
- "updated_at": "2026-11-24T15:17:20+00:00"
+ "email_stats_updated": "2026-11-24T15:30:54.603934+00:00",
+ "updated": "2026-11-24T15:30:56+00:00",
+ "updated_at": "2026-11-24T15:30:56+00:00"
 }
