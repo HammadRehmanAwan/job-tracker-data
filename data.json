@@ -1,11 +1,11 @@
 {
- "total": 3945,
+ "total": 3965,
  "portal": 3038,
  "email": 558,
- "linkedin": 349,
+ "linkedin": 369,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 793,
+ "rejections": 796,
  "positives": [
   {
    "company": "Curation",
@@ -574,7 +574,7 @@
    "date": "2026-11-24",
    "portal": 22,
    "email": 0,
-   "linkedin": 0
+   "linkedin": 20
   }
  ],
  "recent": [
@@ -755,148 +755,148 @@
    "link": "https://www.reed.co.uk/jobs/software-developer/57606854"
   },
   {
-   "company": "Crossing Hurdles",
-   "role": "Machine Learning Engineer | Remote",
-   "date": "2026-11-23",
+   "company": "13:2x Valcon",
+   "role": "AI Engineer",
+   "date": "2026-11-24",
    "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4490431410/"
+   "link": "https://www.linkedin.com/jobs/view/4481881983/"
   },
   {
-   "company": "Adecco ",
-   "role": "AI Automation Engineer (Python, R, Shiny)",
-   "date": "2026-11-23",
-   "type": "portal",
+   "company": "13:30 Noir",
+   "role": ".NET Developer (Remote Greater London)",
+   "date": "2026-11-24",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/ai-automation-engineer-python-r-shiny/57552241"
+   "link": "https://www.linkedin.com/jobs/view/4494145257/"
   },
   {
-   "company": "Akkodis",
-   "role": "AI & Automation Solutions Developer | C. \u00a360k",
-   "date": "2026-11-23",
-   "type": "portal",
+   "company": "13:36:02 Noir",
+   "role": ".NET Developer - Cheltenham (Remote)",
+   "date": "2026-11-24",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/ai-automation-solutions-developer--c-60k/57457585"
+   "link": "https://www.linkedin.com/jobs/view/4494143353/"
   },
   {
-   "company": "Randstad Technologies",
-   "role": "AI Automation / Application Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
+   "company": "Wave Group",
+   "role": "Product Engineer (Python) AI Services",
+   "date": "2026-11-24",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/ai-automation-application-engineer/57559306"
+   "link": "https://www.linkedin.com/jobs/view/4492699225/"
   },
   {
-   "company": "Tenth Revolution Group",
-   "role": "AI Automation Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
+   "company": "13:37:23 DataCareers",
+   "role": "Machine Learning Engineer - Full Stack Development",
+   "date": "2026-11-24",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/ai-automation-engineer/57565327"
+   "link": "https://www.linkedin.com/jobs/view/4492612228/"
   },
   {
-   "company": "Blues Point Ltd",
-   "role": "Java Developer",
-   "date": "2026-11-23",
-   "type": "portal",
+   "company": "13:38:44 Brio Digital",
+   "role": "Artificial Intelligence Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/java-developer/57516981"
+   "link": "https://www.linkedin.com/jobs/view/4494117717/"
   },
   {
-   "company": "Lorien",
-   "role": "Test Automation Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
+   "company": "13:43:35 FIOR Group",
+   "role": "Junior Software Developer",
+   "date": "2026-11-24",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/test-automation-engineer/57497859"
+   "link": "https://www.linkedin.com/jobs/view/4493635643/"
   },
   {
-   "company": "Key Partnership Recruitment Limited ",
-   "role": "QA Automation Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/qa-automation-engineer/57516479"
-  },
-  {
-   "company": "Sanderson ",
-   "role": "Machine Learning Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/machine-learning-engineer/57504455"
-  },
-  {
-   "company": "Harnham - Data & Analytics Recruitment",
-   "role": "Contract Machine Learning Engineer - Outside IR35",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/contract-machine-learning-engineer-outside-ir35/57496338"
-  },
-  {
-   "company": "Robert Half",
-   "role": "Ai Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/ai-engineer/57562742"
-  },
-  {
-   "company": "McGregor Boyall",
-   "role": "AI Product Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/ai-product-engineer/57450293"
-  },
-  {
-   "company": "Kensington Mortgage Company",
-   "role": "Software Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/software-engineer/57475280"
-  },
-  {
-   "company": "Its Lolly ",
-   "role": ".NET Software Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/net-software-engineer/57478069"
-  },
-  {
-   "company": "Sphere Digital Recruitment",
+   "company": "13:45:54 Prolific",
    "role": "Data Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
+   "date": "2026-11-24",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-engineer/57519550"
+   "link": "https://www.linkedin.com/jobs/view/4469125847/"
   },
   {
-   "company": "McGregor Boyall",
-   "role": "3rd Line Support Engineer, MSP, M365, Azure, AVD, Security",
-   "date": "2026-11-23",
-   "type": "portal",
+   "company": "13:49:08 WeDo",
+   "role": "Technical Support Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/3rd-line-support-engineer-msp-m365-azure-avd-security/57546666"
+   "link": "https://www.linkedin.com/jobs/view/4492608886/"
   },
   {
-   "company": "Hays Specialist Recruitment Limited",
-   "role": "Data Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
+   "company": "13:50:35 Jobgether",
+   "role": "Data Analyst, Identification Accuracy",
+   "date": "2026-11-24",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-engineer/57519976"
+   "link": "https://www.linkedin.com/jobs/view/4493786392/"
   },
   {
-   "company": "Robert Walters",
-   "role": "Full Stack Software Engineer - Global Trading Firm",
-   "date": "2026-11-23",
-   "type": "portal",
+   "company": "13:53:10 Initi8 Recruitment",
+   "role": "AI Solutions Engineer - London - Hybrid",
+   "date": "2026-11-24",
+   "type": "linkedin",
    "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/full-stack-software-engineer-global-trading-firm/57483682"
+   "link": "https://www.linkedin.com/jobs/view/4492697997/"
+  },
+  {
+   "company": "13:54:02 E-Solutions",
+   "role": "AI/ML Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493991850/"
+  },
+  {
+   "company": "13:55:21 TekSelect",
+   "role": "Artificial Intelligence Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492614748/"
+  },
+  {
+   "company": "13:57:17 Kaiyiee Global Talent",
+   "role": "AI Agent Engineer - Agentic Systems & Orchestration",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493005038/"
+  },
+  {
+   "company": "13:58:17 Goliath Partners",
+   "role": "Machine Learning Engineer (mid-level)",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493905544/"
+  },
+  {
+   "company": "13:59:38 Enigma",
+   "role": "Forward Deployed AI Engineer (Python/APIs/AWS/Docker/K8s, London hybrid)",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494030876/"
+  },
+  {
+   "company": "14:00:47 twentyAI",
+   "role": "AI Engineer (TWE47994)",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494143596/"
+  },
+  {
+   "company": "14:02:06 Rail Delivery Group",
+   "role": "Endpoint and Support Engineer - 6m FTC",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493975017/"
   }
  ],
  "applications": [
@@ -1211,6 +1211,166 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/software-developer/57606854"
+  },
+  {
+   "company": "13:2x Valcon",
+   "role": "AI Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4481881983/"
+  },
+  {
+   "company": "13:30 Noir",
+   "role": ".NET Developer (Remote Greater London)",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494145257/"
+  },
+  {
+   "company": "13:36:02 Noir",
+   "role": ".NET Developer - Cheltenham (Remote)",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494143353/"
+  },
+  {
+   "company": "Wave Group",
+   "role": "Product Engineer (Python) AI Services",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492699225/"
+  },
+  {
+   "company": "13:37:23 DataCareers",
+   "role": "Machine Learning Engineer - Full Stack Development",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492612228/"
+  },
+  {
+   "company": "13:38:44 Brio Digital",
+   "role": "Artificial Intelligence Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494117717/"
+  },
+  {
+   "company": "13:43:35 FIOR Group",
+   "role": "Junior Software Developer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493635643/"
+  },
+  {
+   "company": "13:45:54 Prolific",
+   "role": "Data Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4469125847/"
+  },
+  {
+   "company": "13:49:08 WeDo",
+   "role": "Technical Support Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492608886/"
+  },
+  {
+   "company": "13:50:35 Jobgether",
+   "role": "Data Analyst, Identification Accuracy",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493786392/"
+  },
+  {
+   "company": "13:53:10 Initi8 Recruitment",
+   "role": "AI Solutions Engineer - London - Hybrid",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492697997/"
+  },
+  {
+   "company": "13:54:02 E-Solutions",
+   "role": "AI/ML Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493991850/"
+  },
+  {
+   "company": "13:55:21 TekSelect",
+   "role": "Artificial Intelligence Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492614748/"
+  },
+  {
+   "company": "13:57:17 Kaiyiee Global Talent",
+   "role": "AI Agent Engineer - Agentic Systems & Orchestration",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493005038/"
+  },
+  {
+   "company": "13:58:17 Goliath Partners",
+   "role": "Machine Learning Engineer (mid-level)",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493905544/"
+  },
+  {
+   "company": "13:59:38 Enigma",
+   "role": "Forward Deployed AI Engineer (Python/APIs/AWS/Docker/K8s, London hybrid)",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494030876/"
+  },
+  {
+   "company": "14:00:47 twentyAI",
+   "role": "AI Engineer (TWE47994)",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494143596/"
+  },
+  {
+   "company": "14:02:06 Rail Delivery Group",
+   "role": "Endpoint and Support Engineer - 6m FTC",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493975017/"
+  },
+  {
+   "company": "14:02:26 Charles Moore Associates",
+   "role": "Data Engineer - APIs, MCP & Full Stack",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494103624/"
+  },
+  {
+   "company": "14:04:11 Circeus",
+   "role": "AI Intern (London hybrid)",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494127303/"
   },
   {
    "company": "Crossing Hurdles",
@@ -32461,7 +32621,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T14:05:12.356586+00:00",
- "updated": "2026-11-24T14:05:13+00:00",
- "updated_at": "2026-11-24T14:05:13+00:00"
+ "email_stats_updated": "2026-11-24T14:16:07.806467+00:00",
+ "updated": "2026-11-24T14:16:09+00:00",
+ "updated_at": "2026-11-24T14:16:09+00:00"
 }
