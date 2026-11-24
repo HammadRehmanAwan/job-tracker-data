@@ -1,6 +1,6 @@
 {
- "total": 3975,
- "portal": 3048,
+ "total": 3978,
+ "portal": 3051,
  "email": 558,
  "linkedin": 369,
  "bounced_emails": 23,
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 32,
+   "portal": 35,
    "email": 0,
    "linkedin": 20
   }
@@ -1451,6 +1451,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/aircallioinc/jobs/4384745009"
+  },
+  {
+   "company": "Office Angels",
+   "role": "Temporary IT Support Analyst",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/temporary-it-support-analyst/57608757"
+  },
+  {
+   "company": "Office Angels",
+   "role": "Temporary IT Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/temporary-it-engineer/57608719"
+  },
+  {
+   "company": "Adria Solutions",
+   "role": "2nd Line IT Support Engineer - Manchester",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-it-support-engineer-manchester/57608725"
   },
   {
    "company": "Crossing Hurdles",
@@ -32701,7 +32725,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T18:00:14.241866+00:00",
- "updated": "2026-11-24T18:00:15+00:00",
- "updated_at": "2026-11-24T18:00:15+00:00"
+ "email_stats_updated": "2026-11-24T18:21:09.539578+00:00",
+ "updated": "2026-11-24T18:21:11+00:00",
+ "updated_at": "2026-11-24T18:21:11+00:00"
 }
