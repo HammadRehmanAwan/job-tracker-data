@@ -1,11 +1,11 @@
 {
- "total": 3931,
- "portal": 3024,
+ "total": 3934,
+ "portal": 3027,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 779,
+ "rejections": 780,
  "positives": [
   {
    "company": "Curation",
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 8,
+   "portal": 11,
    "email": 0,
    "linkedin": 0
   }
@@ -641,6 +641,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/ai-automation-specialist/57605182"
+  },
+  {
+   "company": "reactivemarkets",
+   "role": "AI & Data Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/reactivemarkets/cf98c22a-eae2-4558-a7d4-5779673168db"
+  },
+  {
+   "company": "Randstad Technologies",
+   "role": "Java Full Stack Developer (Spring Boot)",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/java-full-stack-developer-spring-boot/57605660"
+  },
+  {
+   "company": "Tate Milton Keynes",
+   "role": "Service Desk Analyst (First Line)",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/service-desk-analyst-first-line/57605349"
   },
   {
    "company": "Crossing Hurdles",
@@ -873,30 +897,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/infrastructure-engineer/57254546"
-  },
-  {
-   "company": "Adecco ",
-   "role": "DevOps Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/devops-engineer/57464988"
-  },
-  {
-   "company": "VIQU IT Recruitment",
-   "role": "EUC Consultant",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/euc-consultant/57451225"
-  },
-  {
-   "company": "Adria Solutions",
-   "role": "DevOps Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/devops-engineer/57474991"
   }
  ],
  "applications": [
@@ -1099,6 +1099,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/ai-automation-specialist/57605182"
+  },
+  {
+   "company": "reactivemarkets",
+   "role": "AI & Data Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/reactivemarkets/cf98c22a-eae2-4558-a7d4-5779673168db"
+  },
+  {
+   "company": "Randstad Technologies",
+   "role": "Java Full Stack Developer (Spring Boot)",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/java-full-stack-developer-spring-boot/57605660"
+  },
+  {
+   "company": "Tate Milton Keynes",
+   "role": "Service Desk Analyst (First Line)",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/service-desk-analyst-first-line/57605349"
   },
   {
    "company": "Crossing Hurdles",
@@ -32349,7 +32373,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T10:48:55.479386+00:00",
- "updated": "2026-11-24T10:48:55+00:00",
- "updated_at": "2026-11-24T10:48:55+00:00"
+ "email_stats_updated": "2026-11-24T11:01:24.762583+00:00",
+ "updated": "2026-11-24T11:01:25+00:00",
+ "updated_at": "2026-11-24T11:01:25+00:00"
 }
