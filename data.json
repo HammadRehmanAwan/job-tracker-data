@@ -1,6 +1,6 @@
 {
- "total": 3938,
- "portal": 3031,
+ "total": 3939,
+ "portal": 3032,
  "email": 558,
  "linkedin": 349,
  "bounced_emails": 23,
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 15,
+   "portal": 16,
    "email": 0,
    "linkedin": 0
   }
@@ -697,6 +697,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://focusgroup.pinpointhq.com/en/postings/e6e34ddc-6143-4a95-9ad0-85debaeb454d"
+  },
+  {
+   "company": "Massenhove Recruitment Limited",
+   "role": "IT Support Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57180224"
   },
   {
    "company": "Crossing Hurdles",
@@ -889,14 +897,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/full-stack-developer/57553124"
-  },
-  {
-   "company": "Tenth Revolution Group",
-   "role": "Data & Analytics Engineer",
-   "date": "2026-11-23",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-analytics-engineer/57538598"
   }
  ],
  "applications": [
@@ -1155,6 +1155,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://focusgroup.pinpointhq.com/en/postings/e6e34ddc-6143-4a95-9ad0-85debaeb454d"
+  },
+  {
+   "company": "Massenhove Recruitment Limited",
+   "role": "IT Support Engineer",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57180224"
   },
   {
    "company": "Crossing Hurdles",
@@ -32405,7 +32413,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T12:35:24.915617+00:00",
- "updated": "2026-11-24T12:35:25+00:00",
- "updated_at": "2026-11-24T12:35:25+00:00"
+ "email_stats_updated": "2026-11-24T12:44:59.294671+00:00",
+ "updated": "2026-11-24T12:45:00+00:00",
+ "updated_at": "2026-11-24T12:45:00+00:00"
 }
