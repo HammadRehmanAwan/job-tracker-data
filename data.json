@@ -1,6 +1,6 @@
 {
- "total": 3997,
- "portal": 3055,
+ "total": 3998,
+ "portal": 3056,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -572,7 +572,7 @@
   },
   {
    "date": "2026-11-24",
-   "portal": 39,
+   "portal": 40,
    "email": 0,
    "linkedin": 35
   }
@@ -1627,6 +1627,14 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4494149961/"
+  },
+  {
+   "company": "CrewAI",
+   "role": "Forward Deployed Engineer (London)",
+   "date": "2026-11-24",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/5C2D848112/apply"
   },
   {
    "company": "Crossing Hurdles",
@@ -32877,7 +32885,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T22:32:37.220271+00:00",
- "updated": "2026-11-24T22:32:38+00:00",
- "updated_at": "2026-11-24T22:32:38+00:00"
+ "email_stats_updated": "2026-11-24T22:48:13.693890+00:00",
+ "updated": "2026-11-24T22:48:15+00:00",
+ "updated_at": "2026-11-24T22:48:15+00:00"
 }
