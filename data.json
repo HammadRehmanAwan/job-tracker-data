@@ -1,8 +1,8 @@
 {
- "total": 3982,
+ "total": 3992,
  "portal": 3055,
  "email": 558,
- "linkedin": 369,
+ "linkedin": 379,
  "bounced_emails": 23,
  "confirmations": 2747,
  "rejections": 808,
@@ -574,7 +574,7 @@
    "date": "2026-11-24",
    "portal": 39,
    "email": 0,
-   "linkedin": 20
+   "linkedin": 30
   }
  ],
  "recent": [
@@ -1507,6 +1507,86 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/newsweek/jobs/4731797006"
+  },
+  {
+   "company": "IT Recruitment Solutions",
+   "role": "Forward Deployed Engineer \u2013 Full Stack & AI Agents",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494180642/"
+  },
+  {
+   "company": "Alexander Dennis",
+   "role": "Business Intelligence Analyst",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493659040/"
+  },
+  {
+   "company": "AJ Bell",
+   "role": "Digital Analytics Analyst",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492699052/"
+  },
+  {
+   "company": "Mindbench",
+   "role": "Data Analyst for Scaling Sports Company",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4482854876/"
+  },
+  {
+   "company": "VLink Inc",
+   "role": "Mid IT Support Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492438670/"
+  },
+  {
+   "company": "Abbeycomp | IT for Creative Agencies",
+   "role": "Information Technology Consultant",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494190984/"
+  },
+  {
+   "company": "Fynity",
+   "role": "Data Engineer | Python, PySpark & Big Data",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493040578/"
+  },
+  {
+   "company": "Opus Resourcing Ltd",
+   "role": "Python Software Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4494342360/"
+  },
+  {
+   "company": "Spait Infotech",
+   "role": "AI/ML Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4492805081/"
+  },
+  {
+   "company": "iProov",
+   "role": "Computer Vision Engineer",
+   "date": "2026-11-24",
+   "type": "linkedin",
+   "status": "submitted",
+   "link": "https://www.linkedin.com/jobs/view/4493007386/"
   },
   {
    "company": "Crossing Hurdles",
@@ -32757,7 +32837,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T20:17:16.820003+00:00",
- "updated": "2026-11-24T20:17:18+00:00",
- "updated_at": "2026-11-24T20:17:18+00:00"
+ "email_stats_updated": "2026-11-24T20:33:34.127130+00:00",
+ "updated": "2026-11-24T20:33:35+00:00",
+ "updated_at": "2026-11-24T20:33:35+00:00"
 }
