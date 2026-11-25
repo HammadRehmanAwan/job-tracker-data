@@ -1,11 +1,11 @@
 {
- "total": 4003,
- "portal": 3061,
+ "total": 4004,
+ "portal": 3062,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 813,
+ "rejections": 816,
  "positives": [
   {
    "company": "Curation",
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 5,
+   "portal": 6,
    "email": 0,
    "linkedin": 0
   }
@@ -623,6 +623,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/ecosio/jobs/4846495101"
+  },
+  {
+   "company": "Adecco ",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/service-desk-analyst/57610501"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -895,14 +903,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4493991850/"
-  },
-  {
-   "company": "13:55:21 TekSelect",
-   "role": "Artificial Intelligence Engineer",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492614748/"
   }
  ],
  "applications": [
@@ -1081,6 +1081,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/ecosio/jobs/4846495101"
+  },
+  {
+   "company": "Adecco ",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/service-desk-analyst/57610501"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -32931,7 +32939,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T09:46:55.641748+00:00",
- "updated": "2026-11-25T09:46:57+00:00",
- "updated_at": "2026-11-25T09:46:57+00:00"
+ "email_stats_updated": "2026-11-25T10:03:00.887779+00:00",
+ "updated": "2026-11-25T10:03:02+00:00",
+ "updated_at": "2026-11-25T10:03:02+00:00"
 }
