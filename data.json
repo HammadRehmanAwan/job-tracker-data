@@ -1,6 +1,6 @@
 {
- "total": 4031,
- "portal": 3089,
+ "total": 4035,
+ "portal": 3093,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 33,
+   "portal": 37,
    "email": 0,
    "linkedin": 0
   }
@@ -849,6 +849,38 @@
    "link": "https://www.reed.co.uk/jobs/1st-line-service-desk-engineer/57609004"
   },
   {
+   "company": "blitzy",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/blitzy/4f487357-948c-4441-a158-bb73e460e6b0"
+  },
+  {
+   "company": "Kevin Theobald Recruitment Agency",
+   "role": "Test Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/test-analyst/57613018"
+  },
+  {
+   "company": "Elevation Recruitment Group",
+   "role": "Business Systems Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-systems-analyst/57613070"
+  },
+  {
+   "company": "Tenth Revolution Group",
+   "role": "Data and Analytics Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-and-analytics-engineer/57612982"
+  },
+  {
    "company": "Hays Specialist Recruitment Limited",
    "role": "Observability & Automation Engineer",
    "date": "2026-11-24",
@@ -871,38 +903,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/data-engineer-microsoft-azure-microsoft-fabric-pyspark/57558538"
-  },
-  {
-   "company": "Hays Specialist Recruitment Limited",
-   "role": "Azure DevOps Engineer - Transport, Azure, Okta",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/azure-devops-engineer-transport-azure-okta/57480124"
-  },
-  {
-   "company": "Harnham - Data & Analytics Recruitment",
-   "role": "BI Analyst",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/bi-analyst/57603201"
-  },
-  {
-   "company": "Harnham - Data & Analytics Recruitment",
-   "role": "Data Analyst (Operations)",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-analyst-operations/57604077"
-  },
-  {
-   "company": "scaleai",
-   "role": "Machine Learning Fellow - Human Frontier Collective",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005"
   }
  ],
  "applications": [
@@ -1305,6 +1305,38 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/1st-line-service-desk-engineer/57609004"
+  },
+  {
+   "company": "blitzy",
+   "role": "Forward Deployed Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/blitzy/4f487357-948c-4441-a158-bb73e460e6b0"
+  },
+  {
+   "company": "Kevin Theobald Recruitment Agency",
+   "role": "Test Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/test-analyst/57613018"
+  },
+  {
+   "company": "Elevation Recruitment Group",
+   "role": "Business Systems Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-systems-analyst/57613070"
+  },
+  {
+   "company": "Tenth Revolution Group",
+   "role": "Data and Analytics Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-and-analytics-engineer/57612982"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33155,7 +33187,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T16:45:56.064728+00:00",
- "updated": "2026-11-25T16:45:57+00:00",
- "updated_at": "2026-11-25T16:45:57+00:00"
+ "email_stats_updated": "2026-11-25T17:04:01.836525+00:00",
+ "updated": "2026-11-25T17:04:03+00:00",
+ "updated_at": "2026-11-25T17:04:03+00:00"
 }
