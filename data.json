@@ -1,11 +1,11 @@
 {
- "total": 4018,
- "portal": 3076,
+ "total": 4024,
+ "portal": 3082,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 821,
+ "rejections": 822,
  "positives": [
   {
    "company": "Curation",
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 20,
+   "portal": 26,
    "email": 0,
    "linkedin": 0
   }
@@ -745,6 +745,54 @@
    "link": "https://www.reed.co.uk/jobs/1st-line-network-support-engineer-6-month-ftc/57611166"
   },
   {
+   "company": "krakentech",
+   "role": "Software Engineer II - Customer Entities",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/krakentech/f22fceb6-224d-4c53-aa3a-21109ab3adc0"
+  },
+  {
+   "company": "ariesglobal",
+   "role": "Aries - Forward Deployed Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ariesglobal/e8b0c0b4-ca02-4ee9-85f3-66c38d597474"
+  },
+  {
+   "company": "recycleye",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/recycleye/jobs/5011103101"
+  },
+  {
+   "company": "captify",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/captify/jobs/8958270002"
+  },
+  {
+   "company": "nexgencloud",
+   "role": "Deployment Engineer - Datacentre",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/nexgencloud/jobs/5044278101"
+  },
+  {
+   "company": "Sanderson ",
+   "role": "Platform Engineer, Private Cloud, VMware",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/platform-engineer-private-cloud-vmware/57611302"
+  },
+  {
    "company": "Hays Specialist Recruitment Limited",
    "role": "Observability & Automation Engineer",
    "date": "2026-11-24",
@@ -855,54 +903,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/business-analyst/57605988"
-  },
-  {
-   "company": "focusgroup",
-   "role": "Technical Support Advisor 1st Line",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://focusgroup.pinpointhq.com/en/postings/e6e34ddc-6143-4a95-9ad0-85debaeb454d"
-  },
-  {
-   "company": "Massenhove Recruitment Limited",
-   "role": "IT Support Engineer",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-engineer/57180224"
-  },
-  {
-   "company": "Joblogic",
-   "role": "Implementation Consultant ",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/joblogic/jobs/4905842101"
-  },
-  {
-   "company": "Box",
-   "role": "Associate Technical Consultant",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/boxinc/jobs/8401808"
-  },
-  {
-   "company": "Apogee Corporation ",
-   "role": "2nd Line Support Technician",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/2nd-line-support-technician/57606600"
-  },
-  {
-   "company": "Elevate Technology Group Ltd",
-   "role": "Data Engineer",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-engineer/57606699"
   }
  ],
  "applications": [
@@ -1201,6 +1201,54 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/1st-line-network-support-engineer-6-month-ftc/57611166"
+  },
+  {
+   "company": "krakentech",
+   "role": "Software Engineer II - Customer Entities",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/krakentech/f22fceb6-224d-4c53-aa3a-21109ab3adc0"
+  },
+  {
+   "company": "ariesglobal",
+   "role": "Aries - Forward Deployed Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/ariesglobal/e8b0c0b4-ca02-4ee9-85f3-66c38d597474"
+  },
+  {
+   "company": "recycleye",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/recycleye/jobs/5011103101"
+  },
+  {
+   "company": "captify",
+   "role": "Machine Learning Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/captify/jobs/8958270002"
+  },
+  {
+   "company": "nexgencloud",
+   "role": "Deployment Engineer - Datacentre",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/nexgencloud/jobs/5044278101"
+  },
+  {
+   "company": "Sanderson ",
+   "role": "Platform Engineer, Private Cloud, VMware",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/platform-engineer-private-cloud-vmware/57611302"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33051,7 +33099,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T11:43:10.098715+00:00",
- "updated": "2026-11-25T11:43:11+00:00",
- "updated_at": "2026-11-25T11:43:11+00:00"
+ "email_stats_updated": "2026-11-25T12:06:38.225624+00:00",
+ "updated": "2026-11-25T12:06:39+00:00",
+ "updated_at": "2026-11-25T12:06:39+00:00"
 }
