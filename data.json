@@ -1,6 +1,6 @@
 {
- "total": 4035,
- "portal": 3093,
+ "total": 4036,
+ "portal": 3094,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 37,
+   "portal": 38,
    "email": 0,
    "linkedin": 0
   }
@@ -881,6 +881,14 @@
    "link": "https://www.reed.co.uk/jobs/data-and-analytics-engineer/57612982"
   },
   {
+   "company": "Reed",
+   "role": "Software Support Engineer-Full Time Onsite-Inside IR35",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-support-engineer-full-time-onsite-inside-ir35/57613331"
+  },
+  {
    "company": "Hays Specialist Recruitment Limited",
    "role": "Observability & Automation Engineer",
    "date": "2026-11-24",
@@ -895,14 +903,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/agentic-ai-software-engineer/57581235"
-  },
-  {
-   "company": "Hays Specialist Recruitment Limited",
-   "role": "Data Engineer - Microsoft Azure, Microsoft Fabric, Pyspark",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-engineer-microsoft-azure-microsoft-fabric-pyspark/57558538"
   }
  ],
  "applications": [
@@ -1337,6 +1337,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/data-and-analytics-engineer/57612982"
+  },
+  {
+   "company": "Reed",
+   "role": "Software Support Engineer-Full Time Onsite-Inside IR35",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-support-engineer-full-time-onsite-inside-ir35/57613331"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33187,7 +33195,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T18:21:05.821449+00:00",
- "updated": "2026-11-25T18:21:07+00:00",
- "updated_at": "2026-11-25T18:21:07+00:00"
+ "email_stats_updated": "2026-11-25T18:30:57.176457+00:00",
+ "updated": "2026-11-25T18:30:59+00:00",
+ "updated_at": "2026-11-25T18:30:59+00:00"
 }
