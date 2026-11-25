@@ -1,11 +1,11 @@
 {
- "total": 4002,
- "portal": 3060,
+ "total": 4003,
+ "portal": 3061,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 810,
+ "rejections": 811,
  "positives": [
   {
    "company": "Curation",
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 4,
+   "portal": 5,
    "email": 0,
    "linkedin": 0
   }
@@ -615,6 +615,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/sourcedev/f93414ad-4596-4f96-bd1d-e49ff9c9d482"
+  },
+  {
+   "company": "ecosio",
+   "role": "Full Stack Developer - Java & React (f/m/d)",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/ecosio/jobs/4846495101"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -895,14 +903,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4492614748/"
-  },
-  {
-   "company": "13:57:17 Kaiyiee Global Talent",
-   "role": "AI Agent Engineer - Agentic Systems & Orchestration",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4493005038/"
   }
  ],
  "applications": [
@@ -1073,6 +1073,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/sourcedev/f93414ad-4596-4f96-bd1d-e49ff9c9d482"
+  },
+  {
+   "company": "ecosio",
+   "role": "Full Stack Developer - Java & React (f/m/d)",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/ecosio/jobs/4846495101"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -32923,7 +32931,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T08:50:01.120352+00:00",
- "updated": "2026-11-25T08:50:02+00:00",
- "updated_at": "2026-11-25T08:50:02+00:00"
+ "email_stats_updated": "2026-11-25T09:03:20.472639+00:00",
+ "updated": "2026-11-25T09:03:21+00:00",
+ "updated_at": "2026-11-25T09:03:21+00:00"
 }
