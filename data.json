@@ -1,11 +1,11 @@
 {
- "total": 4004,
- "portal": 3062,
+ "total": 4014,
+ "portal": 3072,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 819,
+ "rejections": 820,
  "positives": [
   {
    "company": "Curation",
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 6,
+   "portal": 16,
    "email": 0,
    "linkedin": 0
   }
@@ -631,6 +631,86 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/service-desk-analyst/57610501"
+  },
+  {
+   "company": "grafanalabs",
+   "role": "Commercial  Solutions Engineer | UK | Remote ",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/grafanalabs/jobs/6222338004"
+  },
+  {
+   "company": "mthree",
+   "role": "Production Engineer / SRE \u2013 Electronic Trading",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mthree/jobs/4732181006"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Junior AI Platform Tooling Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/junior-ai-platform-tooling-engineer/57610707"
+  },
+  {
+   "company": "Gotpeople",
+   "role": "2nd Line Support Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-support-analyst/57610791"
+  },
+  {
+   "company": "Adecco ",
+   "role": "3rd Line IT Support Technician- Production sector Preston",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-it-support-technician-production-sector-preston/57610849"
+  },
+  {
+   "company": "Lynx Recruitment Ltd",
+   "role": "AI/ML Research Consultant",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-ml-research-consultant/57610754"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "Trainee - IT Support Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/trainee-it-support-engineer/57610681"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "Trainee IT Support Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/trainee-it-support-engineer/57610680"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "IT Support Engineer: Assistant",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer-assistant/57610677"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "IT Support Engineer - Assistant",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer-assistant/57610676"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -823,86 +903,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4494145257/"
-  },
-  {
-   "company": "13:36:02 Noir",
-   "role": ".NET Developer - Cheltenham (Remote)",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4494143353/"
-  },
-  {
-   "company": "Wave Group",
-   "role": "Product Engineer (Python) AI Services",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492699225/"
-  },
-  {
-   "company": "13:37:23 DataCareers",
-   "role": "Machine Learning Engineer - Full Stack Development",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492612228/"
-  },
-  {
-   "company": "13:38:44 Brio Digital",
-   "role": "Artificial Intelligence Engineer",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4494117717/"
-  },
-  {
-   "company": "13:43:35 FIOR Group",
-   "role": "Junior Software Developer",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4493635643/"
-  },
-  {
-   "company": "13:45:54 Prolific",
-   "role": "Data Engineer",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4469125847/"
-  },
-  {
-   "company": "13:49:08 WeDo",
-   "role": "Technical Support Engineer",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492608886/"
-  },
-  {
-   "company": "13:50:35 Jobgether",
-   "role": "Data Analyst, Identification Accuracy",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4493786392/"
-  },
-  {
-   "company": "13:53:10 Initi8 Recruitment",
-   "role": "AI Solutions Engineer - London - Hybrid",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4492697997/"
-  },
-  {
-   "company": "13:54:02 E-Solutions",
-   "role": "AI/ML Engineer",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4493991850/"
   }
  ],
  "applications": [
@@ -1089,6 +1089,86 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/service-desk-analyst/57610501"
+  },
+  {
+   "company": "grafanalabs",
+   "role": "Commercial  Solutions Engineer | UK | Remote ",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/grafanalabs/jobs/6222338004"
+  },
+  {
+   "company": "mthree",
+   "role": "Production Engineer / SRE \u2013 Electronic Trading",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/mthree/jobs/4732181006"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Junior AI Platform Tooling Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/junior-ai-platform-tooling-engineer/57610707"
+  },
+  {
+   "company": "Gotpeople",
+   "role": "2nd Line Support Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/2nd-line-support-analyst/57610791"
+  },
+  {
+   "company": "Adecco ",
+   "role": "3rd Line IT Support Technician- Production sector Preston",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/3rd-line-it-support-technician-production-sector-preston/57610849"
+  },
+  {
+   "company": "Lynx Recruitment Ltd",
+   "role": "AI/ML Research Consultant",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/ai-ml-research-consultant/57610754"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "Trainee - IT Support Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/trainee-it-support-engineer/57610681"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "Trainee IT Support Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/trainee-it-support-engineer/57610680"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "IT Support Engineer: Assistant",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer-assistant/57610677"
+  },
+  {
+   "company": "Netcom Online Learning",
+   "role": "IT Support Engineer - Assistant",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-engineer-assistant/57610676"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -32939,7 +33019,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T10:34:50.033915+00:00",
- "updated": "2026-11-25T10:34:51+00:00",
- "updated_at": "2026-11-25T10:34:51+00:00"
+ "email_stats_updated": "2026-11-25T10:48:58.617434+00:00",
+ "updated": "2026-11-25T10:49:00+00:00",
+ "updated_at": "2026-11-25T10:49:00+00:00"
 }
