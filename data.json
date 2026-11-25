@@ -1,11 +1,11 @@
 {
- "total": 4025,
- "portal": 3083,
+ "total": 4028,
+ "portal": 3086,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 827,
+ "rejections": 828,
  "positives": [
   {
    "company": "Curation",
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 27,
+   "portal": 30,
    "email": 0,
    "linkedin": 0
   }
@@ -801,6 +801,30 @@
    "link": "https://apply.workable.com/j/334B678AA1/apply"
   },
   {
+   "company": "Yolk Recruitment Ltd",
+   "role": "Data Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57611973"
+  },
+  {
+   "company": "Career poster",
+   "role": "Tier 1 Technical Support Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/tier-1-technical-support-engineer/57612029"
+  },
+  {
+   "company": "Adecco ",
+   "role": "IT Support Technician",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-technician/57612120"
+  },
+  {
    "company": "Hays Specialist Recruitment Limited",
    "role": "Observability & Automation Engineer",
    "date": "2026-11-24",
@@ -879,30 +903,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/java-full-stack-developer-spring-boot/57605660"
-  },
-  {
-   "company": "Tate Milton Keynes",
-   "role": "Service Desk Analyst (First Line)",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/service-desk-analyst-first-line/57605349"
-  },
-  {
-   "company": "Randstad Technologies",
-   "role": "Agentic Automation Engineer",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/agentic-automation-engineer/57605407"
-  },
-  {
-   "company": "quberesearchandtechnologies",
-   "role": "Software Engineer \u2013 Risk",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623968002"
   }
  ],
  "applications": [
@@ -1257,6 +1257,30 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/334B678AA1/apply"
+  },
+  {
+   "company": "Yolk Recruitment Ltd",
+   "role": "Data Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57611973"
+  },
+  {
+   "company": "Career poster",
+   "role": "Tier 1 Technical Support Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/tier-1-technical-support-engineer/57612029"
+  },
+  {
+   "company": "Adecco ",
+   "role": "IT Support Technician",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-technician/57612120"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33107,7 +33131,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T14:29:14.754081+00:00",
- "updated": "2026-11-25T14:29:16+00:00",
- "updated_at": "2026-11-25T14:29:16+00:00"
+ "email_stats_updated": "2026-11-25T14:51:16.071007+00:00",
+ "updated": "2026-11-25T14:51:18+00:00",
+ "updated_at": "2026-11-25T14:51:18+00:00"
 }
