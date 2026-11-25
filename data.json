@@ -1,11 +1,11 @@
 {
- "total": 4015,
- "portal": 3073,
+ "total": 4017,
+ "portal": 3075,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 820,
+ "rejections": 821,
  "positives": [
   {
    "company": "Curation",
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 17,
+   "portal": 19,
    "email": 0,
    "linkedin": 0
   }
@@ -719,6 +719,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/globalrelay/jobs/6013903004"
+  },
+  {
+   "company": "xyz-reality",
+   "role": "AI Harness Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/xyz-reality/44f01104-04e5-47dc-bb1f-67f0b1d558d1"
+  },
+  {
+   "company": "Yapily",
+   "role": "Front End Developer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/1D1B6D8202/apply"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -887,22 +903,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/junior-data-engineer/57606721"
-  },
-  {
-   "company": "1TECH STAFFING LIMITED",
-   "role": "Software Developer",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/software-developer/57606854"
-  },
-  {
-   "company": "13:2x Valcon",
-   "role": "AI Engineer",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4481881983/"
   }
  ],
  "applications": [
@@ -1177,6 +1177,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/globalrelay/jobs/6013903004"
+  },
+  {
+   "company": "xyz-reality",
+   "role": "AI Harness Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/xyz-reality/44f01104-04e5-47dc-bb1f-67f0b1d558d1"
+  },
+  {
+   "company": "Yapily",
+   "role": "Front End Developer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/1D1B6D8202/apply"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33027,7 +33043,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T11:20:17.630334+00:00",
- "updated": "2026-11-25T11:20:19+00:00",
- "updated_at": "2026-11-25T11:20:19+00:00"
+ "email_stats_updated": "2026-11-25T11:27:26.688656+00:00",
+ "updated": "2026-11-25T11:27:28+00:00",
+ "updated_at": "2026-11-25T11:27:28+00:00"
 }
