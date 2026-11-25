@@ -1,6 +1,6 @@
 {
- "total": 4014,
- "portal": 3072,
+ "total": 4015,
+ "portal": 3073,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 16,
+   "portal": 17,
    "email": 0,
    "linkedin": 0
   }
@@ -711,6 +711,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-engineer-assistant/57610676"
+  },
+  {
+   "company": "Global Relay",
+   "role": "L1 Technical Support Specialist (SMB)",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/globalrelay/jobs/6013903004"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -895,14 +903,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4481881983/"
-  },
-  {
-   "company": "13:30 Noir",
-   "role": ".NET Developer (Remote Greater London)",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4494145257/"
   }
  ],
  "applications": [
@@ -1169,6 +1169,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-engineer-assistant/57610676"
+  },
+  {
+   "company": "Global Relay",
+   "role": "L1 Technical Support Specialist (SMB)",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/globalrelay/jobs/6013903004"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33019,7 +33027,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T10:48:58.617434+00:00",
- "updated": "2026-11-25T10:49:00+00:00",
- "updated_at": "2026-11-25T10:49:00+00:00"
+ "email_stats_updated": "2026-11-25T11:02:05.666622+00:00",
+ "updated": "2026-11-25T11:02:07+00:00",
+ "updated_at": "2026-11-25T11:02:07+00:00"
 }
