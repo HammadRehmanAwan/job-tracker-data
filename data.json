@@ -1,11 +1,11 @@
 {
- "total": 4028,
- "portal": 3086,
+ "total": 4029,
+ "portal": 3087,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 830,
+ "rejections": 831,
  "positives": [
   {
    "company": "Curation",
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 30,
+   "portal": 31,
    "email": 0,
    "linkedin": 0
   }
@@ -825,6 +825,14 @@
    "link": "https://www.reed.co.uk/jobs/it-support-technician/57612120"
   },
   {
+   "company": "deliveroo",
+   "role": "Software Engineer - Global Memberships Platform",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8416977"
+  },
+  {
    "company": "Hays Specialist Recruitment Limited",
    "role": "Observability & Automation Engineer",
    "date": "2026-11-24",
@@ -895,14 +903,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/reactivemarkets/cf98c22a-eae2-4558-a7d4-5779673168db"
-  },
-  {
-   "company": "Randstad Technologies",
-   "role": "Java Full Stack Developer (Spring Boot)",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/java-full-stack-developer-spring-boot/57605660"
   }
  ],
  "applications": [
@@ -1281,6 +1281,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-support-technician/57612120"
+  },
+  {
+   "company": "deliveroo",
+   "role": "Software Engineer - Global Memberships Platform",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8416977"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33131,7 +33139,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T15:14:25.062379+00:00",
- "updated": "2026-11-25T15:14:26+00:00",
- "updated_at": "2026-11-25T15:14:26+00:00"
+ "email_stats_updated": "2026-11-25T15:31:56.065462+00:00",
+ "updated": "2026-11-25T15:31:57+00:00",
+ "updated_at": "2026-11-25T15:31:57+00:00"
 }
