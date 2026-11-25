@@ -1,6 +1,6 @@
 {
- "total": 4030,
- "portal": 3088,
+ "total": 4031,
+ "portal": 3089,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 32,
+   "portal": 33,
    "email": 0,
    "linkedin": 0
   }
@@ -841,6 +841,14 @@
    "link": "https://job-boards.greenhouse.io/proton/jobs/5044422101"
   },
   {
+   "company": " Deerfoot Recruitment Solutions Ltd",
+   "role": "1st Line Service Desk Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/1st-line-service-desk-engineer/57609004"
+  },
+  {
    "company": "Hays Specialist Recruitment Limited",
    "role": "Observability & Automation Engineer",
    "date": "2026-11-24",
@@ -895,14 +903,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005"
-  },
-  {
-   "company": "Andy File Associates Limited",
-   "role": "AI & Automation Specialist",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/ai-automation-specialist/57605182"
   }
  ],
  "applications": [
@@ -1297,6 +1297,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/proton/jobs/5044422101"
+  },
+  {
+   "company": " Deerfoot Recruitment Solutions Ltd",
+   "role": "1st Line Service Desk Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/1st-line-service-desk-engineer/57609004"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33147,7 +33155,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T16:21:09.665973+00:00",
- "updated": "2026-11-25T16:21:11+00:00",
- "updated_at": "2026-11-25T16:21:11+00:00"
+ "email_stats_updated": "2026-11-25T16:36:02.079754+00:00",
+ "updated": "2026-11-25T16:36:03+00:00",
+ "updated_at": "2026-11-25T16:36:03+00:00"
 }
