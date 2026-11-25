@@ -1,6 +1,6 @@
 {
- "total": 4017,
- "portal": 3075,
+ "total": 4018,
+ "portal": 3076,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 19,
+   "portal": 20,
    "email": 0,
    "linkedin": 0
   }
@@ -735,6 +735,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/1D1B6D8202/apply"
+  },
+  {
+   "company": "Forward Role",
+   "role": "1st Line Network Support Engineer - 6 Month FTC",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/1st-line-network-support-engineer-6-month-ftc/57611166"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -895,14 +903,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/data-engineer/57606699"
-  },
-  {
-   "company": "Elevate Technology Group Ltd",
-   "role": "Junior Data Engineer",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/junior-data-engineer/57606721"
   }
  ],
  "applications": [
@@ -1193,6 +1193,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/1D1B6D8202/apply"
+  },
+  {
+   "company": "Forward Role",
+   "role": "1st Line Network Support Engineer - 6 Month FTC",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/1st-line-network-support-engineer-6-month-ftc/57611166"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33043,7 +33051,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T11:27:26.688656+00:00",
- "updated": "2026-11-25T11:27:28+00:00",
- "updated_at": "2026-11-25T11:27:28+00:00"
+ "email_stats_updated": "2026-11-25T11:43:10.098715+00:00",
+ "updated": "2026-11-25T11:43:11+00:00",
+ "updated_at": "2026-11-25T11:43:11+00:00"
 }
