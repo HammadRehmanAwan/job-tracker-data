@@ -1,6 +1,6 @@
 {
- "total": 3998,
- "portal": 3056,
+ "total": 4001,
+ "portal": 3059,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -575,9 +575,39 @@
    "portal": 40,
    "email": 0,
    "linkedin": 35
+  },
+  {
+   "date": "2026-11-25",
+   "portal": 3,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "IT Support Specialist",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-specialist/57606990"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/service-desk-analyst/57602475"
+  },
+  {
+   "company": "quberesearchandtechnologies",
+   "role": "Network SRE - Cloud",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8960471002"
+  },
   {
    "company": "Hays Specialist Recruitment Limited",
    "role": "Observability & Automation Engineer",
@@ -873,30 +903,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4493905544/"
-  },
-  {
-   "company": "13:59:38 Enigma",
-   "role": "Forward Deployed AI Engineer (Python/APIs/AWS/Docker/K8s, London hybrid)",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4494030876/"
-  },
-  {
-   "company": "14:00:47 twentyAI",
-   "role": "AI Engineer (TWE47994)",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4494143596/"
-  },
-  {
-   "company": "14:02:06 Rail Delivery Group",
-   "role": "Endpoint and Support Engineer - 6m FTC",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4493975017/"
   }
  ],
  "applications": [
@@ -1035,6 +1041,30 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "IT Support Specialist",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-specialist/57606990"
+  },
+  {
+   "company": "Hays Specialist Recruitment Limited",
+   "role": "Service Desk Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/service-desk-analyst/57602475"
+  },
+  {
+   "company": "quberesearchandtechnologies",
+   "role": "Network SRE - Cloud",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8960471002"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -32885,7 +32915,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-24T23:49:12.174372+00:00",
- "updated": "2026-11-24T23:49:13+00:00",
- "updated_at": "2026-11-24T23:49:13+00:00"
+ "email_stats_updated": "2026-11-25T00:03:38.848445+00:00",
+ "updated": "2026-11-25T00:03:40+00:00",
+ "updated_at": "2026-11-25T00:03:40+00:00"
 }
