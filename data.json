@@ -1,6 +1,6 @@
 {
- "total": 4038,
- "portal": 3096,
+ "total": 4039,
+ "portal": 3097,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 40,
+   "portal": 41,
    "email": 0,
    "linkedin": 0
   }
@@ -1361,6 +1361,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/jumptrading/jobs/8242766"
+  },
+  {
+   "company": "IMT Resourcing Solutions",
+   "role": "Business Intelligence Analyst",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/business-intelligence-analyst/57613550"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33211,7 +33219,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T21:48:10.138115+00:00",
- "updated": "2026-11-25T21:48:11+00:00",
- "updated_at": "2026-11-25T21:48:11+00:00"
+ "email_stats_updated": "2026-11-25T22:06:11.262959+00:00",
+ "updated": "2026-11-25T22:06:12+00:00",
+ "updated_at": "2026-11-25T22:06:12+00:00"
 }
