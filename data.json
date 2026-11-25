@@ -1,6 +1,6 @@
 {
- "total": 4001,
- "portal": 3059,
+ "total": 4002,
+ "portal": 3060,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 3,
+   "portal": 4,
    "email": 0,
    "linkedin": 0
   }
@@ -607,6 +607,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8960471002"
+  },
+  {
+   "company": "sourcedev",
+   "role": "Site Reliability Engineer ",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sourcedev/f93414ad-4596-4f96-bd1d-e49ff9c9d482"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -895,14 +903,6 @@
    "type": "linkedin",
    "status": "submitted",
    "link": "https://www.linkedin.com/jobs/view/4493005038/"
-  },
-  {
-   "company": "13:58:17 Goliath Partners",
-   "role": "Machine Learning Engineer (mid-level)",
-   "date": "2026-11-24",
-   "type": "linkedin",
-   "status": "submitted",
-   "link": "https://www.linkedin.com/jobs/view/4493905544/"
   }
  ],
  "applications": [
@@ -1065,6 +1065,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8960471002"
+  },
+  {
+   "company": "sourcedev",
+   "role": "Site Reliability Engineer ",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/sourcedev/f93414ad-4596-4f96-bd1d-e49ff9c9d482"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -32915,7 +32923,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T07:44:25.464138+00:00",
- "updated": "2026-11-25T07:44:26+00:00",
- "updated_at": "2026-11-25T07:44:27+00:00"
+ "email_stats_updated": "2026-11-25T07:59:49.372520+00:00",
+ "updated": "2026-11-25T07:59:50+00:00",
+ "updated_at": "2026-11-25T07:59:50+00:00"
 }
