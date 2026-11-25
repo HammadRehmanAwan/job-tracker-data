@@ -1,6 +1,6 @@
 {
- "total": 4029,
- "portal": 3087,
+ "total": 4030,
+ "portal": 3088,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -578,7 +578,7 @@
   },
   {
    "date": "2026-11-25",
-   "portal": 31,
+   "portal": 32,
    "email": 0,
    "linkedin": 0
   }
@@ -833,6 +833,14 @@
    "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8416977"
   },
   {
+   "company": "Proton",
+   "role": "Full Stack Product Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/proton/jobs/5044422101"
+  },
+  {
    "company": "Hays Specialist Recruitment Limited",
    "role": "Observability & Automation Engineer",
    "date": "2026-11-24",
@@ -895,14 +903,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/ai-automation-specialist/57605182"
-  },
-  {
-   "company": "reactivemarkets",
-   "role": "AI & Data Engineer",
-   "date": "2026-11-24",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/reactivemarkets/cf98c22a-eae2-4558-a7d4-5779673168db"
   }
  ],
  "applications": [
@@ -1289,6 +1289,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8416977"
+  },
+  {
+   "company": "Proton",
+   "role": "Full Stack Product Engineer",
+   "date": "2026-11-25",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/proton/jobs/5044422101"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33139,7 +33147,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-25T15:50:10.306971+00:00",
- "updated": "2026-11-25T15:50:17+00:00",
- "updated_at": "2026-11-25T15:50:17+00:00"
+ "email_stats_updated": "2026-11-25T16:07:18.724644+00:00",
+ "updated": "2026-11-25T16:07:32+00:00",
+ "updated_at": "2026-11-25T16:07:32+00:00"
 }
