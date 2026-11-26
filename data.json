@@ -1,6 +1,6 @@
 {
- "total": 4052,
- "portal": 3110,
+ "total": 4054,
+ "portal": 3112,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -584,7 +584,7 @@
   },
   {
    "date": "2026-11-26",
-   "portal": 13,
+   "portal": 15,
    "email": 0,
    "linkedin": 0
   }
@@ -693,6 +693,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-business-analyst/57615923"
+  },
+  {
+   "company": "indiciumai",
+   "role": "Forward Deployed AI Platform Engineer",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/indiciumai/jobs/4519479101"
+  },
+  {
+   "company": "Searchability",
+   "role": "Data Engineer",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57616607"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -893,22 +909,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/nexgencloud/jobs/5044278101"
-  },
-  {
-   "company": "Sanderson ",
-   "role": "Platform Engineer, Private Cloud, VMware",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/platform-engineer-private-cloud-vmware/57611302"
-  },
-  {
-   "company": "Indra Group UK & Ireland",
-   "role": "IT Support Engineer",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://apply.workable.com/j/334B678AA1/apply"
   }
  ],
  "applications": [
@@ -1151,6 +1151,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/it-business-analyst/57615923"
+  },
+  {
+   "company": "indiciumai",
+   "role": "Forward Deployed AI Platform Engineer",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/indiciumai/jobs/4519479101"
+  },
+  {
+   "company": "Searchability",
+   "role": "Data Engineer",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/data-engineer/57616607"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33329,7 +33345,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-26T15:16:41.132027+00:00",
- "updated": "2026-11-26T15:16:43+00:00",
- "updated_at": "2026-11-26T15:16:43+00:00"
+ "email_stats_updated": "2026-11-26T15:34:04.008330+00:00",
+ "updated": "2026-11-26T15:34:05+00:00",
+ "updated_at": "2026-11-26T15:34:05+00:00"
 }
