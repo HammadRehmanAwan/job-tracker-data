@@ -1,6 +1,6 @@
 {
- "total": 4041,
- "portal": 3099,
+ "total": 4043,
+ "portal": 3101,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -584,7 +584,7 @@
   },
   {
    "date": "2026-11-26",
-   "portal": 2,
+   "portal": 4,
    "email": 0,
    "linkedin": 0
   }
@@ -605,6 +605,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/wayve/47143127-7809-40d1-88b8-50c6424cdcec"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "GTM Engineer",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217639003"
+  },
+  {
+   "company": "Corriculo Ltd",
+   "role": "Software Developer, REST APIs, OAuth2, Python",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-developer-rest-apis-oauth2-python/57615020"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -893,22 +909,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/business-systems-analyst/57613070"
-  },
-  {
-   "company": "Tenth Revolution Group",
-   "role": "Data and Analytics Engineer",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-and-analytics-engineer/57612982"
-  },
-  {
-   "company": "Reed",
-   "role": "Software Support Engineer-Full Time Onsite-Inside IR35",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/software-support-engineer-full-time-onsite-inside-ir35/57613331"
   }
  ],
  "applications": [
@@ -1063,6 +1063,22 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/wayve/47143127-7809-40d1-88b8-50c6424cdcec"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "GTM Engineer",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217639003"
+  },
+  {
+   "company": "Corriculo Ltd",
+   "role": "Software Developer, REST APIs, OAuth2, Python",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/software-developer-rest-apis-oauth2-python/57615020"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33241,7 +33257,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-26T11:13:28.455944+00:00",
- "updated": "2026-11-26T11:13:29+00:00",
- "updated_at": "2026-11-26T11:13:29+00:00"
+ "email_stats_updated": "2026-11-26T11:27:22.805674+00:00",
+ "updated": "2026-11-26T11:27:24+00:00",
+ "updated_at": "2026-11-26T11:27:24+00:00"
 }
