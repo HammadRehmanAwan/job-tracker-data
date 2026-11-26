@@ -1,6 +1,6 @@
 {
- "total": 4055,
- "portal": 3113,
+ "total": 4056,
+ "portal": 3114,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -584,7 +584,7 @@
   },
   {
    "date": "2026-11-26",
-   "portal": 16,
+   "portal": 17,
    "email": 0,
    "linkedin": 0
   }
@@ -717,6 +717,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/artefact/jobs/8422392002"
+  },
+  {
+   "company": "Square Enix",
+   "role": "Go Developer - Contractor, 12 months",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/05B11A7384/apply"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -901,14 +909,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/recycleye/jobs/5011103101"
-  },
-  {
-   "company": "captify",
-   "role": "Machine Learning Engineer",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/captify/jobs/8958270002"
   }
  ],
  "applications": [
@@ -1175,6 +1175,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/artefact/jobs/8422392002"
+  },
+  {
+   "company": "Square Enix",
+   "role": "Go Developer - Contractor, 12 months",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://apply.workable.com/j/05B11A7384/apply"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33353,7 +33361,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-26T16:17:22.612957+00:00",
- "updated": "2026-11-26T16:17:23+00:00",
- "updated_at": "2026-11-26T16:17:24+00:00"
+ "email_stats_updated": "2026-11-26T16:28:57.667006+00:00",
+ "updated": "2026-11-26T16:28:59+00:00",
+ "updated_at": "2026-11-26T16:28:59+00:00"
 }
