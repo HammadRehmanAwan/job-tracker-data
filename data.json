@@ -1,6 +1,6 @@
 {
- "total": 4039,
- "portal": 3097,
+ "total": 4040,
+ "portal": 3098,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -581,9 +581,23 @@
    "portal": 41,
    "email": 0,
    "linkedin": 0
+  },
+  {
+   "date": "2026-11-26",
+   "portal": 1,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "First Achieve Ltd",
+   "role": "IT Support",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support/57614502"
+  },
   {
    "company": "Hays Specialist Recruitment Limited",
    "role": "IT Support Specialist",
@@ -895,14 +909,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/disguisetechnologiesltd/jobs/4876972101"
-  },
-  {
-   "company": "jumptrading",
-   "role": "C++ Software Engineer | Trading Team",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/jumptrading/jobs/8242766"
   }
  ],
  "applications": [
@@ -1041,6 +1047,14 @@
    "type": "email",
    "status": "sent",
    "link": ""
+  },
+  {
+   "company": "First Achieve Ltd",
+   "role": "IT Support",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support/57614502"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33219,7 +33233,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-26T09:16:43.945432+00:00",
- "updated": "2026-11-26T09:16:45+00:00",
- "updated_at": "2026-11-26T09:16:45+00:00"
+ "email_stats_updated": "2026-11-26T09:36:11.362818+00:00",
+ "updated": "2026-11-26T09:36:13+00:00",
+ "updated_at": "2026-11-26T09:36:13+00:00"
 }
