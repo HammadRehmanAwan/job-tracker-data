@@ -1,6 +1,6 @@
 {
- "total": 4056,
- "portal": 3114,
+ "total": 4057,
+ "portal": 3115,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -584,7 +584,7 @@
   },
   {
    "date": "2026-11-26",
-   "portal": 17,
+   "portal": 18,
    "email": 0,
    "linkedin": 0
   }
@@ -725,6 +725,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/05B11A7384/apply"
+  },
+  {
+   "company": "masabi",
+   "role": "AI Engineer (FTC)",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/masabi/f24e5f28-c300-489b-aac8-ea388805ebde"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -901,14 +909,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/ariesglobal/e8b0c0b4-ca02-4ee9-85f3-66c38d597474"
-  },
-  {
-   "company": "recycleye",
-   "role": "Machine Learning Engineer",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/recycleye/jobs/5011103101"
   }
  ],
  "applications": [
@@ -1183,6 +1183,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/05B11A7384/apply"
+  },
+  {
+   "company": "masabi",
+   "role": "AI Engineer (FTC)",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/masabi/f24e5f28-c300-489b-aac8-ea388805ebde"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33361,7 +33369,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-26T16:46:05.453359+00:00",
- "updated": "2026-11-26T16:46:06+00:00",
- "updated_at": "2026-11-26T16:46:06+00:00"
+ "email_stats_updated": "2026-11-26T17:03:43.558939+00:00",
+ "updated": "2026-11-26T17:03:44+00:00",
+ "updated_at": "2026-11-26T17:03:44+00:00"
 }
