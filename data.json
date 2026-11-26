@@ -1,11 +1,11 @@
 {
- "total": 4043,
- "portal": 3101,
+ "total": 4044,
+ "portal": 3102,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 843,
+ "rejections": 844,
  "positives": [
   {
    "company": "Curation",
@@ -584,7 +584,7 @@
   },
   {
    "date": "2026-11-26",
-   "portal": 4,
+   "portal": 5,
    "email": 0,
    "linkedin": 0
   }
@@ -621,6 +621,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/software-developer-rest-apis-oauth2-python/57615020"
+  },
+  {
+   "company": "Oscar Technology",
+   "role": "IT Support Technician",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-technician/57615131"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -901,14 +909,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/test-analyst/57613018"
-  },
-  {
-   "company": "Elevation Recruitment Group",
-   "role": "Business Systems Analyst",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/business-systems-analyst/57613070"
   }
  ],
  "applications": [
@@ -1079,6 +1079,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/software-developer-rest-apis-oauth2-python/57615020"
+  },
+  {
+   "company": "Oscar Technology",
+   "role": "IT Support Technician",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-support-technician/57615131"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33257,7 +33265,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-26T11:47:17.044070+00:00",
- "updated": "2026-11-26T11:47:18+00:00",
- "updated_at": "2026-11-26T11:47:18+00:00"
+ "email_stats_updated": "2026-11-26T12:07:00.602818+00:00",
+ "updated": "2026-11-26T12:07:02+00:00",
+ "updated_at": "2026-11-26T12:07:02+00:00"
 }
