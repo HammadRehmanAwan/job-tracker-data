@@ -1,11 +1,11 @@
 {
- "total": 4057,
- "portal": 3115,
+ "total": 4058,
+ "portal": 3116,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 860,
+ "rejections": 861,
  "positives": [
   {
    "company": "Curation",
@@ -584,7 +584,7 @@
   },
   {
    "date": "2026-11-26",
-   "portal": 18,
+   "portal": 19,
    "email": 0,
    "linkedin": 0
   }
@@ -733,6 +733,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/masabi/f24e5f28-c300-489b-aac8-ea388805ebde"
+  },
+  {
+   "company": "masabi",
+   "role": "Data Engineer, AI & Analytics (FTC)",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/masabi/2116054b-a9c9-482f-8ee2-84add76cefd0"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -901,14 +909,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/krakentech/f22fceb6-224d-4c53-aa3a-21109ab3adc0"
-  },
-  {
-   "company": "ariesglobal",
-   "role": "Aries - Forward Deployed Engineer",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/ariesglobal/e8b0c0b4-ca02-4ee9-85f3-66c38d597474"
   }
  ],
  "applications": [
@@ -1191,6 +1191,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/masabi/f24e5f28-c300-489b-aac8-ea388805ebde"
+  },
+  {
+   "company": "masabi",
+   "role": "Data Engineer, AI & Analytics (FTC)",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://jobs.ashbyhq.com/masabi/2116054b-a9c9-482f-8ee2-84add76cefd0"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33369,7 +33377,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-26T17:28:57.427373+00:00",
- "updated": "2026-11-26T17:28:58+00:00",
- "updated_at": "2026-11-26T17:28:58+00:00"
+ "email_stats_updated": "2026-11-26T17:47:29.567938+00:00",
+ "updated": "2026-11-26T17:47:31+00:00",
+ "updated_at": "2026-11-26T17:47:31+00:00"
 }
