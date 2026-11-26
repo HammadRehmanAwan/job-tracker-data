@@ -1,11 +1,11 @@
 {
- "total": 4045,
- "portal": 3103,
+ "total": 4052,
+ "portal": 3110,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 853,
+ "rejections": 854,
  "positives": [
   {
    "company": "Curation",
@@ -584,7 +584,7 @@
   },
   {
    "date": "2026-11-26",
-   "portal": 6,
+   "portal": 13,
    "email": 0,
    "linkedin": 0
   }
@@ -637,6 +637,62 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/plasma/56b7608e-c2e4-40d3-93ed-05dc27749626"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "AI Implementation",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217889003"
+  },
+  {
+   "company": "hrtechx",
+   "role": "AI Implementation",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8217891003"
+  },
+  {
+   "company": "privateequityinsights",
+   "role": "AI Implementation Consultant",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217896003"
+  },
+  {
+   "company": "privateequityinsights",
+   "role": "AI Implementation",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217888003"
+  },
+  {
+   "company": "unitedmedia",
+   "role": "AI Implementation",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217890003"
+  },
+  {
+   "company": "unitedmedia",
+   "role": "AI Implementation Consultant",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217898003"
+  },
+  {
+   "company": "Connect Recruitment Consultants Ltd.",
+   "role": "IT Business Analyst",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-business-analyst/57615923"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -853,62 +909,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/334B678AA1/apply"
-  },
-  {
-   "company": "Yolk Recruitment Ltd",
-   "role": "Data Engineer",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/data-engineer/57611973"
-  },
-  {
-   "company": "Career poster",
-   "role": "Tier 1 Technical Support Engineer",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/tier-1-technical-support-engineer/57612029"
-  },
-  {
-   "company": "Adecco ",
-   "role": "IT Support Technician",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/it-support-technician/57612120"
-  },
-  {
-   "company": "deliveroo",
-   "role": "Software Engineer - Global Memberships Platform",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8416977"
-  },
-  {
-   "company": "Proton",
-   "role": "Full Stack Product Engineer",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/proton/jobs/5044422101"
-  },
-  {
-   "company": " Deerfoot Recruitment Solutions Ltd",
-   "role": "1st Line Service Desk Engineer",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/1st-line-service-desk-engineer/57609004"
-  },
-  {
-   "company": "blitzy",
-   "role": "Forward Deployed Engineer",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://jobs.ashbyhq.com/blitzy/4f487357-948c-4441-a158-bb73e460e6b0"
   }
  ],
  "applications": [
@@ -1095,6 +1095,62 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://jobs.ashbyhq.com/plasma/56b7608e-c2e4-40d3-93ed-05dc27749626"
+  },
+  {
+   "company": "cfoinsights",
+   "role": "AI Implementation",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217889003"
+  },
+  {
+   "company": "hrtechx",
+   "role": "AI Implementation",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/hrtechx/jobs/8217891003"
+  },
+  {
+   "company": "privateequityinsights",
+   "role": "AI Implementation Consultant",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217896003"
+  },
+  {
+   "company": "privateequityinsights",
+   "role": "AI Implementation",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217888003"
+  },
+  {
+   "company": "unitedmedia",
+   "role": "AI Implementation",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217890003"
+  },
+  {
+   "company": "unitedmedia",
+   "role": "AI Implementation Consultant",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217898003"
+  },
+  {
+   "company": "Connect Recruitment Consultants Ltd.",
+   "role": "IT Business Analyst",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://www.reed.co.uk/jobs/it-business-analyst/57615923"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33273,7 +33329,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-26T14:15:42.914970+00:00",
- "updated": "2026-11-26T14:15:44+00:00",
- "updated_at": "2026-11-26T14:15:44+00:00"
+ "email_stats_updated": "2026-11-26T14:29:40.477174+00:00",
+ "updated": "2026-11-26T14:29:41+00:00",
+ "updated_at": "2026-11-26T14:29:41+00:00"
 }
