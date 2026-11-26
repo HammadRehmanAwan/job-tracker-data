@@ -1,11 +1,11 @@
 {
- "total": 4054,
- "portal": 3112,
+ "total": 4055,
+ "portal": 3113,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
  "confirmations": 2747,
- "rejections": 858,
+ "rejections": 859,
  "positives": [
   {
    "company": "Curation",
@@ -584,7 +584,7 @@
   },
   {
    "date": "2026-11-26",
-   "portal": 15,
+   "portal": 16,
    "email": 0,
    "linkedin": 0
   }
@@ -709,6 +709,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/data-engineer/57616607"
+  },
+  {
+   "company": "artefact",
+   "role": "AI Context Engineer ",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/artefact/jobs/8422392002"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -901,14 +909,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://job-boards.greenhouse.io/captify/jobs/8958270002"
-  },
-  {
-   "company": "nexgencloud",
-   "role": "Deployment Engineer - Datacentre",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://job-boards.greenhouse.io/nexgencloud/jobs/5044278101"
   }
  ],
  "applications": [
@@ -1167,6 +1167,14 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://www.reed.co.uk/jobs/data-engineer/57616607"
+  },
+  {
+   "company": "artefact",
+   "role": "AI Context Engineer ",
+   "date": "2026-11-26",
+   "type": "portal",
+   "status": "submitted",
+   "link": "https://job-boards.greenhouse.io/artefact/jobs/8422392002"
   },
   {
    "company": "Hays Specialist Recruitment Limited",
@@ -33345,7 +33353,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-26T16:01:29.696705+00:00",
- "updated": "2026-11-26T16:01:31+00:00",
- "updated_at": "2026-11-26T16:01:31+00:00"
+ "email_stats_updated": "2026-11-26T16:17:22.612957+00:00",
+ "updated": "2026-11-26T16:17:23+00:00",
+ "updated_at": "2026-11-26T16:17:24+00:00"
 }
