@@ -1,6 +1,6 @@
 {
- "total": 4059,
- "portal": 3117,
+ "total": 4060,
+ "portal": 3118,
  "email": 558,
  "linkedin": 384,
  "bounced_emails": 23,
@@ -587,9 +587,23 @@
    "portal": 20,
    "email": 0,
    "linkedin": 0
+  },
+  {
+   "date": "2026-11-27",
+   "portal": 1,
+   "email": 0,
+   "linkedin": 0
   }
  ],
  "recent": [
+  {
+   "company": "Aon",
+   "role": "Graduate Programme 2027 - Catastrophe Modelling",
+   "date": "2026-11-27",
+   "type": "portal",
+   "status": "submitted",
+   "link": ""
+  },
   {
    "company": "First Achieve Ltd",
    "role": "IT Support",
@@ -901,14 +915,6 @@
    "type": "portal",
    "status": "submitted",
    "link": "https://apply.workable.com/j/1D1B6D8202/apply"
-  },
-  {
-   "company": "Forward Role",
-   "role": "1st Line Network Support Engineer - 6 Month FTC",
-   "date": "2026-11-25",
-   "type": "portal",
-   "status": "submitted",
-   "link": "https://www.reed.co.uk/jobs/1st-line-network-support-engineer-6-month-ftc/57611166"
   }
  ],
  "applications": [
@@ -1046,6 +1052,14 @@
    "date": "earlier",
    "type": "email",
    "status": "sent",
+   "link": ""
+  },
+  {
+   "company": "Aon",
+   "role": "Graduate Programme 2027 - Catastrophe Modelling",
+   "date": "2026-11-27",
+   "type": "portal",
+   "status": "submitted",
    "link": ""
   },
   {
@@ -33385,7 +33399,7 @@
    "link": ""
   }
  ],
- "email_stats_updated": "2026-11-27T17:32:50.836300+00:00",
- "updated": "2026-11-27T17:32:52+00:00",
- "updated_at": "2026-11-27T17:32:52+00:00"
+ "email_stats_updated": "2026-11-27T17:43:06.999679+00:00",
+ "updated": "2026-11-27T17:43:08+00:00",
+ "updated_at": "2026-11-27T17:43:08+00:00"
 }
